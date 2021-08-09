@@ -1,0 +1,1 @@
+{"command_timeout":5,"template_folder":"Templates","templates_pairs":[["{{test}}","echo ${{\"HELLO\"}}"],["{{today}}","date"]],"trigger_on_file_creation":true,"enable_system_commands":true,"shell_path":"/bin/bash"}

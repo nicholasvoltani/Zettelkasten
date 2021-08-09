@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "7d0ec8d9c696a05f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5850a8e86c53f57d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Filosofia/Marx/M&E ─ Divisão entre trabalho material e espiritual.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12a31608c6f189d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "fca8f1de17fff193",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d83725cdf392c18",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3983738570e5e59",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5fbe2dc95399db68",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 193
+  },
+  "right": {
+    "id": "eace1de1654574fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a7126c417919081",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a52b74ac280acae5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Filosofia/Marx/M&E ─ Divisão entre trabalho material e espiritual.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b13fe0d38eddceb6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "5850a8e86c53f57d",
+  "lastOpenFiles": [
+    "Filosofia/Marx/M&E ─ Divisão entre trabalho material e espiritual.md",
+    "Filosofia/Marx/M&E ─ Contradições oriundas da divisão material-espiritual do trabalho.md",
+    "Filosofia/Marx/M&E ─ Surgimento da alienação.md",
+    "Filosofia/Marx/M&E ─ Contradição entre interesses individuais e coletivos.md",
+    "Filosofia/Marx/M&E ─ Consciência como produto social.md",
+    "Filosofia/Marx/M&E ─ Caracterização das ideologias idealistas.md",
+    "Filosofia/Marx/M ─ Definição de Mercadoria.md",
+    "Filosofia/Marx/M ─ Valor de Troca.md",
+    "Filosofia/Marx/M ─ Valor de Uso.md",
+    "Filosofia/Marx/MOC Marxism.md"
+  ]
+}
