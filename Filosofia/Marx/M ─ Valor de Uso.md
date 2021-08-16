@@ -20,4 +20,4 @@ Porém, é algo que é "multiplicado" pela sua **quantidade**: $20$ metros de li
 
 ---
 ### References
-- [[O Capital]]
+- [[O Capital, Livro 1]]

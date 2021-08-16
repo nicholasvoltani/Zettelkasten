@@ -17,4 +17,4 @@ Tal quantidade é, então, chamada de **[[M ─ Valor|valor]]**, e ela quantific
 
 ---
 ### References
-- [[O Capital]]
+- [[O Capital, Livro 1]]
