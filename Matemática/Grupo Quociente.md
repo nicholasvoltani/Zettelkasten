@@ -3,7 +3,7 @@ Date: Sunday, 15-08-2021 @ 23:34
 Tags:
 ---
 # Definição de Grupo Quociente
-Dado um grupo $G$ e um [[subgrupo normal]] $N \trianglelefteq G$, definimos o grupo quociente como 
+Dado um grupo $G$ e um [[Subgrupo Normal]] $N \trianglelefteq G$, definimos o grupo quociente como 
 $$G/N \equiv \{gN \mid g \in G\}$$
 o conjunto dos cosets (à esquerda) de $N$. 
 
