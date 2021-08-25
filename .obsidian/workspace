@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Morin ─ Operador Dialógico.md",
-            "mode": "preview"
+            "file": "Sintaxe de Lógica de Primeira Ordem.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Morin ─ Operador Dialógico.md",
+                "file": "Sintaxe de Lógica de Primeira Ordem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
   },
   "active": "2d39e49bc12794e1",
   "lastOpenFiles": [
+    "Sintaxe de Lógica de Primeira Ordem.md",
+    "Lógica de Primeira Ordem.md",
+    "Untitled.md",
     "Morin ─ Operador Dialógico.md",
     "Morin ─ Operador Hologramático.md",
     "Morin ─ Operadores Cognitivos de Pensamento Complexo.md",
     "Morin ─ Circularidade.md",
     "Operador Dialógico.md",
     "Morin ─ Autoprodução.md",
-    "Autoprodução.md",
-    "Operadores Cognitivos de Pensamento Complexo.md",
-    "Circularidade.md",
-    "Untitled.md"
+    "Autoprodução.md"
   ]
 }
