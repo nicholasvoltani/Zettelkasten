@@ -5,10 +5,9 @@ Tags:
 # Lógica de Primeira Ordem
 A lógica de primeira ordem (LPO) é uma linguagem lógica que possui
 - [[Sintaxe de Lógica de Primeira Ordem|sintaxe]];
-- semântica;
-- pragmatismo.
+- [[Semântica de Lógica de Primeira Ordem|semântica]];
+- [[Pragmatismo de Lógica de Primeira Ordem|pragmatismo]].
 
-## Semântica
 
 ---
 ### References

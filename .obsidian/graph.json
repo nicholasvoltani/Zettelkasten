@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 0
       }
+    },
+    {
+      "query": "path:Matemática",
+      "color": {
+        "a": 1,
+        "rgb": 16114949
+      }
     }
   ],
   "collapse-display": true,
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.45470071713247306,
-  "close": true
+  "scale": 0.4618943686808479,
+  "close": false
 }
