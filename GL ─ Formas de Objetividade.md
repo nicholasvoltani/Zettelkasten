@@ -16,4 +16,4 @@ Somente é possível quebrar com tais ilusões a nós impostas através do méto
 
 ---
 ### Referências
-- Lukács, G. **História e Consciência de Classe**. Martins Fontes, 2003. 
+- Lukács, G. **O que é marxismo ortodoxo?**. In: **História e Consciência de Classe**. Martins Fontes, 2003. 
