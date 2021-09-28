@@ -12,7 +12,7 @@ Um exemplo de tal forma de objetividade é a própria forma que o capitalismo im
 
 Somente é possível quebrar com tais ilusões a nós impostas através do método dialético, i.e., vendo a ação recíproca entre a parte e o todo dialético que compõem a sociedade (e, no processo, quebrando a cisão sujeito-objeto). 
 
-> "Por isso, o método dialético, ao mesmo tempo em que **rompe o véu da eternidade das categorias**, deve também romper seu **caráter reificado** para abrir conhecimento ao conhecimento da realidade." (p. 87)
+> "Por isso, o método dialético, ao mesmo tempo em que **rompe o véu da eternidade das categorias**, deve também romper seu **caráter reificado** para abrir caminho ao conhecimento da realidade." (p. 87)
 
 ---
 ### Referências

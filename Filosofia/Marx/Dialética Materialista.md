@@ -3,7 +3,7 @@ Date: Thursday, 02-09-2021 @ 20:38
 Tags:
 ---
 # O que é dialética materialista
-É a [[Dialética|dialética]] de Hegel "desvirada ao avesso", o "cerne racional dentro do invólucro místico" desenterrado por Marx e Engels. 
+É a [[Hegel ─ Dialética|dialética]] de Hegel "desvirada ao avesso", o "cerne racional dentro do invólucro místico" desenterrado por Marx e Engels. 
 
 Baseia-se na ideia de que a **realidade material existe de maneira independente ao pensamento**. O pensamento é não mais que o material "transposto e traduzido na cabeça dos homens". 
 

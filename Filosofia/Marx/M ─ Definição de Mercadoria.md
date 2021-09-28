@@ -14,7 +14,7 @@ Podem existir valores de uso que não sejam valor: valores de uso que são produ
 > "Quem, por meio de seu produto, satisfaz **sua própria necessidade**, cria certamente valor de uso, mas não **mercadoria**." (Livro I ─ O Capital, p. 119)
 
 ## Dialética entre valor de uso e valor
-Porém, não podem existir valor sem um valor de uso, pois se tal coisa for inútil, também o é tal trabalho que a criou, e portanto nem é considerado como "trabalho". Daqui já se entrevê a [[dialética]] entre valor de uso e valor, que redundará na dialética-mor entre força de trabalho e capital! 
+Porém, não podem existir valor sem um valor de uso, pois se tal coisa for inútil, também o é tal trabalho que a criou, e portanto nem é considerado como "trabalho". Daqui já se entrevê a [[Hegel ─ Dialética]] entre valor de uso e valor, que redundará na dialética-mor entre força de trabalho e capital! 
 
 ---
 ### References
