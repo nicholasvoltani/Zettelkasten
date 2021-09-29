@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2d39e49bc12794e1",
+        "id": "4745b9544e7bdc01",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Filosofia/Hegel/Hegel ─ Dialética.md",
+            "file": "Filosofia/Marx/GL ─ Totalidade Concreta.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Filosofia/Hegel/Hegel ─ Dialética.md",
+                "file": "Filosofia/Marx/GL ─ Totalidade Concreta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +105,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2d39e49bc12794e1",
+  "active": "4745b9544e7bdc01",
   "lastOpenFiles": [
-    "Filosofia/Hegel/Hegel ─ Dialética.md",
-    "Filosofia/Hegel/Consciência segundo Hegel.md",
-    "Dialética.md",
-    "Filosofia/Marx/GL ─ Nenhum dado é factum brutum.md",
+    "Filosofia/Marx/GL ─ Totalidade Concreta.md",
     "Filosofia/Marx/GL ─ Formas de Objetividade.md",
-    "Dialética Materialista.md",
-    "Prioridade da Sobrevivência Material.md",
-    "relação dialética.md",
-    "GL ─ Nenhum dado é factum brutum.md",
-    "GL ─ Formas de Objetividade.md"
+    "M ─ Fetichismo.md",
+    "GL ─ Totalidade Concreta.md",
+    "Untitled.md",
+    "GL ─ Primeiro passo de um estudo realmente científico.md",
+    "Filosofia/Marx/GL ─ Nenhum dado é factum brutum.md",
+    "Filosofia/Marx/Dialética Materialista.md",
+    "Filosofia/Hegel/Hegel ─ Dialética.md",
+    "Filosofia/Hegel/Consciência segundo Hegel.md"
   ]
 }
