@@ -10,5 +10,5 @@ A lógica de primeira ordem (LPO) é uma linguagem lógica que possui
 
 
 ---
-### References
+### Referências
 - BRACHMAN, Ronald J.; LEVESQUE, Hector J.; REITER, Raymond (Ed.). **Knowledge representation**. MIT press, 1992.

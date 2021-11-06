@@ -2,5 +2,6 @@
   "templater-obsidian",
   "obsidian-git",
   "obsidian-latex-environments",
-  "obsidian-latex"
+  "obsidian-latex",
+  "sliding-panes-obsidian"
 ]

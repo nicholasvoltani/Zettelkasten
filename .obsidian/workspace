@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4745b9544e7bdc01",
+        "id": "e7d829e1ec99fec2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Filosofia/Marx/M&E ─ Surgimento da alienação.md",
+            "file": "Matemática/Processo Logicamente Completo.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Filosofia/Marx/M&E ─ Surgimento da alienação.md",
+                "file": "Matemática/Processo Logicamente Completo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +105,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4745b9544e7bdc01",
+  "active": "e7d829e1ec99fec2",
   "lastOpenFiles": [
-    "Filosofia/Marx/M&E ─ Surgimento da alienação.md",
-    "Filosofia/Marx/GL ─ Nenhum dado é factum brutum.md",
-    "Filosofia/Marx/GL ─ Formas de Objetividade.md",
-    "Filosofia/Marx/GL ─ Totalidade Concreta.md",
-    "Filosofia/Marx/M ─ Caráter duplo do trabalho.md",
-    "Filosofia/Marx/GL ─ Características de um estudo realmente científico.md",
-    "Filosofia/Marx/M&E ─ Superação da alienação.md",
-    "M ─ Fetichismo.md",
-    "GL ─ Totalidade Concreta.md",
-    "Untitled.md"
+    "Matemática/Processo Logicamente Completo.md",
+    "Processo Logicamente Completo.md",
+    "Matemática/Hipótese de Representação de Conhecimento.md",
+    "Untitled.md",
+    "Matemática/Lógica de Primeira Ordem.md",
+    "Matemática/Consequência Lógica em LPO.md",
+    "Matemática/Pragmatismo de Lógica de Primeira Ordem.md",
+    "Pragmatismo de Lógica de Primeira Ordem.md",
+    "Matemática/Interpretação em Lógica de Primeira Ordem.md",
+    "Matemática/Semântica de Lógica de Primeira Ordem.md"
   ]
 }
