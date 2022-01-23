@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Matemática/Processo Logicamente Completo.md",
-            "mode": "source"
+            "file": "Filosofia/Marx/Aula 2 ─ Método de Marx e Engels (Claus Germer).md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "0e96143d9e422428",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Filosofia/Marx/Aula 1 ─ Método de Marx e Engels (Claus Germer).md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matemática/Processo Logicamente Completo.md",
+                "file": "Filosofia/Marx/Aula 2 ─ Método de Marx e Engels (Claus Germer).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +118,15 @@
   },
   "active": "e7d829e1ec99fec2",
   "lastOpenFiles": [
+    "Filosofia/Marx/Aula 2 ─ Método de Marx e Engels (Claus Germer).md",
+    "Filosofia/Marx/Aula 1 ─ Método de Marx e Engels (Claus Germer).md",
+    "202106041621 Sobre a consciência.md",
+    "Matemática/Semântica de Lógica de Primeira Ordem.md",
+    "Matemática/Sintaxe de Lógica de Primeira Ordem.md",
+    "Matemática/Lógica de Primeira Ordem.md",
     "Matemática/Processo Logicamente Completo.md",
     "Processo Logicamente Completo.md",
     "Matemática/Hipótese de Representação de Conhecimento.md",
-    "Untitled.md",
-    "Matemática/Lógica de Primeira Ordem.md",
-    "Matemática/Consequência Lógica em LPO.md",
-    "Matemática/Pragmatismo de Lógica de Primeira Ordem.md",
-    "Pragmatismo de Lógica de Primeira Ordem.md",
-    "Matemática/Interpretação em Lógica de Primeira Ordem.md",
-    "Matemática/Semântica de Lógica de Primeira Ordem.md"
+    "Untitled.md"
   ]
 }
