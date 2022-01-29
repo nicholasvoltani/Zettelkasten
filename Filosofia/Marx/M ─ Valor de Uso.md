@@ -20,4 +20,4 @@ Porém, é algo que é "multiplicado" pela sua **quantidade**: $20$ metros de li
 
 ---
 ### References
-- [[O Capital, Livro 1]]
+- MARX, Karl. **O capital-Livro 1: Crítica da economia política. Livro 1: O processo de produção do capital**. Boitempo Editorial, 2013.

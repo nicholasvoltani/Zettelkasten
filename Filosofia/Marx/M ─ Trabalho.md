@@ -12,4 +12,4 @@ Note-se que tal manipulação da natureza, sendo sempre [[202108102122 Pensament
 
 ---
 ### References
-- [[O Capital, Livro 1]]
+- MARX, Karl. **O capital-Livro 1: Crítica da economia política. Livro 1: O processo de produção do capital**. Boitempo Editorial, 2013.

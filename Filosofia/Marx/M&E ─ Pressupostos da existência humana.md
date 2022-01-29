@@ -14,4 +14,4 @@ Também pode-se adicionar a estes o aspecto de **cooperação**: não só mais d
 
 ---
 ### References
-- [[A Ideologia Alemã]]
+- MARX, Karl; ENGELS, Friedrich. **A ideologia alemã**. Boitempo Editorial, 2015.

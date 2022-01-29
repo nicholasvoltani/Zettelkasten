@@ -22,4 +22,4 @@ Em geral, quando se pensa em divisão do trabalho, pensa-se em produtores de mer
 
 ---
 ### References
-- [[A Ideologia Alemã]]
+- MARX, Karl; ENGELS, Friedrich. **A ideologia alemã**. Boitempo Editorial, 2015.

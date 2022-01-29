@@ -12,4 +12,4 @@ Aqui surge uma distinção entre o materialismo de Marx e Engels do idealismo de
 
 ---
 ### References
-- [[A Ideologia Alemã]]
+- MARX, Karl; ENGELS, Friedrich. **A ideologia alemã**. Boitempo Editorial, 2015.

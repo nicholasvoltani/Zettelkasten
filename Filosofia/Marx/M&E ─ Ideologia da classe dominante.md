@@ -12,4 +12,4 @@ Um exemplo: numa nação onde o poder monárquico, a aristocracia e a burguesia 
 
 ---
 ### References
-- [[A Ideologia Alemã]]
+- MARX, Karl; ENGELS, Friedrich. **A ideologia alemã**. Boitempo Editorial, 2015.

@@ -15,4 +15,4 @@ Essa visão do surgimento da linguagem assemelha-se muito com o [[Processo de Co
 
 ---
 ### References
-- [[A Ideologia Alemã]]
+- MARX, Karl; ENGELS, Friedrich. **A ideologia alemã**. Boitempo Editorial, 2015.

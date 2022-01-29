@@ -12,4 +12,4 @@ N'[[A Ideologia Alemã]], Marx e Engels elaboram que são necessários três pre
 
 ---
 ### References
-- [[A Ideologia Alemã]]
+- MARX, Karl; ENGELS, Friedrich. **A ideologia alemã**. Boitempo Editorial, 2015.

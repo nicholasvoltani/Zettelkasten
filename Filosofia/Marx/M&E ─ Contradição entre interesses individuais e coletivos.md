@@ -9,4 +9,4 @@ Através da divisão do trabalho, a força produtiva *multiplicada*, oriunda da 
 
 ---
 ### References
-- [[A Ideologia Alemã]]
+- MARX, Karl; ENGELS, Friedrich. **A ideologia alemã**. Boitempo Editorial, 2015.

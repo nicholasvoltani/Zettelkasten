@@ -3,7 +3,7 @@ Date: Monday, 21-06-2021 @ 19:56
 Tags:
 ---
 # Como o capitalismo transforma seus obstáculos em material para sua própria formação
-> "Capital colonizes the very sites of **inhibition** [to itself], or creates new commodity circuits to **go around them**." (KOVEL, Joel. The enemy of nature. **Monthly Review**, v. 49, n. 6, p. 6-15, 1997.)
+> "Capital colonizes the very sites of **inhibition** [to itself], or creates new commodity circuits to **go around them**." (KOVEL, Joel. The enemy of nature.)
 
 Ou seja, o capital consegue "transformar" seus obstáculos em material para sua própria elaboração, em uma perversa analogia a como Hegel define que a [[A razão segundo Hegel|razão]] é "a matéria que ela dá a elaborar à sua própria atividade". 
 
@@ -11,5 +11,5 @@ Invés de resolver o aquecimento global diretamente (ao cobrar diretamente às g
 
 ---
 ### References
-- [[The enemy of nature]]
-- [[A razão na História]]
+- KOVEL, Joel. **The enemy of nature**. Monthly Review, v. 49, n. 6, p. 6-15, 1997.
+- HEGEL, G. W. F. **A razão na história**. Lisboa: Edições 70, 1995.

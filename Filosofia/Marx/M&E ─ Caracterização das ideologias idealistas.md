@@ -13,4 +13,4 @@ Para se demonstrar a **supremacia do *espírito* na história**, as filosofias i
 
 ---
 ### References
-- [[A Ideologia Alemã]]
+- MARX, Karl; ENGELS, Friedrich. **A ideologia alemã**. Boitempo Editorial, 2015.

@@ -10,4 +10,4 @@ Um exemplo é o da divisão rígida de trabalho, onde os papeis de cada indivíd
 
 ---
 ### References
-- [[A Ideologia Alemã]]
+- MARX, Karl; ENGELS, Friedrich. **A ideologia alemã**. Boitempo Editorial, 2015.

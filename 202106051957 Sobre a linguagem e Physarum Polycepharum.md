@@ -18,4 +18,4 @@ Vemos tanto a satisfação das necessidades através da busca por comida; mesmo 
 
 ---
 ### References
-- [[A Ideologia Alemã]]
+- MARX, Karl; ENGELS, Friedrich. **A ideologia alemã**. Boitempo Editorial, 2015.

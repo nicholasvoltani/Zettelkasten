@@ -19,4 +19,4 @@ Resta analisar sua **forma**, que fixa o valor precisamente como **valor de troc
 
 ---
 ### References
-- [[O Capital, Livro 1]]
+- MARX, Karl. **O capital-Livro 1: Crítica da economia política. Livro 1: O processo de produção do capital**. Boitempo Editorial, 2013.
