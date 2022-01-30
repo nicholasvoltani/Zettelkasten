@@ -1,6 +1,6 @@
 ---
 Date: Wednesday, 01-09-2021 @ 19:06
-Tags:
+Tags: marxism
 ---
 # Aula 2 ─ O que é Dialética Materialista
 # Sobre Hegel

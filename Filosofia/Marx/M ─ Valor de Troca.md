@@ -1,6 +1,6 @@
 ---
 Date: Sunday, 04-07-2021 @ 19:56
-Tags:
+Tags: marxism
 ---
 # Definição de Valor de Troca, segundo Marx
 O valor de troca depende de duas mercadorias, cujas quantidades possuem alguma proporção de equivalência **mediante sua troca**. 

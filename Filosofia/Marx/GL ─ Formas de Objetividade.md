@@ -1,6 +1,6 @@
 ---
 Date: Sunday, 29-08-2021 @ 20:53
-Tags:
+Tags: marxism
 ---
 # Formas de Objetividade da realidade
 > "Um negro é um negro. Somente em **certas condições** torna-se um escravo.

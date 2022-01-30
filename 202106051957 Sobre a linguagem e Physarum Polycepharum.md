@@ -1,6 +1,6 @@
 ---
 Date: Saturday, 05-06-2021 @ 20:11
-Tags: #marx
+Tags: marxism
 ---
 # Sobre a linguagem segundo Marx e Physarum Polycephalum
 Segundo Marx, a linguagem nada mais é que **consciência real, prática**, condensada em ação. N'[[A Ideologia Alemã]], Marx e Engels afirmam isso, e que a linguagem nasce da *necessidade de troca de informações* com outros indivíduos.

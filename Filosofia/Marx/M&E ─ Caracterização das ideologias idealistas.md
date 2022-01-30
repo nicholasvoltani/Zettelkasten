@@ -1,6 +1,6 @@
 ---
 Date: Sunday, 20-06-2021 @ 18:34
-Tags:
+Tags: marxism
 ---
 # Caracterização das ideologias idealistas
 Para se demonstrar a **supremacia do *espírito* na história**, as filosofias idealistas valem-se dos seguintes "truques":

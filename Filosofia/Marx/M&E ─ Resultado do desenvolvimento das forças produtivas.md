@@ -1,6 +1,6 @@
 ---
 Date: Sunday, 20-06-2021 @ 17:03
-Tags:
+Tags: marxism
 ---
 # Resultado do desenvolvimento das forças produtivas
 1. Surgem forças produtivas e meios de intercâmbio que passam a causar somente malefícios, pervertendo-se em **forças de destruição**, as quais criam uma **classe massiva** que é despojada/**[[M&E ─ Surgimento da alienação|alienada]]** dos produtos de seu trabalho e que é forçada a "suportar todos os fardos da sociedade **sem desfrutar de suas vantagens**".

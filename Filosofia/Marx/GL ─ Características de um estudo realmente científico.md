@@ -1,6 +1,6 @@
 ---
 Date: Tuesday, 28-09-2021 @ 18:35
-Tags:
+Tags: marxism
 ---
 # Características de um estudo científico
 > "Se a **aparência** e a **essência** das coisas coincidissem, a ciência seria desnecessária." (Marx)

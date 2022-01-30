@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ce3be1ee34bc90f1",
+        "id": "c2b98989f33e1f80",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "M ─ Fetichismo.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mandel",
+                "query": "tag:#marxism",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "M ─ Fetichismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ce3be1ee34bc90f1",
+  "active": "c2b98989f33e1f80",
   "lastOpenFiles": [
     "M ─ Fetichismo.md",
-    "Matemática/Hipótese de Representação de Conhecimento.md",
-    "Filosofia/Marx/GL ─ Nenhum dado é factum brutum.md",
-    "Filosofia/Marx/GL ─ Formas de Objetividade.md",
-    "Filosofia/Marx/GL ─ Características de um estudo realmente científico.md",
-    "Filosofia/Marx/Dialética Materialista.md",
-    "210620211956 De obstáculos a combustível.md",
-    "References/A razão na História.md",
-    "References/A Ideologia Alemã.md",
-    "References/Gödel, Escher, Bach.md"
+    "Filosofia/Marx/M&E ─ Contradição entre interesses individuais e coletivos.md",
+    "Filosofia/Marx/M ─ Caráter duplo do trabalho.md",
+    "Filosofia/Marx/M ─ Valor.md",
+    "202108102122 Pensamentos sobre alquimia.md",
+    "Filosofia/Marx/Aula 2 ─ Método de Marx e Engels (Claus Germer).md",
+    "202201291700 Antropoceno e Capitaloceno.md",
+    "202201291507 Painel de Abertura Curso PSOL.md",
+    "Untitled.md",
+    "202106211956 De obstáculos a combustível.md"
   ]
 }

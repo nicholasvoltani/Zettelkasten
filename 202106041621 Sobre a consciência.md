@@ -1,7 +1,7 @@
 ---
 Date: Friday, 04-06-2021 @ 16:21
 Source:
-Tags: #marx
+Tags: marxism
 ---
 # Sobre a consciência segundo Marx e Hegel
 Tive uma discussão mental sobre as diferenças entre consciência para Hegel e para Marx.

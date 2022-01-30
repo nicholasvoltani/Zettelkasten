@@ -1,6 +1,6 @@
 ---
 Date: Friday, 03-09-2021 @ 13:21
-Tags:
+Tags: marxism
 ---
 # Qualquer dado implica em alguma teoria/método
 Não importa o quão "despojada de comentário" seja um colhimento de dados, tal ato sempre possuirá alguma teoria ou método implícito. 

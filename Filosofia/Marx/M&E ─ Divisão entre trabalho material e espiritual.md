@@ -1,7 +1,7 @@
 ---
 Date: Wednesday, 02-06-2021 @ 18:21
 Source:
-Tags:
+Tags: marxism
 ---
 # Divisão primitiva do trabalho, segundo Marx e Engels
 N'[[A Ideologia Alemã]], considera-se a divisão do trabalho como sendo oriunda naturalmente da cooperação dos indivíduos, inicialmente sexual e, eventualmente, por disposições naturais (e.g. força corporal), se torna divisão no trabalho.

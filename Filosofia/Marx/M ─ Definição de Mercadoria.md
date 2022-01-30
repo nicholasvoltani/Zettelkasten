@@ -1,6 +1,6 @@
 ---
 Date: Sunday, 04-07-2021 @ 19:45
-Tags:
+Tags: marxism
 ---
 # Definição de Mercadoria, segundo Marx
 A mercadoria nada mais é que um objeto externo que **satisfaz necessidades humanas** tanto "*do estômago quanto da imaginação*", tanto **direta** (e.g. meio de subsistência) quanto **indiretamente** (e.g. meio de produção). 

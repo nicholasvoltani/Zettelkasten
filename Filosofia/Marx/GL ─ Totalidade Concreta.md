@@ -1,6 +1,6 @@
 ---
 Date: Tuesday, 28-09-2021 @ 18:42
-Tags:
+Tags: marxism
 ---
 # O que é totalidade concreta?
 > "O concreto é concreto porque é a síntese de múltiplas determinações; portanto, é a unidade do múltiplo." (Marx)

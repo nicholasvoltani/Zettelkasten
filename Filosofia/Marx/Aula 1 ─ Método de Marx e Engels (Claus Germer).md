@@ -1,6 +1,6 @@
 ---
 Date: Wednesday, 25-08-2021 @ 18:10
-Tags:
+Tags: marxism
 ---
 # Aula 1 ─ Método de Marx e Engels
 # Clarificações iniciais: o método

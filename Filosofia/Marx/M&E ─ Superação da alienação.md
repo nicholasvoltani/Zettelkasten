@@ -1,7 +1,7 @@
 ---
 Date: Wednesday, 02-06-2021 @ 18:22
 Source:
-Tags:
+Tags: marxism
 ---
 # Superação da alienação (universal), segundo Marx e Engels
 N'[[A Ideologia Alemã]], Marx e Engels elaboram que são necessários três pressupostos a fim de se superar a [[M&E ─ Surgimento da alienação|alienação]]:

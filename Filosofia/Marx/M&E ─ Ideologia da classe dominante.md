@@ -1,6 +1,6 @@
 ---
 Date: Sunday, 20-06-2021 @ 18:06
-Tags:
+Tags: marxism
 ---
 # Surgimento da ideologia da classe dominante
 Como a classe dominante detém a posse dos meios de produção **material**, ela acaba por deter também os meios de produção **espirituais**; sua dominação espiritual se dá àqueles indivíduos que não possuem (*aproximadamente*) dos próprios meios de produção espiritual. Tais ideias dominantes nada mais são que a **expressão** dessas relações materiais dominantes, e buscam manter-se hegemônicas através de sua pretensão de **universalidade**, de **interesse comum/coletivo**.

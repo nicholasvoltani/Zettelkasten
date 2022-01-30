@@ -1,6 +1,6 @@
 ---
 Date: Sunday, 13-06-2021 @ 11:46
-Tags: #review
+Tags: marxism
 ---
 # Contradições oriundas da divisão do trabalho material e espiritual, segundo Marx e Engels
 N'"A Ideologia Alemã", Marx e Engels elaboram que a [[M&E ─ Consciência como produto social|consciência]] "pura" pode, por seu caráter menos restrito à realidade material, **contradizer** as relações sociais existentes; porém, somente enquanto houver, de fato, uma contradição entre as **relações de produção** e as **relações sociais** existentes. É natural que ocorram essas contradições, posto que cada lado é representado por indivíduos exercendo trabalhos diferentes ([[M&E ─ Divisão entre trabalho material e espiritual|material vs. espiritual]]). 

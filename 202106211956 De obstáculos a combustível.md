@@ -1,6 +1,6 @@
 ---
 Date: Monday, 21-06-2021 @ 19:56
-Tags:
+Tags: marxism
 ---
 # Como o capitalismo transforma seus obstáculos em material para sua própria formação
 > "Capital colonizes the very sites of **inhibition** [to itself], or creates new commodity circuits to **go around them**." (KOVEL, Joel. The enemy of nature.)

@@ -1,6 +1,6 @@
 ---
 Date: Sunday, 04-07-2021 @ 19:50
-Tags:
+Tags: marxism
 ---
 # Definição de Valor de Uso, segundo Marx
 Segundo Marx, 

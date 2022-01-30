@@ -8,13 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Filosofia/Marx",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
       "query": "path:References",
       "color": {
         "a": 1,
@@ -26,6 +19,13 @@
       "color": {
         "a": 1,
         "rgb": 16114949
+      }
+    },
+    {
+      "query": "tag:#marxism",
+      "color": {
+        "a": 1,
+        "rgb": 16723502
       }
     }
   ],
@@ -40,5 +40,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.5053789161433605,
-  "close": false
+  "close": true
 }

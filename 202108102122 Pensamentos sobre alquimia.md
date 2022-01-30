@@ -1,6 +1,6 @@
 ---
 Date: Tuesday, 10-08-2021 @ 21:07
-Tags:
+Tags: marxism
 ---
 # Como pode ter surgido o mito da alquimia
 > "Ao produzir, o homem pode apenas proceder **como a própria natureza**, isto é, pode apenas alterar a **forma** das matérias. (...) 

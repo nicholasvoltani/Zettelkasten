@@ -1,7 +1,7 @@
 ---
 Date: Wednesday, 02-06-2021 @ 18:21
 Source:
-Tags:
+Tags: marxism
 ---
 # O surgimento da consciência (e linguagem) como produto social, segundo Marx e Engels
 N'[[A Ideologia Alemã]], Marx e Engels elaboram que a consciência surge **naturalmente** no ser humano: surge tanto como uma percepção do *mundo sensível*, *i-mediato*, como sendo algo totalmente alheio a si, quanto como uma forma de interagir e criar relações com outros indivíduos, uma "consciência gregária". Não existe consciência "pura", pois ela está "**contaminada** pela matéria".
