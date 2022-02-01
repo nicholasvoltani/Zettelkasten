@@ -4,4 +4,4 @@
 - [[M&E ─ Divisão entre trabalho material e espiritual]]
 - [[M&E ─ Surgimento da alienação]]
 - [[M&E ─ Superação da alienação]]
-- [[M ─ Definição de Mercadoria]]
+- [[M ─ Mercadoria]]

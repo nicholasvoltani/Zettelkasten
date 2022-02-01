@@ -3,11 +3,11 @@ Date: Thursday, 26-08-2021 @ 22:10
 Tags: marxism
 ---
 # Método da Abstração
-> "O nosso fim deve ser conhecer **esse elemento substancial**; e para o conhecer deve proporcionar-se a consciência da razão, não os olhos físicos nem um entendimento finito, mas **o olho** \[...\] **da razão**, que atravessa a superfície e **penetra a variedade do garrido tumulto dos acontecimentos**" (A Razão na História, Hegel, p. 34, Ed. Lisboa)
+> "O nosso fim deve ser conhecer **esse elemento substancial**; e para o conhecer deve proporcionar-se a consciência da razão, não os olhos físicos nem um entendimento finito, mas **o olho** \[...\] **da razão**, que atravessa a superfície e **penetra a variedade do garrido tumulto dos acontecimentos**" (A Razão na História, Hegel, p. 34, Ed. Lisboa; grifo meu)
 
 Dado um conjunto de objetos, o método da abstração consiste em abstrair-se das particularidades de cada objeto em prol de algo que lhes seja **comum** ─ tal conceito pode ser chamado um **abstrato** (ou mesmo **abstração**, substantivo). 
 
-Portanto, um abstrato não representa **um objeto**, mas sim **um conjunto de objetos** (como uma **classe de equivalência**). O conjunto de abstratos que representem uma determinada parcela da realidade, dadas as interrelações entre tais abstratos, representam uma teoria explicativa da realidade ─ um **concreto no pensamento** (e **pelo** pensamento), que reproduz o real no pensamento. 
+Portanto, um abstrato não representa **um objeto**, mas sim **um conjunto de objetos** (como uma **classe de equivalência** em Matemática). O conjunto de abstratos que representem uma determinada parcela da realidade, dadas as interrelações entre tais abstratos, representam uma teoria explicativa da realidade ─ um **concreto no pensamento** (e **pelo** pensamento), que reproduz o real no pensamento. 
 
 ## Exemplos de abstração
 O conceito de **fruta** é um abstrato: não podemos ir em uma feira e pedir **uma fruta**; somente podemos pedir frutas **específicas**, como laranjas, maçãs etc.. Parece extremamente análogo ao *interplay* entre universal e particular em Hegel, e com a piada do Grespan de que "não aceitaria a entrada do **ser humano universal** na sua sala". 
