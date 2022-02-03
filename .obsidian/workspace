@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202201311248 Curso PSOL - Transição Energética.md",
+            "file": "Filosofia/Marx/Método de Abstração e Concretização.md",
             "mode": "preview",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#marxism",
+                "query": "penetr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,12 +57,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 294,
-    "collapsed": true
+    "width": 294
   },
   "right": {
     "id": "eace1de1654574fd",
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202201311248 Curso PSOL - Transição Energética.md",
+                "file": "Filosofia/Marx/Método de Abstração e Concretização.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,7 @@
   },
   "active": "dfe2b19d6fc292f6",
   "lastOpenFiles": [
+    "Filosofia/Marx/Método de Abstração e Concretização.md",
     "202201311248 Curso PSOL - Transição Energética.md",
     "202201301118 Curso PSOL - Ecossocialismo.md",
     "202202011545 Curso PSOL - Amazônia e os desafios da Humanidade.md",
@@ -117,7 +118,6 @@
     "Morin ─ Operador Hologramático.md",
     "Morin ─ Autoprodução.md",
     "Morin ─ Circularidade.md",
-    "Pasted image 20220131130058.png",
-    "Pasted image 20220131130914.png"
+    "Pasted image 20220131130058.png"
   ]
 }
