@@ -1,6 +1,6 @@
 ---
 Date: Tuesday, 01-02-2022 @ 15:45
-Tags:
+Tags: curso-psol
 ---
 # Módulo 3 ─ Amazônia e os desafios da Humanidade (Adolfo Oliveira, UFPA)
 

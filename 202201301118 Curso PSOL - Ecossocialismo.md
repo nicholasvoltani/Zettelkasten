@@ -1,8 +1,8 @@
 ---
 Date: Sunday, 30-01-2022 @ 11:19
-Tags:
+Tags: curso-psol
 ---
-# Módulo 1 ─ Ecossocialismo (Sabrina Fernandes)
+# Módulo 1 ─ [[Ecossocialismo]] (Sabrina Fernandes)
 ## O que é ecossocialismo?
 **Ecossocialismo é socialismo**: é uma superação do modo de produção capitalista, e que precisamos acabar com a propriedade privada dos meios de produção; transformar o mundo **organizando a classe trabalhadora**. 
 
@@ -30,11 +30,11 @@ O retorno a Marx e Engels **não se trata de um revisionismo das fontes originai
 ## Metabolismo social
 Na Dialética da Natureza, Engels diz que subjugamos as forças da natureza e as pressionamos a serviço da humanidade, e que "a cada dez anos, há um crise". Se faz necessário de repensar nossa relação com a natureza. 
 
-
+---
 # Ecologia Marxista
-A aposta pelo ecossocialista (e sua visão do marxismo) acredita que só é possível transformar a vida do povo trabalhador se houver uma **preocupação central com a questão ecológica**! 
+A aposta pelo ecossocialismo (e sua visão do marxismo) acredita que só é possível transformar a vida do povo trabalhador se houver uma **preocupação central com a questão ecológica**! 
 
-## Ruptura Metabólica
+## [[Ruptura Metabólica]]
 Desconexão, ou desequilíbrio, da interação metabólica homem-natureza derivada da produção capitalista.
 
 Conceito de Marx (Capital III) criado a partir da 
@@ -46,7 +46,7 @@ Exemplos: zonas com plástico no oceano são efetivamente zonas mortas.
 Nosso objetivo deve ser de regular **racionalmente** nosso metabolismo com a natureza; parte-se do princípio de que **tudo que fazemos tem impacto na natureza**: quais roupas vestimos, onde moramos, como criamos nossas casas, o que comemos, etc etc. 
 **Devemos alinhar o metabolismo social com o metabolismo natural.**
 
-## Imperialismo Ecológico
+## [[Imperialismo Ecológico]]
 Vem tanto do colonialismo *per se* (uma exploração imediata dos recursos naturais geográficos) quanto na comercialização internacional de recursos naturais locais;
 trata-se de **reduzir a natureza a um bem comercial (mercadoria)**. Os bens estão ali para serem **explorados**.
 > "Ao conceito corrompido do trabalho corresponde o conceito complementar de uma natureza, que, segundo Dietzgen, '*está ali, grátis*'" (Walter Benjamin, **Sobre o Conceito de História**, Tese 11)
@@ -55,19 +55,19 @@ Tal visão acaba induzindo a uma superexploração da natureza na periferia glob
 
 Disso vem uma **troca economicamente/ecologicamente desigual**: de que a economia de uma nação explorada exporte barato e importe caro, ao custo da biodiversidade e da destruição ecológica (um **ecocídio**^[Qualquer ato perpetrado **com consciência** de que existam grandes probabilidades de que hajam danos extensos e duradouros ao meio ambiente.]). 
 
-## Obsolescência Programada
+## [[Obsolescência Programada]]
 Conceito de restringir o tempo de vida útil de uma mercadoria **na hora da produção**, a fim de que se faça necessário que se compre outros produtos. 
 
-## Zona de Sacrifício
+## [[Zona de Sacrifício]]
 Áreas geográficas que foram permanentemente prejudicadas por fortes alterações ambientais ou desinvestimentos econômicos. Localidades que possuem grandes quantidades de poluição, contaminação, periculosidade, cujos impactos negativos são sentidos por moradores próximos.
 Exemplos: Gana, Deserto do Atacama, mas mesmo regiões internas de um país.
 
-## Racismo Ambiental
+## [[Racismo Ambiental]]
 Geralmente são povos ribeirinhos, indígenas, quilombolas, negros, os quais são afetados/esquecidos pelo sistema, mais descartáveis e mais suscetíveis à exploração. 
 
-
+---
 # Propostas do Ecossocialismo
-## Transição Justa
+## [[Transição Justa]]
 É preciso que se "ganhe tempo" para que se avance as correlações de força ─ a conscientização da classe trabalhadora, combate à poluição, o desmatamento, auxílio a refugiados climáticos etc., ações concretas ─ até que se possa, efetivamente, fazer uma revolução. 
 > "Medidas reformistas são valiosas, até necessárias, **somente enquanto elas melhorarem nossa capacidade de sobrevivência e nos ensinarem como prosseguir [adiante]**. Mas elas se tornam um obstáculo se formos enganados a pensar que **reformas são suficientes por si sós**, especialmente se forem outorgadas para **fortalecer o sistema capitalista** (...)"
 > 
@@ -104,13 +104,13 @@ Como o ecossocialismo seria **em regiões exploradas**? Como ele poderia preveni
 
 O que é, de fato, **soberano**? 
 
-## Lidar com a Totalidade
+## Lidar com a [[GL ─ Totalidade Concreta|Totalidade]]
 Manter um diálogo entre todas as partes da sociedade, entre todas as pautas necessárias a se lidar no sistema atual. 
 
 ## Quebra de Patentes
 Seja de vacina, seja de **patentes verdes** (sustentáveis!). 
 
-## Soberania Alimentar
+## [[Soberania Alimentar]]
 Direito dos povos de definirem suas próprias políticas e estratégias sustentáveis de produção, distribuição e consumo de alimentos que garantam o **direito à alimentação para toda a população**, com base na **pequena e média produção**, respeitando suas **próprias culturas e diversidade**.
 
 Já tem a ver com a separação entre campo e cidade, a qual é **estratégica para o capitalismo**; já tem a ver com o **imperialismo ecológico**, pois torna-o mais barato, ao mesmo tempo em que há muito maquinário e pouco emprego, o que faz com que haja muita pobreza e fome no campo! 

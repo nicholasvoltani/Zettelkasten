@@ -1,6 +1,6 @@
 ---
 Date: Monday, 07-02-2022 @ 14:08
-Tags:
+Tags: curso-psol
 ---
 # Módulo 7 ─ Soberania Alimentar e Democratização da Terra (Kelli Mafort, MST)
 ## Introdução ao Debate

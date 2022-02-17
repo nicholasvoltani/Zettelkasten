@@ -1,6 +1,6 @@
 ---
 Date: Monday, 31-01-2022 @ 12:48
-Tags:
+Tags: curso-psol
 ---
 # Módulo 2 ─ Emergência Climática e Transição Energética (Alexandre Costa)
 ## Bases físicas

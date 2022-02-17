@@ -1,6 +1,6 @@
 ---
 Date: Thursday, 03-02-2022 @ 12:09
-Tags:
+Tags: curso-psol
 ---
 # Módulo 5 - Racismo Ambiental (Cristiane Faustino)
  ## Notas sobre o conceito de Racismo Ambiental

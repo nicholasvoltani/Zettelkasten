@@ -5,7 +5,7 @@ Tags: marxism
 # O que é totalidade concreta?
 > "O concreto é concreto porque é a síntese de múltiplas determinações; portanto, é a unidade do múltiplo." (Marx)
 
-A totalidade concreta é a categoria fundamental da realidade social. Mais de que uma mera "soma das partes", ela é uma totalidade de elementos dialeticamente opostos uns aos outros, cujas **contradições** oriundas desses atritos resultam na **dinâmica** do todo. 
+A totalidade concreta é a categoria fundamental da realidade social. Mais de que uma mera "soma das partes", ela é uma totalidade de elementos [[Dialética Materialista|dialeticamente]] opostos uns aos outros, cujas **contradições** oriundas desses atritos resultam na **dinâmica** do todo. 
 
 Tais contradições
 > "compõem de maneira indissolúvel a essência da própria realidade, essência da sociedade capitalista" (LUKÁCS, p. 79)
@@ -13,7 +13,7 @@ Tais contradições
 A realidade é, em si, "total", ao contrário de como o idealismo vê a sociedade, em que 
 > "o concreto aparece como processo de **síntese**, como **resultado**" 
 
-ou de como o materialismo vulgar o vê, em que a realidade é, em si, fragmentada por natureza, e resta-nos estudar as partes individualmente, e "tentar criar uma totalidade" *post-festum*. 
+ou de como o materialismo vulgar o vê, em que a realidade é, em si, "**fragmentada por natureza**", e resta-nos estudar as partes individualmente, e "tentar criar uma totalidade" *post-festum*. 
 
 ## Sobre as contradições na totalidade concreta
 As contradições são parte fundamental da totalidade concreta, algo que não é contemplado, por exemplo, pelas teorias das ciências naturais, onde contradições apontam para *shortcomings* do modelo teórico. 

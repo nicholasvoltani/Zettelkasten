@@ -1,6 +1,6 @@
 ---
 Date: Saturday, 29-01-2022 @ 15:07
-Tags: ecossocialism
+Tags: ecossocialism, curso-psol
 ---
 # Painel de Abertura: "Crise Ambiental e os desafios da Esquerda Brasileira" (Fundação Lauro Campos e Marielle Franco)
 ## 1. Fala de Michael Löwy

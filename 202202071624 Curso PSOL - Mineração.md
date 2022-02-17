@@ -1,6 +1,6 @@
 ---
 Date: Monday, 07-02-2022 @ 16:24
-Tags:
+Tags: curso-psol
 ---
 # Módulo 8 ─ Mineração e seus impatos sociais e ambientais (Marcos Ferreira)
 Poema "O Maior Trem do Mundo" de Carlos Drummond de Andrade aborda a mineração e seus impactos; Itabira, onde nasceu, é chamada de "berço da Vale [do Rio Doce]". 
