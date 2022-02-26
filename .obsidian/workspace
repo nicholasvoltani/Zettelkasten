@@ -7,8 +7,12 @@
         "id": "febc1625a18c1b71",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Fleeting Notes/Anotações sobre Trabalho de Base.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -53,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fleeting Notes/Anotações sobre Trabalho de Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +109,15 @@
   },
   "active": "febc1625a18c1b71",
   "lastOpenFiles": [
+    "Fleeting Notes/Anotações sobre Trabalho de Base.md",
+    "202201311828 Oposição Produção-Troca.md",
+    "202201291700 Antropoceno e Capitaloceno.md",
+    "202202102046 - Relação Dialética Educação-Política.md",
     "Morin ─ Operadores Cognitivos de Pensamento Complexo.md",
     "Morin ─ Circularidade.md",
     "Morin ─ Operador Hologramático.md",
     "Morin ─ Autoprodução.md",
     "Filosofia/Marx/GL ─ Totalidade Concreta.md",
-    "Filosofia/Marx/GL ─ Formas de Objetividade.md",
-    "202201301118 Curso PSOL - Ecossocialismo.md",
-    "202202102046 - Relação Dialética Educação-Política.md",
-    "202201311248 Curso PSOL - Transição Energética.md",
-    "202202011545 Curso PSOL - Amazônia e os desafios da Humanidade.md"
+    "Filosofia/Marx/GL ─ Formas de Objetividade.md"
   ]
 }
