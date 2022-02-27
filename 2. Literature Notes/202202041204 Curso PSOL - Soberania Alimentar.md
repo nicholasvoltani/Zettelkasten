@@ -5,14 +5,14 @@ Tags: curso-psol
 # Módulo 6 ─ Soberania e Segurança Alimentar e Nutricional (Anelise Rizzolo)
  ## Premissas
  - Fatos históricos são essenciais para a compreensão de aspectos políticos e temáticos
-	 - Processos sociais dialeticamente interpretados
-	- Qualquer fato/fenômeno social ou político só pode ser entendido **dentro da história, a partir da história e com a história**
-	- Recuperar, a partir das partes, a relação com o **todo**
+	- Processos sociais [[Dialética Materialista|dialeticamente]] interpretados
+	- Qualquer fato/fenômeno social ou político só pode ser entendido **dentro da história, a partir da história e com a história** 
+	- Recuperar, a partir das partes, a relação com o **[[GL ─ Totalidade Concreta|todo]]**
 
-## Segurança Alimentar e Nutricional (SAN)
+## [[Segurança Alimentar e Nutricional]] (SAN)
 Conceito surge no contexto das **grandes guerras**: não obstante poder bélico, ainda se via vítima de necessidades alimentares. Se fez necessário que se vissem **estoques alimentares**, de forma a dar uma certa **autonomia**/independência do auxílio de outros países. Inicialmente tal termo estava muito atrelada à **soberania *nacional***. 
 
-Por volta da década de 80/90, ganha uma conotação de segurança **sanitária**: epidemias, doença da vaca louca, Brasil surgindo como o "celeiro do mundo"; surge uma necessidade de regulamentar tal produção agrícola impulsionada pela revolução verde, na forma de protocolos sanitários, normas, padrões de identidade e qualidade para produtos de exportação. Note-se que era uma forma de garantir a integridade dos produtos agrícolas **vistos como mercadorias** exportadas. 
+Por volta da década de 80/90, ganha uma conotação de segurança **sanitária**: epidemias, doença da vaca louca, Brasil surgindo como o "celeiro do mundo"; surge uma necessidade de regulamentar tal produção agrícola impulsionada pela revolução verde, na forma de protocolos sanitários, normas, padrões de identidade e qualidade para produtos de exportação. Note-se que era uma forma de garantir a integridade dos produtos agrícolas **vistos como [[M ─ Mercadoria|mercadorias]]** exportadas. 
 
 Por volta dessa época, o movimento ganha um ímpeto mais revolucionário nas Américas, com alguns fóruns internacionais ligados à FAO (Food and Agriculture Organization, da ONU). Começa-se a questionar como se pode falar de segurança alimentar **em um território em que a fome é prevalente** (Brasil, América Latina, África). Portanto, junto à visão de um **alimento** seguro, começa-se a pensar também sobre os **processos/pessoas** envolvidos. 
 
@@ -23,6 +23,7 @@ Começa-se a pensar sobre as **causas sociais** da fome, paulatinamente também 
 - Primeira Conferência Nacional de Segurança Alimentar Nutricional (1994, Brasília)
 - 2003/4: Segunda Conferência Nacional de Segurança Alimentar Nutricional (junto ao Fórum Brasileiro de Segurança e Soberania Alimentar Nutricional)
 - 2006: Lei Orgânica de Segurança Alimentar Nutricional
+
 > É a realização do **direito** de todos ao **acesso regular e permanente a alimentos de qualidade, em quantidade suficiente**, sem comprometer o acesso a outras necessidades essenciais, tendo como base **práticas alimentares promotoras da saúde**, e de forma a respeitar a diversidade cultural, que sejam ambiental/cultural/econômica/socialmente **sustentáveis**.
 
 ### Contexto atual no Brasil
@@ -36,7 +37,7 @@ Não se pode falar de SAN sem falar de **direitos e autonomia aos povos**, pois 
 ![[Pasted image 20220204143913.png]]
 	Em preto: intersectionalidades pertinentes ao debate. Em roxo: características pertinentes à segurança alimentar e nutricional.^[DHANA: Direito Humano à Alimentação e Nutrição Adequadas.]
 
-## 1. Soberania Alimentar
+## 1. [[Soberania Alimentar]]
 > É o direito dos povos a definir suas **próprias** políticas e estratégias **sustentáveis** de produção, distribuição e consumo de alimentos, que garantam o direito à alimentação a **toda** a população, com base na **pequena e média produção**, respeitando suas **próprias culturas** e diversidade dos modos camponeses de produção, de comercialização e de gestão, nos quais a mulher desempenha um papel fundamental (Fórum Mundial de Soberania Alimentar ─ Havana, 2001)
 
 ## 2. Alimentação como um Direito Humano (DHAS/DHANA)
@@ -46,7 +47,7 @@ Direitos Humanos: qualquer humano possui, não são competíveis e não são sub
 1. Todos os cidadãos brasileiros precisam **estar livres da fome**
 2. Todos os cidadãos precisam ter acesso a **alimentação adequada e saudável** (que reconheçam como **comestível**)
 
-## 3. Agroecologia
+## 3. [[Agroecologia]]
 > "O Brasil será agroecológico, ou não [existirá mais]"
 
 É uma **ciência**: conjunto de práticas agrícolas (agronômicas e ecológicas) visando aperfeiçoar sistemas agrícolas **imitando processos naturais**, i.e. criando **sinergias e interações biológicas** entre as partes do eco-agrossistema. 
@@ -82,7 +83,7 @@ A Revolução Verde se coloca como uma falsa solução ao problema da produção
 - **padroniza sabores e gostos**
 - paulatinamente **apaga a identidade cultural** de povos
 
-## Insegurança alimentar e nova ordem alimentar: Obesidade e Desnutrição
+## [[Insegurança alimentar]] e nova ordem alimentar: Obesidade e Desnutrição
 A fome é uma expressão social e política (provocada por um modelo econômico de acumulação excessiva). Há estudos de que uma criança que sofre **desnutrição intra-uterina** tem riscos aumentados de desenvolver obesidade e outras doenças não-transmissíveis na idade adulta. Ou seja, há uma "perpetuação" dessas condições socioeconômicas. 
 
 ### A Sindemia Global da Obesidade, Desnutrição e Mudanças Climáticas (relatório de The Lancet)

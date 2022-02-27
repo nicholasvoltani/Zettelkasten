@@ -21,7 +21,7 @@ O equilíbrio climático depende do **equilíbrio dos fluxos de energia**:
 
 ![[Pasted image 20220131130058.png]]
 
-# Causa de acúmulo desses gases: emissão associada às atividades humana
+# Causa de acúmulo desses gases: emissão associada às atividades humanas
 - Queima de combustíveis fósseis (geração de eletricidade, transporte)
 - Desmatamento (queima de matéria orgânica)
 	- É a principal causa no Brasil!
@@ -58,7 +58,7 @@ O desequilíbrio energético atualmente é de $2,72 W/m^2$, o que, na superfíci
 (As emissões globais são prioritariamente advindas de **combustíveis fósseis**)
 
 ![[Pasted image 20220131143150.png]]
-Note-se que a gigantesca maioria do consumo de energia vem da queima de combustíveis ─ gás, óleo, carvão e biomassa \[lenha\]. O consumo de energia, após a Revolução Industrial, não sobrepôs o consumo original de biomassas, mas **sobrepôs** tal uso.
+Note-se que a gigantesca maioria do consumo de energia vem da queima de combustíveis ─ gás, óleo, carvão e biomassa \[lenha\]. O consumo de energia, após a Revolução Industrial, não substituiu o consumo original de biomassas, mas **sobrepôs** tal uso.
 
 **Prazo para consumo de saldo de carbono remanescente (no ritmo atual): 10 anos e 7 meses**.
 
@@ -102,7 +102,7 @@ Não só outros usos da terra, mas usos da **água** também, para **irrigação
 - Impactos sobre biodiversidade (Mata Atlântica, Cerrado, etc)
 - Uso de agrotóxicos e fertilizantes
 
-## Ecoimperialismo/Colonialismo Climático
+## [[Imperialismo Ecológico|Ecoimperialismo/Colonialismo Climático]]
 - Mineração para materiais (Lítio, Cobalto)
 - Uso de territórios para Hidrogênio Verde: Zera emissões do Norte global, **mas deixa o ônus ao Sul global**
 
@@ -124,12 +124,12 @@ Não só outros usos da terra, mas usos da **água** também, para **irrigação
 	- Diminuiria em até 4% a precipitação das chuvas (e não seria igualitário: atingiria mais países nos trópicos)
 	- **Não pode ser interrompido, após o início do processo**: após a interrupção do processo, TODO o efeito represado descerá à Terra em alguns anos
 
-## Transição Justa
+## [[Transição Justa]]
 Não depositar sobre as maiorias sociais o ônus de um processo cuja responsabilidade é principalmente das principais potências mundiais, das elites mundiais que desenvolveram um modo de vida insustentável, e de grandes corporações (100 corporações respondem por 71% das emissões globais!).
 
 - **Carbono Zero** (não líquido; **zero efetivo**)
 - **Decrescimento da demanda energética** (em particular no Norte global): **supressão de demandas perdulárias** (obsolescência programada, indústria militar, indústria de descartáveis, indústria automotiva de carros individuais, etc.)
-- Matriz energética **100% baseada em renováveis**, de forma a **minimizar impactos socioambientais** sobre territórios, evitando "zonas de sacrifício" e aprofundamento do racismo ambiental
+- Matriz energética **100% baseada em renováveis**, de forma a **minimizar impactos socioambientais** sobre territórios, evitando "[[Zona de Sacrifício|zonas de sacrifício]]" e aprofundamento do [[Racismo Ambiental]]
 - Participação ativa das **comunidades** no "design" de uma **nova infraestrutura energética descentralizada e acessível**, com amplo acesso à **solarização residencial**
 - Garantia de renda, **requalificação** e emprego para trabalhadores do extinto setor de combustíveis fósseis
 - Financiamento baseado em **tributação justa e progressiva** com mecanismos de **redução de impactos** de eventuais **mudanças nos preços de energia**

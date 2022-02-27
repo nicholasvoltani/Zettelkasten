@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 16723502
       }
+    },
+    {
+      "query": "tag:#curso-psol",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
   "collapse-display": true,
@@ -37,8 +44,8 @@
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
-  "linkStrength": 1,
+  "linkStrength": 0.591112353269983,
   "linkDistance": 250,
-  "scale": 0.4869082315643151,
-  "close": true
+  "scale": 0.328485132529847,
+  "close": false
 }

@@ -1,6 +1,6 @@
 ---
 Date: Saturday, 26-02-2022 @ 15:29
-Tags: #marxism #education 
+Tags: marxism, education 
 ---
 # Trabalho de Base
 > "O início da elaboração crítica [de uma visão de mundo] é a consciência daquilo que **é** realmente, isto é, um 'conhece-se a ti mesmo' como produto do processo histórico até hoje desenvolvido, que deixou em ti uma infinidade de traços acolhidos sem análise crítica." 

@@ -2,7 +2,7 @@
 Date: Thursday, 03-02-2022 @ 12:09
 Tags: curso-psol
 ---
-# Módulo 5 - Racismo Ambiental (Cristiane Faustino)
+# Módulo 5 - [[Racismo Ambiental]] (Cristiane Faustino)
  ## Notas sobre o conceito de Racismo Ambiental
  Surge no seio das lutas negras nos EUA por direitos; deu base ao movimento por Justiça Ambiental como o conhecemos hoje. 
 
@@ -32,7 +32,7 @@ A questão racial deve ser uma luta não só de pessoas negras, pois senão a "c
 Evitar o "**romantismo**" dos povos minoritários: é um processo de **desumanização**, de exteriorização, de criação de um Outro alheio: pode surgir um **racismo paternalista**.
 
 ## Por que racismo _ambiental_?
-- Porque é **justo** que se veja o aspecto ambiental associado ao racismo: quando é racismo **ambiental**, se vê a totalidade vista junta do meio ambiente;
+- Porque é **justo** que se veja o aspecto ambiental associado ao racismo: quando é racismo **ambiental**, se vê a [[GL ─ Totalidade Concreta|totalidade]] vista junta do meio ambiente;
 - Pois a exploração de recursos vai se dar com mais probabilidade em sociedades racializadas, (i.e. geralmente mais vulneráveis)
 
 ## Injustiças ambientais, e o racismo ambiental como chave de leitura
@@ -56,8 +56,8 @@ Evitar o "**romantismo**" dos povos minoritários: é um processo de **desumaniz
 ## Violências sofridas pelas populações afetadas
 - **Perda da renda** e aumento de **dependência** monetária e de políticas públicas estatais/de empresas
 	- Quando há um processo de devastação de territórios, se cria uma dependência das populações afetadas (para suprir suas necessidades que eram satisfeitas nos territórios)
-	- Por exemplo: empreendimentos do agronegócio, turismo, mineração
-- Afeta **autonomia comunitária** e **soberania alimentar**
+	- Por exemplo: empreendimentos do [[Agronegócio]], turismo, [[202202071624 Curso PSOL - Mineração|mineração]]
+- Afeta **autonomia comunitária** e **[[Soberania Alimentar|soberania alimentar]]**
 	- Em particular no agronegócio, pela intoxicação dos solos, por exemplo
 - Agravamento da **saúde coletiva** física e psicológica
 	- Como nas violências de despejos, especialmente na população mais velha que tem um vínculo e uma vida associada com a terra; suicídios, depressão

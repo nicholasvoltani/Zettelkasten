@@ -1,8 +1,9 @@
 ---
 Date: {{date}}
-Tags:
+Tags: marxism
 ---
 # {{title}}
+
 
 ---
 ### Referências

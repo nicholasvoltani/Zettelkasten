@@ -1,6 +1,6 @@
 ---
 Date: Sunday, 30-01-2022 @ 11:19
-Tags: curso-psol
+Tags: curso-psol, marxism 
 ---
 # Módulo 1 ─ [[Ecossocialismo]] (Sabrina Fernandes)
 ## O que é ecossocialismo?

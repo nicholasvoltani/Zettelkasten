@@ -9,10 +9,10 @@ Tags: curso-psol
 	- Tal visão vem da colonização, como sendo um espaço exclusvivamente dos rios e da natureza
 - Não pode ser pensada também como **reserva de recursos**, a fim do desenvolvimento
 
-O dilema é de como pensar nos seus **povos**, territórios e também da sua biodiversidade; pensando um planeta **ecologicamente equilibrado**, **socialmente justo**, diverso, plural e **socialista**.
+O dilema é de como pensar nos seus **povos**, territórios e também da sua biodiversidade; pensando um planeta **ecologicamente equilibrado**, **socialmente justo**, diverso, plural e **[[Socialismo|socialista]]**.
 
 ## Amazônia e as questões humanas
-- Genocídio e Etnocídio 
+- Genocídio e Etnocídio
 	- Resistência das tribos Ajuricaba, Manaós (Mãe dos Deuses; cidade de Manaus) e Guaimiaba (tupinambás) Mairí
 - Formas degradantes de trabalho e de vida oriundas da colonização e escravidão (até hoje)
 	- E.g. arquipélago de Marajó
@@ -35,8 +35,8 @@ Premissas:
  Características da produção amazônida
  - Sistema de produção anacrônico: possui fases distintas do capitalismo amalgamadas entre si
 	 - **Acumulação primitiva** (século XVII): colonização, advinda do roubo e saque dos recursos naturais, através da **violência**; somente através da morte se produz o saque
-		 - Própria do agronegócio, o qual se sustenta através da violência contra comunidades indígenas e/ou indigenistas
-	 - **Capitalismo mercantil/industrial** (século XVIII): manufatura e produção artesanal de mercadorias; **servidão rural**, escravismo e comércio
+		 - Própria do [[Agronegócio]], o qual se sustenta através da violência contra comunidades indígenas e/ou indigenistas
+	 - **Capitalismo mercantil/industrial** (século XVIII): manufatura e produção artesanal de [[M ─ Mercadoria|mercadorias]]; **servidão rural**, escravismo e comércio
 		 - Exemplo da **Zona Franca de Manaus**, a qual serve como mera plataforma de montagem com baixa tributação; mão-de-obra quase sem direitos trabalhistas e sem futuro
 		 - **Projeto Jari**: fábrica às margens do Rio Jari, cuja atividade era extração e produção de madeira destinada à fabricação de **celulose**
 		 - **Fordlândia** (município de Aveiro, Pará, às margens do Rio Tapajós): cidade operária e projeto agroindustrial da Ford, um fiasco abandonado em 1934
@@ -64,7 +64,7 @@ Se faz necessário **desconstruir alguns conceitos**:
 
 ## Agro, hidro, mineronegócio
 ### Agronegócio como complexo de sistemas
-- **Agrícola**: Ao mesmo tempo uma **monocultura** (ideologia apontando uma alternativa de desenvolvimento) e um **monocultivo** (produzindo apenas um produto agrícola); busca **diminuir a cultura alimentar** (senão, qual o motivo de reduzir o leque gastronômico?). 
+- **Agrícola**: Ao mesmo tempo uma **[[Monocultura]]** (ideologia apontando uma alternativa de desenvolvimento) e um **monocultivo** (produzindo apenas um produto agrícola); busca **diminuir a cultura alimentar** (senão, qual o motivo de reduzir o leque gastronômico?). 
 - **Financeiro**: Financeirização da produção agrícola no seu planejamento, cultivo e comercialização. Os produtos são vendidos antes de serem colhidos; portanto, são **capital de risco**, por isso seu preço muda e é comercializado por grandes empresas internacionais. 
 - **Mercantil**: Mercado e desenvolvimento de **mercadorias**
 - **Logística**: rodovias, hidrovias, ferrovias, portos e aeroportos
@@ -79,16 +79,16 @@ Barragens para mineração/agronegócio/criação de energia.
 - Grande Carajás 
 - Garimpo (Serra Pelada, PA; Serra do Navio, AM)
 
-Ver o mineronegócio como forma de **democratização do acesso ao minério** é fundamental para o futuro; como é não-renovável, o que resta após sua coleta sempre é devastação, seja à natureza, seja ao povo local.
+Ver o mineronegócio como forma de **democratização do acesso ao minério** é fundamental para o futuro; como é não-renovável, o que resta após sua coleta sempre é [[Ruptura Metabólica|devastação]], seja à natureza, seja ao povo local.
 
 ## Qual é o papel da Amazônia no debate climático mundial?
 - **Controle do clima planetário**: florestas em pé servem de **grande regulador climático**, o que é disputado internacionalmente, por ser também uma **reserva de recursos naturais** 
 	- Reservas verdes são **comercializadas na Bolsa de Valores** (cŕeditos de carbono), e seus protagonistas sociais são vistos nos capitalistas verdes
 - **Redescoberta do Passado**: Encontrar formas de sociablidade homem-natureza **pré-coloniais** pode ser base para reconstruir o presente e produzir as relações no futuro.
-	- **Reencontro com a Identidade**: historicamente acumulada pelos diversos povos.
+	- **Reencontro com a Identidade**: historicamente acumulada pelos [[Etnobotânica|diversos povos]].
 - **Financeirização**: lógica de discutir os problemas ambientais e suas soluções atualmente estão pensadas dentro da lógica do mercado (que visa o lucro); não se pensa da autonomia e empoderamento de locais, nem dos desafios, e sim como metas estabelecidas por *stakeholders*, que esperam por lucros. 
 
-Para ter esse debate de maneira justa, devemos nos entender como **sujeitos planetários** no ponto de vista de nossa **existência**, mas **sujeitos diversos e locais** do ponto de vista de nossa **experiência humana** como sujeitos concretos e territorializados.
+Para ter esse debate de maneira justa, devemos nos entender como **sujeitos planetários** no ponto de vista de nossa **existência**, mas **sujeitos diversos e locais** do ponto de vista de nossa **experiência humana** como sujeitos concretos e territorializados. 
 
 
 ## Luta social e política pela redescoberta/recriação de nossa relação com a natureza
@@ -97,10 +97,10 @@ Para ter esse debate de maneira justa, devemos nos entender como **sujeitos plan
 - **Colocar o "comum" como elemento central da vida política**: é o limite da exploração individual/coletiva de algo no mundo, é parte da herança histórica que nos é legada e que deixaremos como legado futuro. Pensar a coletividade e de se construir cada vez mais sujeitos coletivos com um futuro compartilhado com as gerações presentes e futuras.
 - **Pensar tudo no tempo presente**: a lógica de que sujeitos só são verdadeiramente o que são se abdicarem do tempo presente e voltarem a tempos pré-tecnológicos; busca-se entender de forma não homogeneizante, busca a construção do diverso, das múltiplas características de vários povos diversos. Tal luta rompe com o mito iluminista, de que sejamos a imagem do sujeito racional normativo, que permeia todo nosso imaginário e restringe o ideario social.
 
-- **Recriação: Aprendizagem territorial**: Lutas política pela questão ambiental na Amazônia é uma questão **territorial**, com características **identitárias**, **culturais**, **de memória**, **histórica**, buscando construir um **território coletivo**. 
+- **Recriação: Aprendizagem territorial**: Lutas políticas pela questão ambiental na Amazônia é uma questão **territorial**, com características **identitárias**, **culturais**, **de memória**, **histórica**, buscando construir um **território coletivo**. 
 	- É uma luta que se faz pela **ação coletiva**; só lutando continuamos existindo, e cria-se identidade, consciência, irmandade.
 	- É uma **ação local**, particular: seja pelas águas, ou pela terra, ou pela floresta.
-	- A vida vista como **multidimensional**, oposto à noção mercantilizada de que a vida é abstrata, monetária. É uma vida que respeita o tempo natural, e isso se impõe como uma necessidade histórica a nós, e se opõe à visão imposta pelo capitalismo. 
+	- A vida vista como **multidimensional**, oposto à noção mercantilizada de que a vida é abstrata, monetária. É uma vida que [[Metabolismo social|respeita o tempo natural]], e isso se impõe como uma necessidade histórica a nós, e se opõe à visão imposta pelo capitalismo. 
 	- Requer-se uma visão **multiescalar**: a visão da Amazônia não se restringe geograficamente, mas sim temporalmente e politicamente (colonização), em outros continentes (África, Europa), etc.
 	- Devemos entender-nos como **sujeito coletivo**, pois isso nos permite ver-nos como elementos compartilhados, como **comunidade**: ancestralidade, partilha, respeito, nossa experiência transborda nossa corporiedade e nosso lugar. Dessa forma obtém-se o respeito mútuo entre os homens e com relação à natureza. 
 
@@ -120,7 +120,7 @@ Para ter esse debate de maneira justa, devemos nos entender como **sujeitos plan
 - Redes de proteção de **Universidades Federais** 
 
 ## Violência e lutas populares
-- **Cabanagem** (Belém, 1835-1840): Tomada do poder pelos cabanos, sujeitos que viviam nas beiras dos rio e igarapés, viviam da pesca; negros e indígenas, escravizados). 
+- **Cabanagem** (Belém, 1835-1840): Tomada do poder pelos cabanos, sujeitos que viviam nas beiras dos rio e igarapés, viviam da pesca; negros e indígenas, escravizados. 
 - **Contra seringais no Acre (Chico Mendes)**
 - **Corumbiara, RO** (08/1995): Massacre de camponeses numa reintegração de posse de uma fazenda grilada
 - **Massacre de Eldorado dos Carajás**^[O dia 17 de abril se tornou o dia internacional do campesinato por esta luta.] (1996): Luta pelo MST contra o Estado e seu apoio às agroelites locais.

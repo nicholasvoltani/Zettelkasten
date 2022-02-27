@@ -1,6 +1,6 @@
 ---
 Date: Sunday, 27-02-2022 @ 14:04
-Tags:
+Tags: marxism 
 ---
 # Ecossocialismo
 > ""Trata-se de uma corrente de pensamento e de ação **ecológica** que faz as suas aquisições fundamentais do **marxismo** ─ ao mesmo tempo que o livra de suas **escórias produtivistas**."
@@ -16,4 +16,3 @@ Tal ato de retornar o papel intrínseco da natureza em nossa militância e visã
 ### Referências
 - [[202201301118 Curso PSOL - Ecossocialismo]]
 - **O que é o ecossocialismo**, Michael Löwy.
-- 

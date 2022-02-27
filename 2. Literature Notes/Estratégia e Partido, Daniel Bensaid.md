@@ -1,6 +1,6 @@
 ---
 Date: Sunday, 27-02-2022 @ 11:54
-Tags: #marxism
+Tags: marxism
 ---
 # Estratégia e Partido, Daniel Bensaid
 ## Sobre a "tomada do poder"

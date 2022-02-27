@@ -1,7 +1,7 @@
 
 ---
 Date: Saturday, 26-02-2022 @ 11:56
-Tags: #marxism
+Tags: marxism
 ---
 # Sobre o marxismo ser uma ciência
 > "... pode-se dizer que **não é cientista** quem 
