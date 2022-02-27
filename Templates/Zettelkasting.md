@@ -1,8 +1,8 @@
 ---
-Date: <% tp.date.now("dddd, DD-MM-YYYY @ HH:mm") %>
+Date: {{date}}
 Tags:
 ---
-# 
+# {{title}}
 
 ---
 ### Referências

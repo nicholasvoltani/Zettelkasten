@@ -1,3 +1,4 @@
+
 ---
 Date: Friday, 25-02-2022 @ 21:56
 Tags: 
@@ -48,7 +49,7 @@ Pergunta geradora: "O que é trabalho de base para você, na sua vida e/ou em mo
 ### [[Sobre o marxismo ser uma ciência | Discussão sobre o trabalho de base (e o marxismo) ser(em) uma ciência]]
 Lênin vê o marxismo como uma ciência **empírica** ─ não é uma ciência no sentido de ser uma teoria *determinística*. Porém, é empírica não no sentido tradicional, de buscar entender o mundo através de amostras **isoladas** da realidade ─ busca justamente compreender o mundo (social) em sua totalidade, em sua concretude (no sentido de tendências distintas simultâneas, que "**con**-crescem", "juntas"). 
 
-Portanto, o marxismo **não** é científico no sentido de particionar a realidade em áreas disjuntas e estudá-las mais aprofundadamente **isoladas umas das outras**, mas isso **não** quer dizer que ele não seja **rigoroso** (o que cotidianamente chamamos de "ser científico"). Ele acaba "sendo científico" também no sentido de possuir acúmulos teóricos sobre a realidade (social) e de elaborá-lo de maneira **racional**, **lógica**, de concatenar os conhecimentos de maneiras lógicas, a fim de permitir uma compreensão mais acurada da sociedade e de suas dinâmicas. 
+Portanto, o marxismo **não** é científico no sentido de particionar a realidade em áreas disjuntas e estudá-las mais aprofundadamente **isoladas umas das outras**, mas isso **não** quer dizer que ele não seja **rigoroso** (o que cotidianamente chamamos de "ser científico"). Ele acaba "sendo científico" também no sentido de possuir acúmulos teóricos sobre a realidade (social) e de elaborá-lo de maneira **racional**, de concatenar os conhecimentos de maneiras lógicas, a fim de permitir uma compreensão mais acurada da sociedade e de suas dinâmicas. 
 
 E ver o marxismo como um método determinístico de previsão da realidade é algo perigoso, pois traz a possibilidade de prever fatores como, por exemplo, o surgimento do crime. 
 

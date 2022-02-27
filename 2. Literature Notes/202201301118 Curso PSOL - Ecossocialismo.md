@@ -11,7 +11,7 @@ Percebe-se que as lutas sociais estão naturalmente imbricadas com lutas materia
 O **marxismo** é o método que informa o socialismo num horizonte para o comunismo; não pode ser separado da condição ecológica.
 
 ## Como surge o ecossocialismo?
-Década de '70/'80: Contexto de surgimentos de agrotóxicos (revolução verde^[Iniciativas tecnológicas que transformaram as práticas agrícolas e aumentaram drasticamente a produção de alimentos no mundo, através da disseminação de agrotóxicos, fertilizantes, sementes geneticamente modificadas, mecanização da produção, etc.]). Pessoas estão adoecendo, pássaros estão sumindo, solos estão sendo afetados, solos freáticos etc. 
+Década de '70/'80: Contexto de surgimentos de agrotóxicos ([[Revolução Verde]]^[Iniciativas tecnológicas que transformaram as práticas agrícolas e aumentaram drasticamente a produção de alimentos no mundo, através da disseminação de agrotóxicos, fertilizantes, sementes geneticamente modificadas, mecanização da produção, etc.]). Pessoas estão adoecendo, pássaros estão sumindo, solos estão sendo afetados, solos freáticos etc. 
 
 Há uma **grande aceleração**: uma aceleração da atividade humana desde a revolução industrial, e de todas as consequências relacionadas com isso. 
 
@@ -27,7 +27,7 @@ Abordam-se como os textos marxistas conseguem comportar discussões ambientais e
 
 O retorno a Marx e Engels **não se trata de um revisionismo das fontes originais**: o materialismo histórico^[Método marxista de compreensão da realidade, em que se olha para as condições materiais, em que se entende que tais condições são herdadas do passado, mas temos condições de transformar e fazer em outras condições pensando no futuro.] trata de lidar da relação entre **condições materiais** e a **natureza** implicitamente; **o capitalismo nos separa da natureza** (o exemplo claro disso é a urbanização da vida, onde as cidades são vistas como **disjuntas da natureza**). O impacto à natureza acaba por impactar a nós mesmos; é absurdo pensar-nos como disjuntos da natureza, como estando afastados da natureza. 
 
-## Metabolismo social
+## [[Metabolismo social]]
 Na Dialética da Natureza, Engels diz que subjugamos as forças da natureza e as pressionamos a serviço da humanidade, e que "a cada dez anos, há um crise". Se faz necessário de repensar nossa relação com a natureza. 
 
 ---
