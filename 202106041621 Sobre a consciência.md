@@ -1,4 +1,12 @@
 ---
+Date: Saturday, 26-02-2022 @ 11:58
+Tags:
+---
+# {{title}}
+
+---
+### Referências
+- ---
 Date: Friday, 04-06-2021 @ 16:21
 Source:
 Tags: marxism

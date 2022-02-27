@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "febc1625a18c1b71",
+        "id": "5e68ea0f867a952d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting Notes/Anotações sobre Trabalho de Base.md",
+            "file": "2. Literature Notes/Anotações sobre Trabalho de Base.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "demandas transitórias",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,6 +68,20 @@
     "type": "split",
     "children": [
       {
+        "id": "405de1247f3ffb49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "269a93d8dd98d3e6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "6a7126c417919081",
         "type": "tabs",
         "children": [
@@ -77,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/Anotações sobre Trabalho de Base.md",
+                "file": "2. Literature Notes/Anotações sobre Trabalho de Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +121,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "febc1625a18c1b71",
+  "active": "5e68ea0f867a952d",
   "lastOpenFiles": [
-    "Fleeting Notes/Anotações sobre Trabalho de Base.md",
-    "202201311828 Oposição Produção-Troca.md",
-    "202201291700 Antropoceno e Capitaloceno.md",
-    "202202102046 - Relação Dialética Educação-Política.md",
-    "Morin ─ Operadores Cognitivos de Pensamento Complexo.md",
-    "Morin ─ Circularidade.md",
-    "Morin ─ Operador Hologramático.md",
-    "Morin ─ Autoprodução.md",
-    "Filosofia/Marx/GL ─ Totalidade Concreta.md",
-    "Filosofia/Marx/GL ─ Formas de Objetividade.md"
+    "2. Literature Notes/Anotações sobre Trabalho de Base.md",
+    "3. Permanent Notes/Trabalho de Base.md",
+    "3. Permanent Notes/Sobre o marxismo ser uma ciência.md",
+    "3. Permanent Notes/Anotações sobre Trabalho de Base.md",
+    "Filosofia/Marx/Dialética Materialista.md",
+    "2. Literature Notes/Princípios do Trabalho Popular - Paulo Freire.md",
+    "Templates/Zettelkasting.md",
+    "teste2.md",
+    "teste.md",
+    "202106041621 Sobre a consciência.md"
   ]
 }
