@@ -10,3 +10,4 @@ A ideia de "capitaloceno" visa trazer o fator socioeconômico ao debate, ressalt
 ---
 ### Referências
 - https://www.youtube.com/watch?v=yyyu49_axss
+- [[202201291507 Curso PSOL Painel de Abertura]]

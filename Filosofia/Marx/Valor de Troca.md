@@ -12,7 +12,7 @@ Note-se que surge tal *proporcionalidade* entre valores de uso completamente dis
 
 > "[...] _o valor de troca_ não pode ser mais do que o **modo de expressão**, a "**forma de manifestação**" [_Erscheinungsform_] de um **conteúdo** que _dele_ pode ser **distinguido**"
 
-Tal quantidade comum é justamente a **quantidade de trabalho empregado** para a confecção dos valores de uso referidos, e é, então, chamada de **[[M ─ Valor|valor]]**: ela quantifica o tempo do puro dispêndio de energia humana necessária (em média) para a produção de um valor de uso. Ou seja, o valor de um diamante pode ser muito alto por ser algo muito raro e difícil de ser encontrado, e o valor da água pode ser baixíssimo por ser algo trivial de ser coletado. 
+Tal quantidade comum é justamente a **quantidade de trabalho empregado** para a confecção dos valores de uso referidos, e é, então, chamada de **[[Valor|valor]]**: ela quantifica o tempo do puro dispêndio de energia humana necessária (em média) para a produção de um valor de uso. Ou seja, o valor de um diamante pode ser muito alto por ser algo muito raro e difícil de ser encontrado, e o valor da água pode ser baixíssimo por ser algo trivial de ser coletado. 
 
 
 ---

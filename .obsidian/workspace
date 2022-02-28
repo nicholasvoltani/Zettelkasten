@@ -4,13 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "de0939f472bdebe9",
+        "id": "c0a45867a6f0583d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Literature Notes/Estratégia e Partido, Daniel Bensaid.md",
+            "file": "3. Permanent Notes/Oposição Produção-Troca.md",
             "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "b66eb2622dff107a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "3. Permanent Notes/Força de Trabalho.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,10 +52,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#marxism",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -92,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Estratégia e Partido, Daniel Bensaid.md",
+                "file": "3. Permanent Notes/Força de Trabalho.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,17 +134,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "de0939f472bdebe9",
+  "active": "b66eb2622dff107a",
   "lastOpenFiles": [
-    "2. Literature Notes/Estratégia e Partido, Daniel Bensaid.md",
-    "2. Literature Notes/202201301118 Curso PSOL - Ecossocialismo.md",
-    "2. Literature Notes/202201311248 Curso PSOL - Transição Energética.md",
-    "2. Literature Notes/202202031208 Curso PSOL - Racismo Ambiental.md",
-    "Filosofia/Marx/GL ─ Totalidade Concreta.md",
-    "2. Literature Notes/202202041204 Curso PSOL - Soberania Alimentar.md",
-    "2. Literature Notes/202202031103 Curso PSOL - Povos Originários.md",
-    "2. Literature Notes/202202011545 Curso PSOL - Amazônia e os desafios da Humanidade.md",
-    "Ruptura Metabólica.md",
-    "Templates/Zettelkasting.md"
+    "3. Permanent Notes/Força de Trabalho.md",
+    "3. Permanent Notes/Oposição Produção-Troca.md",
+    "3. Permanent Notes/Ciclo D─M─D'.md",
+    "3. Permanent Notes/Contradição entre Catástrofe Climática e Capitalismo.md",
+    "3. Permanent Notes/Antropoceno e Capitaloceno.md",
+    "3. Permanent Notes/Relação Dialética Educação-Política.md",
+    "2. Literature Notes/O Capital, I ─ Cap 4, Transformação do dinheiro em capital.md",
+    "3. Permanent Notes/Fetichismo da Mercadoria.md",
+    "Filosofia/Marx/Mercadoria.md",
+    "Filosofia/Marx/Trabalho.md"
   ]
 }

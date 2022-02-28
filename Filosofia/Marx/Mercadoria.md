@@ -8,7 +8,7 @@ A mercadoria nada mais é que um objeto externo que **satisfaz necessidades huma
 ## Decomposição em *valor de uso* e *valor \[de troca\]*
 > "Para se tornar mercadoria, é preciso que o produto, por meio da **troca**, seja transferido a **outrem**, **a quem vai servir** como valor de uso" (Nota de Rodapé de Engels, na 4ª Edição d'O Capital)
 
-Toda mercadoria possui tanto um [[M ─ Valor de Uso|valor de uso]] (ou seja, sua utilização específica) quanto um [[M ─ Valor de Troca|valor de troca]] (para ser trocada por outras mercadorias). Ou seja, embora toda mercadoria sirva para a satisfação de necessidades humanas, nem toda coisa que satisfaz necessidades humanas pode ser considerada mercadoria.
+Toda mercadoria possui tanto um [[Valor de Uso|valor de uso]] (ou seja, sua utilização específica) quanto um [[Valor de Troca|valor de troca]] (para ser trocada por outras mercadorias). Ou seja, embora toda mercadoria sirva para a satisfação de necessidades humanas, nem toda coisa que satisfaz necessidades humanas pode ser considerada mercadoria.
 
 Podem existir valores de uso que não sejam valor: valores de uso que são produzidos para uso próprio, **invés de para o mercado**! 
 > "Quem, por meio de seu produto, satisfaz **sua própria necessidade**, cria certamente valor de uso, mas não **mercadoria**." (Livro I ─ O Capital, p. 119)
