@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Literature Notes/202201301118 Curso PSOL - Ecossocialismo.md",
+            "file": "2. Literature Notes/Estratégia e Partido, Daniel Bensaid.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294
+    "width": 294,
+    "collapsed": true
   },
   "right": {
     "id": "eace1de1654574fd",
@@ -91,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/202201301118 Curso PSOL - Ecossocialismo.md",
+                "file": "2. Literature Notes/Estratégia e Partido, Daniel Bensaid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +124,7 @@
   },
   "active": "de0939f472bdebe9",
   "lastOpenFiles": [
+    "2. Literature Notes/Estratégia e Partido, Daniel Bensaid.md",
     "2. Literature Notes/202201301118 Curso PSOL - Ecossocialismo.md",
     "2. Literature Notes/202201311248 Curso PSOL - Transição Energética.md",
     "2. Literature Notes/202202031208 Curso PSOL - Racismo Ambiental.md",
@@ -131,7 +133,6 @@
     "2. Literature Notes/202202031103 Curso PSOL - Povos Originários.md",
     "2. Literature Notes/202202011545 Curso PSOL - Amazônia e os desafios da Humanidade.md",
     "Ruptura Metabólica.md",
-    "Templates/Zettelkasting.md",
-    "Metabolismo social.md"
+    "Templates/Zettelkasting.md"
   ]
 }
