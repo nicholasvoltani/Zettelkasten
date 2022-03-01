@@ -9,6 +9,11 @@ O trabalho surge como uma forma com que o homem *media* sua existência com a na
 
 Note-se que tal manipulação da natureza, sendo sempre [[202108102122 Pensamentos sobre alquimia|meramente formal]] com relação a suas condições materiais **dadas**, surge como criadora de [[Valor de Uso|valores de uso]], que satisfaçam necessidades humanas. 
 
+## Trabalho guiado a *um fim*
+A distinção entre o trabalho humano e o trabalho animal é que o ser humano o faz **visando um fim**, **idealizando-o** antes de sua execução plena; animais (até onde nós sabemos) realizam trabalho de maneira instintiva, sem uma idealização prévia de seu resultado.
+
+
+
 ## O trabalho no sistema capitalista
 No sistema capitalista, o trabalho torna-se cada vez mais um produtor de [[Valor de Troca|valores de troca]], produzindo [[Mercadoria|mercadorias]] meramente para vender, invés de produzi-las pensando em satisfazer necessidades materiais.
 
