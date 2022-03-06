@@ -1,6 +1,6 @@
 ---
 Date: Monday, 07-02-2022 @ 14:08
-Tags: curso-psol
+Tags: curso-psol, ambiental
 ---
 # Módulo 7 ─ Soberania Alimentar e Democratização da Terra (Kelli Mafort, MST)
 ## Introdução ao Debate
@@ -58,7 +58,7 @@ No Brasil, ganha força com as lutas sociais das décadas de 1950-1960, tendo co
 
 O fio condutor do debate predominante era a questão da **superação do subdesenvolvimento brasileiro**, e daí surge a ideia de que a estrutura fundiária concentradora, existente no país, era um obstáculo ao desenvolvimento nacional. O agronegócio é uma tendência reacionária a essa visão, sendo um projeto de reconcentração permanente das terras. Induzem um **"êxodo rural"** (o qual **não foi** espontâneo, foi **forçado** essencialmente). 
 
-Em particular sob a ditadura militar, há um revés significativo na questão agrária, com a repressão brutal de trabalhadores do campo, indígenas e negros/quilombolas, e com a tendência de **modernização conservadora**. Surge a tendência da monocultura e da utilização de agroquímicos nas plantações (adaptações de tecnologias de guerra na agricultura...?).
+Em particular sob a ditadura militar, há um revés significativo na questão agrária, com a repressão brutal de trabalhadores do campo, indígenas e negros/quilombolas, e com a tendência de **modernização conservadora**. Surge a tendência da [[Monocultura]] e da utilização de agroquímicos nas plantações (adaptações de tecnologias de guerra na agricultura...?).
 
 A questão da reforma agrária retorna na década de 1980, em particular com o Movimento de Moradores Rurais Sem Terra (1984), resultantes de movimentos de ocupação de terras. 
 

@@ -4,36 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "035f1878331f59ff",
+        "id": "100e39ab725b0ce7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Literature Notes/O Capital, I ─ Cap 5, O processo de trabalho e o processo de valorização.md",
-            "mode": "preview",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "dda020af5cc10d9f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "3. Permanent Notes/Processo de Valorização.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "193efbb6299f9457",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "3. Permanent Notes/Mais-valor.md",
+            "file": "2. Literature Notes/Apresentação sobre PL do Veneno.md",
             "mode": "source",
             "source": false
           }
@@ -64,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dialética",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294
+    "width": 294,
+    "collapsed": true
   },
   "right": {
     "id": "eace1de1654574fd",
@@ -124,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Permanent Notes/Processo de Valorização.md",
+                "file": "2. Literature Notes/Apresentação sobre PL do Veneno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,17 +131,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dda020af5cc10d9f",
+  "active": "100e39ab725b0ce7",
   "lastOpenFiles": [
-    "3. Permanent Notes/Processo de Valorização.md",
-    "2. Literature Notes/O Capital, I ─ Cap 5, O processo de trabalho e o processo de valorização.md",
-    "3. Permanent Notes/Mais-valor.md",
-    "3. Permanent Notes/Processo de Trabalho.md",
-    "2. Literature Notes/202202071624 Curso PSOL - Mineração.md",
-    "3. Permanent Notes/GL ─ Reificação.md",
-    "3. Permanent Notes/Matéria-Prima.md",
+    "2. Literature Notes/Apresentação sobre PL do Veneno.md",
     "2. Literature Notes/202201311248 Curso PSOL - Transição Energética.md",
-    "3. Permanent Notes/Ecossocialismo.md",
-    "3. Permanent Notes/Ciclo M─D─M.md"
+    "2. Literature Notes/202202071407 Curso PSOL - Democratização da Terra.md",
+    "2. Literature Notes/202201301118 Curso PSOL - Ecossocialismo.md",
+    "2. Literature Notes/202202011545 Curso PSOL - Amazônia e os desafios da Humanidade.md",
+    "2. Literature Notes/Anotações sobre Trabalho de Base.md",
+    "2. Literature Notes/202201291507 Curso PSOL Painel de Abertura.md",
+    "3. Permanent Notes/Antropoceno e Capitaloceno.md",
+    "2. Literature Notes/202202071624 Curso PSOL - Mineração.md",
+    "2. Literature Notes/202202041204 Curso PSOL - Soberania Alimentar.md"
   ]
 }

@@ -1,6 +1,6 @@
 ---
 Date: Monday, 31-01-2022 @ 12:48
-Tags: curso-psol
+Tags: curso-psol, ambiental
 ---
 # Módulo 2 ─ Emergência Climática e Transição Energética (Alexandre Costa)
 ## Bases físicas
@@ -97,7 +97,7 @@ Se faz necessário necessário que
 - Fontes de Biomassa: eucalipto (**desertos verdes**!)
 - Fontes de óleos vegetais: soja, dendê
 
-Note-se que a maioria das plantas envolvidas vêm de **monocultura** e da concentração de terras, exploração de força de trabalho etc. 
+Note-se que a maioria das plantas envolvidas vêm de **[[Monocultura|monoculturas]]** e da concentração de terras, exploração de força de trabalho etc. 
 Não só outros usos da terra, mas usos da **água** também, para **irrigação**.
 - Impactos sobre biodiversidade (Mata Atlântica, Cerrado, etc)
 - Uso de agrotóxicos e fertilizantes

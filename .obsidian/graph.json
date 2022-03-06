@@ -32,7 +32,14 @@
       "query": "tag:#curso-psol",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 1629932
+      }
+    },
+    {
+      "query": "tag:#ambiental",
+      "color": {
+        "a": 1,
+        "rgb": 886276
       }
     }
   ],
@@ -46,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 0.591112353269983,
   "linkDistance": 250,
-  "scale": 0.42633184267958657,
+  "scale": 0.3227158772142489,
   "close": true
 }

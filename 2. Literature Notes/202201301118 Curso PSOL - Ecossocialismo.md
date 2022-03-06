@@ -1,6 +1,6 @@
 ---
 Date: Sunday, 30-01-2022 @ 11:19
-Tags: curso-psol, marxism 
+Tags: curso-psol, marxism, ambiental
 ---
 # Módulo 1 ─ [[Ecossocialismo]] (Sabrina Fernandes)
 ## O que é ecossocialismo?
@@ -78,7 +78,7 @@ Ver como encarceramento em massa é responsável por emissões de carbono e gase
 
 ## Transição energética
 Passagem de uma matriz energética focado em combustíveis fósseis para uma com baixa/zero emissões de carbono, a partir de fontes renováveis: eólica, solar, biocombustíveis. 
-Mas não de qualquer jeito: por exemplo, biocombustíveis não podem estar associados ao **agronegócio**, nem a **monoculturas**! (Ou seja, que não esteja vinculados ao setor privado!)
+Mas não de qualquer jeito: por exemplo, biocombustíveis não podem estar associados ao **agronegócio**, nem a **[[Monocultura|monoculturas]]**! (Ou seja, que não esteja vinculados ao setor privado!)
 
 Se faz necessário falar sobre processos de privatização de nossas estatais de energia ─ mesmo que seja a Petrobras, pois é muito contraproducente que simplesmente se feche a Petrobras pois "ela lida com combustíveis fósseis": ela emprega trabalhadores, e eles?
 
