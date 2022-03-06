@@ -28,7 +28,7 @@ Por ser uma empresa de exportação de *commodities*, as variações internacion
 
 As promessas de melhoras em índices de vida, saúde, emprego pleno faladas pela empresa são falaciosas, tanto porque os empregos gerados para a população local são sempre **terceirizados**; os melhores cargos são ocupados por pessoas de fora da região. 
 
-Plínio Arruda Sampaio Jr. diz que a atividade brasileira está se tornando cada vez mais **neocolonial**; por decorrência disso, os empregos estão se tornando cada vez mais **neoescravistas**: direitos sociais cortados, terceirização de empregos, redução de condições de vida de trabalhadores^[Por exemplo, na dificuldade do transporte público, de trens e ônibus empregados para outrora para mobilização urbana, que foram monopolizados para o transporte de mercadorias.]
+Plínio Arruda Sampaio Jr. diz que a atividade brasileira está se tornando cada vez mais **neocolonial**; por decorrência disso, os empregos estão se tornando cada vez mais **neoescravistas**: direitos sociais cortados, terceirização de empregos, redução de condições de vida de trabalhadores^[Por exemplo, na dificuldade do transporte público, de trens e ônibus empregados para outrora para mobilização urbana, que foram monopolizados para o transporte de [[Mercadoria|mercadorias]].]
 
 Há uma forte dependência, e influência, **política**: em particular quanto aos desastres ambientais de Brumadinho e Mariana, as decisões de acordos foram feitas *a portas fechadas*. Há um projeto de construir um Rodoanel em Belo Horizonte (também chamado por movimentos socioambientais de Rodominério); ou seja, mesmo na infraestrutura há um dedo das mineradoras. 
 
@@ -39,28 +39,31 @@ Por conta dessas atividades, há uma enome degradação ambiental, viabilizada m
 > and desecrated places." (Wendell Berry)
 
 ### Dominação dos territórios
-Surge uma dependência completa de territórios por mineradoras; não há uma consciência de alternativas à atividade desses gigantes, e isso mesmo quando surgem propostas devastadoras às cidades (como barragens). Acidentes naturais são associados a **fenômenos naturais**, invés de ver a culpabilidade das mineradoras e empresas associadas em tais acidentes. (A menos que sejam condomínios de luxos que sejam ameaçados...)
+Surge uma dependência completa de territórios por mineradoras; não há uma consciência de alternativas à atividade desses gigantes, e isso mesmo quando surgem propostas devastadoras às cidades (como barragens). Acidentes naturais são associados a **fenômenos naturais**, invés de ver a culpabilidade das mineradoras e empresas associadas em tais acidentes. (A menos que sejam [[Racismo Ambiental|condomínios de luxos]] que sejam ameaçados...)
 
 
 ## Crimes socioambientais perpetrados pelo mineronegócio
-> "_I_
+> _I_
 _O Rio? É doce.  
 A Vale? Amarga.  
 Ai, antes fosse  
 Mais leve a carga._
-_II_
+>
+>_II_
 _Entre estatais  
 E multinacionais,  
 Quantos ais!_
-_III_
+>
+>_III_
 _A dívida interna.  
 A dívida externa  
 A dívida eterna._
-_IV_
+>
+>_IV_
 _Quantas toneladas exportamos  
 De ferro?  
 Quantas lágrimas disfarçamos  
-Sem berro?_" 
+Sem berro?_
 (**Lira Itabirana**, Carlos Drummond de Andrade)
 
 - Rompimento de barragens em Miraí, Macacos, Itatiaia
@@ -70,6 +73,7 @@ Sem berro?_"
 ![[Pasted image 20220207172620.png]]
 ![[Pasted image 20220207172710.png]]
 <center> (Imagens do Instituto Prístino) </center>
+
 Moradores de cidades com barragens vivem num medo constante das chuvas, as quais podem fazer com que as barragens transbordem e causem destruição, seja em rodovias, seja na própria cidade. 
 
 Exemplo: **Barcarena, MG**. A mineradora norueguesa Hydro foi responsável por vazar materiais pesados nas águas da região (influenciando ribeirinhos que ali viviam há gerações). 
@@ -85,7 +89,7 @@ Se faz necessário que se veja os impactos não somente no momento do rompimento
 - Biodiversidade comprometida
 - Recursos hídricos contaminados (rios, riachos, mananciais, cachoeiras, aquíferos)
 - Dependência dos valores internacionais das *commodities* presentes em dada cidade
-	- Induz um processo de adoecimento mental quanto à dependência parasitária mas vista como "imprescindível" à manutenção da vida econômica na cidade
+	- Induz um processo de adoecimento mental quanto à dependência parasitária mas vista como "imprescindível" à manutenção da vida econômica na cidade ([[M&E ─ Surgimento da alienação]])
 
 ## Ecossocialismo como uma saída para a minério-dependência
 Se faz necessário com que se rompa com a lógica, e o modo de produção, capitalista, a fim de romper com a dependência com as mineradoras alojadas. 
