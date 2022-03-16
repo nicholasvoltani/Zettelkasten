@@ -8,7 +8,6 @@ Vivemos em sociedade e, portanto, estamos atrelados às visões de mundo de outr
 > "Eu só falo **com** na medida em que *escuto* também. 
 > Eu só *escuto* na medida em que eu *respeito*, inclusive o que fala **me contradizendo**." (grifo meu)
 
-
 > "No Brasil, tá cheio de gente falando **pra** gente, mas não **com** a gente. Faz anos que o povo brasileiro leva porrete. (...) O terrível é ver um montão de gente se proclamando de esquerda e continuar falando **ao** povo e não **com** o povo, numa contradição extraordinária com a própria esquerda." (grifo meu)
 
 > "Se me convenci desse falar **com**, desse escutar, então meu trabalho vai partir sempre das **condições concretas em que o povo está**. Meu trabalho vai partir dos níveis, das maneiras e das formas como **o povo** compreende na realidade, e não apenas da maneira como *eu* entendo a realidade." (grifo meu)

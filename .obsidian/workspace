@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ffa429a944b9dc81",
+        "id": "94b4a94e0ba57207",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Literature Notes/Leituras d'O Capital─ Cap 8 & 9.md",
+            "file": "1. Fleeting Notes/Segundas contra o Capital ─ Encontro 1.md",
             "mode": "source",
             "source": false
           }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Leituras d'O Capital─ Cap 8 & 9.md",
+                "file": "1. Fleeting Notes/Segundas contra o Capital ─ Encontro 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,17 +131,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ffa429a944b9dc81",
+  "active": "94b4a94e0ba57207",
   "lastOpenFiles": [
+    "1. Fleeting Notes/Segundas contra o Capital ─ Encontro 1.md",
+    "2. Literature Notes/Anotações sobre Trabalho de Base.md",
+    "2. Literature Notes/Princípios do Trabalho Popular - Paulo Freire.md",
+    "3. Permanent Notes/Untitled.md",
     "2. Literature Notes/Leituras d'O Capital─ Cap 8 & 9.md",
     "2. Literature Notes/O Capital, I ─ Cap 8, A jornada de trabalho.md",
     "2. Literature Notes/O Capital, I ─ Cap 9, Taxa e massa de mais-valia.md",
     "2. Literature Notes/O Capital, I ─ Cap 4, Transformação do dinheiro em capital.md",
     "2. Literature Notes/Anotações sobre Crise Climática e Desastres Socioambientais ─ BRCidades.md",
-    "2. Literature Notes/Anotações sobre Trabalho de Base.md",
-    "3. Permanent Notes/Untitled.md",
-    "2. Literature Notes/O Capital, I ─ Cap 5, O processo de trabalho e o processo de valorização.md",
-    "2. Literature Notes/Apresentação sobre PL do Veneno.md",
-    "2. Literature Notes/202201311248 Curso PSOL - Transição Energética.md"
+    "2. Literature Notes/O Capital, I ─ Cap 5, O processo de trabalho e o processo de valorização.md"
   ]
 }
