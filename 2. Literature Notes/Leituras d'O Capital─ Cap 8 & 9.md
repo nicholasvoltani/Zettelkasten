@@ -66,7 +66,7 @@ Produtividade: conceito mais econômico, de ver "quanto produzi **por hora**, ou
 ## Modelo da Wise-Up
 Contrata trabalhador de PJ (tira encargos seletistas), e não tem hora pra trabalhar nem dia: é em sua mão. Mas ela diz: "vocÊ tem 6 meses, nos 2 primeiros meses faça tantas vendas". Não há salário, para **cada venda** há um preço que se ganha. Quanto mais se vende, mais se ganha.
 
-Capítulos do Marx de **Salário por tempo** e **salário por peça**: o controle do processo de trabalho está sob os ombros **do trabalhador**; tal flexibilidade é uma ilusão. 
+Capítulos do Marx de **Salário por tempo** e **salário por peça**: o controle do processo de trabalho está sobre os ombros **do trabalhador**; tal flexibilidade é uma ilusão. 
 
 **0-hour contract**: não há jornada de trabalho, vocÊ controla o quanto produz. Se vocÊ trabalhar, vocÊ ganha; senão, não. Ilusão de que "se ganha pelo que se trabalha", e de não ganhar pelo que não se ganha. 
 
@@ -91,13 +91,13 @@ Eles não vendem sua força de trabalho; vendem uma **mercadoria específica**. 
 O Estado não é **um** capitalista; é um **escritório da classe capitalista** (segundo Marx). Sua natureza não é "valorizar o capital"; a relação entre o funcionário público e governo não é de um trabalhador com um capitalista. 
 
 ## Trabalho improdutivo $\neq$ trabalho inútil
-Trabalho improdutivo: **não produz mercadoria** **ou** que trabalhador **não estabelece assalariamento com capitalista**.
+Trabalho improdutivo: **não produz mercadoria** **ou** no qual o trabalhador **não estabelece assalariamento com capitalista**.
 
 Trabalho produtivo: produz mercadoria **&** tem relação de assalariamento com capitalista (ou seja, é produtivo **se gerar *mais-valor*!!**)
 
 Ex de professores:
 * Professor produtivo: produz aula (conhecimento etc)
-* Servidor público: não possui relação assalariada com **um capitalitsta** (é improdutivo)
+* Servidor público: não possui relação assalariada com **um capitalista** (é improdutivo)
 * Autônomo: não tem tal relação (é improdutivo)
 
 Professor só é trabalho produtivo se for **contratado por uma empresa privada**.

@@ -21,7 +21,7 @@ Parte-se de uma visão **feminista marxista**: para abolir o patriarcado, precis
 3. **Teoria Unitária**: patriarcado **não** é um sistema autônomo do capitalismo, mas permeia todas as relações (inter)pessoais. 
 
 ### Exemplo ilustrativo: mulher do capitalista e mulher do trabalhador imigrante
-Crer em uma distinção classe patriarcal e classe capitalista. Muitas pessoas têm noções distantes de classe, seja pela visão da **esposa do capitalista** e da **esposa do trabalhador imigrante**. Quando não se toma classe como algo importante, igualam-se essas duas mulheres, como se seus respectivos homens fossem seus opressores, sem perceber a noção concreta que permeia ambas; supõe-se que a sociedade reduz-se a homens versus mulheres. 
+Crer em uma distinção classe patriarcal-classe capitalista. Muitas pessoas têm noções distantes de classe, seja pela visão da **esposa do capitalista** e da **esposa do trabalhador imigrante**. Quando não se toma classe como algo importante, igualam-se essas duas mulheres, como se seus respectivos homens fossem seus opressores, sem perceber a noção concreta que permeia ambas; supõe-se que a sociedade reduz-se a homens versus mulheres. 
 
 Compreender a realidade não é abdicar da crença da existência do patriarcado; todo homem pode tirar vantagem de seu privilégio machista, de opressão às mulheres; *eles não sabem, mas o fazem*. 
 
@@ -71,9 +71,9 @@ Crianças são ensinadas especificamente, que as mães tÊm de cozinhar para si,
 
 Parte-se da premissa de que **o Brasil usou o escravismo como impulso rumo ao capitalismo, mas não era capitalista per se**. 
 
-Prevalência de mais-valor absoluto (jornada de trabalho máxima). Expec vida 20 anos.
+Prevalência de [[Mais-valor Absoluto]] (jornada de trabalho máxima). Expec vida 20 anos.
 
-Expansão do mais-valor relativo: deslocar certa parte da sociedade que não tivessem de trabalhar tanto (e que durassem mais), para garantir que certa parte **aja como mantenedora da classe trabalhadora**. 
+Expansão do [[Mais-valor Relativo]]: deslocar certa parte da sociedade que não tivessem de trabalhar tanto (e que durassem mais), para garantir que certa parte **aja como mantenedora da classe trabalhadora**. 
 
 Estratégias de reprodução:
 - Exógena: compra de novos trabalhadores (trazer da África)
@@ -110,7 +110,6 @@ Podem-se aceitar formas diferentes de família, desde que elas continuem a repro
 	- Quais são os destaques da primeira revolução socialista vitoriosa (Rev Russa) quanto à pauta feminista?
 - Terezinha: os **valores** das pessoas estão em discussão; por isso a religião acaba pegando tanta gente, por pegar na questão dos valores, da cultura dominante. 
   Mas como tais teorias feministas estão atingindo **a base**? mesmo eles sendo os principais afetados e explorados
-- Lucas Arean: 
 
 
 ---
