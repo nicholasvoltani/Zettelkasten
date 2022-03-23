@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Literature Notes/O Capital, I ─ Cap 5, O processo de trabalho e o processo de valorização.md",
+            "file": "2. Literature Notes/Apresentação sobre PL do Veneno.md",
             "mode": "preview",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "PL do veneno",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -57,11 +57,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 294
+    "width": 294,
+    "collapsed": true
   },
   "right": {
     "id": "eace1de1654574fd",
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/O Capital, I ─ Cap 5, O processo de trabalho e o processo de valorização.md",
+                "file": "2. Literature Notes/Apresentação sobre PL do Veneno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,11 +134,11 @@
   },
   "active": "94b4a94e0ba57207",
   "lastOpenFiles": [
+    "2. Literature Notes/Apresentação sobre PL do Veneno.md",
     "2. Literature Notes/O Capital, I ─ Cap 5, O processo de trabalho e o processo de valorização.md",
     "2. Literature Notes/O Capital, I ─ Cap 4, Transformação do dinheiro em capital.md",
     "2. Literature Notes/Leituras d'O Capital─ Cap 8 & 9.md",
     "2. Literature Notes/Estratégia e Partido, Daniel Bensaid.md",
-    "2. Literature Notes/Apresentação sobre PL do Veneno.md",
     "2. Literature Notes/Anotações sobre Trabalho de Base.md",
     "2. Literature Notes/A “tradicional família brasileira” e o trabalho reprodutivo\".md",
     "2. Literature Notes/Anotações sobre Crise Climática e Desastres Socioambientais ─ BRCidades.md",
