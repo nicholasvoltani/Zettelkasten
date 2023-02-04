@@ -1,3 +1,7 @@
 {
-  "baseFontSize": 12
+  "baseFontSize": 10,
+  "cssTheme": "Blue Topaz",
+  "accentColor": "",
+  "enabledCssSnippets": [],
+  "nativeMenus": false
 }

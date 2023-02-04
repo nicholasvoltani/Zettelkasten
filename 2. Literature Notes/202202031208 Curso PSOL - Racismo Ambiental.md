@@ -43,8 +43,8 @@ Evitar o "**romantismo**" dos povos minoritários: é um processo de **desumaniz
 
 
 ## Ruptura com pré-conceitos
-- A humanidade está **toda** destruindo o planeta: quem destroi o planeta, prioritariamente, são os **ricos**, pois eles têm mais poder e acesso ao Estado (poder institucionalizado)
-- Basta que eu **faça a minha parte**: a atitude individual é importante, mas não enfrenta o problema real das desigualdades estruturais, se não repensar na dissociação homem-natureza, se não repensar as formas de uso e ocupação de territórios pelos capitalistas, se não repensar as formas políticas visando mais igualdade e justiça. 
+- "A humanidade está **toda** destruindo o planeta": quem destroi o planeta, prioritariamente, são os **ricos**, pois eles têm mais poder e acesso ao Estado (poder institucionalizado)
+- "Basta que eu **faça a minha parte**": a atitude individual é importante, mas não enfrenta o problema real das desigualdades estruturais, se não repensar na dissociação homem-natureza, se não repensar as formas de uso e ocupação de territórios pelos capitalistas, se não repensar as formas políticas visando mais igualdade e justiça. 
 
 ## Coisas importantes para consideração de populações minoritárias
 - Perda das condições de vida

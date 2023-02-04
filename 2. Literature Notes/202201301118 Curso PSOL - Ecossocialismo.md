@@ -68,10 +68,11 @@ Geralmente são povos ribeirinhos, indígenas, quilombolas, negros, os quais sã
 ---
 # Propostas do Ecossocialismo
 ## [[Transição Justa]]
-É preciso que se "ganhe tempo" para que se avance as correlações de força ─ a conscientização da classe trabalhadora, combate à poluição, o desmatamento, auxílio a refugiados climáticos etc., ações concretas ─ até que se possa, efetivamente, fazer uma revolução. 
+É preciso que se "ganhe tempo" para que se avance as correlações de força ─ a conscientização da classe trabalhadora, combate à poluição, o [[Desmatamento para atividades agropecuárias]], auxílio a refugiados climáticos etc., ações concretas ─ até que se possa, efetivamente, fazer uma revolução. 
 > "Medidas reformistas são valiosas, até necessárias, **somente enquanto elas melhorarem nossa capacidade de sobrevivência e nos ensinarem como prosseguir [adiante]**. Mas elas se tornam um obstáculo se formos enganados a pensar que **reformas são suficientes por si sós**, especialmente se forem outorgadas para **fortalecer o sistema capitalista** (...)"
 > 
-("*Reformist measures are valuable, even necessary, **insofar as they improve our survivability and teach us how to proceed [further]**. But they become a hindrance if we are misled into thinking that **reform is sufficient in itself**, especially if installed to **strengthen the capital system** (...)*") (Joel Kovel, *The End of Nature*)
+("*Reformist measures are valuable, even necessary, **insofar as they improve our survivability and teach us how to proceed [further]**. But they become a hindrance if we are misled into thinking that **reform is sufficient in itself**, especially if installed to **strengthen the capital system** (...)*") 
+(Joel Kovel, *The Enemy of Nature*)
 
 ## Lidando com Racismo Ambiental
 Ver como encarceramento em massa é responsável por emissões de carbono e gases de efeito estufa ─ por uma organização social das cidades que cria uma segregação social, o que impede que haja uma cidade mais interconectada e sustentável. Disso vem a necessidade de um **direito à cidade**, de transporte público gratuito e acessível, interconectado com trabalho, lazer e moradia; **reformas urbanas** de forma sustentável e ecológica, a fim de permitir a saúde dos moradores. 

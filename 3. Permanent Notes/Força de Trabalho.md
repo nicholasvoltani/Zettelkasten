@@ -12,15 +12,15 @@ A força de trabalho é o **conjunto de capacidades físicas e mentais** de um t
 2. A força de trabalho deve ser **a única mercadoria à venda** do trabalhador 
 	1. Ou seja, o trabalhador **não** pode ter acesso aos [[Meios de Produção]]
 	2. Por conseguinte, o trabalhador não pode ter como produzir mercadorias por conta própria
-	3. Portanto, o trabalhador não tem como produzir mercadorias que não sejam sua própria corporiedade física/mental
+	3. Portanto, o trabalhador não tem como produzir mercadorias, senão sua própria corporiedade física/mental
 
-## [[Valor de uso]] da força de trabalho
+## [[Valor de Uso]] da força de trabalho
 > "O processo de consumo da força de trabalho é simultaneamente o **processo de produção da mercadoria e do mais-valor**" (p. 250)
 
 O valor de uso da força de trabalho é justamente seu usufruto no processo de produção: quando seu corpo/mente **trabalham** na confecção da mercadoria em cuja produção ela estiver sendo empregada no momento. 
 
-## [[Valor]] da força de trabalho
-O valor de uma mercadoria é o **trabalho socialmente necessário** para a sua produção; portanto, o valor da força de trabalho é justamente o valor dos meios de subsistência que permitam que a força de trabalho opere de maneira **normal** (não só para permitir a sobrevivência do trabalhador, mas para que produza de maneira **normal**). 
+## [[Valor da força de trabalho]]
+O [[Valor]] de uma mercadoria é o **trabalho socialmente necessário** para a sua produção; portanto, o valor da força de trabalho é justamente o valor dos meios de subsistência que permitam que a força de trabalho opere de maneira **normal** (não só para permitir a sobrevivência do trabalhador, mas para que produza de maneira **normal**). 
 
 Portanto, o valor diário da força de trabalho é justamente o valor correspondente dos meios de subsistência necessários para sua manutenção/reprodução; na prática, não são o valor de manutenção **diária**, mas sim **anual**, em média. 
 
@@ -34,3 +34,5 @@ Tal geração de mais-valor é o que possibilita o [[Ciclo D─M─D']], o qual 
 ---
 ### Referências
 - [[O Capital, I ─ Cap 4, Transformação do dinheiro em capital]]
+- [@EstrategiaPartido]
+- [@hestenesOerstedMedalLecture2003]

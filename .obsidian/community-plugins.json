@@ -1,7 +1,14 @@
 [
-  "obsidian-git",
   "obsidian-latex-environments",
   "obsidian-latex",
-  "sliding-panes-obsidian",
-  "obsidian-markdown-formatting-assistant-plugin"
+  "obsidian-markdown-formatting-assistant-plugin",
+  "obsidian-citation-plugin",
+  "obsidian-minimal-settings",
+  "obsidian-tidy-footnotes",
+  "obsidian-footnotes",
+  "find-unlinked-files",
+  "obsidian-contextual-typography",
+  "calendar",
+  "url-into-selection",
+  "tag-wrangler"
 ]

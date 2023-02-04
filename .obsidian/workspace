@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "94b4a94e0ba57207",
+        "id": "d33c793dd2fcdad0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Literature Notes/Apresentação sobre PL do Veneno.md",
-            "mode": "preview",
+            "file": "0x3 MOC Geografia.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PL do veneno",
+                "query": "planalto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,46 +69,23 @@
     "type": "split",
     "children": [
       {
-        "id": "405de1247f3ffb49",
+        "id": "80972fdb92b71b91",
         "type": "tabs",
         "children": [
           {
-            "id": "269a93d8dd98d3e6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "8cf4a306b36e754c",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "6a7126c417919081",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a52b74ac280acae5",
+            "id": "e9f52b70b12bab39",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Literature Notes/Apresentação sobre PL do Veneno.md",
+                "file": "0x3 MOC Geografia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -120,29 +96,77 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "aea7c0aa41bbc3c4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "a89fd6cf055fdc37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39103c38c003280c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "0x3 MOC Geografia.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6469100970292685,
+                  "close": true
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 323,
     "collapsed": true
   },
-  "active": "94b4a94e0ba57207",
+  "active": "d33c793dd2fcdad0",
   "lastOpenFiles": [
-    "2. Literature Notes/Apresentação sobre PL do Veneno.md",
-    "2. Literature Notes/O Capital, I ─ Cap 5, O processo de trabalho e o processo de valorização.md",
-    "2. Literature Notes/O Capital, I ─ Cap 4, Transformação do dinheiro em capital.md",
-    "2. Literature Notes/Leituras d'O Capital─ Cap 8 & 9.md",
-    "2. Literature Notes/Estratégia e Partido, Daniel Bensaid.md",
-    "2. Literature Notes/Anotações sobre Trabalho de Base.md",
-    "2. Literature Notes/A “tradicional família brasileira” e o trabalho reprodutivo\".md",
-    "2. Literature Notes/Anotações sobre Crise Climática e Desastres Socioambientais ─ BRCidades.md",
-    "1. Fleeting Notes/Segundas contra o Capital ─ Encontro 1.md",
-    "1. Fleeting Notes/202108102122 Pensamentos sobre alquimia.md"
+    "Massas de Ar no Brasil.md",
+    "Massa de Ar Equatorial Continental (mEc).md",
+    "0x3 MOC Geografia.md",
+    "Crise Hídrica em 2021.md",
+    "Filosofia/Marx/GL ─ Características de um estudo científico.md",
+    "Bacia do Paraná.md",
+    "Bacia Platina.md",
+    "Bacia do Tocantins-Araguaia.md",
+    "Bacia do São Francisco.md",
+    "Complexo Carajás.md"
   ]
 }

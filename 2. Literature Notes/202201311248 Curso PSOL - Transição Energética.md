@@ -23,7 +23,7 @@ O equilíbrio climático depende do **equilíbrio dos fluxos de energia**:
 
 # Causa de acúmulo desses gases: emissão associada às atividades humanas
 - Queima de combustíveis fósseis (geração de eletricidade, transporte)
-- Desmatamento (queima de matéria orgânica)
+- [[Desmatamento para atividades agropecuárias]] (queima de matéria orgânica)
 	- É a principal causa no Brasil!
 - Emissões não-neutras da agropecuária: casos de muitos **animais ruminantes**, os quais liberam metano invés de $CO_2$ de volta à atmosfera (rompe com o ciclo de carbono da fotossíntese/vida orgânica)
 	- Uso de **fertilizantes nitrogenados** na agricultura: tendem a se decompor e a emitir óxido nitroso $N_2 O$ (1 grama de $N_2 O$ equivalem a 265 g de $CO_2$, no aquecimento global **na escala de 100 anos**!)

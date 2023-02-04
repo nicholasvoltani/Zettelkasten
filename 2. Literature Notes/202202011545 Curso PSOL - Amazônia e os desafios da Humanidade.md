@@ -115,7 +115,7 @@ Para ter esse debate de maneira justa, devemos nos entender como **sujeitos plan
 - **FUNAI** (Fundação Nacional do Índio): órgão indigenista oficial do Estado brasileiro (1967), vinculado ao Ministério da Justiça e Segurança Pública. 
 - **Instituto Chico Mendes de Conservação da Biodiversidade** (ICM-Bio): autarquia em regime especial, responsável por programas de **pesquisa, proteção, preservação e conservação da biodiversidade**, e exercer papel de **polícia ambiental** de Unidades de Conservação. 
 - **INPE** (Instituto Nacional de Pesquisas Espaciais): instituto federal dedicado à pesquisa, desenvolvimento e aplicações em **Sensoriamento Remoto e Processamento de Imagens Digitais**. Atua em Ciências Meteorológicas, Meteorologia por Satélites, Previsão do Tempo e Climatologia. 
-- **SIPAM** (Sistema de Proteção da Amazônia): Vindo de um acordo nacional com os EUA, busca integrar informações e gerar conhecimento atualizado para **articulação, planejamento e coordenação de ações globais de governo na Amazônia Legal** brasileira (contra garimpo, tráfico de drogas, desmatamento).
+- **SIPAM** (Sistema de Proteção da Amazônia): Vindo de um acordo nacional com os EUA, busca integrar informações e gerar conhecimento atualizado para **articulação, planejamento e coordenação de ações globais de governo na Amazônia Legal** brasileira (contra garimpo, tráfico de drogas, [[Desmatamento para atividades agropecuárias]]).
 - **SPU** (Secretaria do Patrimônio da União)
 - Redes de proteção de **Universidades Federais** 
 

@@ -11,7 +11,7 @@ mulheres são as primeiras a serem atingidas pela fome.
 Esteira dos movimentos feministas na América Latina: conquista do aborto.
 
 ## Apresentação: Ana Carolina Andrade
-**Cinzia Arruda**: Autora de "Feminismo para os 99%".
+**Cinzia Arruzza**: Autora de "Feminismo para os 99%".
 
 Parte-se de uma visão **feminista marxista**: para abolir o patriarcado, precisa-se do fim da propriedade privada dos meios de produção e divisão sexual do trabalho.
 
@@ -42,7 +42,7 @@ Teoria da Reprodução Social fala sobre a reprodução a nível **societal** (n
 Logo, o capitalismo é um sistema unitário que pode integrar (mesmo que de maneira desigual) a esfera da produção e a esfera da reprodução, que acabam se relacionando. A opressão das mulheres existia antes do sistema capitalista; não obstante isso, precisamos superar o sistema atual **junto com tal opressão**.
 
 #### Sobre a reprodução e direitos reprodutivos
-Justiça reprodutiva: não só direito de escolha sobre ter/não ter um filho, como tê-lo etc^[Como tem sido bem tocado pelo movimento negro.], mas também que mulheres tenham direitos no sentido da reprodução social, de que tenham direitos **sociais** quanto à reprodução.
+Justiça reprodutiva: não só direito de escolha sobre ter/não ter um filho, sobre como tê-lo etc^[Como tem sido bem tocado pelo movimento negro.], mas também que mulheres tenham direitos no sentido da reprodução social, de que tenham direitos **sociais** quanto à reprodução.
 
 ### Luta de direitos
 - Direitos Gerais
@@ -61,7 +61,7 @@ Exemplos de sistemas não-generificadas: sociedade na África, na Índia (sem di
 
 Estereótipos de gênero foram usados como estratégias colonialistas, racistas (ação originária de capital).
 
-### Surgimento efetiva do machismo
+### Surgimento efetivo do machismo
 Força de trabalho vendida => gasto de energia => tenham que repor sua energia
 
 Crianças são ensinadas especificamente, que as mães tÊm de cozinhar para si, que não podem ir nas casas de outras pessoas, etc.
@@ -115,4 +115,4 @@ Podem-se aceitar formas diferentes de família, desde que elas continuem a repro
 ---
 ### Referências
 - **Formação "Feminismo e Marxismo, A “tradicional família brasileira” e o trabalho reprodutivo"**, Ecoar.
-- , Cinzia Arruda.
+- , Cinzia Arruzza.

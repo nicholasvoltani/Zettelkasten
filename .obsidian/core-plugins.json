@@ -4,6 +4,7 @@
   "switcher",
   "graph",
   "backlink",
+  "canvas",
   "tag-pane",
   "page-preview",
   "templates",
@@ -14,6 +15,5 @@
   "zk-prefixer",
   "word-count",
   "slides",
-  "open-with-default-app",
   "file-recovery"
 ]

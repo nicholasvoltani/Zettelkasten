@@ -10,7 +10,8 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "newFileLocation": "folder",
-  "newFileFolderPath": "3. Permanent Notes",
-  "attachmentFolderPath": "Attachments"
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
+  "attachmentFolderPath": "Attachments",
+  "showInlineTitle": true
 }

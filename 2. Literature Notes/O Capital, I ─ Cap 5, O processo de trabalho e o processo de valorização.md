@@ -43,7 +43,7 @@ Matérias-primas podem tanto ser minérios que foram coletados de uma mina (ou s
 > "Aqui, os valores de uso só são produzidos **porque e na medida em que** são o **substrato material**, os **suportes do [[Valor de Troca]]**.
 > E, para nosso capitalista, trata-se de duas coisas.
 > Primeiramente, ele quer produzir um valor de uso **que tenha um valor de troca** (...).
-> Em segundo lugar, quer produzir uma mercadoria cujo valor seja **maior do que a soma do valor das mercadorias requeridas para sua produção**, os meios de produção e a força de trabalho, para cuja compra ele adiantou seu dinhero no mercado.
+> Em segundo lugar, quer produzir uma mercadoria cujo valor seja **maior do que a soma do valor das mercadorias requeridas para sua produção**, os meios de produção e a força de trabalho, para cuja compra ele adiantou seu dinheiro no mercado.
 > 
 > Ele quer produzir não só um valor de uso, mas uma mercadoria;
 > não só valor de uso, mas valor, e não só valor, mas também **mais-valor**." (p. 263)
@@ -59,9 +59,9 @@ Portanto, o valor da [[Mercadoria]] produzida pela Força de Trabalho tem seu va
 ## Transformação do dinheiro em [[Capital]]
 > "Esse ciclo inteiro, a transformação [do] dinheiro em capital, ocorre no **interior** da esfera da circulação, porque é determinado pela **compra da força de trabalho** no mercado. Mas ocorre **fora** da circulação, pois esta [a esfera da circulação] apenas dá início ao processo de valorização, que tem lugar na esfera da **produção**." (p. 271)
 
-## O que é caracterizado como *trabalho normal*
+## O que é caracterizado como [[Trabalho Socialmente Necessário]]
 > "...o trabalho só importa **na medida em que o tempo gasto** na produção do valor de uso [mercadorias] é **socialmente necessário**, o que implica diversos fatores. 
-> A força de trabalho tem de funcionar **sob condições normais**. (...) Contudo, o caráter normal dos fatores **objetivos** de trabalho não depende do trabalhador, **e sim do capitalista** [que é o fornecedor dos meios de produção empregados]. 
+> A força de trabalho tem de **funcionar sob condições normais**. (...) Contudo, o caráter normal dos fatores **objetivos** de trabalho não depende do trabalhador, **e sim do capitalista** [que é o fornecedor dos meios de produção empregados]. 
 > Uma outra condição é o caráter normal **da própria força de trabalho**. No ramo de produção em que é empregada, ela tem de **possuir o padrão *médio* de habilidade, eficiência e celeridade**. (...) Tal força tem de ser aplicada com a **quantidade média de esforço** e com o **grau de intensidade socialmente usual**, e o capitalista controla o trabalhador para que este **não desperdice nenhum segundo de trabalho**. Ele comprou a força de trabalho por um período determinado, e insiste em obter o que é seu. Não quer ser furtado.
 > Por fim (...), é vedado qualquer **consumo desnecessário de matéria-prima e meios de trabalho**, pois material e meios de trabalho desperdiçados representam o **dispêndio desnecessário** de certa quantidade de **trabalho objetivado**, portatno, **trabalho que não conta** e não toma parte no produto do processo de formação de valor." (p. 272) 
 

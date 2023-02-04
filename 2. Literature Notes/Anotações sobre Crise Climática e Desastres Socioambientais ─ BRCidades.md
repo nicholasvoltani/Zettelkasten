@@ -62,7 +62,7 @@ Problemas na gestão de riscos naturais:
 * Caracterização da cidade/topografia/riscos e suscetibilidades
 * Análise de risco e de vulnerabilidade: 
 	* Topografia particular => alagamentos por chuvas intensas
-	* Relevo da região => deslizamentos de partes mais elevadas
+	* Relevo da região => [[deslizamentos]] de partes mais elevadas
 * Gestão de risco e desastres em Recife
 	* Defesa Civil Permanente
 	* Ação descentralizada

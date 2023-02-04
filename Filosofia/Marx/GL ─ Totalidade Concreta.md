@@ -15,6 +15,8 @@ A realidade é, em si, "total", ao contrário de como o idealismo vê a sociedad
 
 ou de como o materialismo vulgar o vê, em que a realidade é, em si, "**fragmentada por natureza**", e resta-nos estudar as partes individualmente, e "tentar criar uma totalidade" *post-festum*. 
 
+23/07/2022: o marxismo vulgar segue os passos da ciência formal, de decompor a realidade ─ou seja, ana-lisando ela, aná-lise, ideia de quebrar em partes constituintes─, mas não refaz o caminho de *reconstituir a totalidade a partir das partes analisadas*; portanto, limita-se a acreditar que a realidade é uma soma de partes disjuntas; não reconstroi o concreto analisado em pensamento ([[Método de Abstração e Concretização]])
+
 ## Sobre as contradições na totalidade concreta
 As contradições são parte fundamental da totalidade concreta, algo que não é contemplado, por exemplo, pelas teorias das ciências naturais, onde contradições apontam para *shortcomings* do modelo teórico. 
 
@@ -25,7 +27,7 @@ Os elementos que compõem a totalidade concreta encontram-se numa **ação recí
 
 Porém, tais elementos não são **eternos**; tal ação recíproca não se dá como na 3ª lei de Newton entre duas partículas (imutáveis em substância). Os elementos componentes da totalidade concreta são **processos**, são mutáveis por essência.
 
-## Estruturas de objetividade induzidas pela totalidade concreta
+## Formas de objetividade induzidas pela totalidade concreta
 > "Um negro é um negro; somente em certas condições ele torna-se um escravo. Uma máquina de tecer algodão é uma máquina de tecer algodão; somente em certas condições ela torna-se capital. " (Marx)
 
 A relação dos objetos com a totalidade concreta dá a estes suas [[GL ─ Formas de Objetividade|formas de objetividade]], i.e. sua *aparência* enquanto fenômeno. 

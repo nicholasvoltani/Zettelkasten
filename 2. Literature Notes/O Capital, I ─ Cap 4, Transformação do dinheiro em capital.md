@@ -35,7 +35,7 @@ Uma certa quantidade de trabalho (valor, dinheiro) sempre deve ser trocada por u
 
 O ciclo M─D─M' preserva a troca de equivalentes, pois, embora M seja distinto de M' **qualitativamente**, ambos são equivalentes **quantitativamente** (em seus valores).
 
-Porém, assumindo a troca de equivalentes implica justamente que o movimento i-mediato D─M─D' seja contraditório: não faz sentido que haja alguma troca em que $D = D'$, pois não se troca \$10 por \$10; mas não podem ser iguais, senão contradizem o princípio de troca de equivalentes... Se faz necessário buscar a **origem deste mais-valor** $\Delta D$. 
+Porém, assumindo a troca de equivalentes implica justamente que o movimento i-mediato D─M─D' seja contraditório: não faz sentido que haja alguma troca em que $D = D'$, pois não se troca \$10 por \$10; mas não podem ser diferentes, senão contradizem o princípio de troca de equivalentes... Se faz necessário buscar a **origem deste mais-valor** $\Delta D$. 
 
 ## Compra e venda da força de trabalho
 ### Definição: [[Força de Trabalho]]

@@ -5,7 +5,7 @@ Tags:
 ## Definição: Satisfação/*Entailment*/Consequência Lógica
 Dada uma interpretação $\mathfrak{I}$ e uma *lookup table* $\mu$, dizemos que uma fórmula $\alpha$ é **satisfeita** na interpretação $\mathfrak{I}$ (e que escrevemos como $\mathfrak{I}, \mu \models \alpha$ segundo Levesque, e $\mathfrak{I} \models_\mu \alpha$ segundo Huth) de acordo com as seguintes fórmulas:
 - Dados termos $(t_1, \dots, t_n)$ e predicado $n$-ário $P$, então
-$$\mathfrak{I}, \mu \models P(t_1, \dots, t_n) \iff (\|t_1\|, \dots, \|t_n\|) \in \I[P]$$
+$$\mathfrak{I}, \mu \models P(t_1, \dots, t_n) \iff (\|t_1\|, \dots, \|t_n\|) \in \mathcal{I}[P]$$
 - $\mathfrak{I}, \mu \models (t_1 = t_2) \iff \|t_1\|_{\mathfrak{I}, \mu} = \|t_2\|_{\mathfrak{I}, \mu} \,\,(\in D)$
 - $\mathfrak{I}, \mu \models \lnot \alpha \iff$ it's false that $\mathfrak{I}, \mu \models \alpha$;
 - $\mathfrak{I}, \mu \models (\alpha \land \beta) \iff$ $\mathfrak{I}, \mu \models \alpha$ **e** $\mathfrak{I}, \mu \models \beta$

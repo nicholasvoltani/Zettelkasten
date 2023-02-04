@@ -32,7 +32,7 @@ Plínio Arruda Sampaio Jr. diz que a atividade brasileira está se tornando cada
 
 Há uma forte dependência, e influência, **política**: em particular quanto aos desastres ambientais de Brumadinho e Mariana, as decisões de acordos foram feitas *a portas fechadas*. Há um projeto de construir um Rodoanel em Belo Horizonte (também chamado por movimentos socioambientais de Rodominério); ou seja, mesmo na infraestrutura há um dedo das mineradoras. 
 
-Por conta dessas atividades, há uma enome degradação ambiental, viabilizada mais pelo avanço tecnológico; mesmo ambientes "sagrados", como a Serra da Piedade (para católicos), não são poupadas.
+Por conta dessas atividades, há uma enorme degradação ambiental, viabilizada mais pelo avanço tecnológico; mesmo ambientes "sagrados", como a Serra da Piedade (para católicos), não são poupadas.
 
 > "There are no unsacred places;
 > there are only sacred places,
@@ -89,7 +89,7 @@ Se faz necessário que se veja os impactos não somente no momento do rompimento
 - Biodiversidade comprometida
 - Recursos hídricos contaminados (rios, riachos, mananciais, cachoeiras, aquíferos)
 - Dependência dos valores internacionais das *commodities* presentes em dada cidade
-	- Induz um processo de adoecimento mental quanto à dependência parasitária mas vista como "imprescindível" à manutenção da vida econômica na cidade ([[M&E ─ Surgimento da alienação]])
+	- Induz um processo de adoecimento mental quanto à dependência parasitária mas vista como "imprescindível" à manutenção da vida econômica na cidade ([[Surgimento da alienação]])
 
 ## Ecossocialismo como uma saída para a minério-dependência
 Se faz necessário com que se rompa com a lógica, e o modo de produção, capitalista, a fim de romper com a dependência com as mineradoras alojadas. 

@@ -38,7 +38,8 @@ Não se pode falar de SAN sem falar de **direitos e autonomia aos povos**, pois 
 	Em preto: intersectionalidades pertinentes ao debate. Em roxo: características pertinentes à segurança alimentar e nutricional.^[DHANA: Direito Humano à Alimentação e Nutrição Adequadas.]
 
 ## 1. [[Soberania Alimentar]]
-> É o direito dos povos a definir suas **próprias** políticas e estratégias **sustentáveis** de produção, distribuição e consumo de alimentos, que garantam o direito à alimentação a **toda** a população, com base na **pequena e média produção**, respeitando suas **próprias culturas** e diversidade dos modos camponeses de produção, de comercialização e de gestão, nos quais a mulher desempenha um papel fundamental (Fórum Mundial de Soberania Alimentar ─ Havana, 2001)
+> "1. A soberania alimentar é o caminho para erradicar a fome e a subnutrição, e garantir a segurança alimentar duradoura e sustentável para todos os povos. Entendemos por soberania alimentar o direito dos povos a definir suas **próprias** políticas e estratégias **sustentáveis** de produção, distribuição e consumo de alimentos, que garantam o direito à alimentação a **toda** a população, com base na **pequena e média produção**, respeitando suas **próprias culturas** e diversidade dos modos camponeses de produção, de comercialização e de gestão, nos quais a mulher desempenha um papel fundamental" (Fórum Mundial de Soberania Alimentar ─ Havana, 2001; grifo meu)
+
 
 ## 2. Alimentação como um Direito Humano (DHAS/DHANA)
 Direitos Humanos: qualquer humano possui, não são competíveis e não são substituíveis. 
@@ -110,7 +111,7 @@ O sistema alimentar agrega várias engrenagens, desde o ambiente até processos,
 O setor econômico é o ator regente dessa lógica, regendo-a num esquema capitalista, visando a produção de **alimentos-mercadorias**: **commodities** ou **insumos para ração** de animais (os quais geraram alimentos *ailleurs*). Na maioria das situações, utilizam-se de terras agricultáveis para gerar poluição na terra, na água, no ar, e sequer produz alimentos à população local: promovem um completo rastro de destruição. 
 
 ## Alternativas concretas ao modelo alimentar agro-hegemômico
-> "Política é fazer com que nossas decisões apareçam durante nossos processos de cotidianidade; e não há nada mais cotidiano que a comida. "
+> "Política é fazer com que nossas decisões apareçam durante nossos processos de cotidianidade; e não há nada mais cotidiano que a comida."
 
 - Tais alternativas precisam **estar em diálogo com a sociedade**, 
 - precisam criar **outras relações entre campo e cidade**; 
@@ -123,3 +124,4 @@ O setor econômico é o ator regente dessa lógica, regendo-a num esquema capita
 - **Uma verdade indigesta**, Marion Nestle
 - Blog **O Joio e o Trigo** (maravilhosos)
 - **Informe DHANA 2021: Pandemia, desigualdade e fome** (FIAN Brasil)
+- **Declaración final del foro mundial sobre soberanía alimentaria** (La Habana, Cuba, 7 de setembro de 2001). Disponível em: <https://base.socioeco.org/docs/doc-792_es.pdf>

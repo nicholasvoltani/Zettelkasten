@@ -18,7 +18,7 @@ Da mesma forma, o **trabalho** é uma abstração: é um conceito que possui as 
 Se o método de abstração busca "subir no funil", o método da concretização acaba "descendo": ele busca, a partir de algum conceito abstrato, acrescentar-lhe particularidades até que alcance algo **concreto**, **real**, **particular**.
 
 ## Exemplos de concretização
-O exemplo da fruta é pertinente, embora o fato de podermos pedir "laranjas" ou "maçãs" seja um "atalho" desse processo de concretização, ao invés de falar "quero uma fruta que seja cítrica, que tenha cor laranja, que tenha polpa etc etc.". 
+O exemplo da fruta é pertinente, embora o fato de podermos pedir "laranjas" ou "maçãs" seja um "atalho" desse processo de concretização, ao invés de falar "quero uma fruta que seja *cítrica*, que tenha *cor laranja*, que tenha *polpa* etc etc.". 
 
 Engels cita o exemplo de que o conceito de *tempo* é um abstrato, muito embora todos saibam muito bem o que significa um minuto, uma hora, um milênio e por assim vai (*mutatis mutandis* para o conceito de espaço). 
 

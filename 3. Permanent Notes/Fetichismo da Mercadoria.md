@@ -2,8 +2,9 @@
 Date: Saturday, 29-01-2022 @ 13:56
 Tags: marxism
 ---
+![[Pasted image 20221115163631.png]]
+(Imagem do filme Love, Simon)
 
-# Fetichismo da Mercadoria
 > "Os homens não relacionam entre si seus produtos do trabalho como valores por considerarem essas coisas meros invólucros materiais de trabalho humano de mesmo tipo.
 > Ao contrário. Porque equiparam entre si seus produtos de diferentes tipos na troca (como valores), eles **equiparam entre si seus diferentes trabalhos como trabalho humano \[abstrato\]**.
 > Eles não sabem disso, mas o fazem." (O Capital, p. 149)

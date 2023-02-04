@@ -8,31 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:References",
-      "color": {
-        "a": 1,
-        "rgb": 0
-      }
-    },
-    {
       "query": "path:Matemática",
       "color": {
         "a": 1,
-        "rgb": 16114949
+        "rgb": 7825411
       }
     },
     {
       "query": "tag:#marxism",
       "color": {
         "a": 1,
-        "rgb": 16723502
+        "rgb": 10360085
       }
     },
     {
       "query": "tag:#curso-psol",
       "color": {
         "a": 1,
-        "rgb": 1629932
+        "rgb": 5311476
       }
     },
     {
@@ -40,6 +33,20 @@
       "color": {
         "a": 1,
         "rgb": 886276
+      }
+    },
+    {
+      "query": "tag:#moc",
+      "color": {
+        "a": 1,
+        "rgb": 16543491
+      }
+    },
+    {
+      "query": "tag:#geography",
+      "color": {
+        "a": 1,
+        "rgb": 14932749
       }
     }
   ],
@@ -53,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 0.591112353269983,
   "linkDistance": 250,
-  "scale": 0.10568448322763979,
+  "scale": 0.21415447799972123,
   "close": true
 }

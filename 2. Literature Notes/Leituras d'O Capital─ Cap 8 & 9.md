@@ -5,7 +5,7 @@ Tags: marxism
 # Leituras d'O Capital─ Cap 8 & 9 ─ Jornada de Trabalho e Massa de Mais-Valia
 ## Summary: Jornada de Trabalho
 Divide-se em duas partes: 
-* jornada de **trabalho necessário**: paga o [[Valor]] da [[Força de Trabalho]]
+* jornada de **trabalho necessário**: paga o [[Valor da força de trabalho]]
 * jornada de **trabalho excedente**: gera [[Mais-valor]]
 
 ### Misconception: Trabalhador "produz o próprio salário"
@@ -78,7 +78,7 @@ Exemplo: **Zara** e trabalho escravo, e o salário por peça. Trabalhadoras estr
 Contratação de PJ invés de CLT: muda somente no tocante a falta de direitos trabalhistas; se está sendo assalariado de uma forma que ludibria mais.
 
 ### Pequeno capitalista
-Com o empreendedorismo, é diferente: tem o caso de "se lançar como um capitalista", de abrir o próprio negócio. Quando se contrata força de trabalho, se é um capitalista; pode ser pequeno, mas é um capitalista, pois busca valorizar seu próprio capital. **Contratar um trabalhador doméstico, em si, não é capital** (a não ser que seja, e.g., em uma empresa, em que se gere valor)
+Com o empreendedorismo, é diferente: tem o caso de "se lançar como um capitalista", de abrir o próprio negócio. Quando se contrata força de trabalho, se é um capitalista; pode ser pequeno, mas é um capitalista, pois busca valorizar seu próprio capital. **Contratar um trabalhador doméstico, em si, não é capital** (a não ser que seja, e.g., em uma empresa, em que se **gere valor**)
 
 O capitalista pode ou não trabalhar em seu próprio negócio: pode contratar um gerente, ou ser o próprio gerente. Pode ser um gerente de produção, onde é um trabalhador produtivo segundo Marx, ou não. Mas os trabalhadores que ele contrata podem ser trabalhadores produtivos, e nesse caso haverá tempo etc.
 
@@ -107,3 +107,5 @@ Há caso que tem assalariamento mas não produz mercadoria: **comércio** (só *
 ---
 ### Referências
 - **O Capital, livro I**. Karl Marx.
+- [[O Capital, I ─ Cap 8, A jornada de trabalho]]
+- [[O Capital, I ─ Cap 9, Taxa e massa de mais-valia]]
