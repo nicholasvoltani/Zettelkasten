@@ -2,10 +2,7 @@
 Date: Saturday, 23-07-2022 @ 16:16
 Tags: moc 
 ---
-# MOC Ideologia Alemã
-
-## Parent MOC
-- [[011 MOC Marx]]
+up:: [[011 MOC Marx]]
 
 ## Tópicos
 - [[Caracterização das ideologias idealistas]]

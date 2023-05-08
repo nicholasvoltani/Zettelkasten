@@ -2,6 +2,6 @@
 Date: {{date}}
 Tags: moc
 ---
-## Parent MOC
+up:: 
 
-## Tópicos
+# Tópicos

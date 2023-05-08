@@ -3,7 +3,7 @@
 Date: Wednesday, 20-07-2022 @ 20:46
 Tags: moc
 ---
-# MOC UFPR Capital I
+up:: [[011a MOC Capital I]]
 
 ## Aulas
 1. [[O Capital, I ─ Cap 4, Transformação do dinheiro em capital]]

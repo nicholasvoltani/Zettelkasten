@@ -2,10 +2,7 @@
 Date: Sunday, 24-07-2022 @ 14:24
 Tags: moc
 ---
-# 011c MOC Introdução Materialismo Dialético (Mauro Iasi)
-
-## Parent MOC
-- [[011 MOC Marx]]
+up:: [[011 MOC Marx]]
 
 ## Tópicos
 - [[202206151902 - Aula 1 Introdução Materialismo Dialético]]

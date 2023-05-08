@@ -1,9 +1,9 @@
 {
-  "citationExportFormat": "csl-json",
+  "citationExportFormat": "biblatex",
   "literatureNoteTitleTemplate": "@{{citekey}}",
-  "literatureNoteFolder": "2. Literature Notes",
+  "literatureNoteFolder": "References",
   "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n---\n\n",
   "markdownCitationTemplate": "[@{{citekey}}]",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",
-  "citationExportPath": "/home/nicholas/Zotero/Zotero Library 220421.json"
+  "citationExportPath": "/home/nicholas/BibLatex_Zotero.bib"
 }

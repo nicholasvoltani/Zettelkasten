@@ -1,6 +1,6 @@
 ---
 Date: Monday, 14-11-2022 @ 15:20
-Tags: ambiental
+Tags: geography
 ---
 up:: [[0x3 MOC Geografia]]
 ![[Pasted image 20221114152004.png]]

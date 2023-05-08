@@ -1,6 +1,6 @@
 ---
 Date: Sunday, 04-09-2022 @ 18:47
-Tags: 
+Tags: transient
 ---
 # Os quatro estágios de um hábito
 > "O estímulo significa *perceber a recompensa*.

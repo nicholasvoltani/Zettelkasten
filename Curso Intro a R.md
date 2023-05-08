@@ -1,6 +1,6 @@
 ---
 Date: Tuesday, 10-01-2023 @ 19:19
-Tags: 
+Tags: literature/lecture
 ---
 up:: 
 
@@ -233,9 +233,9 @@ PS: `tibble`s funcionam como Dataframes otimizados!
 
 ## GGplot bars
 - `geom_bar(position=`
-	- `="stack")` : gráfico com legenda "stacked"
-	- `="dodge")` : gráfico com legenda "lado a lado"
-	- `="fill")` : gráfico com legenda "stacked 100%"
+	- ` ="stack")` : gráfico com legenda "stacked"
+	- ` ="dodge")` : gráfico com legenda "lado a lado"
+	- ` ="fill")` : gráfico com legenda "stacked 100%"
 
 
 ---

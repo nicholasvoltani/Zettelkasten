@@ -1,6 +1,6 @@
 ---
 Date: Monday, 17-10-2022 @ 22:37
-Tags: 
+Tags: transient
 ---
 > "Completam-se assim os três elementos constitutivos da organização agrária do Brasil colonial:
 > - a grande propriedade,

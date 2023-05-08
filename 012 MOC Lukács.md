@@ -2,10 +2,7 @@
 Date: Saturday, 23-07-2022 @ 15:54
 Tags: moc 
 ---
-# MOC Lukács
-
-## Parent MOC
-- [[010 MOC Marxism]]
+up:: [[010 MOC Marxism]]
 
 ## Tópicos
 - [[GL ─ Características de um estudo científico]]

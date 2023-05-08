@@ -1,6 +1,6 @@
 ---
 Date: Saturday, 05-11-2022 @ 20:09
-Tags: ambiental
+Tags: geography, ambiental
 ---
 up:: [[Vegetações do Brasil]]
 ![[Pasted image 20221105201713.png]]

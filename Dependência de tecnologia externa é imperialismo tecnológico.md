@@ -1,6 +1,6 @@
 ---
 Date: Wednesday, 05-10-2022 @ 22:39
-Tags: 
+Tags: transient
 ---
 # Fundação de Asimov e Obsolescência Programada
 A dependência da tecnologia alheia é frágil: assim como uma cadeia é tão fraca quanto seu elo mais fraco, uma sociedade dependente de tecnologia alheia é tão fraca quanto sua [[Obsolescência Programada|obsolescência for programada]].

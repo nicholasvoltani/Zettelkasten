@@ -1,6 +1,6 @@
 ---
 Date: Sunday, 16-10-2022 @ 22:23
-Tags: 
+Tags: transient, geography
 ---
 ![[Pasted image 20221021213139.png]] 
 

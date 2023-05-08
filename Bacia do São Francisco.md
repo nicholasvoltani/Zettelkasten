@@ -1,6 +1,6 @@
 ---
 Date: Sunday, 16-10-2022 @ 22:29
-Tags: ambiental
+Tags: geography
 ---
 # Bacia do São Francisco
 ![[Pasted image 20221025221000.png]]

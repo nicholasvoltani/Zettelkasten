@@ -1,6 +1,6 @@
 ---
 Date: Sunday, 23-10-2022 @ 21:51
-Tags: 
+Tags: geography
 ---
 ![[Pasted image 20221023215329.png]]
 

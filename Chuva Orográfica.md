@@ -1,6 +1,6 @@
 ---
 Date: Monday, 10-10-2022 @ 21:59
-Tags: 
+Tags: geography, ambiental
 ---
 # Chuva Orográfica
 ![[Pasted image 20221010215610.png]]

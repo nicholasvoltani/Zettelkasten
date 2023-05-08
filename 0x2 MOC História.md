@@ -3,9 +3,7 @@ Date: Sunday, 25-09-2022 @ 22:25
 Tags: moc
 ---
 # 0x2 MOC História
-
-## Parent MOC
-- [[0x0 MOC Fuvest 2022]]
+up:: [[0x0 MOC Fuvest 2022]]
 
 ## Tópicos
 ## História do Brasil

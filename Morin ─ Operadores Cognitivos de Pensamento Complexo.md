@@ -1,6 +1,6 @@
 ---
 Date: Monday, 23-08-2021 @ 19:55
-Tags:
+Tags: transient
 ---
 # Operadores Cognitivos de Pensamento Complexo, segundo Edgar Morin
 Edgar Morin fala sobre utilizar **operadores cognitivos** para conciliar o pensamento  *linear* ao pensamento *sistêmico*, em prol de um pensamento **complexo** ("emaranhado junto"). 

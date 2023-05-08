@@ -1,6 +1,6 @@
 ---
 Date: Friday, 21-10-2022 @ 21:37
-Tags: 
+Tags: evergreen
 ---
 > "A devastação da mata em larga escala ia semeando desertos estéreis atrás do colonizador, **sempre em busca de solos frescos que não exigissem maior esforço de sua parte**.
 > (...) [O caráter da economia brasileira] faz convergir para um único fim, com o objetivo de **um máximo e momentâneo proveito**, todas as atenções e esforços; verdadeiro processo de **bombeamento dos recursos naturais do solo**, '**agricultura extrativa**', já se denominou." (p. 135; grifo meu)

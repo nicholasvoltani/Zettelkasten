@@ -1,6 +1,6 @@
 ---
 Date: Sunday, 16-10-2022 @ 23:05
-Tags: 
+Tags: geography
 ---
 # Crise Hídrica em 2021
 Em 2021, o Brasil passa pela **maior crise hídrica desde 1931**. 

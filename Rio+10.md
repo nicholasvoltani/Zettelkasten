@@ -1,6 +1,6 @@
 ---
 Date: Thursday, 06-10-2022 @ 22:30
-Tags: ambiental
+Tags: transient, geography
 ---
 # Rio+10
 Conferência global dez anos após a [[Rio-92 (Cúpula da Terra)]], que ocorreu em Johannesburgo (África do Sul), em 2002.

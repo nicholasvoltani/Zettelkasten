@@ -1,6 +1,6 @@
 ---
 Date: Sunday, 16-10-2022 @ 22:45
-Tags: 
+Tags: geography
 ---
 # Bacia Platina
 ![[Pasted image 20221016225205.png|400]]

@@ -1,6 +1,6 @@
 ---
 Date: Sunday, 16-10-2022 @ 22:07
-Tags: ambiental
+Tags: geography
 ---
 # Bacia Amazônica
 ![[Pasted image 20221016220720.png|350]]

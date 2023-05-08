@@ -1,3 +1,9 @@
+---
+Date: Sunday, 07-05-2023 @ 00:04
+Tags: transient 
+---
+up:: 
+
 # Às ordens, capital
 
 Sob a ordem capitalista atual, a palavra de ordem é: "trabalhe". O trabalho, não mais um ofício ou profissão como outrora, tornou-se atomizado e imprescindível à sobrevivência ─ leia-se, ao pagamento das contas mensais. O tempo livre, antes usado para um descanso necessário, tornou-se areia pela qual seu tempo de trabalho percola e preenche a todos os poros ─ nem mesmo dentro de casa pode-se estar apartado do ambiente de trabalho.

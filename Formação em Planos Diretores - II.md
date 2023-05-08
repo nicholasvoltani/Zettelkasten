@@ -1,6 +1,6 @@
 ---
 Date: Saturday, 19-11-2022 @ 15:01
-Tags: 
+Tags: literature/lecture
 ---
 # Allan Yu Iwama - Processos participativos e leitura do território
 ## Bloco I: Cartografia Social e Mapeamentos Colaborativos

@@ -1,6 +1,6 @@
 ---
 Date: Monday, 10-10-2022 @ 20:58
-Tags: 
+Tags: transient, geopraphy
 ---
 # Fatores determinantes do Clima
 - **Latitude**: quanto mais próximo da linha do Equador (i.e. quanto menor for), mais quente

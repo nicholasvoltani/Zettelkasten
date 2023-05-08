@@ -2,6 +2,9 @@
   "baseFontSize": 10,
   "cssTheme": "Blue Topaz",
   "accentColor": "",
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "dashboard",
+    "dashboard-ReadLineLength"
+  ],
   "nativeMenus": false
 }

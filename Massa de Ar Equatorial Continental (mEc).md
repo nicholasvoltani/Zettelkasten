@@ -1,6 +1,6 @@
 ---
 Date: Monday, 10-10-2022 @ 21:24
-Tags: geography
+Tags: transient, geography
 ---
 up:: [[Massas de Ar no Brasil]]
 ![[Pasted image 20221010213014.png]]

@@ -2,10 +2,7 @@
 Date: Wednesday, 20-07-2022 @ 20:53
 Tags: moc 
 ---
-# MOC Lógica de Primeira Ordem
-
-## Parent MOC
-- [[020 MOC Maths]]
+up:: [[020 MOC Maths]]
 
 ## Tópicos
 - [[Hipótese de Representação de Conhecimento]]

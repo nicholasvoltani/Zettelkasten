@@ -1,6 +1,6 @@
 ---
 Date: Wednesday, 16-11-2022 @ 22:39
-Tags: 
+Tags: transient, geography, ambiental
 ---
 up:: [[Vegetações do Brasil]]
 

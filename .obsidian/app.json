@@ -13,5 +13,6 @@
   "newFileLocation": "root",
   "newFileFolderPath": "",
   "attachmentFolderPath": "Attachments",
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "readableLineLength": true
 }

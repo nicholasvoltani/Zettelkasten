@@ -1,6 +1,6 @@
 ---
 Date: Friday, 21-10-2022 @ 21:07
-Tags: ambiental
+Tags: transient, ambiental
 ---
 ## Características
 ![[Pasted image 20221021211219.png]]  ![[Pasted image 20221021211242.png]]

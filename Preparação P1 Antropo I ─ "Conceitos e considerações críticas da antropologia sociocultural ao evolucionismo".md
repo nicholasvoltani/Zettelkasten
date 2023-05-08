@@ -1,0 +1,22 @@
+---
+Date: Sunday, 07-05-2023 @ 19:36
+Tags: transient
+---
+up:: [[0x4a2 Antropo I]]
+
+# Conceitos e autores pertinentes
+**Philippe Descola**
+- [[O desenvolvimento científico ocidental é resultado da exteriorização da natureza]]
+
+**Lévi-Strauss**
+- [[O "etnocentrismo" é universal em todas as culturas (Lévi-Strauss)]]
+- [[Analogia entre Relativismo Cultural e Relatividade Galileana]]
+		- [[Culturais similares tendem a parecer mais normais que culturas distintas]]
+
+
+
+
+
+---
+### References
+- 

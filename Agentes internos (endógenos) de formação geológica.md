@@ -1,6 +1,6 @@
 ---
 Date: Sunday, 23-10-2022 @ 21:29
-Tags: 
+Tags: geography
 ---
 ![[Orogênese]]
 

@@ -1,6 +1,6 @@
 ---
 Date: Thursday, 06-10-2022 @ 22:35
-Tags: ambiental
+Tags: transient, geography
 ---
 # Protocolo de Kyoto
 Firmado em 1997, na Conferência do Clima em Kyoto, buscava adereçar a questão do **combate ao aquecimento global**, através de **metas pré-definidas para países desenvolvidos** e *sem metas para países subdesenvolvidos*. 

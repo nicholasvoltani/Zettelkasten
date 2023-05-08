@@ -1,6 +1,6 @@
 ---
 Date: Monday, 17-10-2022 @ 22:12
-Tags: 
+Tags: evergreen
 ---
 > "Em substância, nas suas linhas gerais e caracteres fundamentais de sua organização econômica, o Brasil continuava, três séculos depois do início da colonização, aquela mesma colônia visceralmente ligada (...) à economia da Europa; *simples fornecedora de mercadorias para o seu comércio*.
 > **Empresa de colonos brancos acionada pelo braço de raças estranhas, dominadas mas ainda não fundidas na sociedade colonial.**" (Caio Prado Júnior, p. 123-4; destaques meus)

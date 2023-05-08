@@ -1,6 +1,6 @@
 ---
 Date: Saturday, 05-11-2022 @ 21:58
-Tags: 
+Tags: evergreen
 ---
 up:: [[Caatinga]]
 > "O que o boi nos rebanhos enormes não comia era rapidamente arrancado para fazer lenha ou forragem pelos colonos. A rede infinita de caminhos do gado sulcados no solo estéril e friável acelerou a erosão. (...) Ficou evidente para os próprios sertanejos [do século XVIII e XIX], bem como para eventuais visitantes sertanejos, que estavam desertificando partes do Sertão e provavelmente também alterando seu clima." (Mike Davis, "Holocaustos Coloniais")

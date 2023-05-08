@@ -19,6 +19,12 @@ Tags: moc
 	- [[023 MOC Lógica de Primeira Ordem]]
 - [[030 MOC Curso Desastres Ambientais]]
 - [[040 MOC Anarchism]]
+
 - [[0x0 MOC Fuvest 2022]]
 	- [[0x2 MOC História]]
 	- [[0x3 MOC Geografia]]
+- [[0x4 Ciências Sociais]]
+	- [[0x4a1 Sociologia I]]
+	- [[0x4a2 Antropo I]]
+	- [[0x4a3 Política I]]
+- 

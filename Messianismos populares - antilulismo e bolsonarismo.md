@@ -1,4 +1,9 @@
-O Brasil é um país, se não imediatamente, então no mínimo *moralmente* religioso. O fato de que a religião católica/cristã permeia toda a vida brasileira ─ desde os nomes de cidades consagradas a santos, ruas, igrejas e catedrais, até as expressões populares de "meu Deus", "nossa senhora", etc. ─ certamente contribui para uma visão mais pé-no-chão do que o movimento antilulista ─ e seu sucessor, o bolsonarismo ─ são na visão do brasileiro comum: alegorias pseudorreligiosas, quase que *cautionary tales* do senso comum, saturado da visão católica imprimida a ferro e fogo há séculos atrás. 
+---
+Date: Sunday, 07-05-2023 @ 00:00
+Tags: transient
+---
+
+- O Brasil é um país, se não imediatamente, então no mínimo *moralmente* religioso. O fato de que a religião católica/cristã permeia toda a vida brasileira ─ desde os nomes de cidades consagradas a santos, ruas, igrejas e catedrais, até as expressões populares de "meu Deus", "nossa senhora", etc. ─ certamente contribui para uma visão mais pé-no-chão do que o movimento antilulista ─ e seu sucessor, o bolsonarismo ─ são na visão do brasileiro comum: alegorias pseudorreligiosas, quase que *cautionary tales* do senso comum, saturado da visão católica imprimida a ferro e fogo há séculos atrás. 
 
 Se faz necessário des-cobrir o invisível aos olhos, e tal moralidade religiosa se faz muito sutil aos nossos olhos ─ ao ponto que sequer é vista como oriunda da religião de nossos colonizadores. Quando uma mulher sente pudor ao ser vista bem-arrumada em público; quando homossexuais sentem culpa por andarem de mãos dadas em público; quando se sente culpa por falhar em atender aos padrões monogâmicos, deve-se atribuir tais instintos à formação subjetiva dos indivíduos, e o determinante ético ─ ou seja, aquele que atribui valores às coisas ─ na sociedade brasileira é, e sempre foi[^1], a ética católica. 
 

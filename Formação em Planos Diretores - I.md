@@ -1,6 +1,6 @@
 ---
 Date: Saturday, 19-11-2022 @ 14:11
-Tags: ambiental
+Tags: literature/lecture, ambiental
 ---
 # Juan Blanco Prada - Urbanismo Democrático: o desafio do impossível
 Por que urbanismo quando estamos falando de coisas "não-urbanas"?

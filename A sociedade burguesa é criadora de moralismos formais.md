@@ -1,6 +1,6 @@
 ---
 Date: Thursday, 29-12-2022 @ 06:42
-Tags: 
+Tags: transient
 ---
 No meio de sua hegemonia cultural, as grandes mídias burguesas passaram a exercer um novo papel dentro de sua antiga atribuição de ditar a moral de uma sociedade: tensionar debates morais de maneira polarizante. 
 

@@ -3,9 +3,7 @@ Date: Saturday, 23-07-2022 @ 16:07
 Tags: moc 
 ---
 # MOC Marx
-
-## Parent MOC
-- [[010 MOC Marxism]]
+up:: [[010 MOC Marxism]]
 
 ## Tópicos
 - [[011a MOC Capital I]]

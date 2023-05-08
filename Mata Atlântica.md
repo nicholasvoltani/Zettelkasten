@@ -1,6 +1,6 @@
 ---
 Date: Tuesday, 08-11-2022 @ 23:06
-Tags: ambiental
+Tags: evergreen, geography, ambiental
 ---
 up:: [[Vegetações do Brasil]]
 

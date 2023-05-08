@@ -1,6 +1,6 @@
 ---
 Date: Sunday, 16-10-2022 @ 22:20
-Tags: ambiental
+Tags: geography
 ---
 # Bacia do Tocantins-Araguaia
 ![[Pasted image 20221016222016.png]]

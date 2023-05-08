@@ -1,6 +1,6 @@
 ---
 Date: Saturday, 28-01-2023 @ 17:01
-Tags: 
+Tags: evergreen
 ---
 > "*O capital acumulado no comércio triangular ─ manufaturas, escravos, açúcar ─ tornou possível a invenção da máquina a vapor.*" (Galeano, p. 121)
 

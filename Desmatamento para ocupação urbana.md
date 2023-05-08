@@ -1,6 +1,6 @@
 ---
 Date: Wednesday, 16-11-2022 @ 22:57
-Tags: ambiental
+Tags: transient, ambiental
 ---
 up:: 
 ![[Pasted image 20221116225855.png|450]]

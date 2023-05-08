@@ -1,6 +1,6 @@
 ---
 Date: Tuesday, 08-11-2022 @ 23:15
-Tags: ambiental
+Tags: transient, ambiental
 ---
 up:: [[0x3 MOC Geografia]]
 

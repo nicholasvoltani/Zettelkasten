@@ -1,6 +1,6 @@
 ---
 Date: Sunday, 16-10-2022 @ 23:11
-Tags: ambiental
+Tags: geography
 ---
 # Bacia do Paraná
 ![[Pasted image 20221016231245.png|500]]

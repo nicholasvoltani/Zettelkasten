@@ -2,7 +2,7 @@
 Date: Wednesday, 20-07-2022 @ 20:42
 Tags: moc
 ---
-# MOC Curso Desastres Ambientais
+up:: [[000 MOC Home]]
 
 ## Módulos
 0. [[202201291507 Curso PSOL Painel de Abertura]]

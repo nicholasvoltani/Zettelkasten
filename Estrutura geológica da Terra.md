@@ -1,6 +1,6 @@
 ---
 Date: Sunday, 23-10-2022 @ 20:33
-Tags: 
+Tags: transient
 ---
 # Formação da Terra
 - A Terra se formou há ~4.5 bilhões de anos atrás

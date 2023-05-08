@@ -1,6 +1,6 @@
 ---
 Date: Monday, 03-10-2022 @ 22:47
-Tags: geography
+Tags: transient, geography
 ---
 # La Niña
 ![[Pasted image 20221005220629.png]]

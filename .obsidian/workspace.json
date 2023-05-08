@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6fe151fa23d41b55",
+        "id": "6ecd1af77612c1d4",
         "type": "tabs",
         "children": [
           {
-            "id": "b59ebc1a0d73a638",
+            "id": "9fac12860169f083",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Unlinked Files.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inglaterra",
+                "query": "descola",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -60,13 +64,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "09b0f3edcbb9a782",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 505.50152587890625,
+    "width": 397.504695892334,
     "collapsed": true
   },
   "right": {
@@ -78,57 +89,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b13fe0d38eddceb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O tráfico negreiro financiou a Revolução Industrial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b395f47da35d89f7",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            }
-          },
-          {
             "id": "974abcc3e77860a4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Unlinked Files.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,13 +123,48 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "8f70a63aa3139063",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Unlinked Files.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 17.3448873483536,
+                  "linkStrength": 0.832384253528101,
+                  "linkDistance": 250,
+                  "scale": 0.465585241289826,
+                  "close": false
+                }
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 402.5,
+    "width": 360.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -175,20 +176,57 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "b59ebc1a0d73a638",
+  "active": "9fac12860169f083",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "2. Literature Notes/A “tradicional família brasileira” e o trabalho reprodutivo\".md",
-    "Curso Intro a R.md",
-    "0x3 MOC Geografia.md",
-    "Serra dos Carajás (PA).md",
-    "Bacia do Tocantins-Araguaia.md",
-    "O tráfico negreiro financiou a Revolução Industrial.md",
-    "O fim do tráfico negreiro busca a universalização do trabalho assalariado.md",
-    "3. Permanent Notes/Processo de Produção Capitalista.md",
-    "Filosofia/Marx/Dialética Materialista.md"
+    "Homepage.md",
+    "Unlinked Files.md",
+    "202206151902 - Aula 1 Introdução Materialismo Dialético.md",
+    "Aula 1 ─ Método de Marx e Engels (Claus Germer).md",
+    "Templates/Evergreen Note Template.md",
+    "O desenvolvimento científico ocidental é resultado da exteriorização da natureza.md",
+    "202206151902 - Aula 2 Introdução Materialismo Dialético.md",
+    "Preparação P1 Antropo I ─ \"Conceitos e considerações críticas da antropologia sociocultural ao evolucionismo\".md",
+    "O papel social da ciência.md",
+    "202208042121 Intro to Umbral Calculus.md",
+    "0x4a2 Antropo I.md",
+    "References/A Ideologia Alemã.md",
+    "References/A razão na História.md",
+    "References/Gödel, Escher, Bach.md",
+    "References/O Capital, Livro 1.md",
+    "References/The enemy of nature.md",
+    "Crítica ao coletivo Ecoar - Juventude Ecossocialista.md",
+    "O Capital, I ─ Cap 8 & 9, Jornada de Trabalho e Massa de Mais-Valia.md",
+    "Mais-valor.md",
+    "Força de Trabalho.md",
+    "Caráter duplo do trabalho.md",
+    "Capital Variável.md",
+    "Tempo Necessário de Trabalho.md",
+    "GL ─ Totalidade Concreta.md",
+    "Caracterização das ideologias idealistas.md",
+    "Método de Abstração e Concretização.md",
+    "2. Literature Notes/Fichamento Expresso ─ A primeira década de Tito Lívio (Maquiavel).pdf",
+    "Attachments/Pasted image 20230501134903.png",
+    "Attachments/Pasted image 20230501134531.png",
+    "Attachments/Pasted image 20230501134520.png",
+    "Attachments/Pasted image 20230501134335.png",
+    "Attachments/Pasted image 20230501134302.png",
+    "Attachments/Pasted image 20230501134108.png",
+    "Attachments/Pasted image 20230418204556.png",
+    "2. Literature Notes/lu9355ed332d.tmp",
+    "2. Literature Notes/lu9355ed3328.tmp",
+    "2. Literature Notes/lu8588ecvhwb.tmp",
+    "2. Literature Notes/lu8588ecvhw6.tmp",
+    "2. Literature Notes/Fichamento Expresso ─ A primeira década de Tito Lívio (Maquiavel).odt",
+    "2. Literature Notes/lu8588ecvhw1.tmp",
+    "2. Literature Notes/lu8588ecvhvz.tmp",
+    "2. Literature Notes/Fichamento Expresso ─ A primeira década de Tito Lívio (Maquiavel).docx",
+    "Homepage.docx",
+    "Attachments/Pasted image 20230312153954.png",
+    "Attachments/Pasted image 20230312153835.png",
+    "Attachments/Pasted image 20230312153830.png"
   ]
 }

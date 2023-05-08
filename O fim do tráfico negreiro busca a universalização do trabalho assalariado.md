@@ -1,6 +1,6 @@
 ---
 Date: Saturday, 28-01-2023 @ 17:40
-Tags: 
+Tags: transient
 ---
 up:: [[O tráfico negreiro financiou a Revolução Industrial]]
 > "No princípio do século XIX, a Grã-Bretanha se tornou a principal incentivadora da campanha antiescravagista.

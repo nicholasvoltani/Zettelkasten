@@ -4,8 +4,7 @@ Tags: moc
 ---
 # 0x3 MOC Geografia
 
-## Parent MOC
-- [[0x0 MOC Fuvest 2022]]
+up::  [[0x0 MOC Fuvest 2022]]
 
 ## Tópicos
 ### 1) O espaço mundial. Desigualdades socioespaciais das atividades econômicas, população, trabalho e tempo livre, centros de poder e conflitos atuais.

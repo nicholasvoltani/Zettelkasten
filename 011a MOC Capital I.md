@@ -3,9 +3,7 @@ Date: Saturday, 23-07-2022 @ 16:10
 Tags: moc 
 ---
 # MOC Capital I
-
-## Parent MOC 
-- [[011 MOC Marx]]
+up:: [[011 MOC Marx]]
 
 ## MOCs relacionados
 - [[011a1 MOC UFPR Capital I]]
