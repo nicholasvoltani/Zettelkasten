@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 15-08-2021 @ 23:42
+Date: 2021-08-15
 Tags: mathematics 
 ---
 # Grupo Livremente Gerado por conjunto $X$

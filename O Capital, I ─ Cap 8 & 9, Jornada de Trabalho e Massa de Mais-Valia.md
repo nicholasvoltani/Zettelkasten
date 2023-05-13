@@ -1,5 +1,5 @@
 ---
-Date: Wednesday, 09-03-2022 @ 18:59
+Date: 2022-03-09
 Tags: literature/lecture, marxism
 ---
 # Leituras d'O Capital─ Cap 8 & 9 ─ Jornada de Trabalho e Massa de Mais-Valia

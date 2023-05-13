@@ -1,5 +1,5 @@
 ---
-Date: Monday, 31-01-2022 @ 18:29
+Date: 2022-01-31
 Tags: evergreen, marxism
 ---
 # Relação Dialética entre Produção e Troca

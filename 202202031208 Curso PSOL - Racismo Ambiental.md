@@ -1,5 +1,5 @@
 ---
-Date: Thursday, 03-02-2022 @ 12:09
+Date: 2022-02-03
 Tags: literature/lecture, ambiental
 ---
 # Módulo 5 - [[Racismo Ambiental]] (Cristiane Faustino)

@@ -1,5 +1,5 @@
 ---
-Date: Wednesday, 23-03-2022 @ 11:54
+Date: 2022-03-23
 Tags: literature/lecture, marxism
 ---
 # O Capital, I ─ Cap 11, Cooperação

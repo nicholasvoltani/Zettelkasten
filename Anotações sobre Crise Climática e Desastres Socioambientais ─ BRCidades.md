@@ -1,5 +1,5 @@
 ---
-Date: Monday, 07-03-2022 @ 18:07
+Date: 2022-03-07
 Tags: literature/lecture, ambiental
 ---
 # Anotações sobre Crise Climática e Desastres Socioambientais  ─ 

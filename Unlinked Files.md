@@ -1,5 +1,5 @@
 ---
-Date: Monday, 01-05-2023 @ 12:56
+Date: 2023-05-01
 Tags: links
 ---
 up:: [[Unlinked Files]]
@@ -9,31 +9,20 @@ up:: [[Unlinked Files]]
 list
 Date
 FROM ""
-WHERE length(file.outlinks) = 0 AND length(file.inlinks) = 0 AND contains(Date, "-")
+WHERE !contains(file.name, "emplate") AND (length(file.outlinks) = 0 OR length(file.inlinks) = 0)
 SORT Date DESC
+LIMIT 12
 ```
 
 # Notes to be *created*
 ```dataview
 TABLE WITHOUT ID 
-key AS "ToBeCreatedZettel", rows.file.link AS "ReferencingFile", rows.date AS "CreationDate"
+key AS "ToBeCreatedZettel", rows.file.link AS "ReferencingFile", rows.Date AS "CreationDate"
 FLATTEN file.outlinks as outlinks
 WHERE !(outlinks.file) AND !(contains(meta(outlinks).path, "/"))
 GROUP BY outlinks
-SORT rows.date DESC
-LIMIT 5
-```
-
-
-
-```dataview
-TABLE without id 
-out AS "Uncreated files"
-FLATTEN file.outlinks as out
-WHERE !(out.file) AND !contains(meta(out).path, "/")
-GROUP by out
-SORT out DESC
-LIMIT 5
+SORT rows.Date DESC
+LIMIT 10
 ```
 
 

@@ -1,5 +1,5 @@
 ---
-Date: Wednesday, 19-10-2022 @ 22:28
+Date: 2022-10-19
 Tags: geography, ambiental
 ---
 ![[Pasted image 20221021210217.png]]

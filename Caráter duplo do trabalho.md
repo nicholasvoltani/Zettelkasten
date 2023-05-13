@@ -1,5 +1,5 @@
 ---
-Date: Monday, 09-08-2021 @ 22:23
+Date: 2021-08-09
 Tags: transient, marxism
 ---
 # O caráter duplo do trabalho, segundo Marx

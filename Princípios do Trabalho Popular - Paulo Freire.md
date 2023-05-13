@@ -1,5 +1,5 @@
 ---
-Date: Saturday, 26-02-2022 @ 09:56
+Date: 2022-02-26
 Tags: transient
 ---
 ## Princípios do Trabalho Popular (Paulo Freire)

@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 10-10-2021 @ 12:21
+Date: 2021-10-10
 Tags: mathematics 
 ---
 # Pragmatismo em Lógica de Primeira Ordem

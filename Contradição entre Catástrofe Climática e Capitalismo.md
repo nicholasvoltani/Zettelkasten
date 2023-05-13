@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 27-02-2022 @ 13:57
+Date: 2022-02-27
 Tags: transient
 ---
 # Contradição entre Catástrofe Climática e Capitalismo

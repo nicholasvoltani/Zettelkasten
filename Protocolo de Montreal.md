@@ -1,5 +1,5 @@
 ---
-Date: Thursday, 06-10-2022 @ 21:38
+Date: 2022-10-06
 Tags: transient, geography
 ---
 # Protocolo de Montreal (1987)

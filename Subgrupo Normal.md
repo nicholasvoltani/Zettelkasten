@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 15-08-2021 @ 23:27
+Date: 2021-08-15
 Tags: mathematics 
 ---
 # Definição de Subgrupo Normal

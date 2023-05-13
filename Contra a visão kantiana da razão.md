@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 15-05-2022 @ 18:52
+Date: 2022-05-15
 Tags: transient
 ---
 # 202205151850 - Causalidade: contra a visão kantiana da razão

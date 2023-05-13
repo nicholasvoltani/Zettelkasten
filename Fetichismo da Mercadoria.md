@@ -1,5 +1,5 @@
 ---
-Date: Saturday, 29-01-2022 @ 13:56
+Date: 2022-01-29
 Tags: evergreen, marxism
 ---
 > "Os homens não relacionam entre si seus produtos do trabalho como valores por considerarem essas coisas meros invólucros materiais de trabalho humano de mesmo tipo.

@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 22-08-2021 @ 22:42
+Date: 2021-08-22
 Tags: mathematics 
 ---
 # Hipótese de Representação de Conhecimento (Knowledge-Representation Hypothesis)

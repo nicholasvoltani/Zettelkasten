@@ -1,5 +1,5 @@
 ---
-Date: Saturday, 29-01-2022 @ 17:00
+Date: 2022-01-29
 Tags: transient, ambiental
 ---
 # Sobre a noção de Antropoceno e Capitaloceno

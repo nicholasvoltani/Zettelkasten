@@ -1,5 +1,5 @@
 ---
-Date: Thursday, 03-02-2022 @ 11:03
+Date: 2022-02-03
 Tags: literature/lecture, ambiental
 ---
 # Módulo 4 ─ Povos Originários e a Questão Ambiental (Célia Xakriabá)

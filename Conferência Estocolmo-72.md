@@ -1,5 +1,5 @@
 ---
-Date: Wednesday, 05-10-2022 @ 22:11
+Date: 2022-10-05
 Tags: geography, ambiental
 ---
 # Conferência Estocolmo-72 (Only One Earth)

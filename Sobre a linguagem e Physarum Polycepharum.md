@@ -1,5 +1,5 @@
 ---
-Date: Saturday, 05-06-2021 @ 20:11
+Date: 2021-06-05
 Tags: marxism, transient
 ---
 # Sobre a linguagem segundo Marx e Physarum Polycephalum

@@ -1,5 +1,5 @@
 ---
-Date: Thursday, 02-09-2021 @ 20:50
+Date: 2021-09-02
 Tags: transient, marxism
 ---
 # Prioridade da Sobrevivência Material

@@ -1,5 +1,5 @@
 ---
-Date: Tuesday, 02-05-2023 @ 20:08
+Date: 2023-05-02
 Tags: literature/lecture
 ---
 up:: [[0x4a3 Política I]] 

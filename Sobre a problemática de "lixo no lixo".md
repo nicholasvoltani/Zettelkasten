@@ -1,5 +1,5 @@
 ---
-Date: Saturday, 30-07-2022 @ 15:25
+Date: 2022-07-30
 Tags: transient
 ---
 # 202207301525 Sobre a problemática de "lixo no lixo"

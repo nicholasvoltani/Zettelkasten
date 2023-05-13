@@ -1,5 +1,5 @@
 ---
-Date: Wednesday, 16-11-2022 @ 22:57
+Date: 2022-11-16
 Tags: evergreen
 ---
 Grandes agentes tanto do mineronegócio quanto do [[Agronegócio]] em si são responsáveis por fazer a vida completa de cidades inteiras girarem em torno de seus interesses, exercendo influência socioeconômica e política. 

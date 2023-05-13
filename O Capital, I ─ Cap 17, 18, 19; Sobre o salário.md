@@ -1,5 +1,5 @@
 ---
-Date: Friday, 15-04-2022 @ 19:35
+Date: 2022-04-15
 Tags: literature/lecture, marxism
 ---
 # O Capital, I ─ Cap 17, 18, 19; Sobre o salário

@@ -1,5 +1,5 @@
 ---
-Date: Saturday, 14-05-2022 @ 16:16
+Date: 2022-05-14
 Tags: evergreen, marxism
 ---
 # Capital Variável

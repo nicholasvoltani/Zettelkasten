@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 20-06-2021 @ 16:47
+Date: 2021-06-20
 Tags: transient, marxism
 ---
 # Contradição entre interesses individuais e interesses coletivos

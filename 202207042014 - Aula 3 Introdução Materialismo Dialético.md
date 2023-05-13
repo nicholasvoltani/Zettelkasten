@@ -1,5 +1,5 @@
 ---
-Date: Monday, 04-07-2022 @ 20:15
+Date: 2022-07-04
 Tags: literature/lecture, marxism
 ---
 # 202207042014 - Aula 3 Introdução Materialismo Dialético

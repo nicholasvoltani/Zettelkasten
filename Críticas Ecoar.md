@@ -1,5 +1,5 @@
 ---
-Date: Tuesday, 15-11-2022 @ 21:36
+Date: 2022-11-15
 Tags: moc
 ---
 - [[Frustrações sobre Ecoar]]

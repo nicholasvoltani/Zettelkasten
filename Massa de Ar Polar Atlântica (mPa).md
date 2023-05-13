@@ -1,5 +1,5 @@
 ---
-Date: Monday, 10-10-2022 @ 22:07
+Date: 2022-10-10
 Tags: transient, geography
 ---
 up:: [[Massas de Ar no Brasil]]

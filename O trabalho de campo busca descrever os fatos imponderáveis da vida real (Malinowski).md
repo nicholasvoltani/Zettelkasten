@@ -1,5 +1,5 @@
 ---
-Date: Wednesday, 03-05-2023 @ 21:19
+Date: 2023-05-03
 Tags: evergreen
 ---
 up:: [[Etapas do trabalho de campo malinowskiano]]

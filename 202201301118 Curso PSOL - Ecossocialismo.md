@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 30-01-2022 @ 11:19
+Date: 2022-01-30
 Tags: literature/lecture, marxism, ambiental
 ---
 # Módulo 1 ─ [[Ecossocialismo]] (Sabrina Fernandes)

@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 04-09-2022 @ 18:44
+Date: 2022-09-04
 Tags: transient
 ---
 # Hábitos reduzem carga cognitiva e liberam capacidade mental

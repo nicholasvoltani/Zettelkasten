@@ -1,5 +1,5 @@
 ---
-Date: Friday, 10-03-2023 @ 15:45
+Date: 2023-03-10
 Tags: moc
 ---
 up:: [[000 MOC Home]]

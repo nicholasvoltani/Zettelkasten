@@ -1,5 +1,5 @@
 ---
-Date: Saturday, 30-07-2022 @ 17:26
+Date: 2022-07-30
 Tags: transient
 ---
 # 202207301725 Sobre a diferença entre ações fragmentadas e intenções centralizadas

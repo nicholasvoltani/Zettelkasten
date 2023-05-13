@@ -1,5 +1,5 @@
 ---
-Date: Saturday, 17-09-2022 @ 21:30
+Date: 2022-09-17
 Tags: transient
 ---
 # 202209172130 Sobre o mundo corporativo

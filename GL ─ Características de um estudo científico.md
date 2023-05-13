@@ -1,5 +1,5 @@
 ---
-Date: Tuesday, 28-09-2021 @ 18:35
+Date: 2021-09-28
 Tags: transient, marxism
 ---
 # Características de um estudo científico

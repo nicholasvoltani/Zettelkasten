@@ -1,5 +1,5 @@
 ---
-Date: Saturday, 05-06-2021 @ 16:34
+Date: 2021-06-05
 Tags: transient
 ---
 # Sobre conhecer absolutamente a natureza somente através da razão

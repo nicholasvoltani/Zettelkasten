@@ -1,5 +1,5 @@
 ---
-Date: Thursday, 26-08-2021 @ 22:10
+Date: 2021-08-26
 Tags: transient, marxism
 ---
 # Método da Abstração

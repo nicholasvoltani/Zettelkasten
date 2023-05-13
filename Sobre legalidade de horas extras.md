@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 17-04-2022 @ 12:00
+Date: 2022-04-17
 Tags: marxism, transient
 ---
 # 202204171200 ─ Sobre legalidade de horas extras

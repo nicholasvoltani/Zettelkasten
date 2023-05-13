@@ -1,5 +1,5 @@
 ---
-Date: Saturday, 06-05-2023 @ 23:29
+Date: 2023-05-06
 Tags: evergreen, marxism
 ---
 up:: 

@@ -1,5 +1,5 @@
 ---
-Date: Saturday, 26-02-2022 @ 10:39
+Date: 2022-02-26
 Tags: transient
 ---
 > A revolução não tem pernas

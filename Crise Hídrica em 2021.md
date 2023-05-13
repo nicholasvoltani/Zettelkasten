@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 16-10-2022 @ 23:05
+Date: 2022-10-16
 Tags: geography
 ---
 # Crise Hídrica em 2021

@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 15-08-2021 @ 23:34
+Date: 2021-08-15
 Tags: mathematics 
 ---
 # Definição de Grupo Quociente

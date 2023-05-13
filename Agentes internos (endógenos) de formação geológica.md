@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 23-10-2022 @ 21:29
+Date: 2022-10-23
 Tags: geography
 ---
 ![[Orogênese]]

@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 29-08-2021 @ 20:53
+Date: 2021-08-29
 Tags: transient, marxism
 ---
 # Formas de Objetividade da realidade

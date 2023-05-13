@@ -1,5 +1,5 @@
 ---
-Date: Tuesday, 18-10-2022 @ 20:00
+Date: 2022-10-18
 Tags: evergreen
 ---
 > "Subordina-se portanto inteiramente a tais objetivos e não conta com *forças próprias e existência autônoma*.

@@ -1,5 +1,5 @@
 ---
-Date: Monday, 28-02-2022 @ 10:17
+Date: 2022-02-28
 Tags: literature/lecture, marxism
 ---
 # O Capital, I ─ Cap 4: Transformação do dinheiro em capital

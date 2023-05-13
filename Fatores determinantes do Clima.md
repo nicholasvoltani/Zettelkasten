@@ -1,5 +1,5 @@
 ---
-Date: Monday, 10-10-2022 @ 20:58
+Date: 2022-10-10
 Tags: transient, geopraphy
 ---
 # Fatores determinantes do Clima

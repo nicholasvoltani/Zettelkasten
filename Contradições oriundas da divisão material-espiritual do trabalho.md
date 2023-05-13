@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 13-06-2021 @ 11:46
+Date: 2021-06-13
 Tags: transient, marxism
 ---
 # Contradições oriundas da divisão do trabalho material e espiritual, segundo Marx e Engels

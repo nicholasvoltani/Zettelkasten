@@ -1,5 +1,5 @@
 ---
-Date: Thursday, 07-04-2022 @ 22:10
+Date: 2022-04-07
 Tags: marxism, transient
 ---
 # Como o totalitarismo se assemelha ao trabalho abstrato

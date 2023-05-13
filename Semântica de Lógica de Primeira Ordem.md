@@ -1,5 +1,5 @@
 ---
-Date: Thursday, 26-08-2021 @ 19:05
+Date: 2021-08-26
 Tags: mathematics 
 ---
 # Semântica em Lógica de Primeira Ordem

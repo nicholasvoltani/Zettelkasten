@@ -1,5 +1,5 @@
 ---
-Date: Saturday, 28-01-2023 @ 17:40
+Date: 2023-01-28
 Tags: transient
 ---
 up:: [[O tráfico negreiro financiou a Revolução Industrial]]

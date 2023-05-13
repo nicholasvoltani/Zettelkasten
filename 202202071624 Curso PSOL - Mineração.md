@@ -1,5 +1,5 @@
 ---
-Date: Monday, 07-02-2022 @ 16:24
+Date: 2022-02-07
 Tags: literature/lecture, ambiental
 ---
 # Módulo 8 ─ Mineração e seus impatos sociais e ambientais (Marcos Ferreira)

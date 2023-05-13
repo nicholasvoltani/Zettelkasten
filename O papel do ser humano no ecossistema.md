@@ -1,5 +1,5 @@
 ---
-Date: Saturday, 30-07-2022 @ 15:17
+Date: 2022-07-30
 Tags: transient
 ---
 # 202207301516 O papel do ser humano no ecossistema

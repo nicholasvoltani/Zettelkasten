@@ -1,5 +1,5 @@
 ---
-Date: Wednesday, 12-10-2022 @ 17:58
+Date: 2022-10-12
 Tags: transient
 ---
 # Ciclo do ouro no Brasil colônia

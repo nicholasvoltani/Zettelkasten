@@ -1,6 +1,6 @@
 
 ---
-Date: Saturday, 26-02-2022 @ 11:56
+Date: 2022-02-26
 Tags: transient, marxism
 ---
 # Sobre o marxismo ser uma ciência

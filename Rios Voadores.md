@@ -1,5 +1,5 @@
 ---
-Date: Monday, 10-10-2022 @ 21:22
+Date: 2022-10-10
 Tags: transient, geography, ambiental
 ---
 # Rios Voadores

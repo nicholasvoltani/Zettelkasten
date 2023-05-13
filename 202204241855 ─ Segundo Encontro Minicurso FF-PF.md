@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 24-04-2022 @ 18:55
+Date: 2022-04-24
 Tags: literature/study_group, marxism
 ---
 # 202204241855 ─ Segundo Encontro Minicurso FC-PF

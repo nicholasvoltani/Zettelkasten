@@ -1,5 +1,5 @@
 ---
-Date: Wednesday, 20-07-2022 @ 20:42
+Date: 2022-07-20
 Tags: moc
 ---
 up:: [[000 MOC Home]]

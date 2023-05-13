@@ -1,5 +1,5 @@
 ---
-Date: Saturday, 05-11-2022 @ 20:09
+Date: 2022-11-05
 Tags: geography, ambiental
 ---
 up:: [[Vegetações do Brasil]]

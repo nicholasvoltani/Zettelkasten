@@ -1,6 +1,6 @@
 
 ---
-Date: Wednesday, 20-07-2022 @ 20:46
+Date: 2022-07-20
 Tags: moc
 ---
 up:: [[011a MOC Capital I]]

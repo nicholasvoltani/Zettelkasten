@@ -1,5 +1,5 @@
 ---
-Date: Monday, 17-10-2022 @ 18:41
+Date: 2022-10-17
 Tags: literature/lecture
 ---
 # 202210171841 Introdução à Filosofia da Ciência ─ Aula 1

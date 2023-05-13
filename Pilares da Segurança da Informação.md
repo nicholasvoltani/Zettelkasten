@@ -1,5 +1,5 @@
 ---
-Date: Wednesday, 22-02-2023 @ 15:48
+Date: 2023-02-22
 Tags: transient, hacking
 ---
 up:: [[0x99 Hacking MOC]]

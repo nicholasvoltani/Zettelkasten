@@ -1,5 +1,5 @@
 ---
-Date: Tuesday, 18-04-2023 @ 19:35
+Date: 2023-04-18
 Tags: literature/lecture, anthropology
 ---
 

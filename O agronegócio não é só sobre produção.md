@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 12-06-2022 @ 14:35
+Date: 2022-06-12
 Tags: transient
 ---
 # 202206121434 - O agronegócio não é só sobre produção

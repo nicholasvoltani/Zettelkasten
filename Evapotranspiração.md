@@ -1,5 +1,5 @@
 ---
-Date: Tuesday, 15-11-2022 @ 15:25
+Date: 2022-11-15
 Tags: evergreen, ambiental
 ---
 ![[Pasted image 20221115152722.png]]

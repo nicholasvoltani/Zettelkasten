@@ -1,5 +1,5 @@
 ---
-Date: Monday, 13-06-2022 @ 20:27
+Date: 2022-06-13
 Tags: transient
 ---
 # 202206132026 - Sobre a "não-intervenção do Estado" (no *agribusiness*)

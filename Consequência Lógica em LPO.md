@@ -1,5 +1,5 @@
 ---
-Date: Thursday, 26-08-2021 @ 21:32
+Date: 2021-08-26
 Tags: mathematics 
 ---
 ## Definição: Satisfação/*Entailment*/Consequência Lógica

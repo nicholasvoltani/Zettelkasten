@@ -1,5 +1,5 @@
 ---
-Date: Thursday, 26-08-2021 @ 21:29
+Date: 2021-08-26
 Tags: mathematics 
 ---
 $\newcommand{\I}{\mathcal{I}}$

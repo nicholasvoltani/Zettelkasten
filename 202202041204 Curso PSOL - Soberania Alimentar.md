@@ -1,5 +1,5 @@
 ---
-Date: Friday, 04-02-2022 @ 12:04
+Date: 2022-02-04
 Tags: literature/lecture, ambiental
 ---
 # Módulo 6 ─ Soberania e Segurança Alimentar e Nutricional (Anelise Rizzolo)

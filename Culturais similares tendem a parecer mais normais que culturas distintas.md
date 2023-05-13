@@ -1,5 +1,5 @@
 ---
-Date: Saturday, 06-05-2023 @ 12:45
+Date: 2023-05-06
 Tags: transient, anthropology
 ---
 up:: [[Analogia entre Relativismo Cultural e Relatividade Galileana]]

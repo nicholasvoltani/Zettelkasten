@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 25-09-2022 @ 22:10
+Date: 2022-09-25
 Tags: moc
 ---
 up:: [[000 MOC Home]]

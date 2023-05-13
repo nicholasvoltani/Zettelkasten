@@ -1,5 +1,5 @@
 ---
-Date: Wednesday, 03-05-2023 @ 19:57
+Date: 2023-05-03
 Tags: evergreen
 ---
 up:: [[0x4a2 Antropo I]]

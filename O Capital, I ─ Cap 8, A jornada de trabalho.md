@@ -1,5 +1,5 @@
 ---
-Date: Monday, 07-03-2022 @ 08:56
+Date: 2022-03-07
 Tags: literature/lecture, marxism
 ---
 # O Capital, I ─ Cap 8, A jornada de trabalho

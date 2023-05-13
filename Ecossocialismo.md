@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 27-02-2022 @ 14:04
+Date: 2022-02-27
 Tags: evergreen, marxism 
 ---
 # Ecossocialismo

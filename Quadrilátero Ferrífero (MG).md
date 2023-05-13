@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 08-01-2023 @ 21:33
+Date: 2023-01-08
 Tags: transient, geography
 ---
 up:: 

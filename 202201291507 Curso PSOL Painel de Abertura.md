@@ -1,5 +1,5 @@
 ---
-Date: Saturday, 29-01-2022 @ 15:07
+Date: 2022-01-29
 Tags: literature/lecture, ecossocialism, ambiental
 ---
 # Painel de Abertura: "Crise Ambiental e os desafios da Esquerda Brasileira" (Fundação Lauro Campos e Marielle Franco)

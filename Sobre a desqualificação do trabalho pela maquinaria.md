@@ -1,5 +1,5 @@
 ---
-Date: Tuesday, 05-04-2022 @ 21:59
+Date: 2022-04-05
 Tags: marxism, transient
 ---
 # 202204052159 - Sobre a desqualificação do trabalho pela maquinaria

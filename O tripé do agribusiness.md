@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 12-06-2022 @ 14:46
+Date: 2022-06-12
 Tags: transient
 ---
 # 202206121446 - Primary agribusiness triaggregate, ou "tripé do *agribusiness*"

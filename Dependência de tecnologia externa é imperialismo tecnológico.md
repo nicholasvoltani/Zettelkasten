@@ -1,5 +1,5 @@
 ---
-Date: Wednesday, 05-10-2022 @ 22:39
+Date: 2022-10-05
 Tags: transient
 ---
 # Fundação de Asimov e Obsolescência Programada

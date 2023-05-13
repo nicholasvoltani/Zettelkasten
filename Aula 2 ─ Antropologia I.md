@@ -1,5 +1,5 @@
 ---
-Date: Tuesday, 11-04-2023 @ 20:27
+Date: 2023-04-11
 Tags: literature/lecture, anthropology
 ---
 up:: [[0x4a2 Antropo I]]

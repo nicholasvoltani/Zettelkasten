@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 07-08-2022 @ 11:56
+Date: 2022-08-07
 Tags: literature/lecture, marxism
 ---
 # 202208071155 - Aula 6 Introdução Materialismo Dialético (Sobre Ideologia)

@@ -1,5 +1,5 @@
 ---
-Date: Monday, 23-08-2021 @ 19:55
+Date: 2021-08-23
 Tags: transient
 ---
 # Operadores Cognitivos de Pensamento Complexo, segundo Edgar Morin

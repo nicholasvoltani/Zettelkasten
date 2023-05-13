@@ -1,5 +1,5 @@
 ---
-Date: Tuesday, 24-08-2021 @ 21:07
+Date: 2021-08-24
 Tags: mathematics 
 ---
 # Sintaxe de Lógica de Primeira Ordem

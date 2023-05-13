@@ -1,5 +1,5 @@
 ---
-Date: Monday, 01-05-2023 @ 17:35
+Date: 2023-05-01
 Tags: anthropology, evergreen
 ---
 up:: [[0x4a2 Antropo I]]

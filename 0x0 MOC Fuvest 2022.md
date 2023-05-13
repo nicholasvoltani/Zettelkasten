@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 25-09-2022 @ 22:21
+Date: 2022-09-25
 Tags: moc
 ---
 # 0x0 MOC Fuvest 2022

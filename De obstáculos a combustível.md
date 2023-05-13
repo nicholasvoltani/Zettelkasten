@@ -1,5 +1,5 @@
 ---
-Date: Monday, 21-06-2021 @ 19:56
+Date: 2021-06-21
 Tags: marxism, transient
 ---
 # Como o capitalismo transforma seus obstáculos em material para sua própria formação

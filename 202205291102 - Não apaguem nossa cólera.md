@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 29-05-2022 @ 11:56
+Date: 2022-05-29
 Tags: transient
 ---
 # 202205291102 - Não apaguem nossa cólera

@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 10-10-2021 @ 13:51
+Date: 2021-10-10
 Tags: mathematics 
 ---
 # Processo de Conhecimento Logicamente Completo

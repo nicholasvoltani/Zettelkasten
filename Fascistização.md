@@ -1,5 +1,5 @@
 ---
-Date: Friday, 03-03-2023 @ 15:26
+Date: 2023-03-03
 Tags: transient, marxism
 ---
 up:: 

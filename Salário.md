@@ -1,5 +1,5 @@
 ---
-Date: Wednesday, 20-04-2022 @ 22:23
+Date: 2022-04-20
 Tags: evergreen, marxism
 ---
 # Salário

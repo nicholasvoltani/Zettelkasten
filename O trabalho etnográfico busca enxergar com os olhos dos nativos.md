@@ -1,5 +1,5 @@
 ---
-Date: Wednesday, 03-05-2023 @ 22:04
+Date: 2023-05-03
 Tags: evergreen
 ---
 up:: [[Trabalho de Campo Etnográfico]]

@@ -1,5 +1,5 @@
 ---
-Date: Friday, 21-10-2022 @ 21:37
+Date: 2022-10-21
 Tags: evergreen
 ---
 > "A devastação da mata em larga escala ia semeando desertos estéreis atrás do colonizador, **sempre em busca de solos frescos que não exigissem maior esforço de sua parte**.

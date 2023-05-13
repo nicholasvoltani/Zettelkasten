@@ -1,5 +1,5 @@
 ---
-Date: Tuesday, 10-08-2021 @ 21:26
+Date: 2021-08-10
 Tags: evergreen, marxism
 ---
 # Trabalho segundo Marx

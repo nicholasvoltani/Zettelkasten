@@ -1,5 +1,5 @@
 ---
-Date: Monday, 07-02-2022 @ 14:08
+Date: 2022-02-07
 Tags: literature/lecture, ambiental
 ---
 # Módulo 7 ─ Soberania Alimentar e Democratização da Terra (Kelli Mafort, MST)

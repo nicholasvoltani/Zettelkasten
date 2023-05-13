@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 16-10-2022 @ 22:29
+Date: 2022-10-16
 Tags: geography
 ---
 # Bacia do São Francisco

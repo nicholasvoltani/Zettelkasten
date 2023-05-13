@@ -1,5 +1,5 @@
 ---
-Date: Monday, 10-10-2022 @ 22:41
+Date: 2022-10-10
 Tags: transient geography
 ---
 # Zona de Convergência Intertropical (ZCIT)

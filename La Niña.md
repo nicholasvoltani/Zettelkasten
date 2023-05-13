@@ -1,5 +1,5 @@
 ---
-Date: Monday, 03-10-2022 @ 22:47
+Date: 2022-10-03
 Tags: transient, geography
 ---
 # La Niña

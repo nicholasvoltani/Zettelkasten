@@ -1,5 +1,5 @@
 ---
-Date: Monday, 31-01-2022 @ 12:48
+Date: 2022-01-31
 Tags: literature/lecture, ambiental
 ---
 # Módulo 2 ─ Emergência Climática e Transição Energética (Alexandre Costa)

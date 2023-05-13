@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 20-06-2021 @ 18:06
+Date: 2021-06-20
 Tags: transient, marxism
 ---
 # Surgimento da ideologia da classe dominante

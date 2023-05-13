@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 27-02-2022 @ 18:50
+Date: 2022-02-27
 Tags: transient, marxism
 ---
 # Metabolismo social

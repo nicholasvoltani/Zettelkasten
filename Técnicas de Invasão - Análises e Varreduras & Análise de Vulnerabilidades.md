@@ -1,5 +1,5 @@
 ---
-Date: Wednesday, 01-03-2023 @ 17:35
+Date: 2023-03-01
 Tags: transient, hacking
 ---
 up:: 

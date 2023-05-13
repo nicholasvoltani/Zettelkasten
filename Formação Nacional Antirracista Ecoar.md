@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 12-03-2023 @ 15:01
+Date: 2023-03-12
 Tags: literature/lecture, marxism
 ---
 # Apresentação Rojú Soares: Antirracismo, Marxismo e Revolução

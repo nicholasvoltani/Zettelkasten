@@ -1,5 +1,5 @@
 ---
-Date: Saturday, 23-07-2022 @ 16:07
+Date: 2022-07-23
 Tags: moc 
 ---
 # MOC Marx

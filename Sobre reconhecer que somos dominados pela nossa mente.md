@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 15-05-2022 @ 10:00
+Date: 2022-05-15
 Tags: transient
 ---
 # 202205150958 - Sobre reconhecer que somos dominados pela nossa mente

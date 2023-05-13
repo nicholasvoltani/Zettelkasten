@@ -1,5 +1,5 @@
 ---
-Date: Wednesday, 12-10-2022 @ 16:52
+Date: 2022-10-12
 Tags: transient
 ---
 # Ciclo colonial da cana-de-açúcar

@@ -1,5 +1,5 @@
 ---
-Date: Saturday, 23-07-2022 @ 16:16
+Date: 2022-07-23
 Tags: moc 
 ---
 up:: [[011 MOC Marx]]

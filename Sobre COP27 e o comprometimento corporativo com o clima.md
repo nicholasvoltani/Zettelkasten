@@ -1,5 +1,5 @@
 ---
-Date: Monday, 14-11-2022 @ 12:34
+Date: 2022-11-14
 Tags: transient
 ---
 # 202211141234 Sobre COP27 e o comprometimento corporativo com o clima

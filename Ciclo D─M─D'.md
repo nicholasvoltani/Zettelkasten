@@ -1,5 +1,5 @@
 ---
-Date: Monday, 28-02-2022 @ 12:20
+Date: 2022-02-28
 Tags: evergreen, marxism
 ---
 # Ciclo D─M─D' da circulação de mercadorias

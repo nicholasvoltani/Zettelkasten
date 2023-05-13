@@ -1,5 +1,5 @@
 ---
-Date: Wednesday, 02-06-2021 @ 18:22
+Date: 2021-06-02
 Source:
 Tags: evergreen, marxism
 ---

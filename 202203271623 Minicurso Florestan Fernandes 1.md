@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 27-03-2022 @ 16:24
+Date: 2022-03-27
 Tags: literature/study_group, marxism
 ---
 # 202203271623 Minicurso Florestan Fernandes 1

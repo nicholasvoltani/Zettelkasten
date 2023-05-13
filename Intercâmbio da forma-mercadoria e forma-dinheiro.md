@@ -1,5 +1,5 @@
 ---
-Date: Monday, 28-02-2022 @ 11:46
+Date: 2022-02-28
 Tags: evergreen, marxism
 ---
 # Intercâmbio da forma-mercadoria e forma-dinheiro

@@ -1,5 +1,5 @@
 ---
-Date: Tuesday, 15-11-2022 @ 14:49
+Date: 2022-11-15
 Tags: moc
 ---
 ## Parent MOC

@@ -1,5 +1,5 @@
 ---
-Date: Saturday, 28-05-2022 @ 11:21
+Date: 2022-05-28
 Tags: transient, ambiental, marxism 
 ---
 # 202205281121 ─ O país do Agro é o país da fome

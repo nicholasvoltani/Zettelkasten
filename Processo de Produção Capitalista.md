@@ -1,5 +1,5 @@
 ---
-Date: Tuesday, 01-03-2022 @ 18:59
+Date: 2022-03-01
 Tags: evergreen, marxism
 ---
 # Processo de Produção Capitalista

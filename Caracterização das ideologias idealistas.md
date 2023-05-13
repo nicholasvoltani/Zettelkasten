@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 20-06-2021 @ 18:34
+Date: 2021-06-20
 Tags: transient, marxism
 ---
 # Caracterização das ideologias idealistas

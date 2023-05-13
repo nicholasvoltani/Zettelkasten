@@ -1,5 +1,5 @@
 ---
-Date: Wednesday, 16-03-2022 @ 20:28
+Date: 2022-03-16
 Tags: literature/video
 ---
 # How to build self-esteem ─ Dr K

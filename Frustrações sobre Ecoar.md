@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 07-08-2022 @ 10:06
+Date: 2022-08-07
 Tags: critique, transient
 ---
 up:: [[Críticas Ecoar]]

@@ -1,5 +1,5 @@
 ---
-Date: Thursday, 07-04-2022 @ 19:51
+Date: 2022-04-07
 Tags: literature/lecture, marxism
 ---
 # O que é ideologia, com Marilena Chauí, Jessé Souza e Eduardo Moreira

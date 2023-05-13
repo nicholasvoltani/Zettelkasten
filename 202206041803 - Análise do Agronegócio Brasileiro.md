@@ -1,5 +1,5 @@
 ---
-Date: Saturday, 04-06-2022 @ 18:03
+Date: 2022-06-04
 Tags: transient
 ---
 ## 1. Origens yankees (Começo de 1960's)

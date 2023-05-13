@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 12-06-2022 @ 18:08
+Date: 2022-06-12
 Tags: transient
 ---
 # 202206121808 - Sobre a criação de trabalho pela tecnologia

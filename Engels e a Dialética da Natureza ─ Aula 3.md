@@ -1,5 +1,5 @@
 ---
-Date: Tuesday, 03-05-2022 @ 18:59
+Date: 2022-05-03
 Tags: literature/study_group, marxism
 ---
 # Engels e a Dialética da Natureza ─ Aula 3 (Entre as ciências naturais e a Naturphilosophie do século XIX)

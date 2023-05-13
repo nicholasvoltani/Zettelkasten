@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 07-05-2023 @ 13:26
+Date: 2023-05-07
 Tags: transient
 ---
 up:: [[0x4a2 Antropo I]]

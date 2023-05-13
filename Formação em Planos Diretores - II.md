@@ -1,5 +1,5 @@
 ---
-Date: Saturday, 19-11-2022 @ 15:01
+Date: 2022-11-19
 Tags: literature/lecture
 ---
 # Allan Yu Iwama - Processos participativos e leitura do território

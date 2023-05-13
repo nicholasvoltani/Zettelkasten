@@ -1,5 +1,5 @@
 ---
-Date: Tuesday, 05-04-2022 @ 19:51
+Date: 2022-04-05
 Tags: literature/lecture, marxism
 ---
 # O Capital, I ─ Cap 13, Maquinaria e Grande Indústria

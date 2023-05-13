@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 27-02-2022 @ 11:54
+Date: 2022-02-27
 Tags: literature, marxism
 ---
 # Estratégia e Partido, Daniel Bensaid

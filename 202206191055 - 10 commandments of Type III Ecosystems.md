@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 19-06-2022 @ 10:56
+Date: 2022-06-19
 Tags: literature, ambiental
 ---
 # 202206191055 - 10 commandments of Type III Ecosystems

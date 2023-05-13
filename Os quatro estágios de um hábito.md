@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 04-09-2022 @ 18:47
+Date: 2022-09-04
 Tags: transient
 ---
 # Os quatro estágios de um hábito

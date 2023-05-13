@@ -1,5 +1,5 @@
 ---
-Date: Thursday, 04-05-2023 @ 22:30
+Date: 2023-05-04
 Tags: evergreen
 ---
 up:: [[0x4a1 Sociologia I]]

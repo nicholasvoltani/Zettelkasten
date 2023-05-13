@@ -1,5 +1,5 @@
 ---
-Date: Monday, 28-02-2022 @ 15:50
+Date: 2022-02-28
 Tags: literature/lecture, marxism
 ---
 # O Capital, I ─ Cap 5, O processo de trabalho e o processo de valorização

@@ -1,5 +1,5 @@
 ---
-Date: Saturday, 31-12-2022 @ 18:22
+Date: 2022-12-31
 Tags: transient
 ---
 Sobre ressignificar o passado e "fechar um ciclo" é algo **individual**. 

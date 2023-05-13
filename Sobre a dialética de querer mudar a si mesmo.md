@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 10-04-2022 @ 20:38
+Date: 2022-04-10
 Tags: transient
 ---
 # 202204102037 - Sobre a dialética de querer mudar a si mesmo

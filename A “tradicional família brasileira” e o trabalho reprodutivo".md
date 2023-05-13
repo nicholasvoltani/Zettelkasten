@@ -1,5 +1,5 @@
 ---
-Date: Thursday, 17-03-2022 @ 18:03
+Date: 2022-03-17
 Tags: literature/lecture, marxism
 ---
 # A "tradicional família brasileira" e o trabalho reprodutivo (Marianna Haug e Ana Carolina Andrade)

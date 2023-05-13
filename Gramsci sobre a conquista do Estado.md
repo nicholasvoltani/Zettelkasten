@@ -1,5 +1,5 @@
 ---
-Date: Wednesday, 06-07-2022 @ 13:34
+Date: 2022-07-06
 Tags: marxism, transient
 ---
 # 202207061334 Gramsci sobre a conquista do Estado

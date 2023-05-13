@@ -1,5 +1,5 @@
 ---
-Date: Monday, 28-02-2022 @ 11:48
+Date: 2022-02-28
 Tags: evergreen, marxism
 ---
 # Força de Trabalho

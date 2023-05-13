@@ -1,5 +1,5 @@
 ---
-Date: Thursday, 06-10-2022 @ 22:35
+Date: 2022-10-06
 Tags: transient, geography
 ---
 # Protocolo de Kyoto

@@ -1,5 +1,5 @@
 ---
-Date: Thursday, 02-03-2023 @ 14:43
+Date: 2023-03-02
 Tags: literature, marxism
 ---
 up:: 

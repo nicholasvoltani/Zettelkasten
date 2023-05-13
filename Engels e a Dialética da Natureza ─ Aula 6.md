@@ -1,5 +1,5 @@
 ---
-Date: Thursday, 12-05-2022 @ 18:31
+Date: 2022-05-12
 Tags: literature/study_group, marxism
 ---
 # Engels e a Dialética da Natureza ─ Aula 6

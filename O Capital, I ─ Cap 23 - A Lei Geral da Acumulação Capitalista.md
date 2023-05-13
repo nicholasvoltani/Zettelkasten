@@ -1,5 +1,5 @@
 ---
-Date: Saturday, 07-05-2022 @ 18:28
+Date: 2022-05-07
 Tags: literature/lecture, marxism
 ---
 # O Capital, I ─ Cap 23 - A Lei Geral da Acumulação Capitalista

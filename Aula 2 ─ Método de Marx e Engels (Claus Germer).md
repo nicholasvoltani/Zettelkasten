@@ -1,5 +1,5 @@
 ---
-Date: Wednesday, 01-09-2021 @ 19:06
+Date: 2021-09-01
 Tags: literature/lecture, marxism
 ---
 # Aula 2 ─ O que é Dialética Materialista

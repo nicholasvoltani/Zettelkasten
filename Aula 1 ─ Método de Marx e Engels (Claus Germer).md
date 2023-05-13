@@ -1,5 +1,5 @@
 ---
-Date: Wednesday, 25-08-2021 @ 18:10
+Date: 2021-08-25
 Tags: literature/lecture, marxism
 ---
 # Aula 1 ─ Método de Marx e Engels

@@ -1,5 +1,5 @@
 ---
-Date: Tuesday, 01-02-2022 @ 15:45
+Date: 2022-02-01
 Tags: literature/lecture, ambiental
 ---
 # Módulo 3 ─ Amazônia e os desafios da Humanidade (Adolfo Oliveira, UFPA)

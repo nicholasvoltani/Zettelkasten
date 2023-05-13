@@ -1,5 +1,5 @@
 ---
-Date: Tuesday, 24-08-2021 @ 20:53
+Date: 2021-08-24
 Tags: mathematics 
 ---
 # Lógica de Primeira Ordem

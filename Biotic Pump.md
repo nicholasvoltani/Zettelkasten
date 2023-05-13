@@ -1,5 +1,5 @@
 ---
-Date: Tuesday, 15-11-2022 @ 16:21
+Date: 2022-11-15
 Tags: ambiental
 ---
 ![[Pasted image 20221115151025.png]]

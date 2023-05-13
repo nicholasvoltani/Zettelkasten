@@ -1,5 +1,5 @@
 ---
-Date: Thursday, 04-08-2022 @ 21:21
+Date: 2022-08-04
 Tags: transient, mathematics
 ---
 # 202208042121 Intro to Umbral Calculus

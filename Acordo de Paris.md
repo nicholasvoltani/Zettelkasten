@@ -1,5 +1,5 @@
 ---
-Date: Thursday, 06-10-2022 @ 22:43
+Date: 2022-10-06
 Tags: ambiental
 ---
 # Acordo de Paris

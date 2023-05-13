@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 20-06-2021 @ 17:03
+Date: 2021-06-20
 Tags: transient, marxism
 ---
 # Resultado do desenvolvimento das forças produtivas

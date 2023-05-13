@@ -1,5 +1,5 @@
 ---
-Date: Monday, 10-10-2022 @ 21:59
+Date: 2022-10-10
 Tags: geography, ambiental
 ---
 # Chuva Orográfica

@@ -1,5 +1,5 @@
 ---
-Date: Saturday, 19-11-2022 @ 14:11
+Date: 2022-11-19
 Tags: literature/lecture, ambiental
 ---
 # Juan Blanco Prada - Urbanismo Democrático: o desafio do impossível

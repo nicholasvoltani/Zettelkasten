@@ -1,5 +1,5 @@
 ---
-Date: Friday, 04-06-2021 @ 16:21
+Date: 2021-06-04
 Tags: marxism, transient
 ---
 # Sobre a consciência segundo Marx e Hegel

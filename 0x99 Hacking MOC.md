@@ -1,5 +1,5 @@
 ---
-Date: Wednesday, 22-02-2023 @ 15:52
+Date: 2023-02-22
 Tags: moc
 ---
 # Tópicos

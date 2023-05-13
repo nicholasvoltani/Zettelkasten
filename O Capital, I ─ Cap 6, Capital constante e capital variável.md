@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 10-04-2022 @ 17:23
+Date: 2022-04-10
 Tags: literature/lecture, marxism
 ---
 # O Capital, I ─ Cap 6, Capital constante e capital variável

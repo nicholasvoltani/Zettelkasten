@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0x4a1 Sociologia I.md",
+                "file": "0x4a2 Antropo I.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1b837a670be50001",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unlinked Files.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64e16fd02369114d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vegetações do Brasil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -73,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "descola",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -119,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exercícios de Leitura Socio I.md",
+                "file": "Vegetações do Brasil.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,44 +172,9 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "8f70a63aa3139063",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Exercícios de Leitura Socio I.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 17.3448873483536,
-                  "linkStrength": 0.832384253528101,
-                  "linkDistance": 250,
-                  "scale": 0.465585241289826,
-                  "close": false
-                }
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,34 +194,34 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "96f7029bf6aa8940",
+  "active": "64e16fd02369114d",
   "lastOpenFiles": [
-    "O movimento operário é um movimento de classes, não somente um movimento grevista.md",
+    "Valor de Uso.md",
+    "Valor.md",
+    "O Capital, I ─ Cap 13, Maquinaria e Grande Indústria.md",
+    "Meios de Trabalho.md",
+    "Hipótese de Representação de Conhecimento.md",
+    "honorável jacintho.md",
+    "Engels e a Dialética da Natureza ─ Aula 5.md",
+    "Epirogênese.md",
     "Exercícios de Leitura Socio I.md",
-    "Malthusianismo.md",
-    "Bases históricas do Malthusianismo.md",
-    "0x4a1 Sociologia I.md",
+    "ESG é uma versão meramente formal de sustentabilidade.md",
+    "Curso Intro a R.md",
+    "202207042014 - Aula 3 Introdução Materialismo Dialético.md",
     "Templates/Evergreen Note Template.md",
-    "Templates/Transient Note Template.md",
-    "Templates/Template O Capital, Livro I.md",
-    "Templates/Template Fichamento Expresso (Geral).md",
-    "Templates/MOC Template.md",
-    "Templates/Marxism Note Template.md",
-    "Templates/Literature Note Template.md",
-    "Templates/Lecture Note Template.md",
-    "Templates/Hacking Template.md",
-    "Templates/Generic Note Template.md",
-    "000 MOC Home.md",
-    "012 MOC Lukács.md",
-    "010 MOC Marxism.md",
     "Unlinked Files.md",
-    "Homepage.md",
-    "202206151902 - Aula 1 Introdução Materialismo Dialético.md",
-    "Aula 1 ─ Método de Marx e Engels (Claus Germer).md",
-    "O desenvolvimento científico ocidental é resultado da exteriorização da natureza.md",
-    "202206151902 - Aula 2 Introdução Materialismo Dialético.md",
-    "Preparação P1 Antropo I ─ \"Conceitos e considerações críticas da antropologia sociocultural ao evolucionismo\".md",
-    "O papel social da ciência.md",
+    "O movimento operário é um movimento de classes, não somente um movimento grevista.md",
+    "Bases históricas do Malthusianismo.md",
+    "022 MOC Information Theory.md",
+    "Def - Informação Mútua.md",
+    "Def - Entropia.md",
+    "Malthusianismo.md",
+    "0x4a2 Antropo I.md",
+    "202206082117 - Ep 2 Prato Cheio.md",
+    "0x4 Ciências Sociais.md",
+    "0x3 MOC Geografia.md",
+    "0x4a3 Política I.md",
+    "000 MOC Home.md",
     "2. Literature Notes/Fichamento Expresso ─ A primeira década de Tito Lívio (Maquiavel).pdf",
     "Attachments/Pasted image 20230501134903.png",
     "Attachments/Pasted image 20230501134531.png",

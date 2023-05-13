@@ -1,5 +1,5 @@
 ---
-Date: Tuesday, 29-03-2022 @ 20:42
+Date: 2022-03-29
 Tags: literature/lecture, marxism
 ---
 # O Capital, I ─ Cap 12, Divisão do Trabalho e Manufatura

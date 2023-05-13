@@ -1,5 +1,5 @@
 ---
-Date: Tuesday, 01-03-2022 @ 19:54
+Date: 2022-03-01
 Tags: transient, marxism
 ---
 # Processo de Valorização

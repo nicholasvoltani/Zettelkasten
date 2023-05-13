@@ -1,5 +1,5 @@
 ---
-Date: Saturday, 30-07-2022 @ 17:12
+Date: 2022-07-30
 Tags: transient
 ---
 # 202207301712 Sobre o papel do "desencanto das subjetividades" no capitalismo

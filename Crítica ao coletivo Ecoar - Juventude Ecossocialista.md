@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 07-05-2023 @ 14:33
+Date: 2023-05-07
 Tags: transient, critique
 ---
 # Introdução

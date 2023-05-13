@@ -1,5 +1,5 @@
 ---
-Date: Tuesday, 15-11-2022 @ 15:32
+Date: 2022-11-15
 Tags: transient, geography, ambiental
 ---
 ![[Pasted image 20221115153317.png|500]]

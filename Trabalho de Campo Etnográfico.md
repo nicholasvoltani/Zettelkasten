@@ -1,5 +1,5 @@
 ---
-Date: Wednesday, 03-05-2023 @ 20:01
+Date: 2023-05-03
 Tags: evergreen
 ---
 up:: [[Antropologia de varanda vs trabalho de campo]]

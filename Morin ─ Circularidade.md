@@ -1,5 +1,5 @@
 ---
-Date: Monday, 23-08-2021 @ 20:00
+Date: 2021-08-23
 Tags: transient
 ---
 # Operador Cognitivo de Circularidade

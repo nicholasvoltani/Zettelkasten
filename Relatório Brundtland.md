@@ -1,5 +1,5 @@
 ---
-Date: Thursday, 06-10-2022 @ 21:58
+Date: 2022-10-06
 Tags: transient, geography
 ---
 # Relatório Brundtland (Our Common Future)

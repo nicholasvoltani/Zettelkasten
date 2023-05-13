@@ -1,5 +1,5 @@
 ---
-Date: Tuesday, 10-08-2021 @ 21:07
+Date: 2021-08-10
 Tags: marxism, transient
 ---
 # Como pode ter surgido o mito da alquimia

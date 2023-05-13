@@ -1,5 +1,5 @@
 ---
-Date: Wednesday, 30-03-2022 @ 21:55
+Date: 2022-03-30
 Tags: transient, marxism
 ---
 # 202203302154 ─ O papel dos (ecos)socialistas nas eleições

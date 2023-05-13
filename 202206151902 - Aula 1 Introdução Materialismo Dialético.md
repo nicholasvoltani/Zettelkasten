@@ -1,5 +1,5 @@
 ---
-Date: Wednesday, 15-06-2022 @ 19:02
+Date: 2022-06-15
 Tags: literature/lecture, marxism
 ---
 

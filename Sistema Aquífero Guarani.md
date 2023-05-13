@@ -1,5 +1,5 @@
 ---
-Date: Monday, 14-11-2022 @ 15:45
+Date: 2022-11-14
 Tags: transient, geography
 ---
 up:: [[Aquíferos]]

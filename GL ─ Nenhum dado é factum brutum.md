@@ -1,5 +1,5 @@
 ---
-Date: Friday, 03-09-2021 @ 13:21
+Date: 2021-09-03
 Tags: evergreen, marxism
 ---
 # Qualquer dado implica em alguma teoria/método

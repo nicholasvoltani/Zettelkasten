@@ -1,5 +1,5 @@
 ---
-Date: Tuesday, 10-01-2023 @ 19:19
+Date: 2023-01-10
 Tags: literature/lecture
 ---
 up:: 

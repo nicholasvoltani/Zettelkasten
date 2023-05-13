@@ -1,6 +1,6 @@
 
 ---
-Date: Friday, 25-02-2022 @ 21:56
+Date: 2022-02-25
 Tags: literature
 ---
 # Anotações sobre Trabalho de Base

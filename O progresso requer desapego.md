@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 04-09-2022 @ 18:10
+Date: 2022-09-04
 Tags: transient
 ---
 # O progresso requer desapego

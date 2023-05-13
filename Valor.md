@@ -1,5 +1,5 @@
 ---
-Date: Monday, 09-08-2021 @ 21:47
+Date: 2021-08-09
 Tags: evergreen, marxism
 ---
 # Definição de Valor, segundo Marx

@@ -1,5 +1,5 @@
 ---
-Date: Wednesday, 22-06-2022 @ 19:02
+Date: 2022-06-22
 Tags: literature/lecture, marxism
 ---
 # 202206151902 -Aula 2 Introdução Materialismo Dialético

@@ -1,5 +1,5 @@
 ---
-Date: Sunday, 04-07-2021 @ 19:56
+Date: 2021-07-04
 Tags: evergreen, marxism
 ---
 # Definição de Valor de Troca, segundo Marx

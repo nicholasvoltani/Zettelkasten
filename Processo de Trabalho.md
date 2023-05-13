@@ -1,5 +1,5 @@
 ---
-Date: Tuesday, 01-03-2022 @ 19:07
+Date: 2022-03-01
 Tags: evergreen, marxism
 ---
 # Processo de Trabalho

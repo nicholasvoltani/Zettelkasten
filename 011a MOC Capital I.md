@@ -1,5 +1,5 @@
 ---
-Date: Saturday, 23-07-2022 @ 16:10
+Date: 2022-07-23
 Tags: moc 
 ---
 # MOC Capital I
