@@ -8,7 +8,6 @@ up:: [[0x4 Ciências Sociais]]
 ## I) A formação da Sociologia e as Duas Revoluções (Francesa & Industrial)
 ### A) O que é Sociologia?
 
-
 ### B) Sociologia e sociedade moderna
 
 

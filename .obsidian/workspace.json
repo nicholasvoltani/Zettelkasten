@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9fac12860169f083",
+            "id": "114cc512d82f76cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unlinked Files.md",
-                "mode": "preview",
+                "file": "0x4a1 Sociologia I.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96f7029bf6aa8940",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exercícios de Leitura Socio I.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "855cd031832cbd98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O movimento operário é um movimento de classes, não somente um movimento grevista.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unlinked Files.md",
+                "file": "Exercícios de Leitura Socio I.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Unlinked Files.md",
+                "file": "Exercícios de Leitura Socio I.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -180,34 +205,34 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9fac12860169f083",
+  "active": "96f7029bf6aa8940",
   "lastOpenFiles": [
-    "Homepage.md",
+    "O movimento operário é um movimento de classes, não somente um movimento grevista.md",
+    "Exercícios de Leitura Socio I.md",
+    "Malthusianismo.md",
+    "Bases históricas do Malthusianismo.md",
+    "0x4a1 Sociologia I.md",
+    "Templates/Evergreen Note Template.md",
+    "Templates/Transient Note Template.md",
+    "Templates/Template O Capital, Livro I.md",
+    "Templates/Template Fichamento Expresso (Geral).md",
+    "Templates/MOC Template.md",
+    "Templates/Marxism Note Template.md",
+    "Templates/Literature Note Template.md",
+    "Templates/Lecture Note Template.md",
+    "Templates/Hacking Template.md",
+    "Templates/Generic Note Template.md",
+    "000 MOC Home.md",
+    "012 MOC Lukács.md",
+    "010 MOC Marxism.md",
     "Unlinked Files.md",
+    "Homepage.md",
     "202206151902 - Aula 1 Introdução Materialismo Dialético.md",
     "Aula 1 ─ Método de Marx e Engels (Claus Germer).md",
-    "Templates/Evergreen Note Template.md",
     "O desenvolvimento científico ocidental é resultado da exteriorização da natureza.md",
     "202206151902 - Aula 2 Introdução Materialismo Dialético.md",
     "Preparação P1 Antropo I ─ \"Conceitos e considerações críticas da antropologia sociocultural ao evolucionismo\".md",
     "O papel social da ciência.md",
-    "202208042121 Intro to Umbral Calculus.md",
-    "0x4a2 Antropo I.md",
-    "References/A Ideologia Alemã.md",
-    "References/A razão na História.md",
-    "References/Gödel, Escher, Bach.md",
-    "References/O Capital, Livro 1.md",
-    "References/The enemy of nature.md",
-    "Crítica ao coletivo Ecoar - Juventude Ecossocialista.md",
-    "O Capital, I ─ Cap 8 & 9, Jornada de Trabalho e Massa de Mais-Valia.md",
-    "Mais-valor.md",
-    "Força de Trabalho.md",
-    "Caráter duplo do trabalho.md",
-    "Capital Variável.md",
-    "Tempo Necessário de Trabalho.md",
-    "GL ─ Totalidade Concreta.md",
-    "Caracterização das ideologias idealistas.md",
-    "Método de Abstração e Concretização.md",
     "2. Literature Notes/Fichamento Expresso ─ A primeira década de Tito Lívio (Maquiavel).pdf",
     "Attachments/Pasted image 20230501134903.png",
     "Attachments/Pasted image 20230501134531.png",

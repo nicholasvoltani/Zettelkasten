@@ -1,5 +1,5 @@
 ---
-Date: {{date}}
+Date: {{date:YYYY-MM-DD}}
 Tags: fichamento
 ---
 ---

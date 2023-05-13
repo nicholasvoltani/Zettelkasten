@@ -1,5 +1,5 @@
 ---
-Date: {{date:YYYY-MM-DD}}
+Date: 2023-05-13
 Tags: transient
 ---
 up:: 
