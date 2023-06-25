@@ -2,14 +2,13 @@
 Date: 2021-07-04
 Tags: evergreen, marxism
 ---
-# Definição de Valor de Uso, segundo Marx
 Segundo Marx, 
 > "A **utilidade** de uma coisa faz dela um **valor de uso**"
 
 Ou seja, a utilidade de algum objeto **para o ser humano** torna-o um *valor de uso*. 
 
 ## Geração de Valores de Uso
-Valores de uso podem tanto ser algo **natural** (como madeira, água, terra, linho, etc.) quanto algo oriundo da **atividade humana** (como uma mesa, ou um casaco feito de linho, etc.). 
+Valores de uso podem tanto ser algo **natural** (como madeira, água, terra, linho, etc.) quanto algo oriundo da **atividade humana**/[[Trabalho]] (como uma mesa, ou um casaco feito de linho, etc.). 
 
 ## O Valor de Uso quali/quantitativamente
 A princípio, o valor de uso de algum objeto é algo **qualitativo**, uma **potencialidade de satisfação de alguma necessidade**, sendo este caráter o que o distingue de outros valores de uso (a utilidade da pedra é diferente da utilidade da água, etc.). 

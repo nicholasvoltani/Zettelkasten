@@ -2,7 +2,7 @@
 Date: 2023-05-01
 Tags: transient
 ---
-up:: [[0x4a2 Antropo I]]
+up:: [[0x4a2 MOC Antropo I]]
 
 > "A humanidade acaba nas fronteiras da tribo, do grupo linguístico, por vezes mesmo, da aldeia." (p. 4)
 

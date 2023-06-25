@@ -3,7 +3,7 @@ Date: 2023-04-18
 Tags: literature/lecture, anthropology
 ---
 
-up:: [[0x4a2 Antropo I]]
+up:: [[0x4a2 MOC Antropo I]]
 
 # Resumo Lévi-Strauss
 - Fatores que explicam promoção da diversidade cultural não se reduzem a condições ambientais/pressões evolutivas: contraexemplo de povos amazônicos sujeitos às mesmas condições de hábitat, mas com uma enorme diversidade cultural. [[Como culturas se diferenciam entre si (Lévi-Strauss)]]

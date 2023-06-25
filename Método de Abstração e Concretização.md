@@ -2,7 +2,7 @@
 Date: 2021-08-26
 Tags: transient, marxism
 ---
-# Método da Abstração
+# [[Método da Abstração (Marx)]]
 > "O nosso fim deve ser conhecer **esse elemento substancial**; e para o conhecer deve proporcionar-se a consciência da razão, não os olhos físicos nem um entendimento finito, mas **o olho** \[...\] **da razão**, que atravessa a superfície e **penetra a variedade do garrido tumulto dos acontecimentos**" (A Razão na História, Hegel, p. 34, Ed. Lisboa; grifo meu)
 
 Dado um conjunto de objetos, o método da abstração consiste em abstrair-se das particularidades de cada objeto em prol de algo que lhes seja **comum** ─ tal conceito pode ser chamado um **abstrato** (ou mesmo **abstração**, substantivo). 
@@ -14,7 +14,7 @@ O conceito de **fruta** é um abstrato: não podemos ir em uma feira e pedir **u
 
 Da mesma forma, o **trabalho** é uma abstração: é um conceito que possui as características em comum de todos os tipos de trabalho específicos. 
 
-# Método da Concreção/Concretização
+# [[Método da Concreção/Concretização (Marx)]]
 Se o método de abstração busca "subir no funil", o método da concretização acaba "descendo": ele busca, a partir de algum conceito abstrato, acrescentar-lhe particularidades até que alcance algo **concreto**, **real**, **particular**.
 
 ## Exemplos de concretização

@@ -5,13 +5,13 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:Matemática",
+      "query": "tag:#mathematics",
       "color": {
         "a": 1,
-        "rgb": 7825411
+        "rgb": 13640679
       }
     },
     {
@@ -39,14 +39,14 @@
       "query": "tag:#moc",
       "color": {
         "a": 1,
-        "rgb": 16543491
+        "rgb": 14215145
       }
     },
     {
       "query": "tag:#geography",
       "color": {
         "a": 1,
-        "rgb": 14932749
+        "rgb": 11230983
       }
     }
   ],
@@ -56,10 +56,10 @@
   "nodeSizeMultiplier": 1.36078651685393,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 0.591112353269983,
-  "linkDistance": 250,
-  "scale": 0.2235712454511554,
+  "centerStrength": 0.590917564594907,
+  "repelStrength": 10.672980127512,
+  "linkStrength": 0.244920025353268,
+  "linkDistance": 217,
+  "scale": 0.19699215402381,
   "close": true
 }

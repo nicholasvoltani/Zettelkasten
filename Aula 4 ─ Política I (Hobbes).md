@@ -2,7 +2,7 @@
 Date: 2023-05-02
 Tags: literature/lecture
 ---
-up:: [[0x4a3 Política I]] 
+up:: [[0x4a3 MOC Política I]] 
 
 Em Maquiavel ainda há uma noção de Estado bem atrelada ao tipo de governo: ao Príncipe, ou ao autogoverno popular.
 

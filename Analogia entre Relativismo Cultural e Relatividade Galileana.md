@@ -2,7 +2,7 @@
 Date: 2023-05-01
 Tags: anthropology, evergreen
 ---
-up:: [[0x4a2 Antropo I]]
+up:: [[0x4a2 MOC Antropo I]]
 
 > "Há, pois, segundo parece, uma relação entre a noção física de *movimento aparente* e uma outra noção que depende não só da física como também da psicologia e da sociologia: a da *quantidade de informações suscetível de 'passar' entre dois indivíduos ou grupos*, em função da maior ou menor diversidade das suas culturas respectivas." (p. 11; grifo meu)
 

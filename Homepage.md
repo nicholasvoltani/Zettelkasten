@@ -19,10 +19,10 @@ banner_y: 1
 
 # Projects
 > Projects contain a lot of **subtasks**, have a **goal** and have a **deadline**.
-- [[0x4 Ciências Sociais]]
-	- [[0x4a1 Sociologia I]]
-	- [[0x4a2 Antropo I]]
-	- [[0x4a3 Política I]]
+- [[0x4 MOC Ciências Sociais]]
+	- [[0x4a1 MOC Sociologia I]]
+	- [[0x4a2 MOC Antropo I]]
+	- [[0x4a3 MOC Política I]]
 - **Ecoar**
 	- Intervenções Socioambiental
 	- Formações
@@ -63,7 +63,7 @@ banner_y: 1
 	- **Programming**
 		- Julia: [Julia tutorial at MIT (January 2013) - YouTube](https://www.youtube.com/playlist?list=PLP8iPy9hna6Si2sjMkrPY-wt2mEouZgaZ)
 		- Haskell: [Chapters - Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
-- [[040 MOC Anarchism]]
+- [[050 MOC Anarchism]]
 
 
 ---

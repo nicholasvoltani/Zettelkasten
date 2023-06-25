@@ -2,7 +2,7 @@
 Date: 2023-05-04
 Tags: evergreen
 ---
-up:: [[0x4a1 Sociologia I]]
+up:: [[0x4a1 MOC Sociologia I]]
 
 > "A imaginação sociológica nos permite compreender a *história* e a *biografia* e as relações entre ambas, dentro da sociedade. Essa é a sua tarefa e a sua promessa.
 > (...) Pois essa imaginação é a capacidade de *passar de uma perspectiva a outra* ─ da política para a psicológica (...). 

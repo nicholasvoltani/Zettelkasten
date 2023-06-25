@@ -2,7 +2,7 @@
 Date: 2023-05-07
 Tags: transient
 ---
-up:: [[0x4a2 Antropo I]]
+up:: [[0x4a2 MOC Antropo I]]
 
 # Conceitos e autores pertinentes
 **Philippe Descola**

@@ -38,6 +38,7 @@ A mais-valia extra é a **diferença entre o valor social e o valor individual d
 * Algodão: [[Capital Fixo]]
 
 ![[Pasted image 20220316083057.png]]
+
 O mais-valor obtido ao vender o produto pelo valor socialmente obtido é acrescido a $m$: mais-valor **extra**. E isso sem alterar a jornada de trabalho (nesse caso).
 
 ## Duração da mais-valia extra

@@ -2,7 +2,7 @@
 Date: 2023-03-24
 Tags: moc
 ---
-up:: [[0x4 Ciências Sociais]]
+up:: [[0x4 MOC Ciências Sociais]]
 
 # Tópicos
 ## I) Questões de base da Antropologia

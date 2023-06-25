@@ -15,7 +15,7 @@ A força de trabalho é o **conjunto de capacidades físicas e mentais** de um t
 	3. Portanto, o trabalhador não tem como produzir mercadorias, senão sua própria corporiedade física/mental
 
 ## [[Valor de Uso]] da força de trabalho
-> "O processo de consumo da força de trabalho é simultaneamente o **processo de produção da mercadoria e do mais-valor**" (p. 250)
+> "O processo de consumo da força de trabalho é simultaneamente o **processo de produção da mercadoria** e **do mais-valor**" (p. 250)
 
 O valor de uso da força de trabalho é justamente seu usufruto no processo de produção: quando seu corpo/mente **trabalham** na confecção da mercadoria em cuja produção ela estiver sendo empregada no momento. 
 

@@ -2,7 +2,7 @@
 Date: 2023-05-07
 Tags: transient
 ---
-up:: [[0x4a2 Antropo I]]
+up:: [[0x4a2 MOC Antropo I]]
 
 > "...significa dizer que o pesquisador assume um papel perfeitamente digerível pela sociedade observada, a ponto de viabilizar uma aceitação se não ótima pelos membros daquela sociedade, pelo menos afável, de modo a não impedir a necessária interação." (p. 21)
 

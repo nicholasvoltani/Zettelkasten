@@ -2,7 +2,7 @@
 Date: 2023-05-01
 Tags: anthropology, evergreen
 ---
-up:: [[0x4a2 Antropo I]]
+up:: [[0x4a2 MOC Antropo I]]
 
 Culturas diferenciam-se entre si tanto por motivos *geográficos* (externos) ─ distância/separação física entre si─ quanto por motivos *subjetivos* (internos).
 

@@ -2,7 +2,7 @@
 Date: 2023-02-22
 Tags: transient, hacking
 ---
-up:: [[0x99 Hacking MOC]]
+up:: [[0x99 MOC Hacking]]
 
 ![[Pasted image 20230222155011.png]]
 

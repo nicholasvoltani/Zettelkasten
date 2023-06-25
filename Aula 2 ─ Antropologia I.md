@@ -2,7 +2,7 @@
 Date: 2023-04-11
 Tags: literature/lecture, anthropology
 ---
-up:: [[0x4a2 Antropo I]]
+up:: [[0x4a2 MOC Antropo I]]
 
 # Sobre Raça e Cultura
 Anti-Gobineau (teórico francês da Eugenia).

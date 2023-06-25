@@ -4,7 +4,7 @@ Tags: evergreen, marxism
 ---
 # Ecossocialismo
 > ""Trata-se de uma corrente de pensamento e de ação **ecológica** que faz as suas aquisições fundamentais do **marxismo** ─ ao mesmo tempo que o livra de suas **escórias produtivistas**."
-> (Michael Löwy, "**O que é ecossocialismo**")
+> (Michael Löwy, "**O que é ecossocialismo**", p. 44)
 
 É uma proposta de superação do modo de produção capitalista, alinhada à perspectiva [[Socialismo|socialista]] de abolir a propriedade privada dos meios de produção, mas sem relegar a segundo plano a **questão ecológica**. 
 

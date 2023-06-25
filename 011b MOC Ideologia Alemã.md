@@ -10,11 +10,11 @@ up:: [[011 MOC Marx]]
 - [[Contradição entre interesses individuais e coletivos]]
 - [[Contradições oriundas da divisão material-espiritual do trabalho]]
 - [[Divisão entre trabalho material e espiritual]]
-- [[Ideologia da classe dominante]]
+- [[A ideologia da classe dominante é expressão de sua dominação]]
 - [[Pressupostos da existência humana]]
 - [[Resultado do desenvolvimento das forças produtivas]]
-- [[Superação da alienação]]
 - [[Surgimento da alienação]]
+- [[Superação da alienação]]
 
 ## Referências
 - MARX, Karl; ENGELS, Friedrich. **A ideologia alemã**. Boitempo Editorial, 2015.

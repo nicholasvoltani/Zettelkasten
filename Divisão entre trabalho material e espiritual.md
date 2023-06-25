@@ -10,7 +10,7 @@ Essa divisão somente é vista como uma **cisão** de fato quando surge uma divi
 
 
 ## Divisão do trabalho material/espiritual dentro da classe dominante
-Tal divisão também pode ocorrer dentro de uma classe dominante: surgem os trabalhadores materiais e os trabalhadores espirituais/[[Ideologia da classe dominante|ideólogos]]; tais ideólogos trabalham ativamente justamente na formação da ilusão dos trabalhadores materiais **da própria classe**, os quais detêm menos tempo para "formar ilusões e ideias sobre si próprios". 
+Tal divisão também pode ocorrer dentro de uma classe dominante: surgem os trabalhadores materiais e os trabalhadores espirituais/[[A ideologia da classe dominante é expressão de sua dominação|ideólogos]]; tais ideólogos trabalham ativamente justamente na formação da ilusão dos trabalhadores materiais **da própria classe**, os quais detêm menos tempo para "formar ilusões e ideias sobre si próprios". 
 
 
 

@@ -46,6 +46,7 @@ Como o valor da força de trabalho depende não só do tempo de trabalho necess�
 Ao lançar toda a família de um trabalhador no mercado de trabalho, acaba por **repartir o valor da força de trabalho do homem por toda sua família**^[Professora disse que tem mais a ver com a diminuição do **salário** efetivamente pago do que com o valor da força de trabalho.] => desvaloriza o valor da força de trabalho devido ao **aumento da concorrência**.
 
 ![[Pasted image 20220405205005.png]]
+
 Exemplo do professor Claus Germer: note-se que o [[Tempo Necessário de Trabalho]] é **repartido entre os membros**, enquanto todo o restante da jornada conjunta de trabalho é apropriado como [[Tempo Excedente de Trabalho]]! Isso se dá pois, pela grande oferta de força de trabalho (e não-tão-grande demanda pelo capitalista), os salários dos trabalhadores se conformam pelas lutas por direitos trabalhistas ($t_{homem} > t_{mulher} > t_{criança}$). 
 
 ### b) Prolongamento da jornada de trabalho

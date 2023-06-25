@@ -27,6 +27,7 @@ Portanto, o capital constante é a parcela do processo produtivo que traz valor 
 Portanto, é a parte do capital que "é valor que se valoriza".
 
 ![[Pasted image 20220410183103.png]]
+
 *Paralelo entre a forma de manifestação do capital sob o processo de **trabalho** e sob o processo de **valorização**.*
 
 ## Componentes do [[Valor]] da [[Mercadoria]]

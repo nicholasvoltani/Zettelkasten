@@ -2,7 +2,7 @@
 Date: 2023-05-07
 Tags: transient
 ---
-up:: [[0x4a2 Antropo I]]
+up:: [[0x4a2 MOC Antropo I]]
 
 > "É preciso estar atento ao fato de que não foi o desenvolvimento das ciências que mudou a ideia que temos de natureza, mas o contrário:
 > o desenvolvimento científico somente foi possível *quando a natureza passou a ser algo exterior aos humanos* na Europa do final da Renascença." (DESCOLA, p. 41)

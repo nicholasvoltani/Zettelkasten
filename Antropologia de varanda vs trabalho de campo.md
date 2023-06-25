@@ -2,7 +2,7 @@
 Date: 2023-05-03
 Tags: evergreen
 ---
-up:: [[0x4a2 Antropo I]]
+up:: [[0x4a2 MOC Antropo I]]
 
 Enquanto o trabalho de etnógrafos antes do século XX tratava-se essencialmente da chamada "antropologia de varanda", na qual os nativos estudados *vêm até os pesquisadores*, Malinowski traz a metodologia do [[Trabalho de Campo Etnográfico]], no qual o etnógrafo *vai até o território dos nativos que pretende estudar*, buscando uma imersão na cultura e vida cotidiana destes, com o fim de ver o mundo por **seus** olhos (dos nativos)[^1].
 
