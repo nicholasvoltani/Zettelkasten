@@ -14,7 +14,7 @@ Tags: moc
 	- [[012 MOC Lukács]]
 	- [[013 MOC Método]]
 - [[020 MOC Mathematics]]
-	- [[021 MOC Grupos]]
+	- [[021 MOC Algebra]]
 	- [[022 MOC Information Theory]]
 	- [[023 MOC Lógica de Primeira Ordem]]
 - [[030 MOC Physics]]

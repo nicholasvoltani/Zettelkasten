@@ -4,7 +4,7 @@ Tags: mathematics
 ---
 up:: [[Metric Space]]
 
-A function $d: X \times X \to \mathbb{R}^+$ over some set $X$ is a metric if it satisfies the following properties:
+A function $d: X \times X \to \mathbb{R}^+_0$ over some set $X$ is a metric if it satisfies the following properties:
 1. **Non-degeneracy**: $d(x, y) = 0 \iff x = y$ 
 2. **Triangle Inequality**: $\forall x,y,z \in X, d(x, z) \leq d(x, y) + d(y, z)$
 3. **Positivity**: $\forall x, y \in X, d(x,y) \geq 0$

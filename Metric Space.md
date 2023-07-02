@@ -4,7 +4,7 @@ Tags: mathematics
 ---
 up:: [[024 MOC Topology]]
 
-A metric space is a double $(X, d)$ where $X$ is a (non-empty) set and $d: X \times X: \mathbb{R}^+$ is a [[Metric Function]]. 
+A metric space is a double $(X, d)$ where $X$ is a (non-empty) set and $d: X \times X: \mathbb{R}^+_0$ is a [[Metric Function]]. 
 
 # Examples of metric spaces
 A trivial example (and initial motivation) is $\mathbb{R}^n$ with the Euclidean metric.
