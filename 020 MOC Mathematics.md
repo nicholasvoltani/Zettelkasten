@@ -19,6 +19,7 @@ up:: [[000 MOC Home]]
 
 # Topics
 - [[021 MOC Algebra]]
+- [[021a MOC Linear Algebra]]
 - [[022 MOC Information Theory]]
 - [[023 MOC Lógica de Primeira Ordem]]
 - [[024 MOC Topology]]

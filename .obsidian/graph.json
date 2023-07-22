@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#mathematics",
@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 11230983
       }
+    },
+    {
+      "query": "tag:#physics",
+      "color": {
+        "a": 1,
+        "rgb": 13622052
+      }
     }
   ],
   "collapse-display": true,
@@ -60,6 +67,6 @@
   "repelStrength": 10.5885716619695,
   "linkStrength": 0.728097046930523,
   "linkDistance": 135,
-  "scale": 0.20861216649752923,
-  "close": true
+  "scale": 0.18708856944684116,
+  "close": false
 }

@@ -4,6 +4,8 @@ Tags: mathematics
 ---
 up:: [[Metric Topology]]
 
+![[Metric Spaces are Hausdorff.excalidraw.svg|300]]
+
 Let $(M, d)$ be a [[Metric Space]], and $x, y \in M$.
 
 Then let their respective [[Open Balls (Metric Spaces)]] $B_r(x), B_r(y)$ both with radius $r = \frac{d(x,y)}{2}$. 

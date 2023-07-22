@@ -1,6 +1,7 @@
 ---
 Date: 2023-06-26
 Tags: mathematics
+alias: Kernel
 ---
 up:: [[Group Homomorphism]]
 

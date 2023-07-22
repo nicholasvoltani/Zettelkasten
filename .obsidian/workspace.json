@@ -4,16 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "a06ff3f0f514595d",
+        "id": "70559b71abb2f16a",
         "type": "tabs",
         "children": [
           {
-            "id": "20a1ed9fbb173471",
+            "id": "054f3d2f4515fd45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "024 MOC Topology.md",
+                "file": "Affine Isomorphism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d24303f79303187",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Affine Map.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90899375ba84a9b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Galilean Isomorphism.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61367533a5fa9f9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Galilean Coordinate Space.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61f53856000abf4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inertial Frame of Reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sutherland",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,8 +121,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "024 MOC Topology.md",
+                "file": "Affine Isomorphism.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "024 MOC Topology.md",
+                "file": "Affine Isomorphism.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -178,47 +225,48 @@
       "markdown-importer:Open format converter": true,
       "zk-prefixer:Create new unique note": true,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "20a1ed9fbb173471",
+  "active": "054f3d2f4515fd45",
   "lastOpenFiles": [
-    "Topologically Continuous Function.md",
-    "024 MOC Topology.md",
-    "The continuous image of the closure is the closure of the image.md",
-    "Preimages preserves subset ordering.md",
-    "Closure preserves subset ordering.md",
-    "Function images preserve subset ordering.md",
-    "All sets are contained inside their closure.md",
-    "Continuous functions premap closed sets to closed sets.md",
-    "Closure (Topology).md",
-    "Topological Space.md",
-    "The preimage of the image of a set contains the set.md",
-    "020 MOC Mathematics.md",
-    "Metric Function.md",
-    "Image of Function.md",
-    "The surjective image of the preimage of a set is contained in the set.md",
+    "Affine Map.md",
+    "Affine Isomorphism.md",
+    "Galilean Space-time Structure.md",
+    "Galilean Isomorphism.md",
+    "Galilean Space.md",
+    "Galilean Coordinate Space.md",
+    "Every vector space induces an affine space.md",
+    "Inertial Frame of Reference.md",
+    "Galilean boosts preserve the Galilean Structure.md",
+    "Galilean Boost.md",
+    "Galilean Transformation.md",
+    "Translations in affine spaces are affine automorphisms.md",
+    "Group Action.md",
+    "Affine Space.md",
+    "A continuous function's image of the closure is a subset of the closure of its image.md",
     "The injective preimage of the image of a set contains the set.md",
-    "Preimage of Function.md",
+    "The preimage of the image of a set contains the set.md",
+    "The closure of a continuous image of a closure is the closure of the image.md",
+    "Preimages preserve subset ordering.md",
     "The image of the preimage of a set is contained in the set.md",
-    "Attachments/Pasted image 20230701152748.png",
-    "Attachments/Pasted image 20230701152634.png",
-    "Attachments/Pasted image 20230701151408.png",
-    "The image of the complement contains the complement of the images.md",
-    "Set Complement.md",
-    "The injective image of complements is the complement of images.md",
-    "The image of the intersection is contained in the intersection of the images.md",
-    "The injective image of intersections is the intersection of images.md",
-    "Untitled.md",
-    "The preimage of the complement is the complement of the preimage.md",
-    "The image of the union is the union of the images.md",
-    "Attachments/Pasted image 20230701143057.png",
-    "Attachments/Pasted image 20230701140008.png",
-    "Attachments/Pasted image 20230626204727.png",
-    "Attachments/Pasted image 20230625162611.png",
-    "Attachments/Pasted image 20230625162451.png",
-    "Attachments/Pasted image 20230625154219.png",
-    "Attachments/Pasted image 20230624222115.png",
+    "The surjective image of the preimage of a set is equal to the set.md",
+    "Continuous functions premap closed sets to closed sets.md",
+    "Euclidean Vector Space.md",
+    "An affine map is an affine isomorphism iff its underlying linear map is an isomorphism.md",
+    "An affine space with a fixed point is isomorphic to its underlying vector space.md",
+    "Abelian Group.md",
+    "Attachments/Preimage of image of a set.excalidraw.svg",
+    "Attachments/Operations in Affine Space.excalidraw.svg",
+    "Attachments/Pasted image 20230711230207.png",
+    "Attachments/Pasted image 20230711215011.png",
+    "Attachments/Pasted image 20230711214305.png",
+    "Attachments/Group Action induces surjection between group and orbit.excalidraw.svg",
+    "Attachments/Metric Spaces are Hausdorff.excalidraw.svg",
+    "Attachments/Drawing 2023-07-09 13.52.20.excalidraw.svg",
+    "Attachments/Free Group Action SO(2) over real plane.excalidraw.svg",
+    "Attachments/Pasted image 20230709135721.png",
     "lu48206sf2js2.tmp",
     "lu48206sf2jrw.tmp",
     "lu48206sf2jru.tmp",

@@ -66,5 +66,19 @@
       ],
       "key": "'"
     }
+  ],
+  "obsidian-auto-link-title:enhance-url-with-title": [],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "obsidian-citation-plugin:insert-citation": [],
+  "obsidian-excalidraw-plugin:save": [],
+  "editor:open-search-replace": [],
+  "obsidian-excalidraw-plugin:insert-LaTeX-symbol": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
   ]
 }

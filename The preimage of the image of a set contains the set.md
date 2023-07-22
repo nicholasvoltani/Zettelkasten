@@ -4,6 +4,8 @@ Tags: mathematics
 ---
 up:: [[020 MOC Mathematics]]
 
+![[Preimage of image of a set.excalidraw|400]]
+
 The intuition is that the preimage of a set can be bigger than the set itself (due to different points mapping to the same output).
 
 Let $f: X \to Y$ be a function, and $A \subseteq X$ a subset.

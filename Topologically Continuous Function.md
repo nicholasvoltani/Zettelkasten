@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-01
 Tags: mathematics
+alias: Topologically Continuous
 ---
 up:: [[Topological Space]]
 
@@ -16,8 +17,7 @@ That is, **it "premaps" open sets (from $Y$) to open sets (in $X$)**.
 # Corollaries
 It can also be proven that [[Continuous functions premap closed sets to closed sets]].
 
-A more motivated equivalent definition of continuity is that [[The continuous image of the closure is the closure of the image]]
-
+A more motivated equivalent definition of continuity is that in which [[A continuous function's image of the closure is a subset of the closure of its image]], through which one can easily see that [[The closure of a continuous image of a closure is the closure of the image|Continuous functions map close inputs to close outputs]].
 
 
 ---
