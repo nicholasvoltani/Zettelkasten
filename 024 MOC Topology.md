@@ -37,5 +37,7 @@ up:: [[020 MOC Mathematics]]
 - [[Connected Space]]
 - [[Path-Connected Space]]
 - [[Simply-Connected Space]]
+- [[Second-Countable Space]]
 
-# [[024a MOC Manifolds]]
+# Related
+- [[024a MOC Manifolds]]

@@ -4,70 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "70559b71abb2f16a",
+        "id": "f4ccf8029b7cd40b",
         "type": "tabs",
         "children": [
           {
-            "id": "054f3d2f4515fd45",
+            "id": "2517b576cdb3cafb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Affine Isomorphism.md",
+                "file": "021a MOC Linear Algebra.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2d24303f79303187",
+            "id": "f724e9eb098a6c18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Affine Map.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90899375ba84a9b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Galilean Isomorphism.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61367533a5fa9f9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Galilean Coordinate Space.md",
+                "file": "Every finitely generated vector space has a Hamel basis.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "61f53856000abf4b",
+            "id": "d817eebb6bdfaa4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inertial Frame of Reference.md",
+                "file": "A linear transformation is injective iff it preserves linear independence.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16dabe578c728ad6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "024a MOC Manifolds.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ec4d4a1db542368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "024 MOC Topology.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Affine Isomorphism.md",
+                "file": "A linear transformation is injective iff it preserves linear independence.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Affine Isomorphism.md",
+                "file": "A linear transformation is injective iff it preserves linear independence.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,34 +230,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "054f3d2f4515fd45",
+  "active": "d817eebb6bdfaa4a",
   "lastOpenFiles": [
-    "Affine Map.md",
-    "Affine Isomorphism.md",
-    "Galilean Space-time Structure.md",
-    "Galilean Isomorphism.md",
-    "Galilean Space.md",
-    "Galilean Coordinate Space.md",
-    "Every vector space induces an affine space.md",
-    "Inertial Frame of Reference.md",
-    "Galilean boosts preserve the Galilean Structure.md",
-    "Galilean Boost.md",
-    "Galilean Transformation.md",
-    "Translations in affine spaces are affine automorphisms.md",
-    "Group Action.md",
-    "Affine Space.md",
-    "A continuous function's image of the closure is a subset of the closure of its image.md",
-    "The injective preimage of the image of a set contains the set.md",
-    "The preimage of the image of a set contains the set.md",
-    "The closure of a continuous image of a closure is the closure of the image.md",
-    "Preimages preserve subset ordering.md",
-    "The image of the preimage of a set is contained in the set.md",
-    "The surjective image of the preimage of a set is equal to the set.md",
-    "Continuous functions premap closed sets to closed sets.md",
-    "Euclidean Vector Space.md",
-    "An affine map is an affine isomorphism iff its underlying linear map is an isomorphism.md",
-    "An affine space with a fixed point is isomorphic to its underlying vector space.md",
-    "Abelian Group.md",
+    "Every finitely generated vector space has a Hamel basis.md",
+    "021a MOC Linear Algebra.md",
+    "A linear transformation is injective iff it preserves linear independence.md",
+    "Linear Transformation.md",
+    "024a MOC Manifolds.md",
+    "A linear transformation's image of a basis spans its image.md",
+    "A linear transformation is injective iff its kernel is trivial.md",
+    "024 MOC Topology.md",
+    "Kernel (Group).md",
+    "Every vector space which has a linearly independent set has a Hamel Basis containing this set.md",
+    "Finitely Generated Vector Space.md",
+    "Zorn's Lemma.md",
+    "Partially Ordered Set.md",
+    "Totally Ordered Set.md",
+    "020 MOC Mathematics.md",
+    "Hamel Basis.md",
+    "Sets larger than a finitely generated space's bases are linearly dependent.md",
+    "Vector Space.md",
+    "Every linearly independent set of a finitely generated vector space has at most the same number of vectors as its spanning set.md",
+    "Every finitely generated vector space's bases have the same number of elements.md",
+    "The union of a linearly independent set with a vector outside of its span is also linearly independent.md",
+    "A set is linearly dependent iff there is a vector which is a linear combination of previous vectors.md",
+    "A set is linearly independent iff all its finite subsets are also L.I..md",
+    "Spanning Set.md",
+    "Linear Dependence.md",
+    "Linear Independence.md",
     "Attachments/Preimage of image of a set.excalidraw.svg",
     "Attachments/Operations in Affine Space.excalidraw.svg",
     "Attachments/Pasted image 20230711230207.png",
