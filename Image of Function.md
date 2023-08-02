@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-01
 Tags: mathematics
+alias: Image
 ---
 up:: [[020 MOC Mathematics]]
 

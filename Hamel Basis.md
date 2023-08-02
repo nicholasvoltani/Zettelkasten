@@ -11,5 +11,5 @@ Let $(V, +, \cdot)$ be a finitely generated vector space, and $B \subset V$. The
 
 # Properties
 - [[Every finitely generated vector space has a Hamel basis]]
-- [[Every finitely generated vector space's bases have the same number of elements]]
+- [[All Hamel bases have the same number of elements (in a finitely generated vector space)]]
 - [[Sets larger than a finitely generated space's bases are linearly dependent]]

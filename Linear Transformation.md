@@ -11,9 +11,11 @@ $$\forall u, v \in V; \forall \lambda \in \mathbb{K}: T(u + \lambda v) = T(u) + 
 Thus, it preserves the vector space operations from $V$ to $W$.
 
 # Properties
+- If $W = V$, we say that $T: V \to V$ is an [[Endomorphism]].
 - [[A linear transformation is injective iff its kernel is trivial]]
 - [[A linear transformation's image of a basis spans its image]]
 - [[A linear transformation is injective iff it preserves linear independence]]
+- [[A linear transformation between spaces of equal dimension is injective iff it's surjective iff it's an isomorphism]]
 
 ---
 ### References

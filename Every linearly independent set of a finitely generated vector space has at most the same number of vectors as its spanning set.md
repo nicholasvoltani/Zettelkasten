@@ -22,8 +22,9 @@ At the end, we'll have the set $U \cup \{s_1, \dots, s_{n-m}\}$ which spans $V$.
 Thus we must have that $m \leq n$.
 
 # Corollaries
-- [[Every finitely generated vector space's bases have the same number of elements]]
+- [[All Hamel bases have the same number of elements (in a finitely generated vector space)]]
 - [[Sets larger than a finitely generated space's bases are linearly dependent]]
+- [[Any linearly independent set can be extended to a Hamel basis]]
 
 ---
 ### References

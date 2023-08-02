@@ -8,67 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2517b576cdb3cafb",
+            "id": "dcc4e6309afbc61d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "021a MOC Linear Algebra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f724e9eb098a6c18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Every finitely generated vector space has a Hamel basis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d817eebb6bdfaa4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A linear transformation is injective iff it preserves linear independence.md",
+                "file": "Unlinked Files.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "16dabe578c728ad6",
+            "id": "963b5728a8caacdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "024a MOC Manifolds.md",
+                "file": "021a MOC Linear Algebra.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d94510910279fe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Motivation Letter - School on Mathematical Modeling and Governance.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1ec4d4a1db542368",
+            "id": "97d7801f446e1551",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "024 MOC Topology.md",
+                "file": "Unlinked Files.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "907b6b737ccb7c28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "021 MOC Algebra.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,12 +138,47 @@
         "type": "tabs",
         "children": [
           {
+            "id": "39d6a4280e326118",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "021 MOC Algebra.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
             "id": "974abcc3e77860a4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A linear transformation is injective iff it preserves linear independence.md",
+                "file": "021 MOC Algebra.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,44 +207,8 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "63037526a0c6e865",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "A linear transformation is injective iff it preserves linear independence.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.8229070774398949,
-                  "close": true
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -226,38 +225,41 @@
       "markdown-importer:Open format converter": true,
       "zk-prefixer:Create new unique note": true,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
-      "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "d817eebb6bdfaa4a",
+  "active": "39d6a4280e326118",
   "lastOpenFiles": [
-    "Every finitely generated vector space has a Hamel basis.md",
-    "021a MOC Linear Algebra.md",
-    "A linear transformation is injective iff it preserves linear independence.md",
-    "Linear Transformation.md",
-    "024a MOC Manifolds.md",
-    "A linear transformation's image of a basis spans its image.md",
-    "A linear transformation is injective iff its kernel is trivial.md",
-    "024 MOC Topology.md",
-    "Kernel (Group).md",
-    "Every vector space which has a linearly independent set has a Hamel Basis containing this set.md",
-    "Finitely Generated Vector Space.md",
-    "Zorn's Lemma.md",
-    "Partially Ordered Set.md",
-    "Totally Ordered Set.md",
+    "Boolean Algebra.md",
+    "021 MOC Algebra.md",
+    "Lattice.md",
+    "Unlinked Files.md",
     "020 MOC Mathematics.md",
-    "Hamel Basis.md",
-    "Sets larger than a finitely generated space's bases are linearly dependent.md",
-    "Vector Space.md",
-    "Every linearly independent set of a finitely generated vector space has at most the same number of vectors as its spanning set.md",
-    "Every finitely generated vector space's bases have the same number of elements.md",
-    "The union of a linearly independent set with a vector outside of its span is also linearly independent.md",
-    "A set is linearly dependent iff there is a vector which is a linear combination of previous vectors.md",
-    "A set is linearly independent iff all its finite subsets are also L.I..md",
-    "Spanning Set.md",
-    "Linear Dependence.md",
-    "Linear Independence.md",
+    "Distributive Lattice.md",
+    "Limited Lattice.md",
+    "Every distributive and limited lattice has unique complements.md",
+    "Complemented Lattice.md",
+    "024 MOC Topology.md",
+    "Universal Algebra.md",
+    "Partially Ordered Set.md",
+    "Every lattice induces a partial ordering.md",
+    "Topology.md",
+    "Attachments/Pasted image 20230801210428.png",
+    "Attachments/Drawing 2023-08-01 21.01.08.excalidraw.md",
+    "Attachments/Drawing 2023-07-30 22.28.16.excalidraw.md",
+    "Attachments/Drawing 2023-07-29 14.02.18.excalidraw.md",
+    "Motivation Letter - School on Mathematical Modeling and Governance.md",
+    "021a MOC Linear Algebra.md",
+    "Category.md",
+    "Monomorphism.md",
+    "Epimorphism.md",
+    "027 MOC Category Theory.md",
+    "Opposite Category.md",
+    "GL ─ Totalidade Concreta.md",
+    "GL ─ Formas de Objetividade.md",
+    "Attachments/Pasted image 20230728213419.png",
+    "Attachments/Category_SVG.svg",
     "Attachments/Preimage of image of a set.excalidraw.svg",
     "Attachments/Operations in Affine Space.excalidraw.svg",
     "Attachments/Pasted image 20230711230207.png",
@@ -265,9 +267,6 @@
     "Attachments/Pasted image 20230711214305.png",
     "Attachments/Group Action induces surjection between group and orbit.excalidraw.svg",
     "Attachments/Metric Spaces are Hausdorff.excalidraw.svg",
-    "Attachments/Drawing 2023-07-09 13.52.20.excalidraw.svg",
-    "Attachments/Free Group Action SO(2) over real plane.excalidraw.svg",
-    "Attachments/Pasted image 20230709135721.png",
     "lu48206sf2js2.tmp",
     "lu48206sf2jrw.tmp",
     "lu48206sf2jru.tmp",
