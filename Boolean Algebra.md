@@ -12,7 +12,8 @@ A [[Universal Algebra]] $(A, \{\land, \lor, \lnot, 1, 0\})$ is said to be a Bool
 It is assured to have unique complement, since [[Every distributive and limited lattice has unique complements]].
 
 # Properties
-Every boolean algebra satisfies the De Morgan laws:
+## De Morgan Laws
+Every boolean algebra satisfies the **De Morgan laws**:
 $$
 \begin{cases*}
 \lnot (a \land b) = \lnot a \lor \lnot b\\
@@ -30,6 +31,9 @@ $$
 \end{align*}
 $$
 Since every element in $X$ has unique complement, we have that $\lnot (a \land b) = \lnot a \lor \lnot b$.
+
+# Examples
+- [[Measurable Space]]s are examples of boolean algebras with elements from its [[Sigma-algebra]].
 
 ---
 ### References

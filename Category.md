@@ -9,7 +9,7 @@ up:: [[027 MOC Category Theory]]
 
 A category $C$ is composed of:
 1. A class of elements called **objects**, denoted $Ob(C)$
-2. For each pair of objects $x, y \in Ob(C)$, a class of elements called **morphisms between $x$ and $y$** $Hom(x,y)$ (called **Hom-class** of morphisms from $x$ to $y$)[^1]
+2. For each pair of objects $x, y \in Ob(C)$, a class of elements called **morphisms between $x$ and $y$** $Hom(x,y)$ (called [[Hom-Set]] of morphisms from $x$ to $y$ ─ though it need not be a set)[^1]
 3. For each pair of morphisms $f \in Hom(x, y), g \in Hom(y, z)$, a morphism $g \circ f \in Hom(x,z)$, called their **composite**
 4. For each object $x$, an **identity morphism** $1_x \in Hom(x,x)$
 

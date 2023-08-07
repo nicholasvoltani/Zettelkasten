@@ -13,62 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unlinked Files.md",
+                "file": "Set Category.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "963b5728a8caacdf",
+            "id": "10dbb19f8cedd5f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "021a MOC Linear Algebra.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d94510910279fe6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Motivation Letter - School on Mathematical Modeling and Governance.md",
+                "file": "024 MOC Topology.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97d7801f446e1551",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unlinked Files.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "907b6b737ccb7c28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "021 MOC Algebra.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,14 +70,6 @@
             }
           },
           {
-            "id": "5fbe2dc95399db68",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "09b0f3edcbb9a782",
             "type": "leaf",
             "state": {
@@ -122,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -143,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "021 MOC Algebra.md",
+                "file": "Set Category.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -178,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "021 MOC Algebra.md",
+                "file": "Set Category.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,44 +185,44 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "39d6a4280e326118",
+  "active": "dcc4e6309afbc61d",
   "lastOpenFiles": [
-    "Boolean Algebra.md",
-    "021 MOC Algebra.md",
-    "Lattice.md",
-    "Unlinked Files.md",
-    "020 MOC Mathematics.md",
-    "Distributive Lattice.md",
-    "Limited Lattice.md",
-    "Every distributive and limited lattice has unique complements.md",
-    "Complemented Lattice.md",
+    "Sierpiński Space.md",
+    "Every topology has a bijection with the Hom-Set of its continuous functions to the Sierpiński space.md",
     "024 MOC Topology.md",
-    "Universal Algebra.md",
-    "Partially Ordered Set.md",
-    "Every lattice induces a partial ordering.md",
-    "Topology.md",
-    "Attachments/Pasted image 20230801210428.png",
-    "Attachments/Drawing 2023-08-01 21.01.08.excalidraw.md",
-    "Attachments/Drawing 2023-07-30 22.28.16.excalidraw.md",
-    "Attachments/Drawing 2023-07-29 14.02.18.excalidraw.md",
-    "Motivation Letter - School on Mathematical Modeling and Governance.md",
-    "021a MOC Linear Algebra.md",
-    "Category.md",
-    "Monomorphism.md",
-    "Epimorphism.md",
+    "Topologically Continuous Function.md",
+    "Set Category.md",
+    "Attachments/Pasted image 20230806180158.png",
+    "Quotient Space.md",
+    "020 MOC Mathematics.md",
+    "Russell's Paradox.md",
+    "Locally Small Category.md",
+    "Unlinked Files.md",
+    "Attachments/Group as morphisms.excalidraw.md",
+    "Groups can be seen as automorphisms in single-element categories.md",
+    "Quick Capture.md",
     "027 MOC Category Theory.md",
-    "Opposite Category.md",
-    "GL ─ Totalidade Concreta.md",
-    "GL ─ Formas de Objetividade.md",
+    "Hom-Set.md",
+    "Category.md",
+    "The functor between vector spaces and their duals is contravariant.md",
+    "Homepage.md",
+    "Contravariant Functor.md",
+    "021a MOC Linear Algebra.md",
+    "Attachments/Pasted image 20230805180659.png",
+    "Group Actions can be seen as functors.md",
+    "Attachments/Pasted image 20230805175856.png",
+    "Functor.md",
+    "Attachments/Pasted image 20230805175125.png",
+    "Attachments/Pasted image 20230805175113.png",
+    "Attachments/Pasted image 20230805175046.png",
+    "Attachments/Pasted image 20230805174546.png",
+    "Group Homomorphism.md",
+    "Attachments/Group Action Functor.excalidraw.md",
+    "Attachments/Functor.excalidraw.md",
+    "Boolean Algebra.md",
+    "Attachments/Pasted image 20230801210428.png",
     "Attachments/Pasted image 20230728213419.png",
     "Attachments/Category_SVG.svg",
-    "Attachments/Preimage of image of a set.excalidraw.svg",
-    "Attachments/Operations in Affine Space.excalidraw.svg",
-    "Attachments/Pasted image 20230711230207.png",
-    "Attachments/Pasted image 20230711215011.png",
-    "Attachments/Pasted image 20230711214305.png",
-    "Attachments/Group Action induces surjection between group and orbit.excalidraw.svg",
-    "Attachments/Metric Spaces are Hausdorff.excalidraw.svg",
     "lu48206sf2js2.tmp",
     "lu48206sf2jrw.tmp",
     "lu48206sf2jru.tmp",

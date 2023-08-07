@@ -50,6 +50,7 @@ up:: [[020 MOC Mathematics]]
 
 ## Dual Space Properties
 - [[Vector Space Dual]]
+- [[Linear Operator]]
 
 # Related
 - [[021b MOC Functional Analysis]]

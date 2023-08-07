@@ -13,4 +13,4 @@ Note that each equivalence class can be seen as different elements from each oth
 # Examples of quotient spaces
 $\mathbb{Z}_2 = \{0, 1\}$ can be seen as $\mathbb{Z} / \sim$ with 
 $$m \sim n \iff m \bmod 2 = n\bmod2$$
-Thus, $0 = [0] = \{n \in \mathbb{Z} \mid n \bmod 2 = 0\}$ and $1 = [1] = \{n \in \mathbb{Z} \mid n \bmod 2 = 1\}$.
+Thus, $0 := [0] = \{n \in \mathbb{Z} \mid n \bmod 2 = 0\}$ and $1 := [1] = \{n \in \mathbb{Z} \mid n \bmod 2 = 1\}$.
