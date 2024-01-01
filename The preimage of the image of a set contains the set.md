@@ -19,7 +19,7 @@ $$x \in f^{-1} (f(A))$$
 # Counterexample of equality
 ![[Pasted image 20230701151408.png|500]]
 
-Note that $f(x) \in f(A)$ need not imply that $x \in A$: there can be some point $c \in X \setminus A$ such that $f(c) \in f(A)$. That is why [[The injective preimage of the image of a set contains the set]].
+Note that $f(x) \in f(A)$ need not imply that $x \in A$: there can be some point $c \in X \setminus A$ such that $f(c) \in f(A)$. That is why [[The injective preimage of the image of a set is equal to the set]].
 
 ---
 ### References

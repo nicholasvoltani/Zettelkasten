@@ -15,7 +15,9 @@ A category $C$ is composed of:
 
 The rules that apply to a category are:
 1. Composition of morphism is **associative**: $(f \circ g) \circ h = f \circ (g \circ h)$
+![[Pasted image 20230810223348.png|200]]
 2. Identity morphism acts as **two-sided composition identity**: $\forall f \in Hom(x, x): 1_x \circ f = f \circ 1_x = f$
+![[Pasted image 20230810223402.png|200]]
 
 # Properties
 - To every category $C$ there is an [[Opposite Category]] $C^{op}$ which is the same category but with all morphisms flipped
@@ -25,5 +27,7 @@ The rules that apply to a category are:
 ### References
 - [category in nLab](https://ncatlab.org/nlab/show/category)
 - [Category (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Category_(mathematics))
+- ABRAMSKY, Samson; TZEVELEKOS, Nikos. *Introduction to categories and categorical logic*. **In:** **New Structures for Physics**, p. 3-94, 2011.
+
 
 [^1]: The class of all morphisms in $C$ is the disjoint union of all $Hom(x, y)$, for all $x, y \in Ob(C)$.

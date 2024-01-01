@@ -10,6 +10,9 @@ That is,
 $$\vec{F}_{i \to j} = -\vec{F}_{j \to i}$$
 where $\vec{F}_{i\to j}$ is the force which particle $i$ exerts upon particle $j$.
 
+# Corollaries
+- [[The sum of all reciprocal forces in a system of particles is always zero]]
+
 ---
 ### References
 - LEMOS, Nivaldo A. **Mecânica analítica**. Editora Livraria da Física, 2007.

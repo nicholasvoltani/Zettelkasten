@@ -8,30 +8,83 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dcc4e6309afbc61d",
+            "id": "d2dcb9be123c7641",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unlinked Files.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ee87d74e4dbe6026",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interest reads.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "29d37df875791094",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Set Category.md",
+                "file": "Outputs/Sobre o meio corporativo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9da5eb22a70a380b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/Sobre trabalhar na Faria Lima.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7b15cc5aad3eed8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/Sobre stakeholders do meio corporativo.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "10dbb19f8cedd5f4",
+            "id": "03540cbae5613820",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "024 MOC Topology.md",
-                "mode": "source",
+                "file": "Sobre minha saída do Ecoar (versão 2).md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -60,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"hEGel\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,8 +130,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,12 +146,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "39d6a4280e326118",
+            "id": "974abcc3e77860a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sobre minha saída do Ecoar (versão 2).md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "dbdc571acb384f5b",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Set Category.md",
+                "file": "Sobre minha saída do Ecoar (versão 2).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,38 +192,13 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1,
-                  "close": true
+                  "close": false
                 }
               }
             }
           },
           {
-            "id": "974abcc3e77860a4",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Set Category.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "087a09abb769a6a0",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "0ba3599d9f50bd3f",
+            "id": "5baa969e7935bb47",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -163,8 +207,19 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "a00c1de97963c47a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,48 +236,50 @@
       "markdown-importer:Open format converter": true,
       "zk-prefixer:Create new unique note": true,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
+      "homepage:Open homepage": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "dcc4e6309afbc61d",
+  "active": "03540cbae5613820",
   "lastOpenFiles": [
-    "Sierpiński Space.md",
-    "Every topology has a bijection with the Hom-Set of its continuous functions to the Sierpiński space.md",
-    "024 MOC Topology.md",
-    "Topologically Continuous Function.md",
-    "Set Category.md",
-    "Attachments/Pasted image 20230806180158.png",
-    "Quotient Space.md",
-    "020 MOC Mathematics.md",
-    "Russell's Paradox.md",
-    "Locally Small Category.md",
+    "Expurgo subjetivíssimo sobre saídas coletivas do Ecoar.md",
+    "Sobre minha saída do Ecoar (versão 2).md",
+    "Expurgo subjetivíssimo sobre saídas coletivas do Ecoar.odt",
+    "Princípios do Trabalho Popular - Paulo Freire.md",
     "Unlinked Files.md",
-    "Attachments/Group as morphisms.excalidraw.md",
-    "Groups can be seen as automorphisms in single-element categories.md",
-    "Quick Capture.md",
-    "027 MOC Category Theory.md",
-    "Hom-Set.md",
-    "Category.md",
-    "The functor between vector spaces and their duals is contravariant.md",
-    "Homepage.md",
-    "Contravariant Functor.md",
-    "021a MOC Linear Algebra.md",
-    "Attachments/Pasted image 20230805180659.png",
-    "Group Actions can be seen as functors.md",
-    "Attachments/Pasted image 20230805175856.png",
-    "Functor.md",
-    "Attachments/Pasted image 20230805175125.png",
-    "Attachments/Pasted image 20230805175113.png",
-    "Attachments/Pasted image 20230805175046.png",
-    "Attachments/Pasted image 20230805174546.png",
-    "Group Homomorphism.md",
-    "Attachments/Group Action Functor.excalidraw.md",
-    "Attachments/Functor.excalidraw.md",
-    "Boolean Algebra.md",
-    "Attachments/Pasted image 20230801210428.png",
-    "Attachments/Pasted image 20230728213419.png",
-    "Attachments/Category_SVG.svg",
+    "Outputs/Sobre trabalhar na Faria Lima.md",
+    "Outputs/Sobre o meio corporativo.md",
+    "Interest reads.md",
+    "Outputs/Sobre stakeholders do meio corporativo.md",
+    "Outputs/Essay sobre video do Baka.md",
+    "Outputs/O capitalismo possui uma relação dialética com a criatividade humana.md",
+    "O mundo é cognoscível somente por modelos.md",
+    "A lógica é uma extensão de nossa visão de mundo.md",
+    "Outputs/Sobre subjetividades no trabalho e moral capitalista.md",
+    "Outputs/Sobre o trabalho de escritório.md",
+    "Sobre ESG no meio corporativo.md",
+    "Templates/Output Note Template.md",
+    "Untitled 4.md",
+    "Templates/Physics Template.md",
+    "Untitled.md",
+    "Untitled 3.md",
+    "Outputs",
+    "Only external forces exert torque upon a center of mass.md",
+    "031 MOC Classical Mechanics.md",
+    "Torque.md",
+    "Angular momentum is composed of intrinsic angular momentum and center of mass angular momentum.md",
+    "030 MOC Physics.md",
+    "Attachments/Pasted image 20230822205742.png",
+    "Attachments/Pasted image 20230822205523.png",
+    "Attachments/Pasted image 20230822205449.png",
+    "Attachments/Pasted image 20230822204357.png",
+    "Attachments/Pasted image 20230821211433.png",
+    "Attachments/Pasted image 20230821211421.png",
+    "Attachments/Pasted image 20230820211612.png",
+    "Attachments/Pasted image 20230820210901.png",
+    "Attachments/Pasted image 20230820210850.png",
+    "Attachments/Pasted image 20230810223402.png",
     "lu48206sf2js2.tmp",
     "lu48206sf2jrw.tmp",
     "lu48206sf2jru.tmp",
@@ -230,8 +287,6 @@
     "Fichamento Detalhado - Mary Wollstonecraft.pdf",
     "Fichamento Detalhado - Mary Wollstonecraft.odt",
     "lu20648o2uv45.tmp",
-    "lu16697nzwkk9.tmp",
-    "Exercícios de Leitura FSL0101 Sociologia I.odt",
-    "lu16697nzwkk4.tmp"
+    "lu16697nzwkk9.tmp"
   ]
 }

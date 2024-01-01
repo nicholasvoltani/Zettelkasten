@@ -10,4 +10,4 @@ Há a noção de incognoscibilidade do mundo em Kant ─ não sei se ele elabora
 
 ---
 ### References
-- ERMER, Claus Magno. **O método materialista dialético de Marx e Engels.** Germinal: Marxismo e Educação em Debate, v. 12, n. 3, p. 45-75, 2020.
+- GERMER, Claus Magno. **O método materialista dialético de Marx e Engels.** Germinal: Marxismo e Educação em Debate, v. 12, n. 3, p. 45-75, 2020.

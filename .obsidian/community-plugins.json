@@ -8,14 +8,14 @@
   "obsidian-footnotes",
   "find-unlinked-files",
   "obsidian-contextual-typography",
-  "calendar",
   "url-into-selection",
   "tag-wrangler",
   "homepage",
-  "obsidian-banners",
   "obsidian-auto-link-title",
-  "obsidian-advanced-new-file",
   "obsidian-pandoc",
   "dataview",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-zotero-desktop-connector",
+  "templater-obsidian",
+  "obsidian-advanced-new-file"
 ]

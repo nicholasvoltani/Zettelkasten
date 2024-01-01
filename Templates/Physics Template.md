@@ -1,6 +1,8 @@
 ---
-Date: {{date:YYYY-MM-DD}}
-Tags: physics
+Date: "{{date: YYYY-MM-DD}}"
+tags:
+  - physics
+aliases:
 ---
 up:: 
 
