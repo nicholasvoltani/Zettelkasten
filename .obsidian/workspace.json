@@ -70,8 +70,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3cb68f0e1bf8df24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "030 MOC Physics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ba0bebee1e305d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "030x Estudos EUF 2024-2025.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -138,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unlinked Files.md",
+                "file": "030x Estudos EUF 2024-2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,13 +220,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d2dcb9be123c7641",
+  "active": "4ba0bebee1e305d1",
   "lastOpenFiles": [
+    "Unlinked Files.md",
+    "030x Estudos EUF 2024-2025.md",
+    "030 MOC Physics.md",
+    "030x Estudos EUF 2024/2025.md",
+    "030x Estudos EUF 2024",
     "Outputs/Sobre stakeholders do meio corporativo.md",
     "Outputs/Sobre trabalhar na Faria Lima.md",
     "Outputs/Sobre o meio corporativo.md",
     "Interest reads.md",
-    "Unlinked Files.md",
     "Linear Momentum Conservation Theorem.md",
     "Classical Linear Momentum.md",
     "031 MOC Classical Mechanics.md",
@@ -221,9 +250,6 @@
     "A lógica é uma extensão de nossa visão de mundo.md",
     "Outputs/Sobre subjetividades no trabalho e moral capitalista.md",
     "Outputs/Sobre o trabalho de escritório.md",
-    "Sobre ESG no meio corporativo.md",
-    "Templates/Output Note Template.md",
-    "Untitled 4.md",
     "Outputs",
     "Attachments/Pasted image 20230822205742.png",
     "Attachments/Pasted image 20230822205523.png",
@@ -241,7 +267,6 @@
     "lu48206sf2jro.tmp",
     "Fichamento Detalhado - Mary Wollstonecraft.pdf",
     "Fichamento Detalhado - Mary Wollstonecraft.odt",
-    "lu20648o2uv45.tmp",
-    "lu16697nzwkk9.tmp"
+    "lu20648o2uv45.tmp"
   ]
 }
