@@ -14,5 +14,6 @@
   "newFileFolderPath": "",
   "attachmentFolderPath": "Attachments",
   "showInlineTitle": true,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "spellcheck": false
 }

@@ -1,10 +1,14 @@
 ---
 Date: 2023-08-19
 tags:
-  - transient
   - links
+  - literature
 ---
 up:: 
+
+# Physics
+- David Tong's Lectures: [David Tong: Cambridge Lecture Notes on Theoretical Physics](https://www.damtp.cam.ac.uk/user/tong/teaching.html)
+- 
 # Category Theory
 - [**Math3ma - Tai-Danae Bradley**](https://www.math3ma.com/)
 - **Categories and Sheaves**. Masaki Kashiwara, Pierre Schapira.
@@ -19,7 +23,6 @@ up::
 # Philosophy of Science / Epistemology
 - [H. G. Solari Recent publications](http://users.df.uba.ar/solari/papers.html)
 - 
-
 # Complex Systems
 - [Inicio – Comunidad de Pensamiento Complejo](https://pensamientocomplejo.org/)
 # Languages

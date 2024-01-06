@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "Interest reads.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
@@ -54,7 +54,7 @@
               "type": "markdown",
               "state": {
                 "file": "Outputs/Sobre trabalhar na Faria Lima.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -70,21 +70,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "03540cbae5613820",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sobre minha saída do Ecoar (versão 2).md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"hEGel\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -151,49 +138,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sobre minha saída do Ecoar (versão 2).md",
-                "collapseAll": true,
+                "file": "Unlinked Files.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "dbdc571acb384f5b",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Sobre minha saída do Ecoar (versão 2).md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -214,7 +166,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -241,17 +195,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "03540cbae5613820",
+  "active": "d2dcb9be123c7641",
   "lastOpenFiles": [
-    "Expurgo subjetivíssimo sobre saídas coletivas do Ecoar.md",
-    "Sobre minha saída do Ecoar (versão 2).md",
-    "Expurgo subjetivíssimo sobre saídas coletivas do Ecoar.odt",
-    "Princípios do Trabalho Popular - Paulo Freire.md",
-    "Unlinked Files.md",
+    "Outputs/Sobre stakeholders do meio corporativo.md",
     "Outputs/Sobre trabalhar na Faria Lima.md",
     "Outputs/Sobre o meio corporativo.md",
     "Interest reads.md",
-    "Outputs/Sobre stakeholders do meio corporativo.md",
+    "Unlinked Files.md",
+    "Linear Momentum Conservation Theorem.md",
+    "Classical Linear Momentum.md",
+    "031 MOC Classical Mechanics.md",
+    "Inertial Frame of Reference.md",
+    "Reference Frame.md",
+    "Work (Physics).md",
+    "The work of resultant forces equals the difference in kinetic energy.md",
+    "Work of conservative forces is the opposite of potential energy difference.md",
+    "Motivation Letter - School on Mathematical Modeling and Governance.md",
+    "Sobre minha saída do Ecoar (versão 2).md",
+    "Expurgo subjetivíssimo sobre saídas coletivas do Ecoar.md",
+    "Expurgo subjetivíssimo sobre saídas coletivas do Ecoar.odt",
+    "Princípios do Trabalho Popular - Paulo Freire.md",
     "Outputs/Essay sobre video do Baka.md",
     "Outputs/O capitalismo possui uma relação dialética com a criatividade humana.md",
     "O mundo é cognoscível somente por modelos.md",
@@ -261,15 +224,7 @@
     "Sobre ESG no meio corporativo.md",
     "Templates/Output Note Template.md",
     "Untitled 4.md",
-    "Templates/Physics Template.md",
-    "Untitled.md",
-    "Untitled 3.md",
     "Outputs",
-    "Only external forces exert torque upon a center of mass.md",
-    "031 MOC Classical Mechanics.md",
-    "Torque.md",
-    "Angular momentum is composed of intrinsic angular momentum and center of mass angular momentum.md",
-    "030 MOC Physics.md",
     "Attachments/Pasted image 20230822205742.png",
     "Attachments/Pasted image 20230822205523.png",
     "Attachments/Pasted image 20230822205449.png",
