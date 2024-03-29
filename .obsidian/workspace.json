@@ -15,10 +15,22 @@
               "type": "markdown",
               "state": {
                 "file": "Unlinked Files.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "64e190349b030233",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/Essay sobre video do Baka.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           },
           {
@@ -42,7 +54,7 @@
               "type": "markdown",
               "state": {
                 "file": "Outputs/Sobre o meio corporativo.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -72,31 +84,31 @@
             }
           },
           {
-            "id": "3cb68f0e1bf8df24",
+            "id": "e23c93325566db47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "030 MOC Physics.md",
+                "file": "023 MOC Measure Theory.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4ba0bebee1e305d1",
+            "id": "61ea18e614408abc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "030x Estudos EUF 2024-2025.md",
-                "mode": "source",
+                "file": "023a MOC Probability Theory.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -125,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"_\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -163,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "030x Estudos EUF 2024-2025.md",
+                "file": "023a MOC Probability Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,6 +201,53 @@
             "id": "a00c1de97963c47a",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proper Time.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "121d1cc4e27ffbab",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "023a MOC Probability Theory.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "5a6ede906b06287e",
+            "type": "leaf",
+            "state": {
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency",
@@ -197,8 +256,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,6 +265,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -214,42 +273,42 @@
       "command-palette:Open command palette": true,
       "markdown-importer:Open format converter": true,
       "zk-prefixer:Create new unique note": true,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
-      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "4ba0bebee1e305d1",
+  "active": "61ea18e614408abc",
   "lastOpenFiles": [
+    "Boolean Algebra.md",
+    "Limited Lattice.md",
+    "Lattice.md",
+    "Sigma-algebra.md",
+    "023a MOC Probability Theory.md",
+    "Group Actions can be seen as functors.md",
+    "Attachments/Group Action Functor.excalidraw.md",
+    "Ferramentas Hacker de Estudo - Walter Lippold.md",
     "Unlinked Files.md",
-    "030x Estudos EUF 2024-2025.md",
-    "030 MOC Physics.md",
-    "030x Estudos EUF 2024/2025.md",
-    "030x Estudos EUF 2024",
-    "Outputs/Sobre stakeholders do meio corporativo.md",
-    "Outputs/Sobre trabalhar na Faria Lima.md",
-    "Outputs/Sobre o meio corporativo.md",
-    "Interest reads.md",
-    "Linear Momentum Conservation Theorem.md",
-    "Classical Linear Momentum.md",
-    "031 MOC Classical Mechanics.md",
-    "Inertial Frame of Reference.md",
-    "Reference Frame.md",
-    "Work (Physics).md",
-    "The work of resultant forces equals the difference in kinetic energy.md",
-    "Work of conservative forces is the opposite of potential energy difference.md",
-    "Motivation Letter - School on Mathematical Modeling and Governance.md",
-    "Sobre minha saída do Ecoar (versão 2).md",
-    "Expurgo subjetivíssimo sobre saídas coletivas do Ecoar.md",
-    "Expurgo subjetivíssimo sobre saídas coletivas do Ecoar.odt",
-    "Princípios do Trabalho Popular - Paulo Freire.md",
     "Outputs/Essay sobre video do Baka.md",
-    "Outputs/O capitalismo possui uma relação dialética com a criatividade humana.md",
-    "O mundo é cognoscível somente por modelos.md",
-    "A lógica é uma extensão de nossa visão de mundo.md",
-    "Outputs/Sobre subjetividades no trabalho e moral capitalista.md",
-    "Outputs/Sobre o trabalho de escritório.md",
+    "Interest reads.md",
+    "Outputs/Sobre o meio corporativo.md",
+    "Outputs/Sobre trabalhar na Faria Lima.md",
+    "Outputs/Sobre stakeholders do meio corporativo.md",
+    "023 MOC Measure Theory.md",
+    "020 MOC Mathematics.md",
+    "028 MOC Category Theory.md",
+    "026 MOC Topology.md",
+    "026a MOC Manifolds.md",
+    "027 MOC Calculus.md",
+    "027a MOC Real Analysis.md",
+    "025 MOC Lógica de Primeira Ordem.md",
+    "024 MOC Information Theory.md",
+    "022 MOC Functional Analysis.md",
+    "033 MOC Relativity.md",
+    "A system's total momentum is conserved if it has no net external forces.md",
+    "Expurgo subjetivíssimo sobre saídas coletivas do Ecoar.pdf",
+    "030x Estudos EUF 2024",
+    "Expurgo subjetivíssimo sobre saídas coletivas do Ecoar.odt",
     "Outputs",
     "Attachments/Pasted image 20230822205742.png",
     "Attachments/Pasted image 20230822205523.png",
@@ -266,7 +325,6 @@
     "lu48206sf2jru.tmp",
     "lu48206sf2jro.tmp",
     "Fichamento Detalhado - Mary Wollstonecraft.pdf",
-    "Fichamento Detalhado - Mary Wollstonecraft.odt",
-    "lu20648o2uv45.tmp"
+    "Fichamento Detalhado - Mary Wollstonecraft.odt"
   ]
 }

@@ -53,7 +53,7 @@ up:: [[020 MOC Mathematics]]
 - [[Linear Operator]]
 
 # Related
-- [[021b MOC Functional Analysis]]
+- [[022 MOC Functional Analysis]]
 - [[Affine Space]]
 	- [[Affine Map]]
 	- [[Euclidean Affine Space]]

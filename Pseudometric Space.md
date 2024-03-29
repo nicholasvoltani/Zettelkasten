@@ -2,7 +2,7 @@
 Date: 2023-06-29
 Tags: mathematics
 ---
-up:: [[024 MOC Topology]]
+up:: [[026 MOC Topology]]
 
 A pseudometric space is a double $(X, d)$ where $X$ is a (non-empty) set and $d: X \times X: \mathbb{R}^+_0$ is a [[Pseudometric Function]]. 
 

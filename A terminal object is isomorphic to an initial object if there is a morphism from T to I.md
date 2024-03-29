@@ -3,7 +3,7 @@ Date: 2023-08-21
 Tags: mathematics
 alias: 
 ---
-up:: [[027 MOC Category Theory]]
+up:: [[028 MOC Category Theory]]
 
 ![[Case where initial object isomorphic to terminal object.excalidraw|300]]
 

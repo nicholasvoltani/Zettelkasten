@@ -2,7 +2,7 @@
 Date: 2023-07-11
 Tags: moc
 ---
-up:: [[025 MOC Calculus]]
+up:: [[027 MOC Calculus]]
 
 # Topics
 - [[Limit of Function]]

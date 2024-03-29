@@ -3,7 +3,7 @@ Date: 2023-07-28
 Tags: mathematics
 alias: 
 ---
-up:: [[027 MOC Category Theory]]
+up:: [[028 MOC Category Theory]]
 
 ![[Pasted image 20230728213419.png|300]]
 

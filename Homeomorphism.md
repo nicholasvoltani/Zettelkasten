@@ -3,7 +3,7 @@ Date: 2023-07-03
 Tags: mathematics
 alias: Homeomorphic
 ---
-up:: [[024 MOC Topology]]
+up:: [[026 MOC Topology]]
 
 ![[Pasted image 20230703213733.png|500]]
 

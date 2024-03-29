@@ -2,7 +2,7 @@
 Date: 2023-06-23
 Tags: mathematics
 ---
-up:: [[024 MOC Topology]]
+up:: [[026 MOC Topology]]
 
 A topological space is a double ($X, \tau)$, where $X$ is a set and $\tau$ is a [[Topology]] of $X$. 
 

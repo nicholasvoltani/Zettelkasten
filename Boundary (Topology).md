@@ -3,7 +3,7 @@ Date: 2023-07-03
 Tags: mathematics
 alias: Boundary
 ---
-up:: [[024 MOC Topology]]
+up:: [[026 MOC Topology]]
 
 Given a [[Topological Space]] $(X, \tau)$, the boundary of a set $Z$ \subset X is the set subtraction of its [[Closure (Topology)|Closure]] by its [[Interior (Topology)|Interior]]. This amounts to it consisting of the **outermost points of $Z$**.
 
