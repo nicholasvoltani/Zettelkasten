@@ -1,8 +1,10 @@
 ---
-Date: {{date:YYYY-MM-DD}}
-Tags: mathematics
-alias: 
+Date: "{{date: YYYY-MM-DD}}"
+tags:
+  - mathematics
+aliases: 
 ---
+
 up:: 
 
 ---

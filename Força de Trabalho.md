@@ -34,5 +34,3 @@ Tal geração de mais-valor é o que possibilita o [[Ciclo D─M─D']], o qual 
 ---
 ### Referências
 - [[O Capital, I ─ Cap 4, Transformação do dinheiro em capital]]
-- [@EstrategiaPartido]
-- [@hestenesOerstedMedalLecture2003]

@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Unlinked Files.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
@@ -84,31 +84,103 @@
             }
           },
           {
-            "id": "e23c93325566db47",
+            "id": "32e176358ea65f26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "023 MOC Measure Theory.md",
+                "file": "O capitalismo mercadorifica impulsos revolucionários.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "61ea18e614408abc",
+            "id": "d81c7a265ff0f2f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "023a MOC Probability Theory.md",
+                "file": "Templates/Output Note Template Excalidraw.md",
                 "mode": "preview",
-                "source": false
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "043db4e757c9e4c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Physics Template Excalidraw.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3bd4fd01de524c97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Mathematics Template Excalidraw.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ff0f7dd9d49b42ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Marxism Note Template Excalidraw.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "51a4a0b2c6f5119f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Evergreen Note Template Excalidraw.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "62c498d5db0dafe5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Mini Essay Template Excalidraw.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c573c7df439f5103",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Marxism Note Template Excalidraw.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -158,8 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.504695892334,
-    "collapsed": true
+    "width": 367.504695892334
   },
   "right": {
     "id": "eace1de1654574fd",
@@ -175,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "023a MOC Probability Theory.md",
+                "file": "Templates/Marxism Note Template Excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +286,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "023a MOC Probability Theory.md",
+                "file": "Templates/Marxism Note Template Excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -265,7 +336,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -274,52 +344,52 @@
       "markdown-importer:Open format converter": true,
       "zk-prefixer:Create new unique note": true,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "61ea18e614408abc",
+  "active": "c573c7df439f5103",
   "lastOpenFiles": [
-    "Boolean Algebra.md",
-    "Limited Lattice.md",
-    "Lattice.md",
-    "Sigma-algebra.md",
-    "023a MOC Probability Theory.md",
-    "Group Actions can be seen as functors.md",
-    "Attachments/Group Action Functor.excalidraw.md",
-    "Ferramentas Hacker de Estudo - Walter Lippold.md",
+    "aaaaa.md",
     "Unlinked Files.md",
     "Outputs/Essay sobre video do Baka.md",
     "Interest reads.md",
-    "Outputs/Sobre o meio corporativo.md",
-    "Outputs/Sobre trabalhar na Faria Lima.md",
-    "Outputs/Sobre stakeholders do meio corporativo.md",
-    "023 MOC Measure Theory.md",
-    "020 MOC Mathematics.md",
-    "028 MOC Category Theory.md",
-    "026 MOC Topology.md",
-    "026a MOC Manifolds.md",
-    "027 MOC Calculus.md",
-    "027a MOC Real Analysis.md",
-    "025 MOC Lógica de Primeira Ordem.md",
-    "024 MOC Information Theory.md",
-    "022 MOC Functional Analysis.md",
-    "033 MOC Relativity.md",
-    "A system's total momentum is conserved if it has no net external forces.md",
+    "Templates/Marxism Note Template Excalidraw.md",
+    "Templates/Marxism Note Template.md",
+    "Templates/Literature Note Template.md",
+    "Templates/Mathematics Template Excalidraw.md",
+    "Templates/Mathematics Template.md",
+    "Templates/Output Note Template.md",
+    "Templates/Mini Essay Template Excalidraw.md",
+    "Templates/Mini Essay Template.md",
+    "Templates/MOC Template.md",
+    "Templates/Evergreen Note Template.md",
+    "Templates/Evergreen Note Template Excalidraw.md",
+    "Templates/Excalidraw Template.md",
+    "Templates/Generic Note Template.md",
+    "Templates/Lecture Note Template.md",
+    "Templates/Physics Template.md",
+    "Templates/Physics Template Excalidraw.md",
+    "Templates/Output Note Template Excalidraw.md",
+    "A revolução não tem mãos.md",
+    "O capitalismo vê o ímpeto revolucionário como potencial de entretenimento.md",
+    "240426.md",
+    "011a MOC Capital I.md",
+    "011a1 MOC UFPR Capital I.md",
+    "Attachments/gramscianah.jpg",
+    "Attachments/gramscianah 1.jpg",
+    "Attachments/Fixing a point induces isomorphism between affine space and its vector space.excalidraw.svg",
+    "Attachments/Epimorphism.excalidraw.svg",
+    "Attachments/Category_SVG.svg",
+    "Attachments/Free Group Action induces bijection between group and orbit.excalidraw.svg",
+    "Attachments/Free Group Action SO(2) over real plane.excalidraw.svg",
+    "Attachments/Group Action induces surjection between group and orbit.excalidraw.svg",
+    "Attachments/Contravariant Functor.excalidraw.svg",
+    "Attachments/Operations in Affine Space.excalidraw.svg",
     "Expurgo subjetivíssimo sobre saídas coletivas do Ecoar.pdf",
     "030x Estudos EUF 2024",
     "Expurgo subjetivíssimo sobre saídas coletivas do Ecoar.odt",
     "Outputs",
-    "Attachments/Pasted image 20230822205742.png",
-    "Attachments/Pasted image 20230822205523.png",
-    "Attachments/Pasted image 20230822205449.png",
-    "Attachments/Pasted image 20230822204357.png",
-    "Attachments/Pasted image 20230821211433.png",
-    "Attachments/Pasted image 20230821211421.png",
-    "Attachments/Pasted image 20230820211612.png",
-    "Attachments/Pasted image 20230820210901.png",
-    "Attachments/Pasted image 20230820210850.png",
-    "Attachments/Pasted image 20230810223402.png",
     "lu48206sf2js2.tmp",
     "lu48206sf2jrw.tmp",
     "lu48206sf2jru.tmp",

@@ -8,7 +8,6 @@ tags: [excalidraw]
 
 
 # Text Elements
-
 # Embedded files
 5b35ecdf3a450c73698e2cdb4e5fbced7b70609c: $$1_{BG}$$
 238a5beece28af49f35264f6004eeb776812803b: $$g$$
@@ -25,7 +24,7 @@ feaa1afcb36c3bebfcaa9dbb08cbc66e6f539e43: $$F(g^{-1}) = F(g)^{-1}$$
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.18",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.6",
 	"elements": [
 		{
 			"type": "freedraw",
@@ -3713,10 +3712,10 @@ feaa1afcb36c3bebfcaa9dbb08cbc66e6f539e43: $$F(g^{-1}) = F(g)^{-1}$$
 			]
 		},
 		{
-			"id": "aX7U3eM2",
+			"id": "123pbjMr",
 			"type": "text",
-			"x": 28.638774871826172,
-			"y": -17.155536651611328,
+			"x": 23.57911801940986,
+			"y": -16.672655328795543,
 			"width": 10,
 			"height": 25,
 			"angle": 0,
@@ -3730,12 +3729,12 @@ feaa1afcb36c3bebfcaa9dbb08cbc66e6f539e43: $$F(g^{-1}) = F(g)^{-1}$$
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 450194573,
+			"seed": 122600675,
 			"version": 2,
-			"versionNonce": 960650851,
+			"versionNonce": 389797165,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1711307009796,
+			"updated": 1714161330364,
 			"link": null,
 			"locked": false,
 			"text": "",
@@ -3744,44 +3743,6 @@ feaa1afcb36c3bebfcaa9dbb08cbc66e6f539e43: $$F(g^{-1}) = F(g)^{-1}$$
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 17,
-			"containerId": null,
-			"originalText": "",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "hnMLlkSI",
-			"type": "text",
-			"x": 43.63877487182617,
-			"y": -16.155536651611328,
-			"width": 10,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1639724355,
-			"version": 2,
-			"versionNonce": 362798797,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1711307012486,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 17,
 			"containerId": null,
 			"originalText": "",
 			"lineHeight": 1.25
@@ -3802,8 +3763,8 @@ feaa1afcb36c3bebfcaa9dbb08cbc66e6f539e43: $$F(g^{-1}) = F(g)^{-1}$$
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 367.36352157592773,
-		"scrollY": 206.25917053222656,
+		"scrollX": 293.9300239025872,
+		"scrollY": 169.40523360638343,
 		"zoom": {
 			"value": 2
 		},
@@ -3820,7 +3781,8 @@ feaa1afcb36c3bebfcaa9dbb08cbc66e6f539e43: $$F(g^{-1}) = F(g)^{-1}$$
 			"clip": true,
 			"name": true,
 			"outline": true
-		}
+		},
+		"objectsSnapModeEnabled": false
 	},
 	"files": {}
 }

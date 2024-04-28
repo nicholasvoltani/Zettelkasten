@@ -8,7 +8,6 @@ tags: [excalidraw]
 
 
 # Text Elements
-
 # Embedded files
 121c288d20339ba2d8f565390b6c67439e2f4cbf: $$X$$
 97e38c71007b12195f5c0a9d5ca7d828e6cacaba: $$Y$$
@@ -32,7 +31,7 @@ d598bf1f72dbb5e6c6845f15286b5bd0c5cd7409: $$C^{Op}$$
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.14",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.5",
 	"elements": [
 		{
 			"type": "image",
@@ -111,29 +110,29 @@ d598bf1f72dbb5e6c6845f15286b5bd0c5cd7409: $$C^{Op}$$
 			]
 		},
 		{
-			"id": "wdvenyx-KR_WQ8Oyheipv",
 			"type": "rectangle",
-			"x": -36.7049674987793,
-			"y": 95.1184310913086,
-			"width": 96.35858154296875,
-			"height": 213.00320434570312,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 282,
+			"versionNonce": 246455810,
+			"isDeleted": false,
+			"id": "wdvenyx-KR_WQ8Oyheipv",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "dashed",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": -36.7049674987793,
+			"y": 95.1184310913086,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 96.35858154296875,
+			"height": 213.00320434570312,
+			"seed": 1009354434,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
-			"seed": 1009354434,
-			"version": 282,
-			"versionNonce": 246455810,
-			"isDeleted": false,
 			"boundElements": [
 				{
 					"id": "GDtzwK6p-9cWoIBEZcEZc",
@@ -149,44 +148,33 @@ d598bf1f72dbb5e6c6845f15286b5bd0c5cd7409: $$C^{Op}$$
 			"locked": false
 		},
 		{
-			"id": "tR-QiA-UGgf55aVseVTns",
 			"type": "arrow",
-			"x": 11.697956042756562,
-			"y": 252.33507537841797,
-			"width": 0.3791930224091197,
-			"height": 94.83709716796875,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
+			"version": 812,
+			"versionNonce": 1756478238,
+			"isDeleted": false,
+			"id": "tR-QiA-UGgf55aVseVTns",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 11.697956042756562,
+			"y": 252.33507537841797,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 0.3791930224091197,
+			"height": 94.83709716796875,
+			"seed": 942023518,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 942023518,
-			"version": 812,
-			"versionNonce": 1756478238,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1692662047201,
 			"link": null,
 			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-0.3791930224091197,
-					-94.83709716796875
-				]
-			],
-			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "Vsh1l9Hp",
 				"focus": -0.07363386419363147,
@@ -197,8 +185,19 @@ d598bf1f72dbb5e6c6845f15286b5bd0c5cd7409: $$C^{Op}$$
 				"focus": -0.027858973835070515,
 				"gap": 5.6573333740234375
 			},
+			"lastCommittedPoint": null,
 			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-0.3791930224091197,
+					-94.83709716796875
+				]
+			]
 		},
 		{
 			"type": "image",
@@ -433,44 +432,33 @@ d598bf1f72dbb5e6c6845f15286b5bd0c5cd7409: $$C^{Op}$$
 			]
 		},
 		{
-			"id": "GDtzwK6p-9cWoIBEZcEZc",
 			"type": "arrow",
-			"x": 63.9110990591778,
-			"y": 103.03236154054562,
-			"width": 113.06001175897842,
-			"height": 0.6725741538944163,
-			"angle": 5.812491412777668,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
+			"version": 847,
+			"versionNonce": 313796930,
+			"isDeleted": false,
+			"id": "GDtzwK6p-9cWoIBEZcEZc",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 5.812491412777668,
+			"x": 63.9110990591778,
+			"y": 103.03236154054562,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 113.06001175897842,
+			"height": 0.6725741538944163,
+			"seed": 55843394,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 55843394,
-			"version": 847,
-			"versionNonce": 313796930,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1692662053997,
 			"link": null,
 			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					113.06001175897842,
-					0.6725741538944163
-				]
-			],
-			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "wdvenyx-KR_WQ8Oyheipv",
 				"focus": -0.33383815016489077,
@@ -481,8 +469,19 @@ d598bf1f72dbb5e6c6845f15286b5bd0c5cd7409: $$C^{Op}$$
 				"focus": -0.5045326683183963,
 				"gap": 1
 			},
+			"lastCommittedPoint": null,
 			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					113.06001175897842,
+					0.6725741538944163
+				]
+			]
 		},
 		{
 			"type": "image",
@@ -906,44 +905,33 @@ d598bf1f72dbb5e6c6845f15286b5bd0c5cd7409: $$C^{Op}$$
 			]
 		},
 		{
-			"id": "MD3ND9FCK9y2J4JFPY2kF",
 			"type": "arrow",
-			"x": -131.54221725463867,
-			"y": -32.423154311381744,
-			"width": 295.6729589634832,
-			"height": 1.6303530105838249,
-			"angle": 0,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
+			"version": 287,
+			"versionNonce": 461704990,
+			"isDeleted": false,
+			"id": "MD3ND9FCK9y2J4JFPY2kF",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": -131.54221725463867,
+			"y": -32.423154311381744,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "transparent",
+			"width": 295.6729589634832,
+			"height": 1.6303530105838249,
+			"seed": 240080926,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 240080926,
-			"version": 287,
-			"versionNonce": 461704990,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1692662079688,
 			"link": null,
 			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					295.6729589634832,
-					-1.6303530105838249
-				]
-			],
-			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "aLsV7-85GMe_gr1Hf5mYB",
 				"focus": -0.1293322325055976,
@@ -954,8 +942,19 @@ d598bf1f72dbb5e6c6845f15286b5bd0c5cd7409: $$C^{Op}$$
 				"focus": 0.08642181513572621,
 				"gap": 7.177718526751164
 			},
+			"lastCommittedPoint": null,
 			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					295.6729589634832,
+					-1.6303530105838249
+				]
+			]
 		},
 		{
 			"type": "image",
@@ -1006,13 +1005,17 @@ d598bf1f72dbb5e6c6845f15286b5bd0c5cd7409: $$C^{Op}$$
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 417.2105712890625,
-		"scrollY": 207.70584106445312,
+		"scrollX": 461.5001589457194,
+		"scrollY": 247.27539732396505,
 		"zoom": {
-			"value": 1
+			"value": 1.5
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
+		"gridColor": {
+			"Bold": "#C9C9C9FF",
+			"Regular": "#EDEDEDFF"
+		},
 		"currentStrokeOptions": null,
 		"previousGridSize": null,
 		"frameRendering": {
@@ -1020,7 +1023,8 @@ d598bf1f72dbb5e6c6845f15286b5bd0c5cd7409: $$C^{Op}$$
 			"clip": true,
 			"name": true,
 			"outline": true
-		}
+		},
+		"objectsSnapModeEnabled": false
 	},
 	"files": {}
 }

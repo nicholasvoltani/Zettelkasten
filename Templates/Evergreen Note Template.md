@@ -1,7 +1,9 @@
 ---
-Date: {{date:YYYY-MM-DD}}
+Date: "{{date:YYYY-MM-DD}}"
 Tags: evergreen
+aliases: 
 ---
+
 up:: 
 
 ---

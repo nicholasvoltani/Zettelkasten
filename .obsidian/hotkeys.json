@@ -112,5 +112,15 @@
       ],
       "key": "ArrowDown"
     }
+  ],
+  "templater-obsidian:insert-templater": [],
+  "obsidian-excalidraw-plugin:toggle-excalidraw-view": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "E"
+    }
   ]
 }

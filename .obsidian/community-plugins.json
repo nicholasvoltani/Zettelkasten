@@ -1,7 +1,6 @@
 [
   "obsidian-latex-environments",
   "obsidian-latex",
-  "obsidian-markdown-formatting-assistant-plugin",
   "obsidian-citation-plugin",
   "obsidian-minimal-settings",
   "obsidian-tidy-footnotes",
@@ -12,7 +11,6 @@
   "tag-wrangler",
   "homepage",
   "obsidian-auto-link-title",
-  "obsidian-pandoc",
   "dataview",
   "obsidian-excalidraw-plugin",
   "obsidian-zotero-desktop-connector",
