@@ -11,7 +11,7 @@
       "query": "tag:#mathematics",
       "color": {
         "a": 1,
-        "rgb": 13640679
+        "rgb": 11349438
       }
     },
     {
@@ -53,7 +53,14 @@
       "query": "tag:#physics",
       "color": {
         "a": 1,
-        "rgb": 13622052
+        "rgb": 13703822
+      }
+    },
+    {
+      "query": "tag:#mini-essay  ",
+      "color": {
+        "a": 1,
+        "rgb": 14672653
       }
     }
   ],
@@ -67,6 +74,6 @@
   "repelStrength": 10.5885716619695,
   "linkStrength": 0.728097046930523,
   "linkDistance": 135,
-  "scale": 0.16358713859957946,
+  "scale": 0.1792130740030172,
   "close": false
 }

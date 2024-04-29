@@ -10,7 +10,7 @@ up:: [[Caatinga]]
 
 O clima e vegetação do Sertão nordestino não são influenciados somente pela sua localização geográfica interplanáltica, de [[Clima Tropical Semiárido]], mas também pelo caráter precário das atividades econômicas ao longo do período colonial.
 
-Similar ao caráter de que [[A exploração brasileira "até o sabugo" é um resquício colonial]], em que os fins da atividade econômica justificam seus meios precários, a criação de gado na região do Sertão nordestino foi feita de maneira inconsequente. 
+Similar ao caráter de que [[A exploração brasileira 'até o sabugo' é um resquício colonial]], em que os fins da atividade econômica justificam seus meios precários, a criação de gado na região do Sertão nordestino foi feita de maneira inconsequente. 
 
 Em particular no século XVIII, durante o *gold-rush* brasileiro em Minas Gerais, a produção de carnes secas para a alimentação dos mineiros ganhou destaque; mesmo com a decadência mineira, a grande quantidade de cabeças de gado perpetrou um *overgrazing* no Sertão nordestino, o qual também era açoitado pelas "agriculturas de queimada" (em geral de produtos de subsistência).
 

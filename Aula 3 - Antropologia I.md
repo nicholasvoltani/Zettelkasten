@@ -7,7 +7,7 @@ up:: [[0x4a2 MOC Antropo I]]
 
 # Resumo Lévi-Strauss
 - Fatores que explicam promoção da diversidade cultural não se reduzem a condições ambientais/pressões evolutivas: contraexemplo de povos amazônicos sujeitos às mesmas condições de hábitat, mas com uma enorme diversidade cultural. [[Como culturas se diferenciam entre si (Lévi-Strauss)]]
-- Tese: [[O "etnocentrismo" é universal em todas as culturas (Lévi-Strauss)]], comum em todas as culturas
+- Tese: [[O 'etnocentrismo' é universal em todas as culturas (Lévi-Strauss)]], comum em todas as culturas
 	- Ou seja, toda cultura tem repertório cultural de observar o Outro dentro de seu próprio sistema de normas; admite-se uma "autonomia metafísica" de todas as culturas existentes
 - Relativismo cultural como algo contra etnocentrismo da noção de "história estacionária" (versus "história cumulativa"): 
 	- [[Analogia entre Relativismo Cultural e Relatividade Galileana]]:

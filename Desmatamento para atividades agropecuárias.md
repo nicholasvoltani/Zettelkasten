@@ -10,7 +10,7 @@ Desmatamento é o ato de destruir florestas pelo fim último de usar essas terra
 Possui uma relação próxima com o [[Desmatamento para ocupação urbana]]. Durante a época dos Bandeirantes, o desmatamento tinha essa função dupla, enquanto atualmente a ocupação ocorre justamente em prol da expansão da atividade agropecuária (vide como [[A atividade agromineropecuária monopoliza a atividade socioeconômica local]]).
 
 ## Desmatamento no Brasil
-O desmatamento no Brasil é uma mazela puramente colonial: é meramente o ato físico-material para se permitir a atividade extrativista das riquezas da terra para exportá-la. [[A exploração brasileira "até o sabugo" é um resquício colonial]], onde a atividade capitalista sempre procura a obtenção de [[Mais-valor]] com menores custos (p. ex. para restauração de terras exauridas de nutrientes e água). 
+O desmatamento no Brasil é uma mazela puramente colonial: é meramente o ato físico-material para se permitir a atividade extrativista das riquezas da terra para exportá-la. [[A exploração brasileira 'até o sabugo' é um resquício colonial]], onde a atividade capitalista sempre procura a obtenção de [[Mais-valor]] com menores custos (p. ex. para restauração de terras exauridas de nutrientes e água). 
 
 Em particular, destaca-se o desmatamento da [[Mata Atlântica]] ao longo da exploração colonial, a desertificação do bioma do [[Cerrado (Bioma)]] devido ao desmatamento das antigas matas que ali existiam[^2] e, atualmente, o desmatamento da [[Floresta Amazônica]] devido à expansão das fronteiras agrícolas.
 

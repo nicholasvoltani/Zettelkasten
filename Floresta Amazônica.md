@@ -29,4 +29,4 @@ A expansão do [[Desmatamento para atividades agropecuárias]] vai completamente
 
 [^1]: Antigamente a floresta amazônica era chamada de floresta **tropical pluvial**, eventualmente adotando-se o termo de floresta **ombrófila densa**, pela [Wikipedia](https://pt.wikipedia.org/wiki/Floresta_ombr%C3%B3fila_densa). 
 [^2]: Vem do latim "*per*" + "*anni*" = "por anos".
-[^3]: intrinsecamente ligado com o *ethos* colonial, donde [[A exploração brasileira "até o sabugo" é um resquício colonial]].
+[^3]: intrinsecamente ligado com o *ethos* colonial, donde [[A exploração brasileira 'até o sabugo' é um resquício colonial]].

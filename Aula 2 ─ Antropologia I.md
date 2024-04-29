@@ -28,7 +28,7 @@ Etnocentrismo é um construto histórico, e inclusive influenciado pela cosmolog
 ## Contra a noção da igualdade natural
 > "A humanidade acaba nas fronteiras da tribo, do grupo linguístico, por vezes mesmo, da aldeia." (p. 4)
 
-[[O "etnocentrismo" é universal em todas as culturas (Lévi-Strauss)]]
+[[O 'etnocentrismo' é universal em todas as culturas (Lévi-Strauss)]]
 Há uma noção que todos os povos têm uma noção etnocêntrica com relação aos outros! E, no fim das contas, não somos a única civilização que tem a capacidade de ser etnocêntrica!
 - Exemplo de que há comunidades linguísticas que, mesmo podendo traduzir termos estrangeiros, **optam por não traduzir certas palavras**!
 

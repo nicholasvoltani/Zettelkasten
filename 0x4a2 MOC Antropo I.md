@@ -10,7 +10,7 @@ up:: [[0x4 MOC Ciências Sociais]]
 - [[Observação Participante do Etnógrafo]]
 
 ### 1) Lévi-Strauss ("Raça e Cultura")
-- [[O "etnocentrismo" é universal em todas as culturas (Lévi-Strauss)]]
+- [[O 'etnocentrismo' é universal em todas as culturas (Lévi-Strauss)]]
 - [[Como culturas se diferenciam entre si (Lévi-Strauss)]]
 - [[Analogia entre Relativismo Cultural e Relatividade Galileana]]
 	- [[Culturais similares tendem a parecer mais normais que culturas distintas]]
@@ -25,7 +25,7 @@ up:: [[0x4 MOC Ciências Sociais]]
 	- [[O trabalho etnográfico busca enxergar com os olhos dos nativos]]
 
 ### Prova 1: **"Conceitos e considerações críticas da antropologia sociocultural ao evolucionismo"**
-- [[Preparação P1 Antropo I ─ "Conceitos e considerações críticas da antropologia sociocultural ao evolucionismo"]]
+- [[Preparação P1 Antropo I ─ 'Conceitos e considerações críticas da antropologia sociocultural ao evolucionismo']]
 
 ## II) Evolucionismo e Raça
 

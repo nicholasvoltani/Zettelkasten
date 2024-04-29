@@ -21,7 +21,7 @@ Mas é necessário uma análise socio-econômico-histórica do colonialismo, esc
 
 ![[Pasted image 20230312153022.png]]
 
-[[O racismo surge como justificativa da "relação social" da escravidão moderna]]: o racismo possui uma base econômica (escravidão/colonialismo) e é uma decorrência histórica: surge consoante o surgimento do capitalismo (não obstante as tentativas de racismo científico que buscam legitimá-lo com causas ahistóricas). 
+[[O racismo surge como justificativa da 'relação social' da escravidão moderna]]: o racismo possui uma base econômica (escravidão/colonialismo) e é uma decorrência histórica: surge consoante o surgimento do capitalismo (não obstante as tentativas de racismo científico que buscam legitimá-lo com causas ahistóricas). 
 
 ## E o racismo no Brasil?
 ![[Pasted image 20230312153835.png]]

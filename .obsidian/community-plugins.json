@@ -12,8 +12,8 @@
   "homepage",
   "obsidian-auto-link-title",
   "dataview",
-  "obsidian-excalidraw-plugin",
   "obsidian-zotero-desktop-connector",
   "templater-obsidian",
-  "obsidian-advanced-new-file"
+  "obsidian-advanced-new-file",
+  "obsidian-excalidraw-plugin"
 ]

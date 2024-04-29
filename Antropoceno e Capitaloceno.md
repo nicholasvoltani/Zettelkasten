@@ -11,8 +11,8 @@ A ideia de "capitaloceno" visa trazer o fator socioeconômico ao debate, ressalt
 ![[Pasted image 20220307184730.png]]
 
 ## Links relacionados
-- [[Sobre a problemática de "lixo no lixo"]]
-- [[Sobre o papel do "desencanto das subjetividades" no capitalismo]]
+- [[Sobre a problemática de 'lixo no lixo']]
+- [[Sobre o papel do 'desencanto das subjetividades' no capitalismo]]
 
 ---
 ### Referências

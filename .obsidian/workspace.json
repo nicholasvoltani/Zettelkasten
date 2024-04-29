@@ -96,91 +96,55 @@
             }
           },
           {
-            "id": "d81c7a265ff0f2f9",
+            "id": "bc381f01550a249f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Output Note Template Excalidraw.md",
-                "mode": "preview",
-                "source": true
+                "file": "240429.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "043db4e757c9e4c2",
+            "id": "1975e5fe66047368",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Physics Template Excalidraw.md",
+                "file": "O tempo do conhecimento não é o mesmo tempo da informação.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
           {
-            "id": "3bd4fd01de524c97",
+            "id": "d0d15911836c8a0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Mathematics Template Excalidraw.md",
+                "file": "Saber não necessariamente é compreender.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
           {
-            "id": "ff0f7dd9d49b42ed",
+            "id": "7df74809b74bb67d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Marxism Note Template Excalidraw.md",
+                "file": "Contextos são sempre históricos.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "51a4a0b2c6f5119f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Evergreen Note Template Excalidraw.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "62c498d5db0dafe5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Mini Essay Template Excalidraw.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c573c7df439f5103",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Marxism Note Template Excalidraw.md",
-                "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -209,7 +173,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"_\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -246,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Marxism Note Template Excalidraw.md",
+                "file": "Saber não necessariamente é compreender.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +250,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/Marxism Note Template Excalidraw.md",
+                "file": "Saber não necessariamente é compreender.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -348,34 +312,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c573c7df439f5103",
+  "active": "d0d15911836c8a0d",
   "lastOpenFiles": [
+    "Contextos são sempre históricos.md",
+    "Contravariant Functor.md",
+    "A linear transformation is injective iff its kernel is trivial.md",
+    "Reference Frame.md",
+    "Knowledge.md",
+    "Saber não necessariamente é compreender.md",
+    "O tempo do conhecimento não é o mesmo tempo da informação.md",
+    "240429.md",
+    "O capitalismo mercadorifica impulsos revolucionários.md",
     "aaaaa.md",
-    "Unlinked Files.md",
-    "Outputs/Essay sobre video do Baka.md",
-    "Interest reads.md",
-    "Templates/Marxism Note Template Excalidraw.md",
-    "Templates/Marxism Note Template.md",
-    "Templates/Literature Note Template.md",
-    "Templates/Mathematics Template Excalidraw.md",
-    "Templates/Mathematics Template.md",
-    "Templates/Output Note Template.md",
-    "Templates/Mini Essay Template Excalidraw.md",
     "Templates/Mini Essay Template.md",
-    "Templates/MOC Template.md",
-    "Templates/Evergreen Note Template.md",
-    "Templates/Evergreen Note Template Excalidraw.md",
-    "Templates/Excalidraw Template.md",
-    "Templates/Generic Note Template.md",
-    "Templates/Lecture Note Template.md",
-    "Templates/Physics Template.md",
-    "Templates/Physics Template Excalidraw.md",
-    "Templates/Output Note Template Excalidraw.md",
-    "A revolução não tem mãos.md",
-    "O capitalismo vê o ímpeto revolucionário como potencial de entretenimento.md",
-    "240426.md",
+    "Outputs/Sobre stakeholders do meio corporativo.md",
+    "A seca do Cerrado foi um fenômeno sociohistórico.md",
     "011a MOC Capital I.md",
-    "011a1 MOC UFPR Capital I.md",
+    "Desmatamento para atividades agropecuárias.md",
+    "Floresta Amazônica.md",
+    "Antropoceno e Capitaloceno.md",
+    "Regimes Alimentares (Friedmann & McMichael).md",
+    "A produção capitalista induz a produção de lixo.md",
+    "Sobre a problemática de 'lixo no lixo'.md",
+    "Formação Nacional Antirracista Ecoar.md",
+    "202202031208 Curso PSOL - Racismo Ambiental.md",
+    "ESG é uma versão meramente formal de sustentabilidade.md",
+    "Preparação P1 Antropo I ─ Conceitos e considerações críticas da antropologia sociocultural ao evolucionismo.md",
+    "Aula 3 - Antropologia I.md",
+    "Aula 2 ─ Antropologia I.md",
     "Attachments/gramscianah.jpg",
     "Attachments/gramscianah 1.jpg",
     "Attachments/Fixing a point induces isomorphism between affine space and its vector space.excalidraw.svg",
