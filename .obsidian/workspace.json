@@ -120,26 +120,12 @@
             }
           },
           {
-            "id": "d0d15911836c8a0d",
+            "id": "0c3ae78e553d1f33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Saber não necessariamente é compreender.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7df74809b74bb67d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contextos são sempre históricos.md",
-                "mode": "source",
-                "source": false
+                "file": "Attachments/Category_SVG.svg"
               }
             }
           }
@@ -210,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Saber não necessariamente é compreender.md",
+                "file": "Attachments/Category_SVG.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +236,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Saber não necessariamente é compreender.md",
+                "file": "Attachments/Category_SVG.svg",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -300,6 +286,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -307,49 +294,47 @@
       "command-palette:Open command palette": true,
       "markdown-importer:Open format converter": true,
       "zk-prefixer:Create new unique note": true,
-      "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d0d15911836c8a0d",
+  "active": "0c3ae78e553d1f33",
   "lastOpenFiles": [
-    "Contextos são sempre históricos.md",
-    "Contravariant Functor.md",
-    "A linear transformation is injective iff its kernel is trivial.md",
-    "Reference Frame.md",
-    "Knowledge.md",
-    "Saber não necessariamente é compreender.md",
-    "O tempo do conhecimento não é o mesmo tempo da informação.md",
-    "240429.md",
-    "O capitalismo mercadorifica impulsos revolucionários.md",
-    "aaaaa.md",
-    "Templates/Mini Essay Template.md",
-    "Outputs/Sobre stakeholders do meio corporativo.md",
-    "A seca do Cerrado foi um fenômeno sociohistórico.md",
-    "011a MOC Capital I.md",
-    "Desmatamento para atividades agropecuárias.md",
-    "Floresta Amazônica.md",
-    "Antropoceno e Capitaloceno.md",
-    "Regimes Alimentares (Friedmann & McMichael).md",
-    "A produção capitalista induz a produção de lixo.md",
-    "Sobre a problemática de 'lixo no lixo'.md",
-    "Formação Nacional Antirracista Ecoar.md",
-    "202202031208 Curso PSOL - Racismo Ambiental.md",
-    "ESG é uma versão meramente formal de sustentabilidade.md",
-    "Preparação P1 Antropo I ─ Conceitos e considerações críticas da antropologia sociocultural ao evolucionismo.md",
-    "Aula 3 - Antropologia I.md",
-    "Aula 2 ─ Antropologia I.md",
-    "Attachments/gramscianah.jpg",
-    "Attachments/gramscianah 1.jpg",
-    "Attachments/Fixing a point induces isomorphism between affine space and its vector space.excalidraw.svg",
-    "Attachments/Epimorphism.excalidraw.svg",
-    "Attachments/Category_SVG.svg",
-    "Attachments/Free Group Action induces bijection between group and orbit.excalidraw.svg",
     "Attachments/Free Group Action SO(2) over real plane.excalidraw.svg",
-    "Attachments/Group Action induces surjection between group and orbit.excalidraw.svg",
-    "Attachments/Contravariant Functor.excalidraw.svg",
-    "Attachments/Operations in Affine Space.excalidraw.svg",
+    "Attachments/Free Group Action SO(2) over real plane.excalidraw.md",
+    "Free Group Action.md",
+    "Free Group Action.svg",
+    "An affine space with a fixed point is isomorphic to its underlying vector space.md",
+    "O tempo do conhecimento não é o mesmo tempo da informação.md",
+    "Zero Object.md",
+    "Contravariant Functor.md",
+    "Excalidraw/Drawing 2024-04-29 20.44.57.excalidraw.md",
+    "Translations in affine spaces are affine automorphisms.md",
+    "Attachments/Zero Object.excalidraw.md",
+    "Unlinked Files.md",
+    "Zero Object.svg",
+    "The boundary of the set is the boundary of its complement.md",
+    "Attachments/Translations in affine spaces are affine automorphisms.excalidraw.md",
+    "Translations in affine spaces are affine automorphisms.svg",
+    "The boundary of the boundary is a subset of the boundary.md",
+    "Attachments/The boundary of the boundary is a subset of the boundary.excalidraw.md",
+    "The boundary of the boundary is a subset of the boundary.svg",
+    "Attachments/Pasted image 20220131130058.png",
+    "Attachments/The boundary of set is the boundary of its complement.excalidraw.md",
+    "The boundary of the set is the boundary of its complement.svg",
+    "Attachments/Preimage of image of a set.excalidraw.svg",
+    "Attachments/Preimage of image of a set.excalidraw.md",
+    "The preimage of the image of a set contains the set.md",
+    "The preimage of the image of a set contains the set.svg",
+    "All metric spaces are Hausdorff spaces.md",
+    "Attachments/Monomorphism.excalidraw.md",
+    "Monomorphism.md",
+    "Monomorphism.svg",
+    "Attachments/Metric Spaces are Hausdorff.excalidraw.md",
+    "Fixing a point in an affine space induces a vector space.md",
+    "Attachments/Operations in Affine Space.excalidraw.md",
+    "Attachments/Induced Vector Space in Affine Space with a fixed point.excalidraw.md",
+    "Group Actions can be seen as functors.md",
+    "Excalidraw",
     "Expurgo subjetivíssimo sobre saídas coletivas do Ecoar.pdf",
     "030x Estudos EUF 2024",
     "Expurgo subjetivíssimo sobre saídas coletivas do Ecoar.odt",
@@ -358,7 +343,6 @@
     "lu48206sf2jrw.tmp",
     "lu48206sf2jru.tmp",
     "lu48206sf2jro.tmp",
-    "Fichamento Detalhado - Mary Wollstonecraft.pdf",
-    "Fichamento Detalhado - Mary Wollstonecraft.odt"
+    "Fichamento Detalhado - Mary Wollstonecraft.pdf"
   ]
 }

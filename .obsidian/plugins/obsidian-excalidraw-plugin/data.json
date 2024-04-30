@@ -1,5 +1,5 @@
 {
-  "folder": "",
+  "folder": "Excalidraw",
   "cropFolder": "",
   "annotateFolder": "",
   "embedUseExcalidrawFolder": false,
@@ -18,7 +18,6 @@
   "cropPrefix": "cropped_",
   "annotatePrefix": "annotated_",
   "annotatePreserveSize": false,
-  "displaySVGInPreview": true,
   "previewImageType": "SVGIMG",
   "allowImageCache": true,
   "displayExportedImageIfAvailable": false,
@@ -740,6 +739,5 @@
   "slidingPanesSupport": false,
   "areaZoomLimit": 1,
   "longPressDesktop": 500,
-  "longPressMobile": 500,
-  "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js"
+  "longPressMobile": 500
 }

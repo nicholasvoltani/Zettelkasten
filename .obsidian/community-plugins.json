@@ -1,19 +1,12 @@
 [
-  "obsidian-latex-environments",
-  "obsidian-latex",
-  "obsidian-citation-plugin",
-  "obsidian-minimal-settings",
-  "obsidian-tidy-footnotes",
-  "obsidian-footnotes",
-  "find-unlinked-files",
-  "obsidian-contextual-typography",
-  "url-into-selection",
-  "tag-wrangler",
-  "homepage",
+  "obsidian-excalidraw-plugin",
   "obsidian-auto-link-title",
   "dataview",
-  "obsidian-zotero-desktop-connector",
+  "obsidian-latex",
+  "find-unlinked-files",
+  "obsidian-footnotes",
+  "obsidian-minimal-settings",
+  "url-into-selection",
   "templater-obsidian",
-  "obsidian-advanced-new-file",
-  "obsidian-excalidraw-plugin"
+  "obsidian-tidy-footnotes"
 ]
