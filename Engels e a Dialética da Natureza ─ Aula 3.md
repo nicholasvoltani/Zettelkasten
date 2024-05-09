@@ -3,6 +3,7 @@ Date: 2022-05-03
 tags:
   - literature/study_group
   - marxism
+draft: 'true'
 ---
 # Engels e a Dialética da Natureza ─ Aula 3 (Entre as ciências naturais e a Naturphilosophie do século XIX)
 ## Engels e a Matemática

@@ -3,7 +3,9 @@ Date: 2022-02-01
 tags:
   - literature/lecture
   - ambiental
+draft: 'true'
 ---
+
 # Módulo 3 ─ Amazônia e os desafios da Humanidade (Adolfo Oliveira, UFPA)
 
 ## Por que discutir a Amazônia quando pensamos nos desafios da humanidade?

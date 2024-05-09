@@ -3,7 +3,9 @@ Date: 2022-02-04
 tags:
   - literature/lecture
   - ambiental
+draft: 'true'
 ---
+
 # Módulo 6 ─ Soberania e Segurança Alimentar e Nutricional (Anelise Rizzolo)
  ## Premissas
  - Fatos históricos são essenciais para a compreensão de aspectos políticos e temáticos

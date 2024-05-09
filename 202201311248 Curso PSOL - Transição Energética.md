@@ -3,7 +3,9 @@ Date: 2022-01-31
 tags:
   - literature/lecture
   - ambiental
+draft: 'true'
 ---
+
 # Módulo 2 ─ Emergência Climática e Transição Energética (Alexandre Costa)
 ## Bases físicas
 O equilíbrio climático depende do **equilíbrio dos fluxos de energia**:

@@ -2,6 +2,7 @@
 Date: 2023-06-17
 tags:
   - transient
+draft: 'true'
 ---
 up:: 
 

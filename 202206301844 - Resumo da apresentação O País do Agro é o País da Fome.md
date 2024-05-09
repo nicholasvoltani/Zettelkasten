@@ -4,6 +4,7 @@ tags:
   - transient
   - marxism
   - ambiental
+draft: 'true'
 ---
 # 202206301844 - Resumo da apresentação "O País do Agro é o País da Fome"
 ## 1. O que é agronegócio?

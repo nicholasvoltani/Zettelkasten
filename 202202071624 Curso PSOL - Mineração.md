@@ -3,7 +3,9 @@ Date: 2022-02-07
 tags:
   - literature/lecture
   - ambiental
+draft: 'true'
 ---
+
 # Módulo 8 ─ Mineração e seus impatos sociais e ambientais (Marcos Ferreira)
 Poema "O Maior Trem do Mundo" de Carlos Drummond de Andrade aborda a mineração e seus impactos; Itabira, onde nasceu, é chamada de "berço da Vale [do Rio Doce]". 
 

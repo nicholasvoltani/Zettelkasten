@@ -4,7 +4,9 @@ tags:
   - literature/lecture
   - ecossocialism
   - ambiental
+draft: 'true'
 ---
+
 # Painel de Abertura: "Crise Ambiental e os desafios da Esquerda Brasileira" (Fundação Lauro Campos e Marielle Franco)
 ## 1. Fala de Michael Löwy
 ### Sobre crise ambiental e ecossocialismo

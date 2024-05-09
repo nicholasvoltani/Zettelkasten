@@ -2,8 +2,9 @@
 Date: 2022-07-30
 tags:
   - transient
+
+draft: 'true'
 ---
-# 202207301516 O papel do ser humano no ecossistema
 Após ler sobre o papel do ser humano em uma espécie de "seleção natural guiada" de espécies de legumes e frutas, tive a ideia de uma espécie de "papel" que o ser humano desempenha nos ecossistemas em que participa: ele é um **guardião da vida**. 
 
 Penso isso, pois essas "seleções guiadas" de espécies ─ sementes crioulas que acabam sendo mais nutritivas, frutas e legumes que se tornaram mais "polpudos"─ acabam podendo **alimentar melhor**[^1] aqueles que se alimentam dessas espécies (não só o ser humano). 

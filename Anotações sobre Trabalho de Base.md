@@ -3,6 +3,7 @@
 Date: 2022-02-25
 tags:
   - literature
+draft: 'true'
 ---
 # Anotações sobre Trabalho de Base
 ## Ideia de [[Trabalho de Base]]

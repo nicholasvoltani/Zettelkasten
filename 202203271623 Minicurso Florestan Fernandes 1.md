@@ -3,7 +3,9 @@ Date: 2022-03-27
 tags:
   - literature/study_group
   - marxism
+draft: 'true'
 ---
+
 # 202203271623 Minicurso Florestan Fernandes 1
 ## 1. O que se deve entender por revolução?
 > "No essencial, porém, há pouca confusão quanto ao seu significado central:

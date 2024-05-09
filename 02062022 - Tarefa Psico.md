@@ -1,3 +1,10 @@
+---
+Date: 2024-05-09
+tags:
+draft: 'true'
+---
+up:: 
+
 - Raciocinar sobre quais são benefícios de manter crença de "vai dar errado", "não vou tentar"
 	- Qual benefício de adaptar crença: tem sim possibilidade de ser feliz, de se arriscar, de dar certo
 		- De ter mais coragem de investigar tais "zonas de desconforto"
@@ -13,3 +20,7 @@
 - Vou ter menos "tensão" a todo instante
 - Vou acabar sendo mais genuíno
 - Eu posso acabar tendo algo que me permita estar contente! A realidade é incerta, e justamente por isso há uma chance de que as coisas deem certo
+
+---
+### Referências
+- 

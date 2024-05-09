@@ -3,6 +3,7 @@ Date: 2022-03-07
 tags:
   - literature/lecture
   - ambiental
+draft: 'true'
 ---
 # Anotações sobre Crise Climática e Desastres Socioambientais  ─ 
 Preparatório para a I Conferência Popular (Nacional) pelo Direito à Cidade, organizada por 500 entidades (dentre elas BRCidades); será sediada em julho, com objetivo de construir plataforma de direitos populares de lutas pelo direito à cidade, com eventos preparatórios como esse aqui. 

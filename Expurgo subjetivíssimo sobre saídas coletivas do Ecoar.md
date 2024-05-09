@@ -2,6 +2,7 @@
 Date: 2023-12-15
 tags:
   - marxism
+draft: 'true'
 ---
 up:: [[Sobre minha saída do Ecoar (versão 2)]]
 

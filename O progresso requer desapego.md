@@ -2,6 +2,7 @@
 Date: 2022-09-04
 tags:
   - transient
+draft: 'true'
 ---
 # O progresso requer desapego
 Como estamos num processo constante de questionar nossas próprias crenças, refinando-as, se faz necessário uma mentalidade de tolerância ante à autocrítica.

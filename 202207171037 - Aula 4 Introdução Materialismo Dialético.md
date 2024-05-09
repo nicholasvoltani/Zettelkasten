@@ -3,6 +3,7 @@ Date: 2022-07-17
 tags:
   - literature/lecture
   - marxism
+draft: 'true'
 ---
 # 202207171037 - Aula 4 Introdução Materialismo Dialético
 ## Apresentação sobre o Método

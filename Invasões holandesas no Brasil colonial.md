@@ -2,6 +2,7 @@
 Date: 2022-10-12
 tags:
   - transient
+draft: 'true'
 ---
 # Invasões holandesas no Brasil colonial
 A fim de assegurar seu lucrativo comércio com a produção açucareira do Nordeste brasileiro, a Companhia das Índias Ocidentais perpetra ataques a capitanias brasileiras a fim de assegurar sua hegemonia comercial.

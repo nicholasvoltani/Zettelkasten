@@ -6,5 +6,5 @@ tags:
 up:: [[020 MOC Mathematics]]
 
 ## Tópicos
-- [[Def - Entropia]]
-- [[Def - Informação Mútua]]
+- [[Entropia]]
+- [[Informação Mútua]]

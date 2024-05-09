@@ -3,7 +3,9 @@ Date: 2022-02-03
 tags:
   - literature/lecture
   - ambiental
+draft: 'true'
 ---
+
 # Módulo 5 - [[Racismo Ambiental]] (Cristiane Faustino)
  ## Notas sobre o conceito de Racismo Ambiental
  Surge no seio das lutas negras nos EUA por direitos; deu base ao movimento por Justiça Ambiental como o conhecemos hoje. 

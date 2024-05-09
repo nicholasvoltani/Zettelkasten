@@ -3,6 +3,7 @@ Date: 2023-04-18
 tags:
   - literature/lecture
   - anthropology
+draft: 'true'
 ---
 
 up:: [[0x4a2 MOC Antropo I]]

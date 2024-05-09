@@ -2,6 +2,7 @@
 Date: 2022-05-29
 tags:
   - transient
+draft: 'true'
 ---
 # 202205291102 - Não apaguem nossa cólera
 Disclaimer óbvio de que esse post [também] é contra Bolsonaro. Mas é contra muito mais que ele, e contra mais do que (só) o bolsonarismo. Em particular, esse post NÃO é contra candidatos vistos como apartados da nossa realidade social (ou seja, não é sobre rixas pessoais, não é _ad hominem_). E acho que partir disso já elucida melhor minha crítica.

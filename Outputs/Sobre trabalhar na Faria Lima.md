@@ -2,6 +2,7 @@
 Date: " 2023-10-12"
 tags:
   - output
+draft: "true"
 ---
 up:: [[Sobre o meio corporativo]]
 

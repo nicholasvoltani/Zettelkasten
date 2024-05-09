@@ -3,6 +3,7 @@ Date: 2023-03-12
 tags:
   - literature/lecture
   - marxism
+draft: 'true'
 ---
 # Apresentação Rojú Soares: Antirracismo, Marxismo e Revolução
 ## O que é marxismo?

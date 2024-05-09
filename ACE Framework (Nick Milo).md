@@ -2,6 +2,7 @@
 Date: 2023-05-01
 tags:
   - pkm 
+draft: 'true'
 ---
 up:: 
 ![[Pasted image 20230501134108.png]]

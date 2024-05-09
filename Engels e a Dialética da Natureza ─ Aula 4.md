@@ -3,6 +3,7 @@ Date: 2022-05-05
 tags:
   - literature/study_group
   - marxism
+draft: 'true'
 ---
 # Engels e a Dialética da Natureza ─ Aula 4
 ## Autores a aprofundar

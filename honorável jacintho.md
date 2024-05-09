@@ -1,4 +1,3 @@
-# honorável jacintho
 >"_jacintho_
 _Já sinto certa inveja de você,_
 _100 anos não é para qualquer um viver_"

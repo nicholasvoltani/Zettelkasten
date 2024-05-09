@@ -3,7 +3,9 @@ Date: 2022-02-07
 tags:
   - literature/lecture
   - ambiental
+draft: 'true'
 ---
+
 # Módulo 7 ─ Soberania Alimentar e Democratização da Terra (Kelli Mafort, MST)
 ## Introdução ao Debate
 Há uma **hegemonia** exercida pelo projeto de poder do capital: *agronegócio*, *mineração* (ao menos nos campos). Também nas cidades, com o capital financeiro, bancos, **mercado imobiliário**.

@@ -3,6 +3,7 @@ Date: 2022-10-03
 tags:
   - transient
   - geography
+draft: 'true'
 ---
 # La Niña
 ![[Pasted image 20221005220629.png]]

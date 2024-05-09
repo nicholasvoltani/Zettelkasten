@@ -5,6 +5,7 @@ tags:
 aliases: A revolta torna-se mercadoria no capitalismo
 excalidraw-open-md: true
 excalidraw-plugin: parsed
+draft: 'true'
 ---
 
 up:: 

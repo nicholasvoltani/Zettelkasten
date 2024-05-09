@@ -3,7 +3,7 @@ Date: 2023-05-07
 tags:
   - transient 
 ---
-up:: 
+up:: [[index]]
 
 # Às ordens, capital
 

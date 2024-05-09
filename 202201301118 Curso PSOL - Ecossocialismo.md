@@ -4,6 +4,7 @@ tags:
   - literature/lecture
   - marxism
   - ambiental
+draft: 'true'
 ---
 # Módulo 1 ─ [[Ecossocialismo]] (Sabrina Fernandes)
 ## O que é ecossocialismo?

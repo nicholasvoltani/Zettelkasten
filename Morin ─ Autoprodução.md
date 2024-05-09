@@ -2,6 +2,7 @@
 Date: 2021-08-23
 tags:
   - transient
+draft: 'true'
 ---
 # Operador Cognitivo de Autoprodução
 > "Os seres vivos produzem, eles próprios, os elementos que os constituem e se autoorganizam por meio desse processo."

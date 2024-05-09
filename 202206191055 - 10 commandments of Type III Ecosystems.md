@@ -3,6 +3,7 @@ Date: 2022-06-19
 tags:
   - literature
   - ambiental
+draft: 'true'
 ---
 # 202206191055 - 10 commandments of Type III Ecosystems
 > "Complex systems (...) are not 'run' by anyone in particular, but are instead controlled by **countless individual interactions** that occur **inside** the system" (p. 253; grifo meu)

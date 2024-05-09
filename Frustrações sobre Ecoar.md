@@ -3,6 +3,7 @@ Date: 2022-08-07
 tags:
   - critique
   - transient
+draft: 'true'
 ---
 up:: [[Críticas Ecoar]]
 ## 1. Núcleo Socioambiental ─ *Il faut imaginer Sisyphe heureux*

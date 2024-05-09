@@ -4,6 +4,7 @@ tags:
   - transient
   - ambiental
   - marxism 
+draft: 'true'
 ---
 # 202205281121 ─ O país do Agro é o país da fome
 > "a realidade é que o *agribusiness*, longe de ser a solução, apenas agrava o problema da fome. Isso porque dele advém não apenas a modernização da agricultura, mas a transferência de um modelo de desenvolvimento econômico e de relações sociais para o Terceiro Mundo ─ o modelo capitalista de produção. 

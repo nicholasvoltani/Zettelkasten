@@ -2,6 +2,7 @@
 Date: 2023-05-20
 tags:
   - transient
+draft: 'true'
 ---
 up:: [[Fichamento Detalhado - Mary Wollstonecraft]]
 

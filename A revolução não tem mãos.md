@@ -2,6 +2,7 @@
 Date: 2022-02-26
 tags:
   - transient
+draft: 'true'
 ---
 > A revolução não tem pernas
 > e por isso não "virá até nós"

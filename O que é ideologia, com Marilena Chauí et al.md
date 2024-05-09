@@ -3,6 +3,7 @@ Date: 2022-04-07
 tags:
   - literature/lecture
   - marxism
+draft: 'true'
 ---
 # O que é ideologia, com Marilena Chauí, Jessé Souza e Eduardo Moreira
 ## Apresentação da Marilena Chauí

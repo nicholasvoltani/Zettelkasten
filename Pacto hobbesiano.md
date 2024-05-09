@@ -2,7 +2,7 @@
 Date: 2023-05-23
 tags:
   - transient
-draft: "true"
+draft: 'true'
 ---
 up:: [[0x4a31 MOC Hobbes]]
 

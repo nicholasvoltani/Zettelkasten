@@ -2,6 +2,7 @@
 cssclass: dashboard
 banner: "![[gramscianah.jpg]]"
 banner_y: 1
+draft: 'true'
 ---
 # Tasks
 - Evergreens Sociologia

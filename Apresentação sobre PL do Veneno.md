@@ -3,6 +3,7 @@ Date: 2022-03-06
 tags:
   - transient
   - ambiental
+draft: 'true'
 ---
 # Apresentação sobre PL do Veneno
 ## Introdução

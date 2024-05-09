@@ -2,6 +2,7 @@
 Date: 2022-06-05
 tags:
   - literature/lecture
+draft: 'true'
 ---
 # 202206051702 - O País do Agro é o País da Fome ─ Ecoar-SC
 ## Fala da Georgia Faust (Presidente PSOL-Blumenau)
