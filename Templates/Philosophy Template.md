@@ -1,6 +1,7 @@
 ---
 Date: "{{date:YYYY-MM-DD}}"
-Tags: philosophy
+tags: 
+  - philosophy
 aliases:
 excalidraw-open-md: true
 excalidraw-plugin: parsed

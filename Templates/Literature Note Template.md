@@ -1,6 +1,7 @@
 ---
 Date: "{{date:YYYY-MM-DD}}"
-Tags: literature
+tags: 
+  - literature
 ---
 up:: 
 

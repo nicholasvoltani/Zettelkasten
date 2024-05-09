@@ -1,6 +1,7 @@
 ---
 Date: {{date:YYYY-MM-DD}}
-Tags: fichamento
+tags: 
+  - fichamento
 ---
 **Nome:** Nicholas Funari Voltani
 **Nº USP:** 9359365

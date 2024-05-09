@@ -1,6 +1,7 @@
 ---
 Date: "{{date:YYYY-MM-DD}}"
-Tags: evergreen
+tags: 
+  - evergreen
 aliases: 
 excalidraw-open-md: true
 excalidraw-plugin: parsed

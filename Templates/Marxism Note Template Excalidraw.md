@@ -1,6 +1,7 @@
 ---
 Date: "{{date:YYYY-MM-DD}}"
-Tags: marxism
+tags: 
+  - marxism
 aliases:
 excalidraw-open-md: true
 excalidraw-plugin: parsed

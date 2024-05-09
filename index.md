@@ -1,5 +1,5 @@
 ---
-title: Nicholas Funari Voltani
+title: Digital Garden Entrance
 publish: "true"
 ---
 Bem-vindo/a ao meu Jardim Digital! Meu nome é Nicholas, e esse espaço aqui é uma tentativa de externalizar tantas das relações que faço entre os vários tópicos dos quais eu gosto (obviamente inspirado pela comunidade PKM).
@@ -34,7 +34,7 @@ Monografias que escrevi para as disciplinas [Teoria da História I](https://uspd
 # Trabalhos de Propaganda Ideológica
 Da *disciplina* [Propaganda Ideológica](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CRP0171&codcur=27011&codhab=502)!
 - [[O potencial ideológico em estátuas - Léopold II, 'o rei construtor']]
-- [[Análise do comercial “We Believe”, da Gillette]]
+- [[Análise do comercial 'We Believe', da Gillette]]
 
 ## Miscelâneos
 - [[Resenha sobre o livro 'Redes de Indignação e Esperança']]

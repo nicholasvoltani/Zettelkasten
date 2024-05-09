@@ -1,6 +1,7 @@
 ---
 excalidraw-plugin: parsed
-tags: []
+tags: 
+  - 
 excalidraw-open-md: true
 ---
 up::
