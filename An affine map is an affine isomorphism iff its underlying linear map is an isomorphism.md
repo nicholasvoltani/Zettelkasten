@@ -10,15 +10,21 @@ Let $(E, V, +_E)$ and $(E', V', +_{E'})$ be [[Affine Space]]s[^1]. Let $f: E \to
 
 # Affine map is bijective $\implies$ Underlying map is isomorphism
 Let $f: E \to E'$ be an affine isomorphism ([[Affine Map]] which is a [[Bijective Function|Bijection]]). Then, for any $A \in E, v \in V$, we have
-$$f(A+v) = f(A) + L(v)$$
+$$
+f(A+v) = f(A) + L(v)
+$$
 Since $f$ has an inverse, we have that
 $$A+v = f^{-1}(f(A)+ L(v))$$
 Since the inverse is also an affine map, we have that
-$$A+v = A + \tilde{L}(L(v))$$
+$$
+A+v = A + \tilde{L}(L(v))
+$$
 where $\tilde{L}: V' \to V$ is the underlying linear map associated to $f^{-1}$.
 
 However, note that, since an affine space is determined by a [[Regular Group Action]], then there is one and only one vector connecting $A$ and $A+v$, which is $v$. Thus,
-$$\forall v \in V, \tilde{L}(L(v)) = v \implies \tilde{L} = L$$
+$$
+\forall v \in V, \tilde{L}(L(v)) = v \implies \tilde{L} = L
+$$
 And, thus, the underlying linear map of an affine isomorphism is a [[Vector Space Isomorphism]].
 
 # Affine map is not bijective $\implies$ Underlying map is not an isomorphism

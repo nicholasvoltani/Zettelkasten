@@ -8,7 +8,9 @@ up:: [[Product (Category)]]
 ![[Pasted image 20230821211433.png|300]]
 
 Given two sets $X_1, X_2$, denote their cartesian product as $X_1 \times X_2$, and let
-$$\pi_i: X_1 \times X_2 \to X_i$$
+$$
+\pi_i: X_1 \times X_2 \to X_i
+$$
 be the respective **projection maps**.
 
 Let $Y$ be another set. 
@@ -16,16 +18,24 @@ Let $Y$ be another set.
 Let $h: Y \to X_1 \times X_2$ be any map.
 
 Then it is uniquely determined by its values under composition with the projection maps, since
-$$\forall y \in Y: (\pi_i \circ h)(y) = \tilde{x_i}(y) \in X_i$$
+$$
+\forall y \in Y: (\pi_i \circ h)(y) = \tilde{x_i}(y) \in X_i
+$$
 # Functions to coordinate sets uniquely induce factor map to cartesian product
 Conversely, let  $f_i: Y \to X_i$ functions from $Y$ to each "coordinate" set $X_i$. Then there is a unique map $h: Y \to X_1 \times X_2$ such that
-$$\pi_i \circ h = f_i: Y \to X_i$$
+$$
+\pi_i \circ h = f_i: Y \to X_i
+$$
 In fact, it is of the form
-$$h(y) = (f_1(y), f_2(y)) \in X_1 \times X_2$$
+$$
+h(y) = (f_1(y), f_2(y)) \in X_1 \times X_2
+$$
 which is uniquely determined by $f_i$ and which satisfies the condition above.
 # Conclusion
 Note that to every function 
-$$h: Y \to X_1 \times X_2$$
+$$
+h: Y \to X_1 \times X_2
+$$
 there is a unique function 
 $$
 \begin{align*}

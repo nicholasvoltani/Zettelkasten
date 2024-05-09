@@ -5,7 +5,9 @@ Tags: mathematics
 up:: [[020 MOC Mathematics]]
 
 Note that, if $f: X \to Y$ is an [[Injective Function]], then we have that
-$$f(x) \in f(A) \iff x \in A$$
+$$
+f(x) \in f(A) \iff x \in A
+$$
 This guarantees the reciprocal of [[The preimage of the image of a set contains the set]].
 
 ---

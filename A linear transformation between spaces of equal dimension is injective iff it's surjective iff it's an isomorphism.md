@@ -16,12 +16,16 @@ It is trivial that $A) \implies B)$ and that $A) \implies C)$.
 
 # Injective $\implies$ Bijective
 By the [[Kernel-Image Theorem]], we have that 
-$$\dim U (= \dim V) = \dim Im T$$
+$$
+\dim U (= \dim V) = \dim Im T
+$$
 Thus, the dimension of the codomain is equal to the dimension of $T$'s image ─ which implies that $T$ is [[Surjective Function|Surjective]], and thus [[Bijective Function|Bijective]].
 
 # Surjective $\implies$ Bijective
 If $T$ is surjective, we have that $\dim V = \dim Im T$, for which we have that
-$$\dim \ker T = 0$$
+$$
+\dim \ker T = 0
+$$
 for which $T$ is [[Injective Function|Injective]], since [[A linear transformation is injective iff its kernel is trivial]].
 
 ## Corollaries

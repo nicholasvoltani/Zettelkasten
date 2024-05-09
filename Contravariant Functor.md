@@ -12,11 +12,15 @@ up:: [[Functor]]
 ![[Contravariant Functor.svg]]
 
 A contravariant functor is a functor which flips morphisms in the target [[Category]]. It's usually denoted as
-$$F: C^{op} \to D$$
+$$
+F: C^{op} \to D
+$$
 where $C^{op}$ is the [[Opposite Category]] of $C$. 
 
 Thus, formally, for each $x, y \in C$, we have that
-$$f \in Hom_C(x, y) \iff F(f) \in Hom_D(F(y), F(x))$$
+$$
+f \in Hom_C(x, y) \iff F(f) \in Hom_D(F(y), F(x))
+$$
 i.e. morphisms are flipped upon $F$'s influence.
 
 # Examples

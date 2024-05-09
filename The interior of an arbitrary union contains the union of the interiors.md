@@ -11,7 +11,9 @@ Let $\{M_i\}_{i \in \Lambda} \in \mathbb{P}(X)$.
 Since [[All sets contain their interior]], we have that $\mathring{M_i} \subseteq M_i$.
 
 Since $\bigcup\limits_{i \in \Lambda} \mathring{M_i} \subseteq \bigcup\limits_{i \in \Lambda} M_i$, and since [[Interior preserves subset ordering]], we have that
-$$\bigcup\limits_{i \in \Lambda} \mathring{M_i} \subseteq \left(\bigcup\limits_{i \in \Lambda} M_i\right)^\circ$$
+$$
+\bigcup\limits_{i \in \Lambda} \mathring{M_i} \subseteq \left(\bigcup\limits_{i \in \Lambda} M_i\right)^\circ
+$$
 
 
 ---

@@ -6,7 +6,9 @@ alias:
 up:: [[Lattice]]
 
 Given a lattice $(X, \land, \lor)$, one can always create a [[Partially Ordered Set|Partial Ordering]] $\leq$ as
-$$x \leq y \iff x = x \land y \iff y = x \lor y$$
+$$
+x \leq y \iff x = x \land y \iff y = x \lor y
+$$
 It can be read as a subset ordering: $X \subseteq Y$ if $X$ itself is its intersection with $Y$, and also if $Y$ is itself the union with $X$ (which is already within it).
 
 ## Proof

@@ -9,7 +9,9 @@ up:: [[028 MOC Category Theory]]
 
 Given a [[Category]] $C$, we say an object $T \in Ob(C)$ is a **terminal object** if all objects $x \in C$ have a morphism **to** $T$ from $x$. That is,
 
-$$\forall x \in C: \exists f \in Mor(x, T): x \overset{f}{\to} T$$
+$$
+\forall x \in C: \exists f \in Mor(x, T): x \overset{f}{\to} T
+$$
 # Properties
 - A terminal object is an [[Initial Object]] in the [[Opposite Category]] $C^{op}$.
 - [[A terminal object is isomorphic to an initial object if there is a morphism from T to I]].

@@ -6,7 +6,9 @@ alias: Topologically Continuous
 up:: [[Topological Space]]
 
 A function $f: (X, \tau_X) \to (Y, \tau_Y)$ mapping between topological spaces is said to be continuous if 
-$$\forall A_Y \in \tau_Y, f^{-1}(A) \in \tau_X$$
+$$
+\forall A_Y \in \tau_Y, f^{-1}(A) \in \tau_X
+$$
 
 That is, **it "premaps" open sets (from $Y$) to open sets (in $X$)**. 
 

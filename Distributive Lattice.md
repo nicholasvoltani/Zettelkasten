@@ -6,10 +6,12 @@ alias: Distributive
 up:: [[Lattice]]
 
 Given a lattice $(X, \land, \lor)$ it is said to be distributive if its operators distribute according to
-$$\begin{align*}
+$$
+\begin{align*}
 a \land (b \lor c) &= (a \land b) \lor (a \land c)\\
 a \lor (b \land c) &= (a \lor b) \land (a \lor c)
-\end{align*}$$
+\end{align*}
+$$
 
 # Properties
 [[Every distributive and limited lattice has unique complements]]. This motivates the definition of a [[Boolean Algebra]].

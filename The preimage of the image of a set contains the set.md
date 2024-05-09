@@ -15,11 +15,15 @@ The intuition is that the preimage of a set can be bigger than the set itself (d
 Let $f: X \to Y$ be a function, and $A \subseteq X$ a subset.
 
 Let $x \in A$. Then
-$$x\in A {\color{red} \implies} f(x) \in f(A)$$
+$$
+x\in A {\color{red} \implies} f(x) \in f(A)
+$$
 that is, $f(x)$ is in its [[Image of Function|image]].
 
 By the definition of the [[Preimage of Function]] $f$, this is equivalent to
-$$x \in f^{-1} (f(A))$$
+$$
+x \in f^{-1} (f(A))
+$$
 # Counterexample of equality
 ![[Pasted image 20230701151408.png|500]]
 

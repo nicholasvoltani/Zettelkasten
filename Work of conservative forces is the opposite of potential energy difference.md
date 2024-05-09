@@ -11,6 +11,10 @@ up:: [[Work (Physics)|Work]]
 
 # Proof
 For a [[Conservative Force]] $\vec{F}$, with potential $V(\vec{r})$, we have that it exerts work on a particle at a path $L$ as
-$$W = \int_L \vec{F} \cdot d\vec{l} = - \int_L \vec{\nabla} V \cdot d\vec{l}$$
+$$
+W = \int_L \vec{F} \cdot d\vec{l} = - \int_L \vec{\nabla} V \cdot d\vec{l}
+$$
 By the [[Fundamental Theorem of Calculus]], we have that it results into
-$$W = -\left(V(\vec{r_2}) - V(\vec{r_1})\right) \equiv - \Delta V$$
+$$
+W = -\left(V(\vec{r_2}) - V(\vec{r_1})\right) \equiv - \Delta V
+$$

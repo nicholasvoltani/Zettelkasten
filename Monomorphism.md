@@ -13,7 +13,9 @@ up:: [[Category]]
 A monomorphism is a categorical generalization of an [[Injective Function]], since [[An injective function is a monomorphism in the category Set]].
 
 Given a category $C$ and a morphism $f \in Hom(X, Y)$, we say that $f$ is a monomorphism if
-$$\forall g_1, g_2 \in Hom(Z, X): (f \circ g_1 = f \circ g_2) \implies g_1 = g_2$$
+$$
+\forall g_1, g_2 \in Hom(Z, X): (f \circ g_1 = f \circ g_2) \implies g_1 = g_2
+$$
 That is, if they are "equal" after "pre-composition" with $f$, then they were equal all along.
 
 # Related

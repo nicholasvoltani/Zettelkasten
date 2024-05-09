@@ -6,7 +6,9 @@ alias: Complemented
 up:: [[Lattice]]
 
 A [[Limited Lattice]] $(X, \land, \lor)$ is said to be a complemented lattice if any points $x \in X$ have at least one complement in $X$, such that[^1]
-$$(x \land y = 0) \land (x \lor y = 1)$$
+$$
+(x \land y = 0) \land (x \lor y = 1)
+$$
 # Properties
 [[Every distributive and limited lattice has unique complements]]
 

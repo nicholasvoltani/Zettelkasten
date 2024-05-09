@@ -10,7 +10,10 @@ up:: [[023 MOC Measure Theory]]
 A probability function is a function defined from the [[Sigma-algebra]] of a [[Measurable Space]] $(X, \mathcal{F})$ to the real numbers, $P: \mathcal{F} \to \mathbb{R}$ which satisfies
 - $\forall A \in \mathcal{F}: P(A) \geq 0$;
 - $P(X) = 1$
-- For a countable set of **mutually disjoint** measurable sets $\{A_n\}_{n \in \mathbb{N}}$, we have $$P\left(\bigcup\limits_{n \in \mathbb{N}}A_n\right) = \sum\limits_{n \in \mathbb{N}} P(A_n)$$
+- For a countable set of **mutually disjoint** measurable sets $\{A_n\}_{n \in \mathbb{N}}$, we have 
+$$
+P\left(\bigcup\limits_{n \in \mathbb{N}}A_n\right) = \sum\limits_{n \in \mathbb{N}} P(A_n)
+$$
 # Properties
 - $\forall A \in \mathcal{F}: P(A^c) = 1 - P(A)$[^1]
 - $P(\emptyset) = 0$

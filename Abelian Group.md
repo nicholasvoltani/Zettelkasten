@@ -6,7 +6,9 @@ alias: Abelian
 up:: [[Group (Mathematics)|Group]]
 
 A group $(G, \cdot)$ is said to be Abelian when its operation is commutative. That is,
-$$\forall a, b \in G, ab = ba$$
+$$
+\forall a, b \in G, ab = ba
+$$
 
 # Properties
 ## Abelianization

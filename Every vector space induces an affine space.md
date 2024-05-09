@@ -8,7 +8,8 @@ up:: [[Vector Space]]
 Let $(V, +, \cdot)$ be a [[Vector Space]]. Then one can define an [[Affine Space]] $(E, V, +)$ in which $E = V$ and $(V, +)$ is its underlying vector space.
 
 Define by the [[Group Action]]
-$$\begin{align*}
+$$
+\begin{align*}
 \alpha: V \times (V, +) &\to V\\
 (p, v) &\mapsto p + v
 \end{align*}

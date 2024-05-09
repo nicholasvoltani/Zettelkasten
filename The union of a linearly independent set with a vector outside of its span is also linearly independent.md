@@ -8,9 +8,13 @@ up:: [[Linear Independence]]
 Let $(V, +, \cdot)$ be a [[Vector Space]], and $S \subset V$ a [[Linear Independence|Linearly Independent]] set. 
 
 Let $v \notin [S]$ outside of the [[Spanning Set|Span]] of $S$. Then $S \cup \{v\}$ is linearly independent as well: 
-$$\sum\limits_i \alpha_i v_i + \beta v= 0 \implies \beta = 0$$
+$$
+\sum\limits_i \alpha_i v_i + \beta v= 0 \implies \beta = 0
+$$
 because, if it's not zero, then we'd contradict our hypothesis ($v$ would be inside $S$'s span), since
-$$v = \sum\limits_i \frac{\alpha_i}{\beta} v_i$$
+$$
+v = \sum\limits_i \frac{\alpha_i}{\beta} v_i
+$$
 Thus, since $S$ is linearly independent, we must have that $\alpha_i = 0 \land \beta = 0$.
 
 Thus, $S \cup \{v\}$ is linearly independent.

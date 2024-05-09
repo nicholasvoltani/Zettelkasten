@@ -6,7 +6,9 @@ alias:
 up:: [[Vector Space]]
 
 Given a vector space $(V, +, \cdot)$ and a subset $\{v_i\} \subset V$, we say that a vector $v$ is a **linear combination** of $\{v_i\}$ if there are coefficients $\{\alpha_i\}$ in the vector space's [[Field (Algebra)|Field]] such that
-$$v = \sum\limits_i \alpha_i v_i$$
+$$
+v = \sum\limits_i \alpha_i v_i
+$$
 That is, $v$ can be decomposed into components of the vectors $\{v_i\}$.
 
 # Related

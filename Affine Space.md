@@ -15,7 +15,9 @@ Transformations which preserve affine structures are called [[Affine Map]]s.
 # Properties
 ## Vectors act as translations of points in the space
 Vectors $\vec{ab} \in V$ act as "parallel displacements": for each point $a \in A$, one can go to $b \in A$ via group action[^2], as
-$$b = a + \vec{ab}$$
+$$
+b = a + \vec{ab}
+$$
 There needs to be at least one such $\vec{ab}$ for each $a, b \in X$ due to transitivity, and there is only one such $\vec{ab}$ since the group action is free. 
 
 ## Affine spaces are $\mathbb{K}$-torsors
@@ -23,7 +25,8 @@ Therefore, one can see the "**difference between points**" in the affine space a
 
 ## Fixing a point induces a vector space
 Picking a fixed point $O \in X$, one can prove that [[Fixing a point in an affine space induces a vector space]] via the bijection $m_O: A \leftrightarrow V$. Through this function (and its inverse $m_O^{-1}$), one can induce vector space operations on $X$ as
-$$\begin{align*}
+$$
+\begin{align*}
 x + y &:= m^{-1}_O(\vec{Ox} + \vec{Oy})\\
 \lambda x &:= m^{-1}_O(\lambda \vec{Ox})
 \end{align*}

@@ -7,13 +7,17 @@ Tags: literature/lecture, marxism
 * Diferença entre **taxa** e **massa** de mais-valia
 
 ## [[Taxa de mais-valor]]
-$$m' = \frac{m}{v_f} = \frac{t_e}{t_n}$$
+$$
+m' = \frac{m}{v_f} = \frac{t_e}{t_n}
+$$
 A taxa de mais valia é a fração da **mais-valia** (diária, mensal, etc.) pelo **capital variável** (diário, mensal, etc.) responsável por essa produção (da **força de trabalho**).
 
 Equivalentemente, é a fração do tempo de trabalho **excedente** pelo tempo de trabalho **necessário**. 
 
 ## [[Massa de mais-valor]]
-$$ M_m = m \cdot n_t \, \frac{v_f}{v_f} = \underbrace{\left(\frac{t_e}{t_n}\right)}_{\texttt{Taxa de mais-valor}} \cdot \underbrace{(v_f \cdot n_t)}_{\texttt{Capital variável}}$$
+$$
+M_m = m \cdot n_t \, \frac{v_f}{v_f} = \underbrace{\left(\frac{t_e}{t_n}\right)}_{\texttt{Taxa de mais-valor}} \cdot \underbrace{(v_f \cdot n_t)}_{\texttt{Capital variável}}
+$$
 Portanto, massa de mais-valor é o **volume total** de mais-valia produzido pelos $n_t$ trabalhadores.
 
 ## Qual é o objetivo do capitalista?

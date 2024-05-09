@@ -9,7 +9,8 @@ A galilean coordinate space is the [[Canonical Affine Structure of  a Vector Spa
 Note that this space is trivially a [[Galilean Space]], since
 1. [[Every vector space induces an affine space]][^1] 
 2. One can define a time functional as merely the distance in the first $\mathbb{R}$ axis[^2]. Formally, 
-$$\begin{align*}
+$$
+\begin{align*}
 t: (\mathbb{R} \times \mathbb{R}^3, +) &\to \mathbb{R}\\
 (\Delta t, \Delta \vec{x}) &\mapsto \Delta t
 \end{align*}

@@ -8,7 +8,9 @@ up:: [[Image of Function]]
 Let $f: X \to Y$ be a function, and $B \subseteq Y$ a subset.
 
 Let $y \in f(f^{-1}(B))$. Then, by the definition of [[Image of Function]], we have that 
-$$\exists x \in f^{-1}(B) \mid f(x) = y$$
+$$
+\exists x \in f^{-1}(B) \mid f(x) = y
+$$
 
 By the definition of [[Preimage of Function]], we have that this implies that $f(x) = y \in B$. 
 

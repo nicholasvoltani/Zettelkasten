@@ -8,7 +8,9 @@ up:: [[Metric Space]]
 One can think about the definition of an *open ball* in a metric space as the set of all points equidistant (with respect to the space's [[Metric Function]]) to some base point.
 
 Given a point $x \in X \neq \emptyset$, one can think about the open ball of radius $r$ around $x$ as
-$$B_r(x) = \{y \in X \mid d(x, y) < r\}$$
+$$
+B_r(x) = \{y \in X \mid d(x, y) < r\}
+$$
 
 With this definition of open balls, one can think about [[Open Sets in Metric Spaces]], which are sets which, for each point it contains, also contain some open ball around each of them. In this sense, **open balls are the generators of open sets**.
 

@@ -7,9 +7,11 @@ up::[[Topological Space]]
 
 Given a topological space $(X, \tau)$ and a set $Z \subset X$, we denote its interior as closure as the intersection of all closed sets contained inside it. 
 
-It's essentially "**cruncing $Z$ from the outside-in**" with closed sets.
+It's essentially "**crunching $Z$ from the outside-in**" with closed sets.
 
-$$\overline{Z}:= \bigcap\limits_{\substack{F \in \mathcal{F}(\tau)\\  Z \subseteq F}} F$$
+$$
+\overline{Z}:= \bigcap\limits_{\substack{F \in \mathcal{F}(\tau)\\  Z \subseteq F}} F
+$$
 # Properties
 - [[Closure preserves subset ordering]]
 - [[All sets are contained inside their closure]]

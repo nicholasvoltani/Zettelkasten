@@ -6,7 +6,9 @@ alias: Bijection, Bijective
 up:: [[020 MOC Mathematics]]
 
 A function $f: X \to Y$ is said to be bijective if it induces a one-to-one correspondence between $X$ and $Y$. That is,
-$$\forall y \in Y, \exists! x \in X \mid f(x) = y$$
+$$
+\forall y \in Y, \exists! x \in X \mid f(x) = y
+$$
 
 That is, $f$ is both an [[Injective Function]] and a [[Surjective Function]].
 

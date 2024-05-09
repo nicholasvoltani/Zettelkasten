@@ -10,7 +10,9 @@ up:: [[021 MOC Algebra]]
 In a $G$-torsor, one cannot add elements ─ but rather, one can think of their **differences** as being elements of an underlying group $G$.
 
 A $G$-torsor is a set $T$ with a [[Group Action]] over some [[Group (Mathematics)|Group]] $G$
-$$+: G \times T \to T$$
+$$
++: G \times T \to T
+$$
 which is [[Free Group Action|Free]] and [[Transitive Group Action|Transitive]]. This means that every pair of points in $T$ has only one element in $G$ which "connects" them ─ which can be seen as their **difference** (or **ratio**).
 
 # Examples

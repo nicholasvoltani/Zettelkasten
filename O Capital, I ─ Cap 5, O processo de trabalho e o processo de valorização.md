@@ -50,7 +50,9 @@ Matérias-primas podem tanto ser minérios que foram coletados de uma mina (ou s
 
 É o processo de criação do valor, que se extende além do ponto em que a força de trabalho produziu o equivalente a seu próprio valor e **produz um excedente** ─ o mais-valor.
 
-$$V_M = V_{meios\_de\_producao} + v + m$$
+$$
+V_M = V_{meios\_de\_producao} + v + m
+$$
 Portanto, o valor da [[Mercadoria]] produzida pela Força de Trabalho tem seu valor igual ao
 * valor dos meios de produção empregados ([[O Capital, I ─ Cap 6, Capital constante e capital variável]])
 * \+ valor da força de trabalho

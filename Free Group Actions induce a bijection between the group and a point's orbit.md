@@ -15,7 +15,8 @@ Let there be a [[Free Group Action]] of a [[Group (Mathematics)|Group]] $G$ over
 Let $x \in X$, and $Orb_x$ its [[Orbit of Group Action|Orbit]].
 
 Construct a map
-$$\begin{align*}
+$$
+\begin{align*}
 \varphi: G& \to Orb_x\\
 &g \mapsto g \cdot x
 \end{align*}

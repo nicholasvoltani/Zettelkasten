@@ -9,7 +9,9 @@ Given a topological space $(X, \tau)$ and a set $Z \subset X$, we denote its int
 
 It's essentially "**inflating $Z$ from the inside-out**" with open sets.
 
-$$\mathring{Z} := \bigcup_{\substack{A \in \tau \\ A \subset Z}} A $$
+$$
+\mathring{Z} := \bigcup_{\substack{A \in \tau \\ A \subset Z}} A
+$$
 # Properties
 - [[Interior preserves subset ordering]]
 - [[All sets contain their interior]]

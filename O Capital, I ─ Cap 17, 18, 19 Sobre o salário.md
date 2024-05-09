@@ -61,14 +61,19 @@ Quando se fala do salário, se fala do **pagamento do trabalho por um determinad
 
 ### Definição: [[Salário por tempo]]
 Quando o valor da força de trabalho se representa diretamente em salário **por unidade de tempo** (hora-a-hora, diário, semanal, mensal, etc)
-$$s_t = \frac{\texttt{valor diário da força de trabalho}}{\texttt{\# horas de uma jornada \bf normal}}$$
+$$
+s_t = \frac{\texttt{valor diário da força de trabalho}}{\texttt{\# horas de uma jornada \bf normal}}
+$$
 onde a jornada **normal** quer dizer o período de tempo em que a força de trabalho consegue operar de maneira **normal**; i.e., no período de tempo em que ela consegue operar com desvios desprezíveis de sua intensidade normal.
 
 ### A mistificação da hora-extra
 Pensando no salário como sendo, digamos, por hora, é fácil pensar em contratar o trabalhador pelo **período necessário às necessidades do capital**, invés de fazê-lo pelo período natural às necessidades do próprio trabalhador. 
 
 **Exemplo prático**:
-Digamos que o salário por hora de um trabalhador seja $$s_t = \frac{\$100}{8h} = \$ 12.50/h$$
+Digamos que o salário por hora de um trabalhador seja 
+$$
+s_t = \frac{\$100}{8h} = \$ 12.50/h
+$$
 Porém, isso diz respeito ao salário **em uma jornada de *8 horas***! Caso o capitalista deseje contratá-lo com esse mesmo salário, mas por um período **maior** (e.g. 12h), ele estará pagando mais, mas somente num contexto de **repor a força de trabalho agindo por 8h diárias**! 
 
 Uma jornada de 12h induz um desgaste diferente (no caso, maior) e, portanto, induziria um custo de reprodução da força de trabalho diferente (no caso, maior)!
@@ -100,7 +105,9 @@ A derivação desse salário depende
 - do **grau de intensidade médio** do trabalho
 - do número de peças obtido por um **trabalhador de habilidade média**
 
-$$s_p = \frac{\texttt{valor diário da força de trabalho}}{\texttt{\# peças produzidas numa jornada e intensidade \bf normais}}$$
+$$
+s_p = \frac{\texttt{valor diário da força de trabalho}}{\texttt{\# peças produzidas numa jornada e intensidade \bf normais}}
+$$
 
 Ou seja, essa forma de salário **intensifica o trabalho** e induz uma **maior concorrência entre os trabalhadores**, pois, se o trabalhador não consegue atingir a **intensidade média** (dentro dos padrões de qualidade necessários^[Vide escândalo de trabalho na Zara, de não-recebimento por peças fora dos padrões de qualidade da empresa.]), ele não conseguirá receber pela integralidade dos custos de reprodução de sua força de trabalho. 
 

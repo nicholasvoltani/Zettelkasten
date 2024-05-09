@@ -27,7 +27,9 @@ Given a set $X$, its powerser $\mathbb{P}(X)$, alongside the intersection and un
 
 # Properties
 For any lattice $(X, \land, \lor)$, it is true that
-$$x = x \land y \iff y = x \lor y$$
+$$
+x = x \land y \iff y = x \lor y
+$$
 $(\implies)$: $x = x\land y \implies x \lor y = (x \land y) \lor y = y$
 $(\impliedby)$: $y = x \lor y \implies x \land y = x \land (x \lor y) = x$
 
@@ -36,10 +38,12 @@ From this, it follows that [[Every lattice induces a partial ordering]].
 A lattice with global upper and lower bounds is said to be a [[Limited Lattice]], whose maximum and minimum we denote as $1$ and $0$, respectively.
 
 When a lattice's operators **distribute**, such as
-$$\begin{align*}
+$$
+\begin{align*}
 a \land (b \lor c) &= (a \land b) \lor (a \land c)\\
 a \lor (b \land c) &= (a \lor b) \land (a \lor c)
-\end{align*}$$
+\end{align*}
+$$
 it is called a [[Distributive Lattice]]. 
 
 

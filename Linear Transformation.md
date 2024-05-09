@@ -6,7 +6,9 @@ alias:
 up:: [[Vector Space]]
 
 Let $(V, +, \cdot), (W, +', \cdot')$ be vector spaces over the same [[Field (Algebra)|Field]] $\mathbb{K}$. A transformation $T: V \to W$ is said to be a linear transformation if
-$$\forall u, v \in V; \forall \lambda \in \mathbb{K}: T(u + \lambda v) = T(u) + \lambda T(v)$$
+$$
+\forall u, v \in V; \forall \lambda \in \mathbb{K}: T(u + \lambda v) = T(u) + \lambda T(v)
+$$
 
 Thus, it preserves the vector space operations from $V$ to $W$.
 

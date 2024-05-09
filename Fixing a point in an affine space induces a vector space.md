@@ -13,20 +13,23 @@ up:: [[Affine Space]]
 Let $(A, V, +)$ be an affine space, and let $O \in A$ be a fixed point (which will play the role of the origin). For all $x \in A$, write $\vec{Ox} = O - x \in V$ as the vector separating $O$ and $x$.
 
 Then the function
-$$\begin{align*}
+$$
+\begin{align*}
 m_O: &A \to V\\
 &x \to \vec{Ox}
 \end{align*}
 $$
 is a [[Bijective Function|Bijection]][^1], with inverse 
-$$\begin{align*}
+$$
+\begin{align*}
 m_O^{-1}: &V \to A\\
 &v \to O + v
 \end{align*}
 $$
 
 Using these operators, one can create the [[Vector Space]] operations on $A$ as
-$$\begin{align*}
+$$
+\begin{align*}
 x + y &:= m^{-1}_O(\vec{Ox} + \vec{Oy})\\
 \lambda x &:= m^{-1}_O(\lambda \vec{Ox})
 \end{align*}

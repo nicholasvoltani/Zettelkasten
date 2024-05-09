@@ -29,17 +29,23 @@ O conjunto de *fórmulas (bem-definidas)* é o **conjunto mínimo** que satisfaz
 - Dadas fórmulas $\alpha, \beta$ e uma variável $x$, então $\lnot \alpha$, $(\alpha \land \beta)$, $(\alpha \lor \beta)$, $\forall x.\alpha$, $\exists x. \alpha$ são também fórmulas. 
 
 ## Definição: Escopo de Variáveis
-$$\begin{align}
+$$
+\begin{align}
 \forall y. P\underbrace{(x)}_{\text{livre}} \land \exists \underbrace{x. [P(x) \lor Q(x)]}_{\text{Bound}}
-\end{align}$$
+\end{align}
+$$
 
 ## Definição: Sentença
 Qualquer **fórmula** sem variáveis livres é chamada de **sentença**. 
 
 Por exemplo:
-$$\forall x. \, P(x) \lor Q(x)$$
+$$
+\forall x. \, P(x) \lor Q(x)
+$$
 é uma sentença, mas
-$$\forall x. \, R(y)$$
+$$
+\forall x. \, R(y)
+$$
 não é. 
 
 

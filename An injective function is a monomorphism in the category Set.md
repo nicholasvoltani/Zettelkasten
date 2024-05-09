@@ -9,7 +9,9 @@ Let $f: X \to Y$ and $g_1, g_2: Z \to X$ be functions in the [[Category]] $Set$,
 
 # Injective $\implies$ Monomorphism
 Assume that $f$ is [[Injective Function|Injective]]. Then it'll follow that
-$$\forall z \in Z: f(g_1(z)) = f(g_2(z)) \implies \forall z \in Z: g_1(z) = g_2(z) \implies g_1 = g_2$$
+$$
+\forall z \in Z: f(g_1(z)) = f(g_2(z)) \implies \forall z \in Z: g_1(z) = g_2(z) \implies g_1 = g_2
+$$
 Thus, $f$ is a monomorphism.
 
 # Monomorphism $\implies$ Injective
@@ -27,7 +29,9 @@ $$
 that is, they are the same function, but they (may) differ for some $\tilde{z} \in Z$.
 
 Then we have per hypothesis that
-$$\forall z \in Z: f(g_1(z)) = f(g_2(z)) \implies g_1(z) = g_2(z)$$
+$$
+\forall z \in Z: f(g_1(z)) = f(g_2(z)) \implies g_1(z) = g_2(z)
+$$
 In particular, we have that it follows for $\tilde{z}$:
 $$
 \begin{align*}

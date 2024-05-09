@@ -15,7 +15,9 @@ A = \begin{pmatrix}
 \end{pmatrix}
 $$
 The sum of these reciprocal forces is the sum of all elements of $A$,
-$$\sum\limits_{\substack{i, j\\ i \neq j}}^n F_{i \to j} = \sum\limits_{\substack{i, j\\ i \neq j}}^n A_{ij} = 0$$
+$$
+\sum\limits_{\substack{i, j\\ i \neq j}}^n F_{i \to j} = \sum\limits_{\substack{i, j\\ i \neq j}}^n A_{ij} = 0
+$$
 which has to be $0$.
 
 # Corollaries

@@ -13,8 +13,12 @@ Consider the class of **linearly independent subsets** of $V$, $\mathcal{P}$. It
 We need to prove that, for all [[Totally Ordered Set|Totally Ordered]] subsets of $\mathcal{P}$, they have an upper bound. 
 
 Thus, let $\{A_\alpha\}_{\alpha \in \Lambda} \subset \mathcal{P}$ ─ which means it is a collection of linearly independent sets which all are comparable via the partial ordering $\subseteq$. A candidate for its upper bound is 
-$$\mathcal{A} \equiv \bigcup_{\alpha \in \Lambda} A_\alpha$$To prove that it is linearly independent, let a finite subset of it $\{v_i\}_{i=1}^n \subseteq \mathcal{A}$. Per definition, all $v_i$'s are in some $A_{\alpha_i}$. Since they have a total ordering relation, we can order these subset such that
-$$A_{\alpha_1} \subseteq \dots \subseteq A_{\alpha_n}$$
+$$
+\mathcal{A} \equiv \bigcup_{\alpha \in \Lambda} A_\alpha
+$$To prove that it is linearly independent, let a finite subset of it $\{v_i\}_{i=1}^n \subseteq \mathcal{A}$. Per definition, all $v_i$'s are in some $A_{\alpha_i}$. Since they have a total ordering relation, we can order these subset such that
+$$
+A_{\alpha_1} \subseteq \dots \subseteq A_{\alpha_n}
+$$
 in such a way that $\{v_i\}_{i=1}^n \subset A_{\alpha_n}$. Since [[A set is linearly independent iff all its finite subsets are also L.I.]] and $A_{\alpha_n}$ is L.I. per hypothesis, then $\{v_i\}_{i=1}^n$ is also L.I.. Thus, $\mathcal{A}$ is an element of $\mathcal{P}$ and is an upper bound of $\{A_{\alpha_i}\}_{\alpha \in \Lambda}$.
 
 # Conclusion

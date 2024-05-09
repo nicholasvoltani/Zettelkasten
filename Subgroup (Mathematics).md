@@ -14,7 +14,9 @@ One denotes $H \leq G$ as a shorthand for $H$ being a subgroup of $G$.
 
 # Corollaries
 The subgroup test can be simplified as 
-$$\forall h, k \in H, hk^{-1} \in H$$
+$$
+\forall h, k \in H, hk^{-1} \in H
+$$
 
 1. $e_H = e_G$, since $h \in H \implies e_H = h \cdot h^{-1} = e_G$
 

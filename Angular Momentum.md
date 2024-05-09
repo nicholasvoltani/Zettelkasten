@@ -7,7 +7,9 @@ aliases:
 up:: [[031 MOC Classical Mechanics]]
 
 **Given an origin $O$**, a particle with position $\vec{r}_O$ and momentum $\vec{p}$ has angular momentum
-$$\vec{l} = \vec{r}_O \times \vec{p}$$
+$$
+\vec{l} = \vec{r}_O \times \vec{p}
+$$
 Note that it is determined by the common plane of $\vec{r}_O$ and $\vec{p}$.
 
 # Properties

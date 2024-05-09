@@ -15,5 +15,7 @@ Let $S$ be linearly independent. Then, for all finite combinations of $\{v_1, \d
 
 ## All finite subsets are L.I. $\implies$ Entire set is L.I.
 Proof by contrapositive: assume the entire set is [[Linear Dependence|Linearly Dependent]]. Then there is some finite combination of vectors in $\{v_1, \dots, v_k\} \subseteq S$ such that, for at least some $j$, $\alpha_j \neq 0$, for which we have
-$$v_j = -\sum\limits_{i\neq j} \frac{\alpha_i}{\alpha_j} v_i$$
+$$
+v_j = -\sum\limits_{i\neq j} \frac{\alpha_i}{\alpha_j} v_i
+$$
 Thus, there is some subset $\{v_1, \dots, v_k\} \subset S$ which is L.D..

@@ -37,7 +37,9 @@ Portanto, é a parte do capital que "é valor que se valoriza".
 3. Criação do mais-valor
 
 ## 1. Transferência de valor: (meios de Produção) -> mercadoria
-$$(\exists \texttt{valor} \implies \exists \texttt{valor de uso}) \iff (\nexists \texttt{valor de uso} \implies \nexists \texttt{valor})$$
+$$
+(\exists \texttt{valor} \implies \exists \texttt{valor de uso}) \iff (\nexists \texttt{valor de uso} \implies \nexists \texttt{valor})
+$$
 
 > "O valor, se desconsiderarmos sua expressão meramente simbólica nos signos de valor, existe apenas num [[Valor de Uso]], numa coisa. (...) Por isso, a perda do valor de uso implica a perda do valor. Com a perda de seu valor de uso, os meios de produção não perdem, ao mesmo tempo, seu valor, uma vez que, **por meio do processo de trabalho**, eles só perdem a figura **originária** de seu valor de uso para, **no produto**, ganhar a figura de **outro valor de uso** ." (p. 280)
 
@@ -65,7 +67,9 @@ O desgaste de uma máquina, conforme ele possa ser efetivamente sanado e permita
 Como diz William Petty: o trabalho é o pai, e a terra é a mãe da riqueza material." (O Capital, p. 120-21)
 
 ### Composição do valor da mercadoria
-$$V_{mercadoria} = \underbrace{\overbrace{C_{const}}^{C_{fixo} \, + \, C_{circulante}} + v_{FT}}_{C_{adiantado}} + m$$
+$$
+V_{mercadoria} = \underbrace{\overbrace{C_{const}}^{C_{fixo} \, + \, C_{circulante}} + v_{FT}}_{C_{adiantado}} + m
+$$
 
 
 ---

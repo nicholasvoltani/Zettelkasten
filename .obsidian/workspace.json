@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Unlinked Files.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
@@ -42,6 +42,20 @@
               "state": {
                 "file": "Interest reads.md",
                 "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "31c826b550667fe1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
@@ -106,31 +120,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1975e5fe66047368",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O tempo do conhecimento não é o mesmo tempo da informação.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c3ae78e553d1f33",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/Category_SVG.svg"
-              }
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -159,7 +151,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "$$",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -196,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/Category_SVG.svg",
+                "file": "240429.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Attachments/Category_SVG.svg",
+                "file": "240429.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -297,43 +289,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0c3ae78e553d1f33",
+  "active": "bc381f01550a249f",
   "lastOpenFiles": [
-    "Attachments/Free Group Action SO(2) over real plane.excalidraw.svg",
-    "Attachments/Free Group Action SO(2) over real plane.excalidraw.md",
-    "Free Group Action.md",
-    "Free Group Action.svg",
-    "An affine space with a fixed point is isomorphic to its underlying vector space.md",
-    "O tempo do conhecimento não é o mesmo tempo da informação.md",
+    "Subnetting (IP Networks).md",
+    "Subgroup (Mathematics).md",
     "Zero Object.md",
-    "Contravariant Functor.md",
-    "Excalidraw/Drawing 2024-04-29 20.44.57.excalidraw.md",
+    "Attachments/147fd8c62f63cf4be20cd86489d78bae.png",
+    "Attachments/082becf704a73df6a15688f718ff37e2.png",
+    "Attachments/397f3983d7b34891a55f97e36c2fba61.png",
+    "Work of conservative forces is the opposite of potential energy difference.md",
+    "Work (Physics).md",
+    "Vector Space Isomorphism.md",
     "Translations in affine spaces are affine automorphisms.md",
-    "Attachments/Zero Object.excalidraw.md",
-    "Unlinked Files.md",
+    "Transitive Group Actions are Surjective.md",
+    "Transitive Group Action.md",
+    "Totally Ordered Set.md",
+    "Torsor.md",
+    "Torque.md",
+    "Topologically Continuous Function.md",
+    "There is only one linear transformation which maps between bases of equal size.md",
+    "The work of resultant forces equals the difference in kinetic energy.md",
+    "The union of a linearly independent set with a vector outside of its span is also linearly independent.md",
+    "The underlying linear map of an affine map is unique.md",
+    "The surjective image of the preimage of a set is equal to the set.md",
+    "The sum of all reciprocal forces in a system of particles is always zero.md",
+    "The preimage of the union is the union of the preimages.md",
+    "The preimage of the intersection is the intersection of the preimages.md",
+    "The preimage of the image of a set contains the set.md",
+    "The preimage of the complement is the complement of the preimage.md",
+    "The interior of an arbitrary union contains the union of the interiors.md",
+    "The interior is the complement of the closure of the complement.md",
+    "The injective preimage of the image of a set is equal to the set.md",
+    "Attachments/Category_SVG.svg",
+    "Attachments/Free Group Action SO(2) over real plane.excalidraw.svg",
+    "Free Group Action.svg",
     "Zero Object.svg",
-    "The boundary of the set is the boundary of its complement.md",
-    "Attachments/Translations in affine spaces are affine automorphisms.excalidraw.md",
     "Translations in affine spaces are affine automorphisms.svg",
-    "The boundary of the boundary is a subset of the boundary.md",
-    "Attachments/The boundary of the boundary is a subset of the boundary.excalidraw.md",
     "The boundary of the boundary is a subset of the boundary.svg",
     "Attachments/Pasted image 20220131130058.png",
-    "Attachments/The boundary of set is the boundary of its complement.excalidraw.md",
-    "The boundary of the set is the boundary of its complement.svg",
-    "Attachments/Preimage of image of a set.excalidraw.svg",
-    "Attachments/Preimage of image of a set.excalidraw.md",
-    "The preimage of the image of a set contains the set.md",
-    "The preimage of the image of a set contains the set.svg",
-    "All metric spaces are Hausdorff spaces.md",
-    "Attachments/Monomorphism.excalidraw.md",
-    "Monomorphism.md",
-    "Monomorphism.svg",
-    "Attachments/Metric Spaces are Hausdorff.excalidraw.md",
-    "Fixing a point in an affine space induces a vector space.md",
-    "Attachments/Operations in Affine Space.excalidraw.md",
-    "Attachments/Induced Vector Space in Affine Space with a fixed point.excalidraw.md",
-    "Group Actions can be seen as functors.md",
     "Excalidraw",
     "Expurgo subjetivíssimo sobre saídas coletivas do Ecoar.pdf",
     "030x Estudos EUF 2024",

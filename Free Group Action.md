@@ -12,7 +12,9 @@ excalidraw-plugin: parsed
 up:: [[Group Action]]
 
 A group action of a [[Group (Mathematics)|Group]] $G$ over a set $X$ is said to be *free* if all non-identity elements of $G$ "push points away" (i.e. only the identity stabilizes points). That is,
-$$\forall g \in G: \forall x \in X: g \cdot x = x\implies g = e_G$$
+$$
+\forall g \in G: \forall x \in X: g \cdot x = x\implies g = e_G
+$$
 
 Equivalently, [[A group action is free iff all its stabilizers are trivial]]: only the identity element keeps elements intact, while all others "induce movement" upon $X$.
 

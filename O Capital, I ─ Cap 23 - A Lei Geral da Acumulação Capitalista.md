@@ -28,10 +28,12 @@ Há uma dupla ótica da composição do [[Capital]]
 	- Essa é a composição do capital que convém analisar
 
 ## Duas óticas da composição do capital
-$$\begin{align}
-\texttt{Composi\\ção Técnica} \equiv \frac{\texttt{Meios de Produção}}{\texttt{Força de trabalho}}&\\
+$$
+\begin{align}
+\texttt{Composi\\ção Técnica} &\equiv \frac{\texttt{Meios de Produção}}{\texttt{Força de trabalho}}\\
 &= \frac{c}{v} \equiv \texttt{Composição Orgânica}\\ 
-\end{align}$$
+\end{align}
+$$
 ## O efeito da acumulação sobre a força de trabalho
 A [[Mais-valor|mais-valia]] reinvestida a cada ciclo de produção do capital divide-se em *meios de produção* e *força de trabalho* conforme as **condições técnicas vigentes**, i.e. conforme a necessidade de força humana para por em movimento os meios de produção, i.e., **conforme a composição orgânica do capital**. 
 
@@ -62,7 +64,9 @@ Resumo da história: os aumentos/diminuições de salários aparecem **somente c
 > "Expressando matematicamente: a magnitude da acumulação é a variável *independente*, o montante dos salários, a variável *dependente*, **não sendo verdadeira a afirmação oposta**." 
 
 I.e.
-$$Acumulação \implies Aumento\_Salários$$
+$$
+Acumulação \implies Aumento\_Salários
+$$
 
 ### Segundo caso: composição aumentando ao longo do tempo
 Porém, a composição se manter constante é algo **irrealista**; é plausível, por exemplo, em *períodos de prosperidade*, mas a **concorrência entre capitalistas** induz constantemente um aumento da produtividade e, portanto, um aumento da composição do capital. 

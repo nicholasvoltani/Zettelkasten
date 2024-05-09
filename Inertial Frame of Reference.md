@@ -8,7 +8,9 @@ up:: [[031 MOC Classical Mechanics]]
 ![[Pasted image 20230705205601.png|300]]
 
 An inertial coordinate system is a [[Galilean Isomorphism]] between a [[Galilean Space]] $(E, \mathbb{R}^4, t, \left<\cdot, \cdot\right)$ and its [[Every vector space induces an affine space|Canonically Obtained Affine Space]] $\mathbb{R}^4$
-$$\phi:E \to \mathbb{R}^4$$
+$$
+\phi:E \to \mathbb{R}^4
+$$
 
 
 ---

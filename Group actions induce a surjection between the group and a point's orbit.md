@@ -13,7 +13,8 @@ up:: [[Group Action]]
 Let $G$ be a [[Group (Mathematics)|Group]] acting upon a set $X$. Let $x \in X$ and $Orb_x$ its [[Orbit of Group Action|Orbit]].
 
 Then the map 
-$$\begin{align*}
+$$
+\begin{align*}
 \varphi: G& \to Orb_x\\
 &g \mapsto g \cdot x
 \end{align*}

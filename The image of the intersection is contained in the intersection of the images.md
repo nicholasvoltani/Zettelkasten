@@ -7,9 +7,13 @@ up:: [[Image of Function]]
 Let $f: X \to Y$ be a function and subsets $A, B \subset X$.
 
 Then let $y \in f(A \cap B)$ a point in $f$'s [[Image of Function|Image]]. Then
-$$y \in f(A \cap B) \iff \exists x \in A \cap B\mid f(x) = y {\color{red}\implies} (\exists x \in A\mid f(x) = y) \; \lor (\exists x \in B\mid f(x) = y)$$
+$$
+y \in f(A \cap B) \iff \exists x \in A \cap B\mid f(x) = y {\color{red}\implies} (\exists x \in A\mid f(x) = y) \; \lor (\exists x \in B\mid f(x) = y)
+$$
 By the definition of the image of a function, we have that 
-$$y \in f(A \cap B) \implies y \in f(A) \land y\in f(B) \iff y \in f(A) \cap f(B)$$
+$$
+y \in f(A \cap B) \implies y \in f(A) \land y\in f(B) \iff y \in f(A) \cap f(B)
+$$
 
 Thus, $f(A \cap B) \subseteq f(A) \cap f(B)$. Note that the reciprocal need not necessarily hold, due to the $\color{red} red$ implication holding only one way, generally: there can be more than one point mapping to $y$, coming from $A$ and $B$, and not necessarily from $A \cap B$.
 

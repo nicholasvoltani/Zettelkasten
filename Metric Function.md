@@ -22,15 +22,21 @@ From those two, one can prove the other conditions:
 # Examples of metrics
 ## Euclidean spaces $\mathbb{R}^n$
 The initial motivation for metric spaces comes from $\mathbb{R}^n$ with the Euclidean metric
-$$d_E(u, v) = \sqrt{\sum\limits_{i=1}^n (u_i - v_i)^2}$$
+$$
+d_E(u, v) = \sqrt{\sum\limits_{i=1}^n (u_i - v_i)^2}
+$$
 
 ## Trivial metric
 An example of a metric borne out of this general definition is the trivial metric: 
-$$d_t(x,y) = \begin{cases} 0 \; \mathrm{if}\;  x=y\\ 1 \;\mathrm{if} \; x \neq y \end{cases}$$
+$$
+d_t(x,y) = \begin{cases} 0 \; \mathrm{if}\;  x=y\\ 1 \;\mathrm{if} \; x \neq y \end{cases}
+$$
 
 ## Supremum norm and distances in function space
 Consider $X = C([0,1])$ the set of all continuous functions over $[0,1]$, and define the supremum norm as
-$$d_\infty(f, g) = \sup\limits_{x \in [0,1]} |f(x) - g(x)|$$
+$$
+d_\infty(f, g) = \sup\limits_{x \in [0,1]} |f(x) - g(x)|
+$$
 
 
 ---

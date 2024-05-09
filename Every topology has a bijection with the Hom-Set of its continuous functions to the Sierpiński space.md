@@ -8,7 +8,8 @@ up:: [[Sierpiński Space]]
 > Given a [[topological space]] $(Z, \tau)$, one can create a [[Bijective Function|Bijection]] between $\tau$ and the [[Hom-Set]] of all [[Topologically Continuous Function]]s $Hom(Z, S)$. 
 
 Given any other topological space $(Z, \tau)$, for each open set $U \in \tau$, define $F: \tau \to Hom(Z, S)$ such that $F(U) := \chi_U$ is the characteristic function of this open set $U$ onto the [[Sierpiński space]] $(S, \tau_S)$:
-$$\begin{align*}
+$$
+\begin{align*}
 \chi_U: &Z \to S\\
 &z \mapsto \begin{cases}
 1, z \in U\\
@@ -17,7 +18,8 @@ $$\begin{align*}
 \end{align*}
 $$
 Note that it is continuous, since, for every open set in $\tau_S$,
-$$\begin{align*}
+$$
+\begin{align*}
 \chi_U^{-1}(\{0,1\}) &= Z \in \tau\\
 \chi_U^{-1}(\{1\}) &= U \in \tau\\
 \chi_U^{-1}(\emptyset) &= \emptyset \in \tau

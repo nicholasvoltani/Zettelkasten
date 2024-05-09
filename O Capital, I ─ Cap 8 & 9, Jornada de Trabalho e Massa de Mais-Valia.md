@@ -26,15 +26,21 @@ Divide-se em duas partes:
 
 
 ## Taxa de mais-valor (em um dado período de tempo)
-$$m' = \frac{m}{v_f} = \frac{t_e}{t_n}$$
+$$
+m' = \frac{m}{v_f} = \frac{t_e}{t_n}
+$$
 É um excedente do valor **que não é pago ao trabalhador**, no **capitalismo**; no **socialismo**, tal excedente de valor é apropriado diferentemente, de maneira **comunal**. 
 
 ### Taxa de lucro (relação entre extração de trabalho excedente com *capital total* empregado)
-$$l' = \frac{l}{C} = \frac{l}{c+v}$$
+$$
+l' = \frac{l}{C} = \frac{l}{c+v}
+$$
 Tal taxa é "mistificadora", pois parece que tal mais-valor obtido **advém indistintamente** dessas duas partes: do capital constante e do capital variável; parece que o C é um gerador de valor tanto quanto suas partes constituintes $c$ e $v$, enquanto **somente a força de trabalho gera, realmente, valor**.
 
 ## Massa de mais-valor
-$$ M_m = m \cdot n_t \, \frac{v_f}{v_f} = \underbrace{\left(\frac{t_e}{t_n}\right)}_{\texttt{Taxa de mais-valor}} \cdot \underbrace{(v_f \cdot n_t)}_{\texttt{Capital variável}}$$
+$$
+M_m = m \cdot n_t \, \frac{v_f}{v_f} = \underbrace{\left(\frac{t_e}{t_n}\right)}_{\texttt{Taxa de mais-valor}} \cdot \underbrace{(v_f \cdot n_t)}_{\texttt{Capital variável}}
+$$
 É o valor **absoluto** de mais-valor obtido, a partir de $n_t$ trabalhadores. 
 
 ## Calculando taxa de mais-valia na prática

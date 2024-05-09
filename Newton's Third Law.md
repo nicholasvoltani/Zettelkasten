@@ -7,7 +7,9 @@ up:: [[031 MOC Classical Mechanics]]
 Newton's third law states that, for any particles $i, j$, the forces from one to the other are opposite to each other. 
 
 That is,
-$$\vec{F}_{i \to j} = -\vec{F}_{j \to i}$$
+$$
+\vec{F}_{i \to j} = -\vec{F}_{j \to i}
+$$
 where $\vec{F}_{i\to j}$ is the force which particle $i$ exerts upon particle $j$.
 
 # Corollaries

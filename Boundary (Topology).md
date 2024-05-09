@@ -7,7 +7,9 @@ up:: [[026 MOC Topology]]
 
 Given a [[Topological Space]] $(X, \tau)$, the boundary of a set $Z$ \subset X is the set subtraction of its [[Closure (Topology)|Closure]] by its [[Interior (Topology)|Interior]]. This amounts to it consisting of the **outermost points of $Z$**.
 
-$$\partial(Z) = \overline{Z} \setminus \mathring{Z}$$
+$$
+\partial(Z) = \overline{Z} \setminus \mathring{Z}
+$$
 
 # Properties
 - [[The boundary is a closed set]]

@@ -56,7 +56,9 @@ Marx fala que a economia política pauta seu início de análise no "mais concre
 
 Ao fazer a aná-*lise* (a *quebra* em **múltiplas partes**) da sociedade, cabe-nos **recompô-la como uma totalidade de categorias e relações** (*concreto-no-pensamento*). 
 
-$$Concreto-aparente \implies Abstração/Análise \implies Concreto-no-pensamento$$
+$$
+Concreto-aparente \implies Abstração/Análise \implies Concreto-no-pensamento
+$$
 
 > "(...) as determinações abstratas conduzem à *re-produção* do concreto pelo caminho do *pensamento*.
 > Eis aqui porque Hegel caiu na ilusão de conceber o real como resultado do pensamento [o qual], partindo de si mesmo, se concentra em si mesmo, se aprofunda em si mesmo e se move por si mesmo, ao mesmo tempo em que o método que consiste em **elevar-se do abstrato ao concreto** é para o pensamento **somente a maneira de *apropriar-se* do concreto**, de **re-produzi-lo como um concreto espiritual**. Mas este **não é** de modo nenhum o processo de **formação do concreto** mesmo."
