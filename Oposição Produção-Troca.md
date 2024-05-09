@@ -1,6 +1,8 @@
 ---
 Date: 2022-01-31
-Tags: evergreen, marxism
+tags:
+  - evergreen
+  - marxism
 ---
 # Relação Dialética entre Produção e Troca
 A produção no sistema capitalista se dá através de **produtores privados**, independentes entre si. Porém, tais produtores dependem uns dos outros no tocante à **troca**, a qual confere [[Valor de Troca|valor (de troca)]] aos seus trabalhos.

@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-07
-Tags: physics
+tags:
+  - physics
 alias: Newtonian Reference Frame
 ---
 up:: [[031 MOC Classical Mechanics]]

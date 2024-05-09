@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-05
-Tags: physics
+tags:
+  - physics
 alias: Inertial Frames of Reference, Inertial Coordinate System
 ---
 up:: [[031 MOC Classical Mechanics]]

@@ -1,6 +1,7 @@
 ---
 Date: 2023-08-20
-Tags: mathematics
+tags:
+  - mathematics
 alias: 
 ---
 up:: [[028 MOC Category Theory]]

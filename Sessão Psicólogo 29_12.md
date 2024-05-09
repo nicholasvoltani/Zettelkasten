@@ -1,6 +1,7 @@
 ---
 Date: 2022-12-31
-Tags: transient
+tags:
+  - transient
 ---
 Sobre ressignificar o passado e "fechar um ciclo" é algo **individual**. 
 - Por que o passado continua tão "impregnado" como algo de **ontem** invés de "há muito tempo atrás"? Mesmo quando eu já tenho um arcabouço emocional maior que na época? Como se toda minha experiência fosse jogada fora ao relembrar tais casos?

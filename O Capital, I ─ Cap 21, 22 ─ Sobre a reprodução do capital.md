@@ -1,6 +1,8 @@
 ---
 Date: 2022-04-25
-Tags: literature/lecture, marxism
+tags:
+  - literature/lecture
+  - marxism
 ---
 # O Capital, I ─ Cap 21, 22 ─ Sobre a reprodução do capital
 ## Cap XXI: Reprodução simples

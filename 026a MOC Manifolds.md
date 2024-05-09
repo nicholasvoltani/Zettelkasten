@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-25
-Tags: moc
+tags:
+  - moc
 ---
 up:: [[026 MOC Topology]]
 

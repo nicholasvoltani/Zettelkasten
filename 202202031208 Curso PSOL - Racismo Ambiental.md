@@ -1,6 +1,8 @@
 ---
 Date: 2022-02-03
-Tags: literature/lecture, ambiental
+tags:
+  - literature/lecture
+  - ambiental
 ---
 # Módulo 5 - [[Racismo Ambiental]] (Cristiane Faustino)
  ## Notas sobre o conceito de Racismo Ambiental

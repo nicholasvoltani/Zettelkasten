@@ -1,6 +1,8 @@
 ---
 Date: 2023-02-22
-Tags: transient, hacking
+tags:
+  - transient
+  - hacking
 ---
 up:: [[0x99 MOC Hacking]]
 

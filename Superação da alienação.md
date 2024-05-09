@@ -1,7 +1,9 @@
 ---
 Date: 2021-06-02
 Source:
-Tags: transient, marxism
+tags:
+  - transient
+  - marxism
 ---
 # Superação da alienação (universal), segundo Marx e Engels
 N'[[A Ideologia Alemã]], Marx e Engels elaboram que são necessários três pressupostos a fim de se superar a [[Surgimento da alienação|alienação]]:

@@ -1,6 +1,8 @@
 ---
 Date: 2022-02-28
-Tags: evergreen, marxism
+tags:
+  - evergreen
+  - marxism
 ---
 # Ciclo D─M─D' da circulação de mercadorias
 <!-- https://q.uiver.app/?q=WzAsNixbMiwwLCJLIl0sWzAsMiwiUCJdLFs0LDIsIkMiXSxbMSwxLCIoSSkiXSxbMywxLCIoSUkpIl0sWzIsMl0sWzAsMiwiTSIsMCx7ImN1cnZlIjotMywiY29sb3VyIjpbMCw2MCw2MF19LFswLDYwLDYwLDFdXSxbMiwwLCJEICsgXFxEZWx0YSBEIiwwLHsibGFiZWxfcG9zaXRpb24iOjQwLCJjdXJ2ZSI6LTMsImNvbG91ciI6WzEyMCw2MCw2MF19LFsxMjAsNjAsNjAsMV1dLFswLDEsIkQiLDAseyJjdXJ2ZSI6LTMsImNvbG91ciI6WzEyMCw2MCw2MF19LFsxMjAsNjAsNjAsMV1dLFsxLDAsIk0iLDAseyJjdXJ2ZSI6LTMsImNvbG91ciI6WzAsNjAsNjBdfSxbMCw2MCw2MCwxXV1d --> <iframe class="quiver-embed" src="https://q.uiver.app/?q=WzAsNixbMiwwLCJLIl0sWzAsMiwiUCJdLFs0LDIsIkMiXSxbMSwxLCIoSSkiXSxbMywxLCIoSUkpIl0sWzIsMl0sWzAsMiwiTSIsMCx7ImN1cnZlIjotMywiY29sb3VyIjpbMCw2MCw2MF19LFswLDYwLDYwLDFdXSxbMiwwLCJEICsgXFxEZWx0YSBEIiwwLHsibGFiZWxfcG9zaXRpb24iOjQwLCJjdXJ2ZSI6LTMsImNvbG91ciI6WzEyMCw2MCw2MF19LFsxMjAsNjAsNjAsMV1dLFswLDEsIkQiLDAseyJjdXJ2ZSI6LTMsImNvbG91ciI6WzEyMCw2MCw2MF19LFsxMjAsNjAsNjAsMV1dLFsxLDAsIk0iLDAseyJjdXJ2ZSI6LTMsImNvbG91ciI6WzAsNjAsNjBdfSxbMCw2MCw2MCwxXV1d&embed" width="600" height="432" style="border-radius: 8px; border: none;"></iframe>

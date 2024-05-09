@@ -1,6 +1,7 @@
 b.w---
 Date: 2023-07-16
-Tags: mathematics
+tags:
+  - mathematics
 ---
 up:: [[Affine Isomorphism]]
 

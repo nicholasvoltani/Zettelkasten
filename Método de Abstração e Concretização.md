@@ -1,6 +1,8 @@
 ---
 Date: 2021-08-26
-Tags: transient, marxism
+tags:
+  - transient
+  - marxism
 ---
 # [[Método da Abstração (Marx)]]
 > "O nosso fim deve ser conhecer **esse elemento substancial**; e para o conhecer deve proporcionar-se a consciência da razão, não os olhos físicos nem um entendimento finito, mas **o olho** \[...\] **da razão**, que atravessa a superfície e **penetra a variedade do garrido tumulto dos acontecimentos**" (A Razão na História, Hegel, p. 34, Ed. Lisboa; grifo meu)

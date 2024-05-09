@@ -1,6 +1,8 @@
 ---
 Date: 2023-03-01
-Tags: transient, hacking
+tags:
+  - transient
+  - hacking
 ---
 up:: 
 

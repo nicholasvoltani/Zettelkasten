@@ -1,6 +1,8 @@
 ---
 Date: 2023-01-08
-Tags: transient, geography
+tags:
+  - transient
+  - geography
 ---
 up:: 
 

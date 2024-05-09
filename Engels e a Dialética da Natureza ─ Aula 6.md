@@ -1,6 +1,8 @@
 ---
 Date: 2022-05-12
-Tags: literature/study_group, marxism
+tags:
+  - literature/study_group
+  - marxism
 ---
 # Engels e a Dialética da Natureza ─ Aula 6
 ## Sobre perguntas da última aula (Vol. 1 Enciclopédia)

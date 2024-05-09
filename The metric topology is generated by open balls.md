@@ -1,6 +1,7 @@
 ---
 Date: 2023-06-25
-Tags: mathematics
+tags:
+  - mathematics
 ---
 up:: [[Metric Topology]]
 

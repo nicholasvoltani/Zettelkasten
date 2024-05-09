@@ -1,6 +1,8 @@
 ---
 Date: 2022-10-16
-Tags: geography, ambiental
+tags:
+  - geography
+  - ambiental
 ---
 # Bacia Platina
 ![[Pasted image 20221016225205.png|400]]

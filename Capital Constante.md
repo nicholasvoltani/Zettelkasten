@@ -1,6 +1,8 @@
 ---
 Date: 2022-05-14
-Tags: evergreen, marxism
+tags:
+  - evergreen
+  - marxism
 ---
 # Capital Constante
 > "a parte do capital que se converte em **meios de produção**, isto é, em **matérias-primas, matérias auxiliares e meios de trabalho**, não altera sua grandeza de valor no processo de produção. Por essa razão, denomino-a parte **constante** do capital, ou, mais sucintamente: **capital constante**." (p. 286)

@@ -1,6 +1,7 @@
 ---
 Date: 2022-09-25
-Tags: moc
+tags:
+  - moc
 ---
 # 0x3 MOC Geografia
 

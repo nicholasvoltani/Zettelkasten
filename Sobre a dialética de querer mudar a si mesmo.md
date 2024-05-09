@@ -1,6 +1,7 @@
 ---
 Date: 2022-04-10
-Tags: transient
+tags:
+  - transient
 ---
 # 202204102037 - Sobre a dialética de querer mudar a si mesmo
 > *...e quem me dera pudesse existir alguém para me ajudar a jogar tudo isso fora,

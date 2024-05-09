@@ -1,6 +1,7 @@
 ---
 Date: 2022-10-23
-Tags: geography
+tags:
+  - geography
 ---
 ![[Orogênese]]
 

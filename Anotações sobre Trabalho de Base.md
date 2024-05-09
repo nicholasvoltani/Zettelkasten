@@ -1,7 +1,8 @@
 
 ---
 Date: 2022-02-25
-Tags: literature
+tags:
+  - literature
 ---
 # Anotações sobre Trabalho de Base
 ## Ideia de [[Trabalho de Base]]

@@ -1,6 +1,7 @@
 ---
 Date: 2023-05-01
-Tags: links
+tags:
+  - links
 ---
 up:: [[Unlinked Files]]
 

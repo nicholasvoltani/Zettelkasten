@@ -1,6 +1,7 @@
 ---
 Date: 2022-05-15
-Tags: transient
+tags:
+  - transient
 ---
 # 202205150958 - Sobre reconhecer que somos dominados pela nossa mente
 > "Estamos tão identificados com [nossa mente] que nem percebemos que somos seus escravos. É quase como se algo nos dominasse sem termos consciência disso e passássemos a viver como se fôssemos a entidade dominadora. A liberdade começa quando **percebemos que não somos a entidade dominadora**, o **pensador**. Saber disso nos permite **observar a entidade**. No momento em que começamos a *observar o pensador*, ativamos um nível mais alto de consciência. Começamos a perceber, então, que existe uma vasta área de inteligência além do pensamento, e que este é apenas um aspecto diminuto da inteligência." (p. 15)

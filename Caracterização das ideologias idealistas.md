@@ -1,6 +1,8 @@
 ---
 Date: 2021-06-20
-Tags: transient, marxism
+tags:
+  - transient
+  - marxism
 ---
 # Caracterização das ideologias idealistas
 Para se demonstrar a **supremacia do *espírito* na história**, as filosofias idealistas valem-se dos seguintes "truques":

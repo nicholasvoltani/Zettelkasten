@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-16
-Tags: mathematics
+tags:
+  - mathematics
 alias: Regular
 ---
 up:: [[Group Action]]

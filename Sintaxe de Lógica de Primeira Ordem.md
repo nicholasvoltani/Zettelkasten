@@ -1,6 +1,7 @@
 ---
 Date: 2021-08-24
-Tags: mathematics 
+tags:
+  - mathematics 
 ---
 # Sintaxe de Lógica de Primeira Ordem
 É composta tanto de símbolos lógicos quanto não-lógicos:

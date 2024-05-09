@@ -1,6 +1,8 @@
 ---
 Date: 2022-06-22
-Tags: literature/lecture, marxism
+tags:
+  - literature/lecture
+  - marxism
 ---
 # 202206151902 -Aula 2 Introdução Materialismo Dialético
 ## O método

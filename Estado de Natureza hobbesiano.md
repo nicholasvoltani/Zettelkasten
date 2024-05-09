@@ -1,6 +1,7 @@
 ---
 Date: 2023-05-22
-Tags: transient
+tags:
+  - transient
 ---
 up:: [[0x4a3 MOC Política I]]
 

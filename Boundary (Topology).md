@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-03
-Tags: mathematics
+tags:
+  - mathematics
 alias: Boundary
 ---
 up:: [[026 MOC Topology]]

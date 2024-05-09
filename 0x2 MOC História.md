@@ -1,6 +1,7 @@
 ---
 Date: 2022-09-25
-Tags: moc
+tags:
+  - moc
 ---
 # 0x2 MOC História
 up:: [[0x0 MOC Fuvest 2022]]

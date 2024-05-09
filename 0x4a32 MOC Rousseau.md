@@ -1,6 +1,7 @@
 ---
 Date: 2023-05-24
-Tags: moc
+tags:
+  - moc
 ---
 up:: [[0x4a3 MOC Política I]]
 

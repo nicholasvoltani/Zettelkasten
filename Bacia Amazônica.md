@@ -1,6 +1,7 @@
 ---
 Date: 2022-10-16
-Tags: geography
+tags:
+  - geography
 ---
 # Bacia Amazônica
 ![[Pasted image 20221016220720.png|350]]

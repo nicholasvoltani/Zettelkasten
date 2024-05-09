@@ -1,6 +1,7 @@
 ---
 Date: 2021-08-24
-Tags: mathematics 
+tags:
+  - mathematics 
 ---
 # Lógica de Primeira Ordem
 A lógica de primeira ordem (LPO) é uma linguagem lógica que possui

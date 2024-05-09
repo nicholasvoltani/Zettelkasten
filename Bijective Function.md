@@ -1,6 +1,7 @@
 ---
 Date: 2023-06-29
-Tags: mathematics
+tags:
+  - mathematics
 alias: Bijection, Bijective
 ---
 up:: [[020 MOC Mathematics]]

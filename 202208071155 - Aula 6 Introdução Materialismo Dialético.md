@@ -1,6 +1,8 @@
 ---
 Date: 2022-08-07
-Tags: literature/lecture, marxism
+tags:
+  - literature/lecture
+  - marxism
 ---
 # 202208071155 - Aula 6 Introdução Materialismo Dialético (Sobre Ideologia)
 - Como Marx chega nessa questão? Como ela chega num papel crítico à visão vigente/contribui ao desenvolvimento da consciência?

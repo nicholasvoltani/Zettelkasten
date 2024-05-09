@@ -1,6 +1,8 @@
 ---
 Date: 2021-09-02
-Tags: transient, marxism
+tags:
+  - transient
+  - marxism
 ---
 # O que é dialética materialista
 É a [[Hegel ─ Dialética|dialética]] de Hegel "desvirada ao avesso", o "cerne racional dentro do invólucro místico" desenterrado por Marx e Engels. 

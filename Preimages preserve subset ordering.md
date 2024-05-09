@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-02
-Tags: mathematics
+tags:
+  - mathematics
 ---
 up:: [[Preimage of Function]]
 

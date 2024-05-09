@@ -1,6 +1,8 @@
 ---
 Date: 2022-11-12
-Tags: transient, ambiental
+tags:
+  - transient
+  - ambiental
 ---
 up:: 
 

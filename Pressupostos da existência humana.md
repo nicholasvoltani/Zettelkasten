@@ -1,7 +1,9 @@
 ---
 Date: 2021-06-02
 Source:
-Tags: evergreen, marxism
+tags:
+  - evergreen
+  - marxism
 ---
 # Pressupostos da existência humana, segundo Marx e Engels
 N'[[A Ideologia Alemã]], Marx e Engels elaboram que toda a existência humana possui quatro pressupostos (os quais não precisam ocorrer nessa dada ordem):

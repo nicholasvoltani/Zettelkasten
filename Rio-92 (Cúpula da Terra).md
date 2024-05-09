@@ -1,6 +1,8 @@
 ---
 Date: 2022-10-06
-Tags: transient, geography
+tags:
+  - transient
+  - geography
 ---
 # Rio-92 (Cúpula da Terra)
 Ou também o II Encontro Mundial sobre o Homem e o Meio Ambiente, promovido pela ONU, foi o primeiro encontro mundial no qual foram estabelecidos **acordos sobre preservação ambiental**.

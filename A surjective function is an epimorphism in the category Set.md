@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-30
-Tags: mathematics
+tags:
+  - mathematics
 alias: 
 ---
 up:: [[Epimorphism]]

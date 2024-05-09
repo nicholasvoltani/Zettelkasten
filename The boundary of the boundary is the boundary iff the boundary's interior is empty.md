@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-20
-Tags: mathematics
+tags:
+  - mathematics
 alias: The boundary is idempotent iff its interior is empty
 ---
 up:: [[Boundary (Topology)]]

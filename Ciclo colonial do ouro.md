@@ -1,6 +1,7 @@
 ---
 Date: 2022-10-12
-Tags: transient
+tags:
+  - transient
 ---
 # Ciclo do ouro no Brasil colônia
 ![[Pasted image 20221012191427.png]]

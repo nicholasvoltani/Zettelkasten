@@ -1,7 +1,8 @@
 ---
 layout: post
 title: A brief summary on Machine Learning
-tags: []
+tags:
+  - []
 Date: 2020-10-24
 publish: "true"
 ---

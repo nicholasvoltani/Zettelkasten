@@ -1,6 +1,8 @@
 ---
 Date: 2022-05-14
-Tags: evergreen, marxism
+tags:
+  - evergreen
+  - marxism
 ---
 # Meios de Trabalho
 > "O meio de trabalho é uma coisa ou um complexo de coisas que o trabalhador **interpõe entre si e o objeto do trabalho** e que lhe serve de **guia** [*Leiter*, "condutor"] de sua atividade sobre esse objeto. Ele utiliza as propriedades mecânicas, física e químicas das coisas para fazê-las atuar sobre outras coisas, de acordo com o seu propósito." (p. 256)

@@ -1,6 +1,8 @@
 ---
 Date: 2021-07-04
-Tags: evergreen, marxism
+tags:
+  - evergreen
+  - marxism
 ---
 # Definição de Mercadoria, segundo Marx
 A mercadoria nada mais é que um objeto externo que **satisfaz necessidades humanas** tanto "*do estômago quanto da imaginação*", tanto **direta** (e.g. meio de subsistência) quanto **indiretamente** (e.g. meio de produção). 

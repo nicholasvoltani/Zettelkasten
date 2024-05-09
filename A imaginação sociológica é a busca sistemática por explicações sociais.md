@@ -1,6 +1,7 @@
 ---
 Date: 2023-05-04
-Tags: evergreen
+tags:
+  - evergreen
 ---
 up:: [[Imaginação Sociológica]]
 

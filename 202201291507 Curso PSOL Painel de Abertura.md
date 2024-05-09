@@ -1,6 +1,9 @@
 ---
 Date: 2022-01-29
-Tags: literature/lecture, ecossocialism, ambiental
+tags:
+  - literature/lecture
+  - ecossocialism
+  - ambiental
 ---
 # Painel de Abertura: "Crise Ambiental e os desafios da Esquerda Brasileira" (Fundação Lauro Campos e Marielle Franco)
 ## 1. Fala de Michael Löwy

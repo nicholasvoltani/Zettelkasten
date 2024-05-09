@@ -1,6 +1,8 @@
 ---
 Date: 2022-10-16
-Tags: geography, ambiental
+tags:
+  - geography
+  - ambiental
 ---
 # Conceitos de Hidrografia
 ![[Pasted image 20221016213724.png]]

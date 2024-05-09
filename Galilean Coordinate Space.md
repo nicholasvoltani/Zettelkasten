@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-20
-Tags: physics
+tags:
+  - physics
 ---
 up:: [[Galilean Space]]
 

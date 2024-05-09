@@ -1,6 +1,8 @@
 ---
 Date: 2022-03-07
-Tags: literature/lecture, marxism
+tags:
+  - literature/lecture
+  - marxism
 ---
 # O Capital, I ─ Cap 9, Taxa e massa de mais-valia
 ## Objetivo

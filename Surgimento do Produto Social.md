@@ -1,6 +1,8 @@
 ---
 Date: 2021-09-02
-Tags: transient, marxism
+tags:
+  - transient
+  - marxism
 ---
 # Prioridade da Sobrevivência Material
 Da mesma forma que todos os seres vivos priorizam sua sobrevivência, o ser humano o faz de maneira diferente: ele é capaz de [[Pressupostos da existência humana|produzir sua sobrevivência]], de manipular as condições materiais em que se encontra a fim de que sejam mais aptas a sua subsistência através da **ação coletiva deliberada**: o **trabalho social**. 

@@ -1,6 +1,7 @@
 ---
 Date: 2022-11-08
-Tags: ambiental
+tags:
+  - ambiental
 ---
 up:: [[0x3 MOC Geografia]]
 

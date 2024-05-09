@@ -1,6 +1,7 @@
 ---
 Date: 2023-06-26
-Tags: mathematics
+tags:
+  - mathematics
 alias: Subgroup
 ---
 up:: [[Group (Mathematics)]]

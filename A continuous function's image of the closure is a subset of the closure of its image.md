@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-03
-Tags: mathematics
+tags:
+  - mathematics
 ---
 up:: [[Topologically Continuous Function]]
 

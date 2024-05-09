@@ -1,6 +1,7 @@
 ---
 Date: 2023-08-28
-Tags: philosophy
+tags:
+  - philosophy
 alias: Crença Verdadeira Justificada
 ---
 up:: [[030a MOC Teoria do Conhecimento e Filosofia da Ciência]]

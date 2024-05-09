@@ -1,6 +1,8 @@
 ---
 Date: 2022-03-27
-Tags: literature/study_group, marxism
+tags:
+  - literature/study_group
+  - marxism
 ---
 # 202203271855 ─ Primeiro Encontro Minicurso Florestan Fernandes
 ## Primeira apresentação: O que se entende por revolução? (Pedro Rodrigues)

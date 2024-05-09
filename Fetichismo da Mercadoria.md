@@ -1,6 +1,8 @@
 ---
 Date: 2022-01-29
-Tags: evergreen, marxism
+tags:
+  - evergreen
+  - marxism
 ---
 > "Os homens não relacionam entre si seus produtos do trabalho como valores por considerarem essas coisas meros invólucros materiais de trabalho humano de mesmo tipo.
 > Ao contrário. Porque equiparam entre si seus produtos de diferentes tipos na troca (como valores), eles **equiparam entre si seus diferentes trabalhos como trabalho humano \[abstrato\]**.

@@ -1,6 +1,8 @@
 ---
 Date: 2022-03-01
-Tags: evergreen, marxism
+tags:
+  - evergreen
+  - marxism
 ---
 # Matéria-Prima
 > "Quando (...) o próprio objeto do [[Trabalho]] já é, por assim dizer, **filtrado por um trabalho anterior**, então o chamamos de *matéria-prima* (...)

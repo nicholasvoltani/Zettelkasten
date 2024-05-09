@@ -1,6 +1,7 @@
 ---
 Date: 2022-10-16
-Tags: geography
+tags:
+  - geography
 ---
 # Bacia do São Francisco
 ![[Pasted image 20221025221000.png]]

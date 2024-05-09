@@ -1,6 +1,8 @@
 ---
 Date: 2022-03-23
-Tags: literature/lecture, marxism
+tags:
+  - literature/lecture
+  - marxism
 ---
 # O Capital, I ─ Cap 11, Cooperação
 Está na Seção IV do Capital, cujos capítulos são

@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-08
-Tags: mathematics
+tags:
+  - mathematics
 alias: Group actions partition a set into its orbits
 ---
 up:: [[Orbit of Group Action]]

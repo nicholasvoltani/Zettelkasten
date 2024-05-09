@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-11
-Tags: mathematics
+tags:
+  - mathematics
 alias: G-Torsor
 ---
 up:: [[021 MOC Algebra]]

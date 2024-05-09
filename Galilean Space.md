@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-11
-Tags: physics
+tags:
+  - physics
 ---
 up:: [[Galilean Space-time Structure]]
 

@@ -1,6 +1,8 @@
 ---
 Date: 2022-03-29
-Tags: literature/lecture, marxism
+tags:
+  - literature/lecture
+  - marxism
 ---
 # O Capital, I ─ Cap 12, Divisão do Trabalho e Manufatura
 ## Objetivos

@@ -1,6 +1,7 @@
 ---
 Date: 2022-10-06
-Tags: transient
+tags:
+  - transient
 ---
 # Desenvolvimento Sustentável
 > "*Humanity has the ability to make development sustainable to ensure that it meets the needs of the present without compromising the ability of future generations to meet their own needs.

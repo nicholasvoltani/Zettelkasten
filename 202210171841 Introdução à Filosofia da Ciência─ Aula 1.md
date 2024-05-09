@@ -1,6 +1,7 @@
 ---
 Date: 2022-10-17
-Tags: literature/lecture
+tags:
+  - literature/lecture
 ---
 # 202210171841 Introdução à Filosofia da Ciência ─ Aula 1
 ## O que vai ser visto

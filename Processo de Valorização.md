@@ -1,6 +1,8 @@
 ---
 Date: 2022-03-01
-Tags: transient, marxism
+tags:
+  - transient
+  - marxism
 ---
 # Processo de Valorização
 É a faceta do [[Processo de Produção Capitalista]] que busca a criação de [[Valor]]; em particular, a criação de [[Mais-valor]], que se traduzirá no lucro do capitalista.

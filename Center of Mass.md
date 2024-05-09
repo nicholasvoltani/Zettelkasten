@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-05
-Tags: physics
+tags:
+  - physics
 ---
 up:: [[031 MOC Classical Mechanics]]
 

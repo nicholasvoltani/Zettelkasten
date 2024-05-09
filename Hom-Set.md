@@ -1,6 +1,7 @@
 ---
 Date: 2023-08-05
-Tags: mathematics
+tags:
+  - mathematics
 alias: 
 ---
 up:: [[Category]]

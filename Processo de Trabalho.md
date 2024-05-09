@@ -1,6 +1,8 @@
 ---
 Date: 2022-03-01
-Tags: evergreen, marxism
+tags:
+  - evergreen
+  - marxism
 ---
 # Processo de Trabalho
 > "Os momentos simples do processo de trabalho são, em primeiro lugar, a **atividade orientada a um fim**, ou o *trabalho* propriamente dito; em segundo lugar, seu **objeto** e, em terceiro lugar, seus **meios**." (p. 256)

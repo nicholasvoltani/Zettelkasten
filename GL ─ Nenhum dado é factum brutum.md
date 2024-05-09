@@ -1,6 +1,8 @@
 ---
 Date: 2021-09-03
-Tags: evergreen, marxism
+tags:
+  - evergreen
+  - marxism
 ---
 # Qualquer dado implica em alguma teoria/método
 Não importa o quão "despojada de comentário" seja um colhimento de dados, tal ato sempre possuirá alguma teoria ou método implícito. 

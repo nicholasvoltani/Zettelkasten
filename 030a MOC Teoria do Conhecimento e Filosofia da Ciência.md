@@ -1,6 +1,7 @@
 ---
 Date: 2023-08-20
-Tags: moc
+tags:
+  - moc
 ---
 up:: [[030 MOC Physics]]
 # Topics

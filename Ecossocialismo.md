@@ -1,6 +1,8 @@
 ---
 Date: 2022-02-27
-Tags: evergreen, marxism 
+tags:
+  - evergreen
+  - marxism 
 ---
 # Ecossocialismo
 > ""Trata-se de uma corrente de pensamento e de ação **ecológica** que faz as suas aquisições fundamentais do **marxismo** ─ ao mesmo tempo que o livra de suas **escórias produtivistas**."

@@ -1,6 +1,7 @@
 ---
 Date: 2022-07-30
-Tags: transient
+tags:
+  - transient
 ---
 # 202207301516 O papel do ser humano no ecossistema
 Após ler sobre o papel do ser humano em uma espécie de "seleção natural guiada" de espécies de legumes e frutas, tive a ideia de uma espécie de "papel" que o ser humano desempenha nos ecossistemas em que participa: ele é um **guardião da vida**. 

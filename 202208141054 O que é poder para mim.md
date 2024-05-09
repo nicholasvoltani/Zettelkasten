@@ -1,6 +1,7 @@
 ---
 Date: 2022-08-14
-Tags: transient
+tags:
+  - transient
 ---
 # 202208141054 O que é poder para mim?
 ## 1. Reciprocidade

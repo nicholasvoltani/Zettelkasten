@@ -1,6 +1,7 @@
 ---
 Date: 2022-12-23
-Tags: transient
+tags:
+  - transient
 ---
 Afirmar que a queima de véus no Irã, após o assassinato de Mahsa Amini (em 16 de setembro de 2022), é um movimento contra as autoridades religiosas do país é correto ─ mas é incorreto falar que é um movimento contra a religião islâmica. Em verdade, é mais um movimento contra o uso da religião islâmica como uma ofuscação da repressão estatal contra os corpos das mulheres. 
 

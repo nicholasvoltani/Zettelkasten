@@ -1,6 +1,8 @@
 ---
 Date: 2021-09-28
-Tags: transient, marxism
+tags:
+  - transient
+  - marxism
 ---
 # O que é totalidade concreta?
 > "O concreto é concreto porque é a síntese de múltiplas determinações; portanto, é a unidade do múltiplo." (Marx)

@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-01
-Tags: mathematics
+tags:
+  - mathematics
 ---
 up:: [[Image of Function]]
 > For a given set $B \subseteq Y$, not all of its points are reached by $f: X \to Y$. Thus, premapping from $B$ then mapping back via $f$ may yield a smaller set than $B$.

@@ -1,6 +1,9 @@
 ---
 Date: 2022-01-30
-Tags: literature/lecture, marxism, ambiental
+tags:
+  - literature/lecture
+  - marxism
+  - ambiental
 ---
 # Módulo 1 ─ [[Ecossocialismo]] (Sabrina Fernandes)
 ## O que é ecossocialismo?

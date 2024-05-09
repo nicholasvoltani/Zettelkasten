@@ -1,6 +1,8 @@
 ---
 Date: 2022-04-28
-Tags: literature/study_group, marxism
+tags:
+  - literature/study_group
+  - marxism
 ---
 # Engels e a Dialética da Natureza ─ Aula 2
 ## Publicação dos manuscritos da Dialética da Natureza

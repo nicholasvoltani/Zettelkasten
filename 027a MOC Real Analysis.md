@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-11
-Tags: moc
+tags:
+  - moc
 ---
 up:: [[027 MOC Calculus]]
 

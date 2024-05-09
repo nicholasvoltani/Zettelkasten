@@ -1,6 +1,7 @@
 ---
 Date: 2022-10-16
-Tags: geography
+tags:
+  - geography
 ---
 # Bacia do Paraná
 ![[Pasted image 20221016231245.png|500]]

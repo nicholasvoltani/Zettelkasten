@@ -1,6 +1,8 @@
 ---
 Date: 2022-11-08
-Tags: transient, ambiental
+tags:
+  - transient
+  - ambiental
 ---
 up:: [[0x3 MOC Geografia]]
 

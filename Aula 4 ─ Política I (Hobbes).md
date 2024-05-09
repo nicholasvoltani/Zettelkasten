@@ -1,6 +1,7 @@
 ---
 Date: 2023-05-02
-Tags: literature/lecture
+tags:
+  - literature/lecture
 ---
 up:: [[0x4a3 MOC Política I]] 
 

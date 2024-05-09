@@ -1,6 +1,7 @@
 ---
 Date: 2021-08-15
-Tags: mathematics 
+tags:
+  - mathematics 
 ---
 # Grupo Livremente Gerado por conjunto $X$
 Dado um conjunto $X$, definimos o **grupo livremente gerado** $F(X)$ como

@@ -1,6 +1,7 @@
 ---
 Date: 2021-08-22
-Tags: mathematics 
+tags:
+  - mathematics 
 ---
 # Hipótese de Representação de Conhecimento (Knowledge-Representation Hypothesis)
 De acordo com o filósofo Brian Smith, "qualquer processo inteligente mecanicamente corporificado" que contenha *representações simbólicas de conhecimento* devem possuir duas propriedades:

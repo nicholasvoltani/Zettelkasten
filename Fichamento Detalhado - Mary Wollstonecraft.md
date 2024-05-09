@@ -1,6 +1,7 @@
 ---
 Date: 2023-05-17
-Tags: fichamento
+tags:
+  - fichamento
 ---
 **Nome:** Nicholas Funari Voltani
 **Nº USP:** 9359365

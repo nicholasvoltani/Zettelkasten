@@ -1,6 +1,8 @@
 ---
 Date: 2022-02-28
-Tags: evergreen, marxism
+tags:
+  - evergreen
+  - marxism
 ---
 # Força de Trabalho
 A força de trabalho é o **conjunto de capacidades físicas e mentais** de um trabalhador, as quais são postas em exercício durante **períodos determinados de tempo**.

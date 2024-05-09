@@ -1,6 +1,8 @@
 ---
 Date: 2022-03-17
-Tags: literature/lecture, marxism
+tags:
+  - literature/lecture
+  - marxism
 ---
 # A "tradicional família brasileira" e o trabalho reprodutivo (Marianna Haug e Ana Carolina Andrade)
 4 anos do assassinato de Marielle Franco e Anderson Gomes.

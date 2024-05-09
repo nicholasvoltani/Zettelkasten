@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-20
-Tags: mathematics
+tags:
+  - mathematics
 ---
 up:: [[Boundary (Topology)]]
 

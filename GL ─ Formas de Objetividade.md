@@ -1,6 +1,8 @@
 ---
 Date: 2021-08-29
-Tags: transient, marxism
+tags:
+  - transient
+  - marxism
 ---
 # Formas de Objetividade da realidade
 > "Um negro é um negro. Somente em **certas condições** torna-se um escravo.

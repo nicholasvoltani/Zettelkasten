@@ -1,6 +1,8 @@
 ---
 Date: 2021-06-20
-Tags: transient, marxism
+tags:
+  - transient
+  - marxism
 ---
 # Surgimento da ideologia da classe dominante
 > A dominação precede a ideia, e a ideia **ilustra** a dominação. 

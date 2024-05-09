@@ -1,6 +1,8 @@
 ---
 Date: 2022-04-17
-Tags: marxism, transient
+tags:
+  - marxism
+  - transient
 ---
 # 202204171200 ─ Sobre legalidade de horas extras
 > "Se extraio apenas 12 horas de trabalho de meus empregados, mas meu vizinho, em contrapartida, extrai 18 ou 20 horas, ele tem necessariamente de me derrotar no preço de venda. Pudessem os trabalhadores insistir no pagamento do tempo extraordinário e rapidamente essa manobra teria um fim." (Relato sobre padeiros, in **O Capital, Livro I**, p. 620)

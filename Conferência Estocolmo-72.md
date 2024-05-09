@@ -1,6 +1,8 @@
 ---
 Date: 2022-10-05
-Tags: geography, ambiental
+tags:
+  - geography
+  - ambiental
 ---
 # Conferência Estocolmo-72 (Only One Earth)
 A Primeira Conferência Mundial sobre o Homem e o Meio Ambiente (Only One Earth), apoiada pela ONU, surgiu uma questão polêmica: 

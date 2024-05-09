@@ -1,6 +1,7 @@
 ---
 Date: 2021-08-15
-Tags: mathematics 
+tags:
+  - mathematics 
 ---
 up:: [[Subgroup (Mathematics)]]
 

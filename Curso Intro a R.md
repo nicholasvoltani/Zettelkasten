@@ -1,6 +1,7 @@
 ---
 Date: 2023-01-10
-Tags: literature/lecture
+tags:
+  - literature/lecture
 ---
 up:: 
 

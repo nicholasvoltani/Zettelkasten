@@ -1,6 +1,9 @@
 ---
 Date: 2022-10-16
-Tags: transient, geoegraphy, ambiental
+tags:
+  - transient
+  - geoegraphy
+  - ambiental
 ---
 # Hidrografia Brasileira
 ## Características gerais

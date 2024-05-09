@@ -1,6 +1,8 @@
 ---
 Date: 2022-10-06
-Tags: transient, geography
+tags:
+  - transient
+  - geography
 ---
 # Protocolo de Montreal (1987)
 Protocolo firmado para eliminar 15 tipos de CFC (Clorofluorcarbono) e outras substâncias que estavam **causando o buraco na camada de ozônio**. Cerca de 150 países aderiram; Brasil aderiu quando o protocolo entrou em vigor dois anos depois, em 1989.

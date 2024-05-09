@@ -1,6 +1,7 @@
 ---
 Date: 2021-06-05
-Tags: transient
+tags:
+  - transient
 ---
 N'O Livro de Sofia, temos que o autor diz que Kant acreditava que não podemos conhecer absolutamente a natureza *em si*, mas que podemos conhecê-la *através de nossa razão* (por meio de "modelos").
 

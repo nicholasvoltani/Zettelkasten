@@ -1,6 +1,7 @@
 ---
 Date: 2022-11-15
-Tags: ambiental
+tags:
+  - ambiental
 ---
 ![[Pasted image 20221115151025.png]]
 

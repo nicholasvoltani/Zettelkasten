@@ -1,6 +1,7 @@
 ---
 Date: 2022-06-12
-Tags: transient
+tags:
+  - transient
 ---
 # 202206121434 - O agronegócio não é só sobre produção
 O [[Agronegócio]] não se trata somente sobre uma maior inovação na produção agrícola através da sinergia maior entre "produtores rurais" e "gestão empresarial"/capital.

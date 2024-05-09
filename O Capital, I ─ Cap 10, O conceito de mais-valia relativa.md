@@ -1,6 +1,8 @@
 ---
 Date: 2022-03-16
-Tags: literature/lecture, marxism
+tags:
+  - literature/lecture
+  - marxism
 ---
 # O Capital, I ─ Cap 10, O conceito de mais-valia relativa
 ## Objetivos

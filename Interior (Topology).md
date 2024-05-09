@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-01
-Tags: mathematics
+tags:
+  - mathematics
 alias: Interior
 ---
 up:: [[Topological Space]]

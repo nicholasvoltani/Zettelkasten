@@ -1,6 +1,8 @@
 ---
 Date: 2022-02-10
-Tags: transient, education
+tags:
+  - transient
+  - education
 ---
 # Relação dialética entre a prática política e a prática educacional
 

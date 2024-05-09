@@ -1,6 +1,7 @@
 ---
 Date: 2022-07-23
-Tags: moc 
+tags:
+  - moc 
 ---
 # MOC Capital I
 up:: [[011 MOC Marx]]

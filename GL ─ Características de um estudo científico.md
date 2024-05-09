@@ -1,6 +1,8 @@
 ---
 Date: 2021-09-28
-Tags: transient, marxism
+tags:
+  - transient
+  - marxism
 ---
 # Características de um estudo científico
 > "Se a **aparência** e a **essência** das coisas coincidissem, a ciência seria desnecessária." (Marx)

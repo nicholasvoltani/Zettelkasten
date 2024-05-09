@@ -1,6 +1,7 @@
 ---
 Date: 2023-04-02
-Tags: fichamento
+tags:
+  - fichamento
 ---
 ---
 **Ficha de estrutura expositiva**

@@ -1,6 +1,7 @@
 ---
 Date: 2023-02-22
-Tags: moc
+tags:
+  - moc
 ---
 # Tópicos
 ## Introdução à Segurança da Informação

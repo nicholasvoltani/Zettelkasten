@@ -1,6 +1,8 @@
 ---
 Date: 2022-10-19
-Tags: geography, ambiental
+tags:
+  - geography
+  - ambiental
 ---
 ![[Pasted image 20221021204027.png|500]]
 Ocorre essencialmente no centro do Brasil ─ Centro-Oeste, Minas Gerais, subindo pela parte ocidental do Sertão nordestino. 

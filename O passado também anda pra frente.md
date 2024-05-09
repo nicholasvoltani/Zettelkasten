@@ -1,6 +1,7 @@
 ---
 Date: 2023-08-31
-Tags: transient
+tags:
+  - transient
 ---
 up:: 
 # Prefácio

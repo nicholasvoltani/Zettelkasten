@@ -1,6 +1,7 @@
 ---
 Date: 2022-10-06
-Tags: ambiental
+tags:
+  - ambiental
 ---
 # Acordo de Paris
 Em 2015, é um acordo que vem para substituir o [[Protocolo de Kyoto]]. 

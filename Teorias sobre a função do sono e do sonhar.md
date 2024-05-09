@@ -1,6 +1,7 @@
 ---
 Date: 2022-03-16
-tags: literature/lecture
+tags:
+  - literature/lecture
 ---
 # Webinar: Sono é longevidade: Teorias sobre a função do sono e do sonhar (Laura Castro; Vigilantes do Sono)
 ## Roteiro

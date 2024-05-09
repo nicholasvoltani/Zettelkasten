@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-28
-Tags: mathematics
+tags:
+  - mathematics
 alias: Dimension
 ---
 up:: [[Finitely Generated Vector Space]]

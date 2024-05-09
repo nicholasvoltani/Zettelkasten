@@ -1,6 +1,7 @@
 ---
 Date: 2022-11-14
-Tags: geography
+tags:
+  - geography
 ---
 up:: [[0x3 MOC Geografia]]
 ![[Pasted image 20221114152004.png]]

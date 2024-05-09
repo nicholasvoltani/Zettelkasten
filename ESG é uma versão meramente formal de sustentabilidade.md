@@ -1,6 +1,8 @@
 ---
 Date: 2022-12-29
-Tags: transient, ambiental
+tags:
+  - transient
+  - ambiental
 ---
 ESG é uma versão meramente formal de lidar com as questões ambientais (e sociais) que afligem a sociedade atual, vistas como meros problemas a serem consertados (dentro da ordem), invés de disrupções induzidas pelo próprio sistema (vide [[Ruptura Metabólica]]). Arrancam-se (ou finge-se arrancar) as ervas daninhas, sem questionar por que elas estão trazendo problemas.
 

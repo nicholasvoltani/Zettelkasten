@@ -1,6 +1,8 @@
 ---
 Date: 2022-07-24
-Tags: literature/lecture, marxism
+tags:
+  - literature/lecture
+  - marxism
 ---
 # 202207241439 - Aula 5 Introdução Materialismo Dialético (Sobre o Estado)
 

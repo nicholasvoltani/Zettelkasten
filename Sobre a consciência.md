@@ -1,6 +1,8 @@
 ---
 Date: 2021-06-04
-Tags: marxism, transient
+tags:
+  - marxism
+  - transient
 ---
 # Sobre a consciência segundo Marx e Hegel
 Tive uma discussão mental sobre as diferenças entre consciência para Hegel e para Marx.

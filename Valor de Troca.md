@@ -1,6 +1,8 @@
 ---
 Date: 2021-07-04
-Tags: evergreen, marxism
+tags:
+  - evergreen
+  - marxism
 ---
 # Definição de Valor de Troca, segundo Marx
 O valor de troca depende de duas mercadorias, cujas quantidades possuem alguma proporção de equivalência **mediante sua troca**. 

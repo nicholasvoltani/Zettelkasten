@@ -1,6 +1,8 @@
 ---
 Date: 2022-11-15
-Tags: critique, transient
+tags:
+  - critique
+  - transient
 ---
 up:: [[Críticas Ecoar]]
 Uma das coisas que me irrita dentro do Ecoar ─ e com isso quero dizer: com as *pessoas* do Ecoar ─ é sobre a forma meio "pequeno-burguesa" de viver: panfletar sempre ou na Paulista ou no Parque Augusta, festas toda semana, manifestações no meio de um dia de semana, atividades sempre em bairros nobres (em particular na PUC mas também na USP). 

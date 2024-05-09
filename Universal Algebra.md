@@ -1,6 +1,7 @@
 ---
 Date: 2023-08-01
-Tags: mathematics
+tags:
+  - mathematics
 alias: 
 ---
 up:: [[021 MOC Algebra]]

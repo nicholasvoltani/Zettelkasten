@@ -1,6 +1,8 @@
 ---
 Date: 2022-02-28
-Tags: literature/lecture, marxism
+tags:
+  - literature/lecture
+  - marxism
 ---
 # O Capital, I ─ Cap 4: Transformação do dinheiro em capital
 ## Circulação de mercadorias: [[Ciclo M─D─M]]

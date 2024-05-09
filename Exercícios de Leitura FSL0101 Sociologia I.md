@@ -1,6 +1,8 @@
 ---
 Date: 2023-05-13
-Tags: transient, fichamento
+tags:
+  - transient
+  - fichamento
 ---
 **Nome**: Nicholas Funari Voltani
 **Nº USP**: 9359365

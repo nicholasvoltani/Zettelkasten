@@ -1,6 +1,8 @@
 ---
 Date: 2022-10-19
-Tags: geography, ambiental
+tags:
+  - geography
+  - ambiental
 ---
 ![[Pasted image 20221019220402.png|200]]
 ## Equatorial (Amazonas)

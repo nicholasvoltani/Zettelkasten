@@ -1,6 +1,7 @@
 ---
 Date: 2023-06-23
-Tags: mathematics
+tags:
+  - mathematics
 ---
 up:: [[026 MOC Topology]]
 

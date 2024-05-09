@@ -1,6 +1,8 @@
 ---
 Date: 2022-03-30
-Tags: transient, marxism
+tags:
+  - transient
+  - marxism
 ---
 # 202203302154 ─ O papel dos (ecos)socialistas nas eleições
 Nosso ponto de partida, como ecossocialistas, marxistas e revolucionários, no tocante à política dos oprimidos, deve ser sempre a da **luta de classes**. Portanto, se faz necessário, em primeiro lugar, "unificar o conjunto dos/as explorados/as e oprimidos/as na luta pela defesa de **nossos interesses imediatos e históricos**".

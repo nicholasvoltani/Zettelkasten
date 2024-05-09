@@ -1,6 +1,8 @@
 ---
 Date: 2022-04-10
-Tags: literature/lecture, marxism
+tags:
+  - literature/lecture
+  - marxism
 ---
 # O Capital, I ─ Cap 6, Capital constante e capital variável
 ## Definição de [[Capital]]

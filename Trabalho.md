@@ -1,6 +1,8 @@
 ---
 Date: 2021-08-10
-Tags: evergreen, marxism
+tags:
+  - evergreen
+  - marxism
 ---
 # Trabalho segundo Marx
 > "Como criador de valores de uso, como trabalho útil, o trabalho é, assim, uma **condição de existência do homem**, independente de todas as formas sociais, eterna necessidade natural de **mediação do metabolismo** entre homem e natureza" (O Capital, p. 120)

@@ -1,6 +1,8 @@
 ---
 Date: 2022-11-14
-Tags: transient, geography
+tags:
+  - transient
+  - geography
 ---
 up:: [[Aquíferos]]
 ## Sistema Aquífero Guarani

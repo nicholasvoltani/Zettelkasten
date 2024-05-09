@@ -1,6 +1,7 @@
 ---
 Date: 2021-08-23
-Tags: transient
+tags:
+  - transient
 ---
 # Operador Hologramático
 > "As partes estão no todo, mas o todo também está nas partes"

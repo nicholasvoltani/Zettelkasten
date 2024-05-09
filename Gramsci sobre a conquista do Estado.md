@@ -1,6 +1,8 @@
 ---
 Date: 2022-07-06
-Tags: marxism, transient
+tags:
+  - marxism
+  - transient
 ---
 # 202207061334 Gramsci sobre a conquista do Estado
 > "[O Partido Socialista] só pode reconhecer no Estado, conjunto da classe burguesa, o seu direto antagonista. 

@@ -1,6 +1,8 @@
 ---
 Date: 2023-05-01
-Tags: anthropology, evergreen
+tags:
+  - anthropology
+  - evergreen
 ---
 up:: [[0x4a2 MOC Antropo I]]
 

@@ -1,6 +1,8 @@
 ---
 Date: 2023-03-03
-Tags: transient, marxism
+tags:
+  - transient
+  - marxism
 ---
 
 1. [[O fascismo surge devido às crises estruturais do capitalismo]], como instabilidade econômica, frustrações e revoltas populares, aprofundamento de conflitos de classe

@@ -1,6 +1,8 @@
 ---
 Date: 2022-05-14
-Tags: evergreen, marxism
+tags:
+  - evergreen
+  - marxism
 ---
 # Capital
 > "Essencialmente, ele é a **relação social** que exclui a **força de trabalho** da *propriedade dos meios de produção* e a inclui no processo de valorização como um *recurso subordinado*." (GRESPAN, p. 49)

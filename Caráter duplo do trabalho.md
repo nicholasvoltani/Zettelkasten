@@ -1,6 +1,8 @@
 ---
 Date: 2021-08-09
-Tags: transient, marxism
+tags:
+  - transient
+  - marxism
 ---
 # O caráter duplo do trabalho, segundo Marx
 * Trabalho **concreto**: responsável pela criação de **valores de uso** específicos: o [[Trabalho|trabalho]] para a confecção de um casaco de linho é diferente daquele para a confecção de um navio; 

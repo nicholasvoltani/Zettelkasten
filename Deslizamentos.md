@@ -1,6 +1,9 @@
 ---
 Date: 2022-11-15
-Tags: transient, geography, ambiental
+tags:
+  - transient
+  - geography
+  - ambiental
 ---
 ![[Pasted image 20221115153317.png|500]]
 

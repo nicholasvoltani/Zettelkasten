@@ -1,7 +1,9 @@
 
 ---
 Date: 2022-02-26
-Tags: transient, marxism
+tags:
+  - transient
+  - marxism
 ---
 # Sobre o marxismo ser uma ciência
 > "... pode-se dizer que **não é cientista** quem 

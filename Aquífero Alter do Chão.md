@@ -1,6 +1,8 @@
 ---
 Date: 2022-11-14
-Tags: geography, ambiental
+tags:
+  - geography
+  - ambiental
 ---
 up:: [[Aquíferos]]
 

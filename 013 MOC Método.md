@@ -1,6 +1,7 @@
 ---
 Date: 2022-07-24
-Tags: moc
+tags:
+  - moc
 ---
 up:: [[010 MOC Marxism]]
 

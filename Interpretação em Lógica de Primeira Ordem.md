@@ -1,6 +1,7 @@
 ---
 Date: 2021-08-26
-Tags: mathematics 
+tags:
+  - mathematics 
 ---
 $\newcommand{\I}{\mathcal{I}}$
 # Definição: Interpretação

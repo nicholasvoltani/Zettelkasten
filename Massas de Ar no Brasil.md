@@ -1,6 +1,8 @@
 ---
 Date: 2022-10-10
-Tags: transient, geography
+tags:
+  - transient
+  - geography
 ---
 up:: [[0x3 MOC Geografia]]
 # Massas de Ar no Brasil

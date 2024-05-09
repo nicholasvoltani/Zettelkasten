@@ -1,6 +1,8 @@
 ---
 Date: 2023-04-18
-Tags: literature/lecture, anthropology
+tags:
+  - literature/lecture
+  - anthropology
 ---
 
 up:: [[0x4a2 MOC Antropo I]]

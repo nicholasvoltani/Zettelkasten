@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-01
-Tags: mathematics
+tags:
+  - mathematics
 alias: Continuous functions map close inputs to close outputs
 ---
 up:: [[Topologically Continuous Function]]

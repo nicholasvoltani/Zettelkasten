@@ -1,6 +1,8 @@
 ---
 Date: 2022-02-27
-Tags: evergreen, marxism
+tags:
+  - evergreen
+  - marxism
 ---
 # Ruptura Metabólica
 É o termo empregado por Marx para abordar a **desconexão** da interação [[Metabolismo social|metabólica]] entre o ser humano e a natureza. Marx o descreve, no livro III do Capital, como a

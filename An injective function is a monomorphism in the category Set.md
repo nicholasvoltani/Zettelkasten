@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-29
-Tags: mathematics
+tags:
+  - mathematics
 alias: 
 ---
 up:: [[Monomorphism]]

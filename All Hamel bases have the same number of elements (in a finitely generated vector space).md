@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-27
-Tags: mathematics
+tags:
+  - mathematics
 alias: 
 ---
 up:: [[Every linearly independent set of a finitely generated vector space has at most the same number of vectors as its spanning set|Steinitz Exchange Lemma]]

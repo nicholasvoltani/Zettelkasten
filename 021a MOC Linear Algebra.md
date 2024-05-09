@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-11
-Tags: moc
+tags:
+  - moc
 ---
 up:: [[020 MOC Mathematics]]
 

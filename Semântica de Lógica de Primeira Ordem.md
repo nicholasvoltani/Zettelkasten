@@ -1,6 +1,7 @@
 ---
 Date: 2021-08-26
-Tags: mathematics 
+tags:
+  - mathematics 
 ---
 # Semântica em Lógica de Primeira Ordem
 A principal ideia é de que, dados símbolos em uma lógica de primeira ordem, assinamos sentido a eles mediante **mapas de interpretação**. 

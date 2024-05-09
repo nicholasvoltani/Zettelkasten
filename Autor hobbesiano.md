@@ -1,6 +1,7 @@
 ---
 Date: 2023-05-23
-Tags: transient
+tags:
+  - transient
 ---
 up:: [[Pessoa Artificial (Hobbes)]]
 

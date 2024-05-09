@@ -1,6 +1,8 @@
 ---
 Date: 2021-08-10
-Tags: marxism, transient
+tags:
+  - marxism
+  - transient
 ---
 # Como pode ter surgido o mito da alquimia
 > "Ao produzir, o homem pode apenas proceder **como a própria natureza**, isto é, pode apenas alterar a **forma** das matérias. (...)

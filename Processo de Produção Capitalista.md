@@ -1,6 +1,8 @@
 ---
 Date: 2022-03-01
-Tags: evergreen, marxism
+tags:
+  - evergreen
+  - marxism
 ---
 # Processo de Produção Capitalista
 >"Aqui [no processo capitalista de produção em geral], os *valores de uso* só são produzidos **porque e na medida em que** são o **substrato material**, os **suportes** do *valor de troca*.

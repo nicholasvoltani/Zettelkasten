@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-26
-Tags: mathematics
+tags:
+  - mathematics
 ---
 up:: [[021a MOC Linear Algebra]]
 

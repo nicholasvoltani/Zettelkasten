@@ -1,6 +1,7 @@
 ---
 Date: 2022-05-15
-Tags: transient
+tags:
+  - transient
 ---
 # 202205151014 - Sobre o estado de "mente vazia"
 > "...ouvir um pensamento significa que você está consciente não só do pensamento, mas também de *você mesmo*, como uma testemunha daquele pensamento. (...) O pensamento, então, perde o poder que exerce sobre você e *se afasta rapidamente*, porque a mente não está mais recebendo a energia gerada pela sua **identificação com ela**. Esse é o começo do fim do pensamento involuntário e compulsivo.

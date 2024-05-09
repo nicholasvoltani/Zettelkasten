@@ -1,6 +1,8 @@
 ---
 Date: 2023-05-07
-Tags: transient, critique
+tags:
+  - transient
+  - critique
 ---
 # Introdução
 Venho por meio desta anunciar minha saída do coletivo Ecoar - Juventude Ecossocialista. Primeiramente, agradeço grandemente à introdução que este espaço me propiciou no marxismo revolucionário e nas discussões ecológicas que pautam o movimento ecossocialista. Sem as formações e discussões com as quais tive contato por aqui, certamente minha visão de mundo seria mais fragmentária e suscetível aos derrotismos individualistas onipresentes na vida cotidiana sob o realismo capitalista hegemônico. Agradeço, em particular, às amizades que pude fazer neste espaço, e que me dão (e às quais dou também) *food for thought* quanto a novas possibilidades de vida digna ─ algo que me fez falta por muito tempo.

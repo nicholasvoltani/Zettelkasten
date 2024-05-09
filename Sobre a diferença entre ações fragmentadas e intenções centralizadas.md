@@ -1,6 +1,7 @@
 ---
 Date: 2022-07-30
-Tags: transient
+tags:
+  - transient
 ---
 # 202207301725 Sobre a diferença entre ações fragmentadas e intenções centralizadas
 > "Logo que o trabalho começa a ser distribuído, cada um passa a ter um campo de atividade exclusivo e determinado, que lhe é imposto e ao qual não pode escapar; o indivíduo é caçador, pescador, pastor ou crítico crítico, e assim deve permanecer se não quiser perder seu meio de vida" (A Ideologia Alemã, p. 37-38; destaque meu)

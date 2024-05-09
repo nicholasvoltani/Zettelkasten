@@ -1,6 +1,7 @@
 ---
 Date: 2023-06-24
-Tags: mathematics
+tags:
+  - mathematics
 alias: Metric Open Ball
 ---
 up:: [[Metric Space]]

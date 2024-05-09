@@ -1,6 +1,7 @@
 ---
 Date: 2023-05-06
-Tags: links
+tags:
+  - links
 ---
 
 - [ ] Formação Política do Agronegócio

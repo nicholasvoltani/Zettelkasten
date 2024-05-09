@@ -1,6 +1,8 @@
 ---
 Date: 2022-01-31
-Tags: literature/lecture, ambiental
+tags:
+  - literature/lecture
+  - ambiental
 ---
 # Módulo 2 ─ Emergência Climática e Transição Energética (Alexandre Costa)
 ## Bases físicas

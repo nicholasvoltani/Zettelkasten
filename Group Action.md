@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-07
-Tags: mathematics
+tags:
+  - mathematics
 ---
 up:: [[021 MOC Algebra]]
 

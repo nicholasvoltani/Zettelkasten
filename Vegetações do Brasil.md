@@ -1,6 +1,9 @@
 ---
 Date: 2022-10-21
-Tags: transient, geography, ambiental
+tags:
+  - transient
+  - geography
+  - ambiental
 ---
 ![[Floresta Amazônica]]
 

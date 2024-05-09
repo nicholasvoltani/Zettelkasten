@@ -1,6 +1,7 @@
 ---
 Date: 2023-05-03
-Tags: evergreen
+tags:
+  - evergreen
 ---
 up:: [[Trabalho de Campo Etnográfico]]
 

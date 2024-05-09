@@ -1,6 +1,8 @@
 ---
 Date: 2022-02-28
-Tags: literature/lecture, marxism
+tags:
+  - literature/lecture
+  - marxism
 ---
 # O Capital, I ─ Cap 5, O processo de trabalho e o processo de valorização
 ## O [[Processo de Produção Capitalista]]

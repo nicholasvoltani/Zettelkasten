@@ -1,6 +1,8 @@
 ---
 Date: 2022-02-04
-Tags: literature/lecture, ambiental
+tags:
+  - literature/lecture
+  - ambiental
 ---
 # Módulo 6 ─ Soberania e Segurança Alimentar e Nutricional (Anelise Rizzolo)
  ## Premissas

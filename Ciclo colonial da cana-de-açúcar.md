@@ -1,6 +1,7 @@
 ---
 Date: 2022-10-12
-Tags: transient
+tags:
+  - transient
 ---
 # Ciclo colonial da cana-de-açúcar
 ![[Pasted image 20221012165406.png]]

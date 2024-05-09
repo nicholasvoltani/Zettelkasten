@@ -1,6 +1,8 @@
 ---
 Date: 2022-10-19
-Tags: geography, ambiental
+tags:
+  - geography
+  - ambiental
 ---
 ![[Pasted image 20221021204214.png|500]] ![[Pasted image 20221010214538.png|450]] ![[Pasted image 20221010213747.png|400]]
 

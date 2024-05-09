@@ -1,6 +1,8 @@
 ---
 Date: 2022-04-05
-Tags: marxism, transient
+tags:
+  - marxism
+  - transient
 ---
 # 202204052159 - Sobre a desqualificação do trabalho pela maquinaria
 Manufatura -> grande indústria: início, desenvolvimento e consolidação da **subordinação do trabalho ao capital**

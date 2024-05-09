@@ -1,6 +1,8 @@
 ---
 Date: 2023-03-03
-Tags: transient, marxism
+tags:
+  - transient
+  - marxism
 ---
 up:: 
 

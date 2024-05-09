@@ -2,7 +2,8 @@
 layout: post
 Date: 2020-10-24
 title: Resenha sobre o livro "Redes de Indignação e Esperança"
-tags: []
+tags:
+  - []
 comments: true
 publish: "true"
 ---

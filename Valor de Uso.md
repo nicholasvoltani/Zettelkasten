@@ -1,6 +1,8 @@
 ---
 Date: 2021-07-04
-Tags: evergreen, marxism
+tags:
+  - evergreen
+  - marxism
 ---
 Segundo Marx, 
 > "A **utilidade** de uma coisa faz dela um **valor de uso**"

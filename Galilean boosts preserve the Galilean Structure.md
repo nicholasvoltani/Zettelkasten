@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-21
-Tags: physics
+tags:
+  - physics
 ---
 up:: [[Galilean Coordinate Space]]
 

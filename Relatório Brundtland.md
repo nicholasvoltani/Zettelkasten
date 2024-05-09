@@ -1,6 +1,8 @@
 ---
 Date: 2022-10-06
-Tags: transient, geography
+tags:
+  - transient
+  - geography
 ---
 # Relatório Brundtland (Our Common Future)
 É um estudo chefiado pela primeira-ministra norueguesa à época, Gro Harlem Brundtland. Nele há diversos estudos apontando os principais problemas ambientais, com propostas de soluções.

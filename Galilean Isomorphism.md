@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-21
-Tags: mathematics
+tags:
+  - mathematics
 ---
 up:: [[Galilean Space]]
 

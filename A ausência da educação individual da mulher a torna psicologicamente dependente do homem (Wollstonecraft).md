@@ -1,6 +1,7 @@
 ---
 Date: 2023-05-20
-Tags: transient
+tags:
+  - transient
 ---
 up:: [[Educação Individual (Wollstonecraft)]]
 

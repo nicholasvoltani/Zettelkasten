@@ -1,6 +1,8 @@
 ---
 Date: 2022-04-05
-Tags: literature/lecture, marxism
+tags:
+  - literature/lecture
+  - marxism
 ---
 # O Capital, I ─ Cap 13, Maquinaria e Grande Indústria
 ## Objetivos da aula

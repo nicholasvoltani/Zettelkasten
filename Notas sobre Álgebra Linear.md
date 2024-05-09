@@ -2,7 +2,8 @@
 layout: post
 title: Notas sobre Álgebra Linear
 Date: 2021-12-27
-tags: []
+tags:
+  - []
 publish: "true"
 ---
 

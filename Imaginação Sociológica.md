@@ -1,6 +1,7 @@
 ---
 Date: 2023-05-04
-Tags: evergreen
+tags:
+  - evergreen
 ---
 up:: [[0x4a1 MOC Sociologia I]]
 

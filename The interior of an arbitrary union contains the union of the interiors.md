@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-05
-Tags: mathematics
+tags:
+  - mathematics
 ---
 up:: [[Interior (Topology)]]
 

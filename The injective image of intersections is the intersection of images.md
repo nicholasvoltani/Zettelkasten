@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-01
-Tags: mathematics
+tags:
+  - mathematics
 ---
 up:: [[The image of the intersection is contained in the intersection of the images]]
 

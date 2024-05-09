@@ -1,6 +1,9 @@
 ---
 Date: 2022-10-23
-Tags: transient, geography, ambiental
+tags:
+  - transient
+  - geography
+  - ambiental
 ---
 O magma terrestre (presente no [[Estrutura geológica da Terra#Manto terrestre|manto terrestre]]) é rico em elementos químicos como *ferro, fósforo e potássio*[^1], os quais permitem que os solos em que se depositem (por ação de [[Vulcanismo]]) sejam mais férteis para a agricultura. 
 

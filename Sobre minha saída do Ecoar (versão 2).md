@@ -1,6 +1,8 @@
 ---
 Date: 2023-05-07
-Tags: transient, critique
+tags:
+  - transient
+  - critique
 ---
 **Obs: Para quem já leu esta carta: tem surpresa no final.**
 

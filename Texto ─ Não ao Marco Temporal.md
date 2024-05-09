@@ -1,6 +1,7 @@
 ---
 Date: 2023-05-31
-Tags: transient
+tags:
+  - transient
 ---
 Estamos atualmente em uma encruzilhada na história deste país ─ mais uma para a conta. 
 

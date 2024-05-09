@@ -1,6 +1,8 @@
 ---
 Date: 2022-04-20
-Tags: evergreen, marxism
+tags:
+  - evergreen
+  - marxism
 ---
 # Salário
 O salário de um trabalhador é a manifestação do [[Valor da força de trabalho|valor de sua força de trabalho]] **quando posto no mercado**. 

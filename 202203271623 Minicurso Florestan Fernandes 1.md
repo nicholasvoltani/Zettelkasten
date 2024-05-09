@@ -1,6 +1,8 @@
 ---
 Date: 2022-03-27
-Tags: literature/study_group, marxism
+tags:
+  - literature/study_group
+  - marxism
 ---
 # 202203271623 Minicurso Florestan Fernandes 1
 ## 1. O que se deve entender por revolução?

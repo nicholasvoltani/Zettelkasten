@@ -1,6 +1,7 @@
 ---
 Date: 2023-05-03
-Tags: evergreen
+tags:
+  - evergreen
 ---
 up:: [[0x4a2 MOC Antropo I]]
 

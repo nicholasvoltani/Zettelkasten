@@ -1,6 +1,9 @@
 ---
 Date: 2022-11-12
-Tags: evergreen, marxism, ambiental
+tags:
+  - evergreen
+  - marxism
+  - ambiental
 ---
 up:: 
 

@@ -1,6 +1,8 @@
 ---
 Date: 2022-02-03
-Tags: literature/lecture, ambiental
+tags:
+  - literature/lecture
+  - ambiental
 ---
 # Módulo 4 ─ Povos Originários e a Questão Ambiental (Célia Xakriabá)
 Cerca de 70 povos indígenas vivem nos Cerrados, que são mais suscetíveis às mudanças climáticas que a Amazônia.

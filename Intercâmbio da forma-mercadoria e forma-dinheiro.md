@@ -1,6 +1,8 @@
 ---
 Date: 2022-02-28
-Tags: evergreen, marxism
+tags:
+  - evergreen
+  - marxism
 ---
 # Intercâmbio da forma-mercadoria e forma-dinheiro
 <!-- https://q.uiver.app/?q=WzAsMixbMCwwLCJcXHR0eyhGb3JtYS1tZXJjYWRvcmlhKX0iXSxbMywwLCJcXHR0eyhGb3JtYS1kaW5oZWlybyl9Il0sWzAsMSwiXFx0dHtWZW5kYSAoTeKUgEQpfSIsMCx7ImN1cnZlIjotMywiY29sb3VyIjpbMTgwLDYwLDYwXX0sWzE4MCw2MCw2MCwxXV0sWzEsMCwiXFx0dHtDb21wcmEgKETilIBNKX0iLDAseyJjdXJ2ZSI6LTMsImNvbG91ciI6WzMwLDYwLDYwXX0sWzMwLDYwLDYwLDFdXV0= --> <iframe class="quiver-embed" src="https://q.uiver.app/?q=WzAsMixbMCwwLCJcXHR0eyhGb3JtYS1tZXJjYWRvcmlhKX0iXSxbMywwLCJcXHR0eyhGb3JtYS1kaW5oZWlybyl9Il0sWzAsMSwiXFx0dHtWZW5kYSAoTeKUgEQpfSIsMCx7ImN1cnZlIjotMywiY29sb3VyIjpbMTgwLDYwLDYwXX0sWzE4MCw2MCw2MCwxXV0sWzEsMCwiXFx0dHtDb21wcmEgKETilIBNKX0iLDAseyJjdXJ2ZSI6LTMsImNvbG91ciI6WzMwLDYwLDYwXX0sWzMwLDYwLDYwLDFdXV0=&embed" width="688" height="100" style="border-radius: 8px; border: none;"></iframe>

@@ -1,6 +1,8 @@
 ---
 Date: 2022-02-27
-Tags: literature, marxism
+tags:
+  - literature
+  - marxism
 ---
 # Estratégia e Partido, Daniel Bensaid
 ## Sobre a "tomada do poder"

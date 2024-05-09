@@ -1,6 +1,8 @@
 ---
 Date: 2022-01-29
-Tags: transient, ambiental
+tags:
+  - transient
+  - ambiental
 ---
 # Sobre a noção de Antropoceno e Capitaloceno
 "Antropoceno" é o termo que descreve como a ação humana teve um papel central na transição climática e geológica. Porém, tal termo acaba sendo superficial demais, supondo meramente que a "ação humana" é destrutiva, sem elaborar como ou porque ela é destrutiva; acaba até mesmo tornando as ações humanas como uma força imediata, assim como eras geológicas prévias ocorreram de forma irrefletida e natural, desconsiderando o fator racional que entra na mediação do ser humano com a natureza.

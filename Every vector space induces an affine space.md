@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-21
-Tags: mathematics
+tags:
+  - mathematics
 alias: Canonically Obtained Affine Space
 ---
 up:: [[Vector Space]]

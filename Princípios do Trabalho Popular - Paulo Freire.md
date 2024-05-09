@@ -1,6 +1,7 @@
 ---
 Date: 2022-02-26
-Tags: transient
+tags:
+  - transient
 ---
 ## Princípios do Trabalho Popular (Paulo Freire)
 ### 1. Ninguém está só no mundo

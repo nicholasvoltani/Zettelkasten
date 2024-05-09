@@ -1,6 +1,8 @@
 ---
 Date: 2022-10-23
-Tags: transient, geography
+tags:
+  - transient
+  - geography
 ---
 # Teoria das Placas
 ![[Pasted image 20221023211718.png]]

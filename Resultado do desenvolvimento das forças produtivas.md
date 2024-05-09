@@ -1,6 +1,8 @@
 ---
 Date: 2021-06-20
-Tags: transient, marxism
+tags:
+  - transient
+  - marxism
 ---
 # Resultado do desenvolvimento das forças produtivas
 1. Surgem forças produtivas e meios de intercâmbio que passam a causar somente malefícios, pervertendo-se em **forças de destruição**, as quais criam uma **classe massiva** que é despojada/**[[Surgimento da alienação|alienada]]** dos produtos de seu trabalho e que é forçada a "suportar todos os fardos da sociedade **sem desfrutar de suas vantagens**".

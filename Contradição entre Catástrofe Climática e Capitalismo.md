@@ -1,6 +1,7 @@
 ---
 Date: 2022-02-27
-Tags: transient
+tags:
+  - transient
 ---
 # Contradição entre Catástrofe Climática e Capitalismo
 Por um lado, possuímos o crescimento desmedido do [[capital]], o qual produz cada vez mais [[mercadoria|mercadorias]] e acelera o aquecimento global e todas as espécies de desastres ambientais.

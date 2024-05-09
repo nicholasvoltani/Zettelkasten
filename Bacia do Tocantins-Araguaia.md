@@ -1,6 +1,7 @@
 ---
 Date: 2022-10-16
-Tags: geography
+tags:
+  - geography
 ---
 # Bacia do Tocantins-Araguaia
 ![[Pasted image 20221016222016.png]]

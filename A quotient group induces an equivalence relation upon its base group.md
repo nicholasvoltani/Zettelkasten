@@ -1,6 +1,7 @@
 ---
 Date: 2023-07-08
-Tags: mathematics
+tags:
+  - mathematics
 ---
 up:: [[Quotient Group]]
 

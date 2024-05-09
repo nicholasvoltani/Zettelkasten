@@ -1,6 +1,7 @@
 ---
 Date: 2023-06-22
-Tags: physics
+tags:
+  - physics
 ---
 up:: 
 

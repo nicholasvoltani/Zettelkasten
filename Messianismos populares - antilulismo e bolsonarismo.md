@@ -1,6 +1,7 @@
 ---
 Date: 2023-05-07
-Tags: transient
+tags:
+  - transient
 ---
 
 - O Brasil é um país, se não imediatamente, então no mínimo *moralmente* religioso. O fato de que a religião católica/cristã permeia toda a vida brasileira ─ desde os nomes de cidades consagradas a santos, ruas, igrejas e catedrais, até as expressões populares de "meu Deus", "nossa senhora", etc. ─ certamente contribui para uma visão mais pé-no-chão do que o movimento antilulista ─ e seu sucessor, o bolsonarismo ─ são na visão do brasileiro comum: alegorias pseudorreligiosas, quase que *cautionary tales* do senso comum, saturado da visão católica imprimida a ferro e fogo há séculos atrás. 

@@ -1,6 +1,8 @@
 ---
 Date: 2022-04-15
-Tags: literature/lecture, marxism
+tags:
+  - literature/lecture
+  - marxism
 ---
 # O Capital, I ─ Cap 17, 18, 19; Sobre o salário
 > "A economia política clássica chega muito próximo à verdadeira relação das coisas, porém sem formulá-la conscientemente.

@@ -1,6 +1,8 @@
 ---
 Date: 2022-10-16
-Tags: transient, geography
+tags:
+  - transient
+  - geography
 ---
 ![[Pasted image 20221021213139.png]] 
 

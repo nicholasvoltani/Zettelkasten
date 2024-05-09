@@ -1,6 +1,7 @@
 ---
 Date: 2022-11-16
-Tags: transient
+tags:
+  - transient
 ---
 ![[Pasted image 20221016222518.png|400]]
 

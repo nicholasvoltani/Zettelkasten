@@ -1,6 +1,7 @@
 ---
 Date: 2022-08-04
-Tags: mathematics
+tags:
+  - mathematics
 publish: "true"
 ---
 # Definition: Discrete Derivative (or Forward Difference Operator)

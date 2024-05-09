@@ -1,6 +1,7 @@
 ---
 Date: 2022-11-14
-Tags: transient
+tags:
+  - transient
 ---
 # 202211141234 Sobre COP27 e o comprometimento corporativo com o clima
 O que esperar de uma convenção do clima que possui mais representantes de lobbies petroleiros do que representantes da América Latina (sem contar Brasil)? Que esperar quando a (segunda) maior potência mundial reserva tão somente US$ 100 milhões para o Fundo de Adaptação, quando seus gastos com Exército são de centenas de bilhões de dólares anualmente? Ora, qual é a próxima, a raposa vai voluntariamente abrir a portinhola para as galinhas irem dormir em paz no galinheiro? Mais fácil um camelo entrar pelo buraco de uma agulha.

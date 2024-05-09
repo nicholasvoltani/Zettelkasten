@@ -1,6 +1,7 @@
 ---
 Date: 2021-10-10
-Tags: mathematics 
+tags:
+  - mathematics 
 ---
 # Pragmatismo em Lógica de Primeira Ordem
 Em Lógica de Primeira Ordem, desejamos um sistema que não só consiga codificar seu conhecimento sobre o universo (em que está inserido) via uma [[Sintaxe de Lógica de Primeira Ordem|sintaxe]] e uma [[Semântica de Lógica de Primeira Ordem|semântica]] apropriados, mas também que consiga **fazer inferências** sobre consequências lógicas de suas verdades primeiras. 

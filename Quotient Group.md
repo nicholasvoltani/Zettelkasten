@@ -1,6 +1,7 @@
 ---
 Date: 2021-08-15
-Tags: mathematics 
+tags:
+  - mathematics 
 ---
 Given a [[Group (Mathematics)|Group]] $G$ and a [[Normal Subgroup]] $N \trianglelefteq G$, we define the quotient group as the set of all left-[[Coset]] of $N$.
 $$

@@ -1,6 +1,8 @@
 ---
 Date: 2022-04-24
-Tags: literature/study_group, marxism
+tags:
+  - literature/study_group
+  - marxism
 ---
 # 202204241855 ─ Segundo Encontro Minicurso FC-PF
 ## Cap. 3 ─ "É possível 'impedir' ou 'atrasar' a revolução?" (Alan)
