@@ -1,5 +1,5 @@
 ---
-Date: 2023-08-22
+date: 2023-08-22
 tags:
   - transient
 draft: 'true'

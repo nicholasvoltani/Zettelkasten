@@ -1,6 +1,6 @@
 ---
 layout: post
-Date: 2020-11-20
+date: 2020-11-20
 tags:
   - []
 publish: "true"

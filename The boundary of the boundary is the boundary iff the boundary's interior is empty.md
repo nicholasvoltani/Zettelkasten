@@ -1,5 +1,5 @@
 ---
-Date: 2023-07-20
+date: 2023-07-20
 tags:
   - mathematics
 alias: The boundary is idempotent iff its interior is empty

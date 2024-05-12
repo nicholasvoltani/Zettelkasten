@@ -1,5 +1,5 @@
 ---
-Date: 2023-02-22
+date: 2023-02-22
 tags:
   - transient
   - hacking

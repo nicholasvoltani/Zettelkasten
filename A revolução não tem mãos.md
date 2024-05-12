@@ -1,5 +1,5 @@
 ---
-Date: 2022-02-26
+date: 2022-02-26
 tags:
   - transient
 draft: 'true'

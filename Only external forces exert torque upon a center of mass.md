@@ -1,5 +1,5 @@
 ---
-Date: " 2023-10-10"
+date: " 2023-10-10"
 tags:
   - physics
 aliases:

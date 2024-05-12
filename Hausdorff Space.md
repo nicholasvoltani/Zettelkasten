@@ -1,5 +1,5 @@
 ---
-Date: 2023-06-25
+date: 2023-06-25
 tags:
   - mathematics
 alias: Hausdorff

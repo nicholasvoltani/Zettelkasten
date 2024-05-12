@@ -1,5 +1,5 @@
 ---
-Date: 2022-06-12
+date: 2022-06-12
 tags:
   - transient
 ---

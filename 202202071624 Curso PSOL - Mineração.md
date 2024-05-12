@@ -1,5 +1,5 @@
 ---
-Date: 2022-02-07
+date: 2022-02-07
 tags:
   - literature/lecture
   - ambiental

@@ -1,5 +1,5 @@
 ---
-Date: 2022-08-04
+date: 2022-08-04
 tags:
   - mathematics
 publish: "true"

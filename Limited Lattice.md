@@ -1,5 +1,5 @@
 ---
-Date: 2023-08-01
+date: 2023-08-01
 tags:
   - mathematics
 alias: Limited

@@ -1,5 +1,5 @@
 ---
-Date: 2023-07-21
+date: 2023-07-21
 tags:
   - mathematics
 alias: Canonically Obtained Affine Space

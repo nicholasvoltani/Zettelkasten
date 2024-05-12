@@ -1,5 +1,5 @@
 ---
-Date: 2023-07-07
+date: 2023-07-07
 tags:
   - physics
 alias: Newtonian Reference Frame

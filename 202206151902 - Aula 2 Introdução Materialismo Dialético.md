@@ -1,5 +1,5 @@
 ---
-Date: 2022-06-22
+date: 2022-06-22
 tags:
   - literature/lecture
   - marxism

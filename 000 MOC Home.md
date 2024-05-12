@@ -1,6 +1,7 @@
 ---
-Date: 2022-07-20
-Tags: moc 
+date: 2022-07-20
+tags: 
+  - moc 
 ---
 # 000 MOC Home
 

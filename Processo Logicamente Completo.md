@@ -1,5 +1,5 @@
 ---
-Date: 2021-10-10
+date: 2021-10-10
 tags:
   - mathematics 
 ---

@@ -1,5 +1,5 @@
 ---
-Date: 2021-08-29
+date: 2021-08-29
 tags:
   - transient
   - marxism

@@ -1,6 +1,6 @@
 ---
 layout: post
-Date: 2022-01-18
+date: 2022-01-18
 title: Subnetting (IP Networks)
 tags:
   - []

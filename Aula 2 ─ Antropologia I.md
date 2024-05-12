@@ -1,5 +1,5 @@
 ---
-Date: 2023-04-11
+date: 2023-04-11
 tags:
   - literature/lecture
   - anthropology

@@ -1,5 +1,5 @@
 ---
-Date: 2021-07-04
+date: 2021-07-04
 tags:
   - evergreen
   - marxism

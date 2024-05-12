@@ -1,5 +1,5 @@
 ---
-Date: 2023-08-28
+date: 2023-08-28
 tags:
   - philosophy
 alias: Crença Verdadeira Justificada

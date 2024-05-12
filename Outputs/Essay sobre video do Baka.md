@@ -1,12 +1,14 @@
 ---
 Date: "2023-10-12"
 tags:
-  - output
+  - essay
 draft: "true"
 ---
 up:: 
 
 # Brain dump
+[[A Ciência é uma representação da realidade através de categorias humanamente pertinentes]]
+
 Sobre a natureza ser "inteiriça", de que seu "particionamento" é algo humano de se fazer (e, portanto, arbitrário). Até a ideia de que "o Universo é perfeito porque *calcula* tudo perfeitamente" pressupõe que ele *calcula* ─ quando ele simplesmente **é**. Remete à noção taoísta de que "se é cognoscível, não é Tao, etc", pois, se é cognoscível, é uma *image* de Tao, e não Tao (mesma ideia de *Ceci n'est pas une pipe*).
 
 Isso não nos impede de buscar compreender racionalmente a Natureza, e, mesmo que o Universo não seja "compartimentalizado", surpreende que nossas compartimentalizações *arbitrárias* aproximem-se tão bem da realidade ─ ao ponto de prevermos fenômenos puramente através da razão muito antes de observá-los pela primeira vez!

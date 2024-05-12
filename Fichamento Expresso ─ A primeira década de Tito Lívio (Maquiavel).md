@@ -1,5 +1,5 @@
 ---
-Date: 2023-04-02
+date: 2023-04-02
 tags:
   - fichamento
 ---

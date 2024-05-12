@@ -1,5 +1,5 @@
 ---
-Date: 2023-05-02
+date: 2023-05-02
 tags:
   - literature/lecture
 draft: 'true'

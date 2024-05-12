@@ -1,6 +1,6 @@
 ---
 layout: post
-Date: 2020-10-24
+date: 2020-10-24
 title: Resenha sobre o livro "Redes de Indignação e Esperança"
 tags:
   - []

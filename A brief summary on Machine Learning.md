@@ -3,7 +3,7 @@ layout: post
 title: A brief summary on Machine Learning
 tags:
   - []
-Date: 2020-10-24
+date: 2020-10-24
 publish: "true"
 ---
 

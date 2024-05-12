@@ -1,5 +1,5 @@
 ---
-Date: 2023-07-01
+date: 2023-07-01
 tags:
   - mathematics
 alias: Continuous functions map close inputs to close outputs

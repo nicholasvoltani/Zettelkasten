@@ -1,5 +1,5 @@
 ---
-Date: 2022-08-07
+date: 2022-08-07
 tags:
   - critique
   - transient

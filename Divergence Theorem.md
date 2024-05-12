@@ -1,5 +1,5 @@
 ---
-Date: 2023-06-22
+date: 2023-06-22
 tags:
   - mathematics
 ---

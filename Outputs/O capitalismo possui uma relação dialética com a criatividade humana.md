@@ -1,7 +1,7 @@
 ---
 Date: " 2023-10-12"
 tags:
-  - output
+  - essay
 ---
 up:: 
 

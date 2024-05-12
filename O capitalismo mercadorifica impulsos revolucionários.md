@@ -1,5 +1,5 @@
 ---
-Date: " 2024-04-23"
+date: " 2024-04-23"
 tags:
   - mini-essay
 aliases: A revolta torna-se mercadoria no capitalismo

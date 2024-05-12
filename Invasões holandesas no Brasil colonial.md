@@ -1,5 +1,5 @@
 ---
-Date: 2022-10-12
+date: 2022-10-12
 tags:
   - transient
 draft: 'true'

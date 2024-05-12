@@ -1,5 +1,5 @@
 ---
-Date: 2023-05-06
+date: 2023-05-06
 tags:
   - links
 draft: 'true'

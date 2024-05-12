@@ -1,5 +1,5 @@
 ---
-Date: 2022-10-23
+date: 2022-10-23
 tags:
   - geography
 ---

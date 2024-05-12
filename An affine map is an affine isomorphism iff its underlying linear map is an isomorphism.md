@@ -1,5 +1,5 @@
 b.w---
-Date: 2023-07-16
+date: 2023-07-16
 tags:
   - mathematics
 ---

@@ -1,5 +1,5 @@
 ---
-Date: 2022-03-27
+date: 2022-03-27
 tags:
   - literature/study_group
   - marxism

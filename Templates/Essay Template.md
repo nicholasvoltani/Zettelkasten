@@ -1,7 +1,7 @@
 ---
 Date: "{{date: YYYY-MM-DD}}"
 tags:
-  - output
+  - essay
 aliases:
 ---
 

@@ -1,7 +1,7 @@
 ---
 Date: "{{date: YYYY-MM-DD}}"
 tags:
-  - output
+  - essay
 aliases:
 excalidraw-open-md: true
 excalidraw-plugin: parsed

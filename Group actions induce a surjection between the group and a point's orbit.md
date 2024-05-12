@@ -1,5 +1,5 @@
 ---
-Date: 2023-07-09
+date: 2023-07-09
 tags:
   - mathematics
 aliases: 

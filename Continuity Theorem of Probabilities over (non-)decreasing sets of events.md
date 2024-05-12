@@ -1,5 +1,5 @@
 ---
-Date: 2024-02-02
+date: 2024-02-02
 tags:
   - mathematics
 aliases:

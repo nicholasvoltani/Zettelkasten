@@ -1,5 +1,5 @@
 ---
-Date: 2022-10-10
+date: 2022-10-10
 tags:
   - transient
   - geography

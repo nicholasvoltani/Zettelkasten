@@ -15,5 +15,6 @@
   "attachmentFolderPath": "Attachments",
   "showInlineTitle": true,
   "readableLineLength": true,
-  "spellcheck": false
+  "spellcheck": false,
+  "propertiesInDocument": "source"
 }

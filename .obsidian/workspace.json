@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Unlinked Files.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Outputs/Essay sobre video do Baka.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -72,9 +72,93 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "29e7008c2c3cbb0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Toda obra de arte é criada para outras pessoas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ce42b93060e93a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nenhum escritor consegue ver sua própria obra como objeto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f612a7b52b1dad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O leitor lê um texto como quem decifra um enigma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5766c5a2bc35dc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Somente conseguimos ver estética em construtos humanos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99c04fcb25a94d1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A arte busca representar o mundo objetivo através de categorias humanas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adfd3637600a4764",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subconsciência de Classe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b71ee7070fb6bb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "'Não se escreve para escravos'.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -103,7 +187,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,11 +204,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 367.504695892334
+    "width": 367.504695892334,
+    "collapsed": true
   },
   "right": {
     "id": "eace1de1654574fd",
@@ -134,23 +220,6 @@
         "id": "80972fdb92b71b91",
         "type": "tabs",
         "children": [
-          {
-            "id": "974abcc3e77860a4",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Outputs/Sobre o meio corporativo.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "5baa969e7935bb47",
             "type": "leaf",
@@ -163,24 +232,12 @@
             }
           },
           {
-            "id": "a00c1de97963c47a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proper Time.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "121d1cc4e27ffbab",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Outputs/Sobre o meio corporativo.md",
+                "file": "Valor de Uso.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -220,17 +277,24 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "769d372b5fc6dc07",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 404.5
+    "width": 404.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -238,37 +302,39 @@
       "command-palette:Open command palette": true,
       "markdown-importer:Open format converter": true,
       "zk-prefixer:Create new unique note": true,
+      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "29d37df875791094",
+  "active": "5baa969e7935bb47",
   "lastOpenFiles": [
-    "Zorn's Lemma.md",
-    "Vegetações do Brasil.md",
-    "Unlinked Files.md",
-    "Untitled 5.md",
-    "Untitled 4.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Universal Algebra.md",
-    "Trabalho de Campo Etnográfico.md",
-    "Trabalho de Base.md",
+    "'Não se escreve para escravos'.md",
+    "Valor de Uso.md",
+    "Proper Time.md",
     "Trabalho.md",
-    "The MindSET - Visual Thinking Framework for PKM (Zsolt Viczián).md",
-    "Outputs/Texto ─ Não ao Marco Temporal.md",
-    "Teorias sobre a função do sono e do sonhar.md",
-    "Técnicas de Invasão - Análises e Varreduras - Análise de Vulnerabilidades.md",
-    "Sobre reconhecer que somos dominados pela nossa mente.md",
-    "Sobre o marxismo ser uma ciência.md",
-    "Sobre o estado de 'mente vazia'.md",
-    "Sobre minha saída do Ecoar Juventude Ecossocialista.md",
-    "Sobre minha saída do Ecoar (versão 2).md",
-    "Sobre legalidade de horas extras.md",
-    "Sobre frases prontas em reuniões do Ecoar.md",
-    "Sobre desrespeito ao tempo no Ecoar.md",
-    "Sobre a diferença entre ações fragmentadas e intenções centralizadas.md",
+    "Matéria-Prima.md",
+    "011a MOC Capital I.md",
+    "Unlinked Files.md",
+    "O Capital, I ─ Cap 9, Taxa e massa de mais-valia.md",
+    "Subconsciência de Classe.md",
+    "A arte busca representar o mundo objetivo através de categorias humanas.md",
+    "Somente conseguimos ver estética em construtos humanos.md",
+    "O leitor lê um texto como quem decifra um enigma.md",
+    "Nenhum escritor consegue ver sua própria obra como objeto.md",
+    "Toda obra de arte é criada para outras pessoas.md",
+    "Functor.md",
+    "Group Homomorphism.md",
+    "Hom-Set.md",
+    "Category.md",
+    "Outputs/Sobre o meio corporativo.md",
+    "index.md",
+    "Interest reads.md",
+    "Outputs/Essay sobre video do Baka.md",
+    "Método de Abstração e Concretização.md",
+    "Outputs/O capitalismo possui uma relação dialética com a criatividade humana.md",
+    "Templates/Essay Template.md",
+    "Templates/Essay Template Excalidraw.md",
+    "Attachments/Pasted image 20240511155627.png",
     "Expurgo subjetivíssimo sobre saídas coletivas do Ecoar.pdf",
     "aaaaa.svg",
     "q",
@@ -280,7 +346,6 @@
     "Free Group Action.svg",
     "Zero Object.svg",
     "Translations in affine spaces are affine automorphisms.svg",
-    "The boundary of the boundary is a subset of the boundary.svg",
     "Excalidraw",
     "030x Estudos EUF 2024",
     "Expurgo subjetivíssimo sobre saídas coletivas do Ecoar.odt",
