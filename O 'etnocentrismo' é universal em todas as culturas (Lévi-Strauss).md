@@ -1,7 +1,7 @@
 ---
 date: 2023-05-01
 tags:
-  - transient
+  - to-be-elaborated
 ---
 up:: [[0x4a2 MOC Antropo I]]
 

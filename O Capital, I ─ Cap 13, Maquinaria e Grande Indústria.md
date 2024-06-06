@@ -49,7 +49,7 @@ Ao lançar toda a família de um trabalhador no mercado de trabalho, acaba por *
 
 ![[Pasted image 20220405205005.png]]
 
-Exemplo do professor Claus Germer: note-se que o [[Tempo Necessário de Trabalho]] é **repartido entre os membros**, enquanto todo o restante da jornada conjunta de trabalho é apropriado como [[Tempo Excedente de Trabalho]]! Isso se dá pois, pela grande oferta de força de trabalho (e não-tão-grande demanda pelo capitalista), os salários dos trabalhadores se conformam pelas lutas por direitos trabalhistas ($t_{homem} > t_{mulher} > t_{criança}$). 
+Exemplo do professor Claus Germer: note-se que o [[Tempo de Trabalho Socialmente Necessário]] é **repartido entre os membros**, enquanto todo o restante da jornada conjunta de trabalho é apropriado como [[Tempo Excedente de Trabalho]]! Isso se dá pois, pela grande oferta de força de trabalho (e não-tão-grande demanda pelo capitalista), os salários dos trabalhadores se conformam pelas lutas por direitos trabalhistas ($t_{homem} > t_{mulher} > t_{criança}$). 
 
 ### b) Prolongamento da jornada de trabalho
 No sentido da teoria de valor, como a presença de máquinas induz uma redução da quantidade de trabalhadores no ambiente de trabalho, aqueles que permanecem possuem sua jornada de trabalho aumentada: como a redução da massa de trabalhadores reduz a massa de mais-valor produzido, há de haver uma compensação na taxa de mais-valor extraído dos trabalhadores restantes. No sentido técnico, a utilização da maquinaria impõe uma necessidade de prolongamento da jornada de trabalho, pois:

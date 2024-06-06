@@ -1,8 +1,8 @@
 ---
-Date: "{{date: YYYY-MM-DD}}"
+date: "{{date: YYYY-MM-DD}}"
 tags:
   - essay
-aliases:
+aliases: 
 excalidraw-open-md: true
 excalidraw-plugin: parsed
 ---

@@ -3,7 +3,8 @@ date: 2023-03-10
 tags:
   - moc
 ---
-up:: [[000 MOC Home]]
+up:: [[index]]
+
 
 # Semestres
 ## 1º Semestre

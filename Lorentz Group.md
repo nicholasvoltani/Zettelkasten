@@ -5,7 +5,7 @@ tags:
 aliases:
   - O(1,3)
 ---
-up:: [[033 MOC Relativity]]
+up:: [[032 MOC Relativity]]
 
 The Lorentz Group, denoted $O(1, 3)$, is composed of all transformations in Minkowski space which preserve the [[Invariant Interval (Relativity)]]. 
 

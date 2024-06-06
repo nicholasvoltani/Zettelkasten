@@ -1,5 +1,5 @@
 ---
-Date: " 2024-05-11"
+date: " 2024-05-11"
 tags:
   - mini-essay
 aliases: 
@@ -7,6 +7,9 @@ excalidraw-open-md: true
 excalidraw-plugin: parsed
 ---
 up:: [[Jean-Paul Sartre]]
+
+![[schuitenatdeskgoodsmall.jpg|300]]
+([François Schuiten](https://www.altaplana.be/en/dossiers/architect-of-the-fantastic))
 
 > "Como, de outro lado, o objeto estético é propriamente o mundo, na medida em que é visado através dos imaginários, a alegria estética acompanha a consciência posicional de que o mundo é um valor, isto é, uma tarefa proposta à liberdade humana." (Sartre, p. 48) "(...) Assim, (...) a alegria estética provém da consciência que tomo de resgatar e interiorizar isso que é o não-eu por excelência, já que transformo o dado em imperativo e o fato em valor: o mundo é *minha* tarefa, isto é: a função essencial e livremente consentida da minha liberdade consiste precisamente em fazer vir ao ser, num movimento incondicionado, o objeto único e absoluto que é o universo." (Sartre, p. 49)
 

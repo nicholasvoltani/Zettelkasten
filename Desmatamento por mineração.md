@@ -1,7 +1,7 @@
 ---
 date: 2022-11-16
 tags:
-  - transient
+  - to-be-elaborated
 ---
 ![[Pasted image 20221016222518.png|400]]
 

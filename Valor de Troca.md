@@ -4,19 +4,19 @@ tags:
   - evergreen
   - marxism
 ---
-# Definição de Valor de Troca, segundo Marx
-O valor de troca depende de duas mercadorias, cujas quantidades possuem alguma proporção de equivalência **mediante sua troca**. 
 
-Ou seja, manifesta-se quando $x$ gramas de trigo podem ser trocados por $y$ gramas de seda; portanto, tal "propriedade" é conferida tanto ao trigo, quanto à seda. 
+up:: [[011a MOC Capital I]]
 
-# Equivalência com *valor*
-Note-se que surge tal *proporcionalidade* entre valores de uso completamente distintos qualitativamente. Marx aponta, então, que tal relação deve apontar a alguma grandeza que tais valores de uso compartilham, e cuja quantificação trará tal proporcionalidade. Ele diz que
+> "Conhecemos, agora, a *substância* do valor: ela é o *trabalho*.
+> Conhecemos sua *medida de grandeza*: ela é o *tempo de trabalho*.
+> Resta analisar sua *forma*, que fixa o *valor* precisamente como *valor de troca*." (nota de rodapé em MARX, p. 118; grifo meu)
 
-> "[...] _o valor de troca_ não pode ser mais do que o **modo de expressão**, a "**forma de manifestação**" [_Erscheinungsform_] de um **conteúdo** que _dele_ pode ser **distinguido**"
+O valor de troca de uma mercadoria advém de sua comparação com outras mercadorias, e das relações de proporcionalidade que as equiparam: $x$ gramas de trigo podem ser trocados por $y$ gramas de seda, e por aí vai para outras mercadorias. 
 
-Tal quantidade comum é justamente a **quantidade de trabalho empregado** para a confecção dos valores de uso referidos, e é, então, chamada de **[[Valor|valor]]**: ela quantifica o tempo do puro dispêndio de energia humana necessária (em média) para a produção de um valor de uso. Ou seja, o valor de um diamante pode ser muito alto por ser algo muito raro e difícil de ser encontrado, e o valor da água pode ser baixíssimo por ser algo trivial de ser coletado. 
-
+Como tais comparações equiparam [[Valor de Uso|valores de uso]] qualitativamente diferentes, Marx infere que haja alguma quantidade substancial[^1] da qual estas proporções de mercadorias compartilhem, a qual **abstrai** dos caráteres úteis de mercadorias quaisquer. Tal quantidade comum é justamente a quantidade de [[Trabalho Abstrato]] empregado para a confecção dos valores de uso referidos, e é, então, chamada de **[[Valor|valor]]**: ela quantifica o [[Tempo de Trabalho Socialmente Necessário]], de puro dispêndio de energia humana necessária (em média) para a produção de dado valor de uso. Portanto, o valor de troca de uma mercadoria é uma medida meramente formal, derivada de algo mais fundamental: ser produto do trabalho humano.
 
 ---
 ### References
 - MARX, Karl. **O capital-Livro 1: Crítica da economia política. Livro 1: O processo de produção do capital**. Boitempo Editorial, 2013.
+
+[^1]: Leia-se: um "sub-strato", algo que está "subterrâneo" à visão imediata; a essência subjacente que influencia a aparência do fenômeno.

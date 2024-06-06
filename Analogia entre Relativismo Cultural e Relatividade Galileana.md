@@ -3,6 +3,7 @@ date: 2023-05-01
 tags:
   - anthropology
   - evergreen
+  - mini-essay
 ---
 up:: [[0x4a2 MOC Antropo I]]
 

@@ -1,10 +1,12 @@
 ---
 date: 2021-06-20
 tags:
-  - transient
   - marxism
+  - mini-essay
+  - to-be-elaborated
+aliases:
+  - A dominação precede a ideia, e a ideia ilustra a dominação
 ---
-# Surgimento da ideologia da classe dominante
 > A dominação precede a ideia, e a ideia **ilustra** a dominação. 
 
 Como a classe dominante detém a posse dos [[Meios de Produção]] **material**, ela acaba por deter também os meios de produção **espirituais**; sua dominação espiritual se dá àqueles indivíduos que não possuem (*aproximadamente*) dos próprios meios de produção espiritual. Tais ideias dominantes, portanto, nada mais são que a **expressão** dessas relações materiais dominantes, e buscam manter-se hegemônicas através de sua pretensão de **universalidade**, de **interesse comum/coletivo**.

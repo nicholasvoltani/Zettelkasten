@@ -3,7 +3,7 @@ date: 2022-07-20
 tags:
   - moc
 ---
-up:: [[000 MOC Home]]
+up:: [[index]]
 
 # Principles
 - [[Set Complement]]

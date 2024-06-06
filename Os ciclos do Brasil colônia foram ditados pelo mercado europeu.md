@@ -2,6 +2,7 @@
 date: 2022-10-18
 tags:
   - evergreen
+  - mini-essay
 ---
 > "Subordina-se portanto inteiramente a tais objetivos e não conta com *forças próprias e existência autônoma*.
 > Uma conjuntura internacional favorável a um produto qualquer que [a colônia seja] capaz de fornecer impulsiona o seu funcionamento e dá a impressão puramente ilusória de riqueza e prosperidade. Mas *basta que aquela conjuntura se desloque, ou que se esgotem os recursos naturais disponíveis*, para que aquela produção decline e pereça, tornando impossível manter a vida que ela alimentava.

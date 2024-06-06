@@ -1,7 +1,8 @@
 ---
 date: 2023-06-17
 tags:
-  - transient
+  - to-be-elaborated
+  - mini-essay
 ---
 up:: [[O mundo é cognoscível somente por modelos]]
 

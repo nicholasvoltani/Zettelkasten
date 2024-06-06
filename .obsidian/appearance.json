@@ -2,7 +2,9 @@
   "baseFontSize": 26,
   "cssTheme": "Blue Topaz",
   "accentColor": "#219fe4",
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "columns"
+  ],
   "nativeMenus": false,
   "theme": "obsidian"
 }

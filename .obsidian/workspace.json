@@ -48,117 +48,57 @@
             }
           },
           {
-            "id": "426534d2c764b1e9",
+            "id": "5a3ebb8b9d7dd499",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "index.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
             }
           },
           {
-            "id": "29d37df875791094",
+            "id": "b9b988f7576816c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outputs/Sobre o meio corporativo.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29e7008c2c3cbb0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Toda obra de arte é criada para outras pessoas.md",
+                "file": "011a MOC Capital I.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1ce42b93060e93a9",
+            "id": "6fa661d2bc92f8f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nenhum escritor consegue ver sua própria obra como objeto.md",
+                "file": "Valor Relativo.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0f612a7b52b1dad8",
+            "id": "f9f879f7c7661730",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O leitor lê um texto como quem decifra um enigma.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5766c5a2bc35dc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Somente conseguimos ver estética em construtos humanos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99c04fcb25a94d1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A arte busca representar o mundo objetivo através de categorias humanas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adfd3637600a4764",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subconsciência de Classe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b71ee7070fb6bb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "'Não se escreve para escravos'.md",
+                "file": "Valor Equivalente.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -204,8 +144,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -237,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Valor de Uso.md",
+                "file": "Valor Equivalente.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -260,7 +199,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6147386076544855,
+                  "scale": 0.8248151928965477,
                   "close": false
                 }
               }
@@ -285,8 +224,26 @@
               "type": "Strange New Worlds",
               "state": {}
             }
+          },
+          {
+            "id": "f0d9e759756b9abc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Valor Equivalente.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -306,53 +263,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5baa969e7935bb47",
+  "active": "f9f879f7c7661730",
   "lastOpenFiles": [
-    "'Não se escreve para escravos'.md",
-    "Valor de Uso.md",
-    "Proper Time.md",
-    "Trabalho.md",
-    "Matéria-Prima.md",
+    "Valor Relativo.md",
+    "Valor Equivalente.md",
     "011a MOC Capital I.md",
-    "Unlinked Files.md",
-    "O Capital, I ─ Cap 9, Taxa e massa de mais-valia.md",
-    "Subconsciência de Classe.md",
-    "A arte busca representar o mundo objetivo através de categorias humanas.md",
-    "Somente conseguimos ver estética em construtos humanos.md",
-    "O leitor lê um texto como quem decifra um enigma.md",
-    "Nenhum escritor consegue ver sua própria obra como objeto.md",
-    "Toda obra de arte é criada para outras pessoas.md",
-    "Functor.md",
-    "Group Homomorphism.md",
-    "Hom-Set.md",
-    "Category.md",
-    "Outputs/Sobre o meio corporativo.md",
+    "O sujeito baconiano busca ser eficiente em nome da própria eficiência.md",
     "index.md",
-    "Interest reads.md",
-    "Outputs/Essay sobre video do Baka.md",
-    "Método de Abstração e Concretização.md",
-    "Outputs/O capitalismo possui uma relação dialética com a criatividade humana.md",
-    "Templates/Essay Template.md",
-    "Templates/Essay Template Excalidraw.md",
-    "Attachments/Pasted image 20240511155627.png",
+    "Design for Emergence.md",
+    "202206191055 - 10 commandments of Type III Ecosystems.md",
+    "A filosofia moderna submete a razão à fé na eficiência.md",
+    "Unlinked Files.md",
+    "Attachments/diagram-20240605 1.svg",
+    "Attachments/diagram-20240605.svg",
+    "Valor de Uso.md",
+    "Saber não necessariamente é compreender.md",
+    "O papel social da ciência.md",
+    "O tempo do conhecimento não é o mesmo tempo da informação.md",
+    "Descobrir valores de uso de algum objeto é um ato histórico.md",
+    "Valor de Troca.md",
+    "Valor.md",
+    "Todo valor é um valor de uso, mas nem todo valor de uso é um valor.md",
+    "Tempo de Trabalho Socialmente Necessário.md",
+    "Mercadoria.md",
+    "Templates/Template O Capital, Livro I.md",
+    "Templates/Marxism Note Template.md",
+    "Templates/Marxism Note Template Excalidraw.md",
+    "O Capital, I ─ Cap 4, Transformação do dinheiro em capital.md",
+    "Average Nearest Neighbors' Degree.md",
+    "Templates/Complexity Template.md",
+    "040 MOC Complex Systems.md",
+    "Attachments/ed6c1580-9abd-4e84-933a-ee8e8831156d_2032x1594.webp",
+    "Attachments/ee85e3a2-497b-4251-8bb3-609ae129897f_2032x1594.webp",
+    "Attachments/Pasted image 20240527143845.png",
+    "Attachments/Example-Betweenness-Centrality-scores-for-a-small-graph.png",
+    "Attachments/Star_graphs.svg.png",
+    "Attachments/Pasted image 20240527135738.png",
+    "Attachments/Nighthawks_by_Edward_Hopper_1942 1.jpg",
+    "Attachments/Nighthawks_by_Edward_Hopper_1942.jpg",
+    "Attachments/TangentLine.mp4",
+    "Attachments/MyPlotScene.mp4",
     "Expurgo subjetivíssimo sobre saídas coletivas do Ecoar.pdf",
-    "aaaaa.svg",
     "q",
-    "Attachments/147fd8c62f63cf4be20cd86489d78bae.png",
-    "Attachments/082becf704a73df6a15688f718ff37e2.png",
-    "Attachments/397f3983d7b34891a55f97e36c2fba61.png",
-    "Attachments/Category_SVG.svg",
-    "Attachments/Free Group Action SO(2) over real plane.excalidraw.svg",
-    "Free Group Action.svg",
-    "Zero Object.svg",
-    "Translations in affine spaces are affine automorphisms.svg",
     "Excalidraw",
     "030x Estudos EUF 2024",
     "Expurgo subjetivíssimo sobre saídas coletivas do Ecoar.odt",
     "Outputs",
     "lu48206sf2js2.tmp",
-    "lu48206sf2jrw.tmp",
-    "lu48206sf2jru.tmp",
-    "lu48206sf2jro.tmp"
+    "lu48206sf2jrw.tmp"
   ]
 }

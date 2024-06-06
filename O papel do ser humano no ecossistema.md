@@ -1,7 +1,8 @@
 ---
 date: 2022-07-30
 tags:
-  - transient
+  - to-be-elaborated
+  - mini-essay
 
 draft: 'true'
 ---

@@ -4,7 +4,7 @@ tags:
   - moc 
 ---
 up:: [[020 MOC Mathematics]]
-
 ## Tópicos
-- [[Entropia]]
-- [[Informação Mútua]]
+- [[Entropy]]
+- [[Mutual Information]]
+- [[Maximum Entropy Method]]

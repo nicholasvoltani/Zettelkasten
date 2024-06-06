@@ -2,6 +2,7 @@
 date: 2022-07-30
 tags:
   - transient
+  - mini-essay
 ---
 # 202207301525 Sobre a problemática de "lixo no lixo"
 A problemática de "lixo no lixo, não no chão" me parece uma falsa problemática: pressupõe o lixo como algo "trivial, comum", e focaliza a ação reparadora dessa problemática na **interação com o objeto**. 

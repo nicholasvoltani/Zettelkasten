@@ -2,6 +2,7 @@
 date: 2021-08-23
 tags:
   - transient
+  - to-be-elaborated
 draft: 'true'
 ---
 # Operadores Cognitivos de Pensamento Complexo, segundo Edgar Morin

@@ -24,4 +24,4 @@ Tal trabalho, quando deixado por si só, restringe-se a um mero "ato de inventar
 ### References
 - MALINOWSKI, Bronislaw. [1922] 2018. “Introdução: tema, método e objetivo desta pesquisa” (p. 55-84) e “Capítulo III: características essenciais do Kula” (p. 149- 175). In: **Argonautas do Pacífico Ocidental**. São Paulo: Editora Ubu.
 
-[^1]: Vide a crítica de Gramsci à sociologia do século XIX.
+[^1]: Vide a crítica de Gramsci à sociologia do século XIX, cf [[Sobre a Filosofia da Práxis não ser uma Sociologia, segundo Gramsci (Monografia)]].

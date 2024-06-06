@@ -11,7 +11,7 @@ tags:
 
 ## As partes da jornada de trabalho
 <!-- https://q.uiver.app/?q=WzAsMyxbMCwwLCJhIl0sWzMsMCwiYiJdLFs3LDAsImMiXSxbMCwxLCJ0X24iLDAseyJzdHlsZSI6eyJoZWFkIjp7Im5hbWUiOiJub25lIn19fV0sWzEsMiwidF9lIiwwLHsic3R5bGUiOnsiaGVhZCI6eyJuYW1lIjoibm9uZSJ9fX1dXQ== --> <iframe class="quiver-embed" src="https://q.uiver.app/?q=WzAsMyxbMCwwLCJhIl0sWzMsMCwiYiJdLFs3LDAsImMiXSxbMCwxLCJ0X24iLDAseyJzdHlsZSI6eyJoZWFkIjp7Im5hbWUiOiJub25lIn19fV0sWzEsMiwidF9lIiwwLHsic3R5bGUiOnsiaGVhZCI6eyJuYW1lIjoibm9uZSJ9fX1dXQ==&embed" width="600" height="176" style="border-radius: 8px; border: none;"></iframe>
-onde $t_n$ é o [[Tempo Necessário de Trabalho|tempo necessário]] para ressarcir o [[Valor da força de trabalho]]
+onde $t_n$ é o [[Tempo de Trabalho Socialmente Necessário|tempo necessário]] para ressarcir o [[Valor da força de trabalho]]
 e $t_e$ é o [[Tempo Excedente de Trabalho|tempo excedente]], no qual se produz mais-valor.
 
 Portanto, o segmento $ab$ **não é uma grandeza fixa** (é uma grandeza **dada por condições históricas-sociais-culturais-biológicas**), podendo variar com

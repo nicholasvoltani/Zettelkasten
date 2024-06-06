@@ -4,7 +4,7 @@ tags:
   - physics
 aliases:
 ---
-up:: [[033 MOC Relativity]]
+up:: [[032 MOC Relativity]]
 
 A Lorentz Boost is a linear transformation of the type
 $$

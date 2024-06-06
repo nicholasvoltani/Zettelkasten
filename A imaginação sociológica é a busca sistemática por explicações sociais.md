@@ -2,6 +2,7 @@
 date: 2023-05-04
 tags:
   - evergreen
+  - mini-essay
 ---
 up:: [[Imaginação Sociológica]]
 

@@ -2,6 +2,7 @@
 date: 2023-05-03
 tags:
   - evergreen
+  - mini-essay
 ---
 up:: [[Etapas do trabalho de campo malinowskiano]]
 

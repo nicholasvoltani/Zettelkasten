@@ -6,7 +6,7 @@ tags:
 # 0x0 MOC Fuvest 2022
 
 ## Parent MOC
-- [[000 MOC Home]]
+- [[index]]
 
 ## Tópicos
 - [[0x2 MOC História]]

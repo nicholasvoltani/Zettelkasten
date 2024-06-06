@@ -1,7 +1,7 @@
 ---
 date: 2023-05-13
 tags:
-  - transient
+  - to-be-elaborated
 ---
 up:: [[0x4a1 MOC Sociologia I]]
 

@@ -4,7 +4,7 @@ tags:
   - marxism
 draft: 'true'
 ---
-up:: [[Sobre minha saída do Ecoar (versão 2)]]
+up:: [[Sobre minha saída do Ecoar]]
 
 # Posfácio: Cinco meses depois...
 > "Falar é agir; uma coisa nomeada não é mais inteiramente a mesma, perdeu a sua inocência. Nomeando a conduta do indivíduo, nós a revelamos a ele; ele se vê. E como ao mesmo tempo a nomeamos para todos os outros, no momento em que ele se *vê*, sabe que está *sendo visto*; seu gesto furtivo, que dele passava despercebido, passa a existir enormemente, a existir para todos (...). 

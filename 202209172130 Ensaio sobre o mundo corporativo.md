@@ -1,7 +1,7 @@
 ---
 date: 2022-09-17
 tags:
-  - transient
+  - to-be-elaborated
 draft: 'true'
 ---
 # 202209172130 Sobre o mundo corporativo

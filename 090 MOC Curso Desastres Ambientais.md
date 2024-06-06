@@ -4,7 +4,7 @@ tags:
   - moc
 draft: 'true'
 ---
-up:: [[000 MOC Home]]
+up:: [[index]]
 
 ## Módulos
 0. [[202201291507 Curso PSOL Painel de Abertura]]

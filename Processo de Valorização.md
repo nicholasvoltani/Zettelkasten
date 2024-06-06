@@ -1,7 +1,7 @@
 ---
 date: 2022-03-01
 tags:
-  - transient
+  - to-be-elaborated
   - marxism
 ---
 # Processo de Valorização

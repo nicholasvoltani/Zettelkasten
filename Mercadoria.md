@@ -4,20 +4,16 @@ tags:
   - evergreen
   - marxism
 ---
-# Definição de Mercadoria, segundo Marx
-A mercadoria nada mais é que um objeto externo que **satisfaz necessidades humanas** tanto "*do estômago quanto da imaginação*", tanto **direta** (e.g. meio de subsistência) quanto **indiretamente** (e.g. meio de produção). 
 
-## Decomposição em *valor de uso* e *valor \[de troca\]*
-> "Para se tornar mercadoria, é preciso que o produto, por meio da **troca**, seja transferido a **outrem**, **a quem vai servir** como valor de uso" (Nota de Rodapé de Engels, na 4ª Edição d'O Capital)
+up:: [[011a MOC Capital I]]
 
-Toda mercadoria possui tanto um [[Valor de Uso|valor de uso]] (ou seja, sua utilização específica) quanto um [[Valor de Troca|valor de troca]] (para ser trocada por outras mercadorias). Ou seja, embora toda mercadoria sirva para a satisfação de necessidades humanas, nem toda coisa que satisfaz necessidades humanas pode ser considerada mercadoria.
+> "Um produto que não seja destinado à troca possui somente valor de uso; aquele destinado à troca, por sua vez, reveste-se de valor, de modo que nele convivem as duas determinações: valor de uso e valor." (GRESPAN, p. 34)
 
-Podem existir valores de uso que não sejam valor: valores de uso que são produzidos para uso próprio, **invés de para o mercado**! 
-> "Quem, por meio de seu produto, satisfaz **sua própria necessidade**, cria certamente valor de uso, mas não **mercadoria**." (Livro I ─ O Capital, p. 119)
+A mercadoria nada mais é que um objeto externo que *satisfaz necessidades humanas* tanto "*do estômago quanto da imaginação*", tanto direta (e.g. meio de subsistência) quanto indiretamente (e.g. meio de produção). 
 
-## Dialética entre valor de uso e valor
-Porém, não podem existir valor sem um valor de uso, pois se tal coisa for inútil, também o é tal trabalho que a criou, e portanto nem é considerado como "trabalho". Daqui já se entrevê a [[Hegel ─ Dialética|dialética]] entre valor de uso e valor, que redundará na dialética-mor entre força de trabalho e capital! 
+Toda mercadoria possui tanto um [[Valor de Uso|valor de uso]] (ou seja, sua utilização específica) quanto um [[Valor de Troca|valor de troca]] (mediante comparação com outras mercadorias). Como [[Todo valor é um valor de uso, mas nem todo valor de uso é um valor]], embora toda mercadoria sirva para a satisfação de necessidades humanas (i.e. é valor de uso), nem toda coisa que satisfaz necessidades humanas pode ser considerada mercadoria: somente o é **quando ela é criada para ser trocada**.
 
 ---
 ### References
 - MARX, Karl. **O capital-Livro 1: Crítica da economia política. Livro 1: O processo de produção do capital**. Boitempo Editorial, 2013.
+- GRESPAN, J. **Marx: uma introdução**. Boitempo Editorial, 2021.

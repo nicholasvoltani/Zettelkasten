@@ -1,8 +1,8 @@
 ---
-Date: "{{date:YYYY-MM-DD}}"
-tags: 
+date: "{{date:YYYY-MM-DD}}"
+tags:
   - evergreen
-aliases: 
+aliases:
 ---
 
 up:: 

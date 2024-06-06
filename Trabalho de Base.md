@@ -1,7 +1,7 @@
 ---
 date: 2022-02-26
 tags:
-  - transient
+  - to-be-elaborated
   - marxism
   - education 
 ---

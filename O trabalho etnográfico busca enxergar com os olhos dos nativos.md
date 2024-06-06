@@ -2,6 +2,7 @@
 date: 2023-05-03
 tags:
   - evergreen
+  - mini-essay
 ---
 up:: [[Trabalho de Campo Etnográfico]]
 

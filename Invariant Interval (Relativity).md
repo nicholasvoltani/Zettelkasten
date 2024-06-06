@@ -5,7 +5,7 @@ tags:
 aliases:
   - Invariant Interval
 ---
-up:: [[033 MOC Relativity]]
+up:: [[032 MOC Relativity]]
 
 Given a [[Minkowski Metric]] $g_{\mu\nu}$, a [[4-Vector]] $x^\mu$'s *(squared) invariant interval*[^1] is defined as
 $$

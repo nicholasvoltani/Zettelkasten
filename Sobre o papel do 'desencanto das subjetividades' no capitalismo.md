@@ -1,7 +1,8 @@
 ---
 date: 2022-07-30
 tags:
-  - transient
+  - to-be-elaborated
+  - mini-essay
 ---
 # 202207301712 Sobre o papel do "desencanto das subjetividades" no capitalismo
 Não me parece que seja a motivação primeira do capitalismo frente à subjetividade humana ─afinal, seu objetivo final é a obtenção do mais-valor─, mas penso que uma "consequência útil" do capitalismo é a do *desencanto das subjetividades*: similar à noção de "*[[Realismo Capitalista]]*", em que "é mais simples ver o fim do mundo que o fim do capitalismo" ─ou seja, em particular a destruição do meio ambiente que vem junto ao avanço capitalista é visto como algo inexorável─, advém uma sensação de "desencanto" (*disenchantment*) pelo meio ambiente que nos circunda, em particular nas cidades. Os rios são sujos e fétidos; as gramas altas são vistas como desleixo. A natureza urbana é vista como um aspecto incriminador da humanidade[^1], e, portanto, torna-se uma *sore view*. 

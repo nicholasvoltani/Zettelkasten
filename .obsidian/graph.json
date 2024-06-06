@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "svg",
+  "collapse-filter": true,
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -74,6 +74,6 @@
   "repelStrength": 10.5885716619695,
   "linkStrength": 0.728097046930523,
   "linkDistance": 135,
-  "scale": 0.1792130740030172,
+  "scale": 0.15161146521123506,
   "close": false
 }

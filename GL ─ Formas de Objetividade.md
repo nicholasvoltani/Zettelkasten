@@ -1,7 +1,7 @@
 ---
 date: 2021-08-29
 tags:
-  - transient
+  - to-be-elaborated
   - marxism
 ---
 # Formas de Objetividade da realidade

@@ -1,7 +1,7 @@
 ---
 date: 2021-08-09
 tags:
-  - transient
+  - to-be-elaborated
   - marxism
 ---
 # O caráter duplo do trabalho, segundo Marx

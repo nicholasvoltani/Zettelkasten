@@ -1,7 +1,7 @@
 ---
 date: 2021-08-26
 tags:
-  - transient
+  - to-be-elaborated
   - marxism
 draft: 'true'
 ---

@@ -1,7 +1,7 @@
 ---
 date: 2022-06-12
 tags:
-  - transient
+  - to-be-elaborated
 draft: 'true'
 ---
 O [[Agronegócio]] não se trata somente sobre uma maior inovação na produção agrícola através da sinergia maior entre "produtores rurais" e "gestão empresarial"/capital.

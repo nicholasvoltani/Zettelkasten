@@ -1,7 +1,7 @@
 ---
 date: 2021-06-20
 tags:
-  - transient
+  - to-be-elaborated
   - marxism
 ---
 # Resultado do desenvolvimento das forças produtivas

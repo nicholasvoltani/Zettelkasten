@@ -1,7 +1,7 @@
 ---
 date: 2022-06-12
 tags:
-  - transient
+  - to-be-elaborated
 ---
 # 202206121446 - Primary agribusiness triaggregate, ou "tripé do *agribusiness*"
 Considerado "uma espécie de tripé primário do agronegócio":

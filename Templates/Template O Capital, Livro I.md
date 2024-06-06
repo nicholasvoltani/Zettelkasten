@@ -1,6 +1,6 @@
 ---
-Date: "{{date:YYYY-MM-DD}}"
-tags: 
+date: "{{date:YYYY-MM-DD}}"
+tags:
   - marxism
 ---
 up:: 
@@ -8,4 +8,4 @@ up::
 
 ---
 ### Referências
-- **O Capital, Livro I**, Karl Marx, Ed. Boitempo.
+- MARX, Karl. **O Capital-Livro 1: Crítica da economia política. Livro 1: O processo de produção do capital**. Boitempo Editorial, 2013.

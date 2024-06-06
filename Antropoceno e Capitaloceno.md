@@ -1,7 +1,7 @@
 ---
 date: 2022-01-29
 tags:
-  - transient
+  - to-be-elaborated
   - ambiental
 ---
 # Sobre a noção de Antropoceno e Capitaloceno

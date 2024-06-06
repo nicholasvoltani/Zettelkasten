@@ -3,6 +3,7 @@ date: 2022-06-19
 tags:
   - literature
   - ambiental
+  - to-be-elaborated
 draft: 'true'
 ---
 # 202206191055 - 10 commandments of Type III Ecosystems

@@ -1,5 +1,5 @@
 ---
-Date: " 2024-05-11"
+date: " 2024-05-11"
 tags:
   - mini-essay
 aliases: 
@@ -13,7 +13,7 @@ up:: [[Jean-Paul Sartre]]
 
 > "... [o leitor] é necessário, não só para desvendar o objeto (isto é, para fazer com que *haja* um objeto), mas também para que esse objeto *seja* em termos absolutos (isto é , para produzi-lo)." (Sartre, p. 37)
 
-Para engajar-se em uma leitura, pressupõe-se que [[O autor deve ter algo a dizer em sua obra]], isto é, que o tempo e esforço que o leitor levará nessa empreitada "vale a pena". 
+Para engajar-se em uma leitura, pressupõe-se que seu autor tenha algo a dizer através de sua obra, isto é, que o tempo e esforço que o leitor levará na empreitada de interpretar esta obra "vale a pena". 
 
 Quando um leitor engaja-se em uma leitura, o faz como quem decifra um enigma: ela mostra-se como algo que esconde-se por detrás das folhagens de suas palavras imediatas, algo do qual "cada frase será apenas uma função parcial: o 'tema', o 'assunto', ou o 'sentido'"[^1] da obra lida. 
 

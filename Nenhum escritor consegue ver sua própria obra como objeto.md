@@ -1,5 +1,5 @@
 ---
-Date: " 2024-05-11"
+date: " 2024-05-11"
 tags:
   - mini-essay
 aliases: 

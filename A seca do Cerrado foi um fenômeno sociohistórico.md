@@ -2,6 +2,7 @@
 date: 2022-11-05
 tags:
   - evergreen
+  - mini-essay
 ---
 up:: [[Caatinga]]
 > "O que o boi nos rebanhos enormes não comia era rapidamente arrancado para fazer lenha ou forragem pelos colonos. A rede infinita de caminhos do gado sulcados no solo estéril e friável acelerou a erosão. (...) Ficou evidente para os próprios sertanejos [do século XVIII e XIX], bem como para eventuais visitantes sertanejos, que estavam desertificando partes do Sertão e provavelmente também alterando seu clima." (Mike Davis, "Holocaustos Coloniais")
@@ -17,5 +18,5 @@ Em particular no século XVIII, durante o *gold-rush* brasileiro em Minas Gerais
 
 ---
 ### Referências
-- https://jacobin.com.br/2022/10/mike-davis-e-os-sertoes-brasileiros/
+- [Mike Davis e os sertões brasileiros - Jacobin Brasil](https://jacobin.com.br/2022/10/mike-davis-e-os-sertoes-brasileiros/)
 - *As Veias Abertas da América Latina*, Eduardo Galeano. L&PM Pocket.

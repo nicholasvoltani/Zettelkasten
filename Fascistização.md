@@ -1,7 +1,7 @@
 ---
 date: 2023-03-03
 tags:
-  - transient
+  - to-be-elaborated
   - marxism
 ---
 up:: 

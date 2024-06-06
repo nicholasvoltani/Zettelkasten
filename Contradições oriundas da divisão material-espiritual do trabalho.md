@@ -1,7 +1,7 @@
 ---
 date: 2021-06-13
 tags:
-  - transient
+  - to-be-elaborated
   - marxism
 ---
 # Contradições oriundas da divisão do trabalho material e espiritual, segundo Marx e Engels

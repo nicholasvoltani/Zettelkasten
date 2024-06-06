@@ -2,7 +2,8 @@
 date: 2021-08-10
 tags:
   - marxism
-  - transient
+  - to-be-elaborated
+  - mini-essay
 draft: 'true'
 ---
 # Como pode ter surgido o mito da alquimia

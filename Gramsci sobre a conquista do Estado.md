@@ -2,7 +2,7 @@
 date: 2022-07-06
 tags:
   - marxism
-  - transient
+  - to-be-elaborated
 draft: 'true'
 ---
 # 202207061334 Gramsci sobre a conquista do Estado

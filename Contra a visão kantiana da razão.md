@@ -1,7 +1,7 @@
 ---
 date: 2022-05-15
 tags:
-  - transient
+  - to-be-elaborated
 draft: 'true'
 ---
 # 202205151850 - Causalidade: contra a visão kantiana da razão

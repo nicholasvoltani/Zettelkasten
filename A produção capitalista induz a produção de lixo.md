@@ -4,6 +4,7 @@ tags:
   - evergreen
   - marxism
   - ambiental
+  - mini-essay
 ---
 up:: 
 

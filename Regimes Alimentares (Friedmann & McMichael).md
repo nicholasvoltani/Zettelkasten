@@ -1,7 +1,7 @@
 ---
 date: 2022-06-18
 tags:
-  - transient
+  - to-be-elaborated
 ---
 Harriet Friedmann e Philip McMichael propõem, em 1989, o termo *food regime* (regimes alimentares) para determinados panoramas de produção alimentar:
 

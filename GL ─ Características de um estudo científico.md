@@ -1,7 +1,7 @@
 ---
 date: 2021-09-28
 tags:
-  - transient
+  - to-be-elaborated
   - marxism
 ---
 # Características de um estudo científico

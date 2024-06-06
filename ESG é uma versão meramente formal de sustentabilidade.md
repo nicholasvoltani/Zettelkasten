@@ -1,7 +1,7 @@
 ---
 date: 2022-12-29
 tags:
-  - transient
+  - mini-essay
   - ambiental
 ---
 ESG é uma versão meramente formal de lidar com as questões ambientais (e sociais) que afligem a sociedade atual, vistas como meros problemas a serem consertados (dentro da ordem), invés de disrupções induzidas pelo próprio sistema (vide [[Ruptura Metabólica]]). Arrancam-se (ou finge-se arrancar) as ervas daninhas, sem questionar por que elas estão trazendo problemas.
@@ -17,4 +17,5 @@ Quando visto na ótica do meio corporativo ─ isso quando os princípios ESG s�
 ### Referências
 - Uma falastrona do ESG, que não faz ideia do que fala.
 
-[^1]: Até que ponto pode até mesmo ser *weaponized* por empresas menores como uma maneira de restringir os negócios de seus maiores competidores?
+[^1]: Até que ponto pode até mesmo ser *weaponized* por empresas menores como uma maneira de restringir os negócios de seus maiores competidores? 
+240520: Lembra a discussão que Marx faz [[Sobre legalidade de horas extras]], em que pode ser do interesse dos próprios capitalistas de impor pagamentos de horas extras, como maneira de criar obstáculos à competição.

@@ -4,7 +4,7 @@ tags:
   - physics
 aliases:
 ---
-up:: [[033 MOC Relativity]]
+up:: [[032 MOC Relativity]]
 
 A 4-vector $x^\mu$ is a vector in Minkowski Space which transforms via a [[Lorentz Transformation]]
 $$

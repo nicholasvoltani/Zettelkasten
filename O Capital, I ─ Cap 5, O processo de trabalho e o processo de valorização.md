@@ -63,7 +63,7 @@ Portanto, o valor da [[Mercadoria]] produzida pela Força de Trabalho tem seu va
 ## Transformação do dinheiro em [[Capital]]
 > "Esse ciclo inteiro, a transformação [do] dinheiro em capital, ocorre no **interior** da esfera da circulação, porque é determinado pela **compra da força de trabalho** no mercado. Mas ocorre **fora** da circulação, pois esta [a esfera da circulação] apenas dá início ao processo de valorização, que tem lugar na esfera da **produção**." (p. 271)
 
-## O que é caracterizado como [[Trabalho Socialmente Necessário]]
+## O que é caracterizado como [[Tempo de Trabalho Socialmente Necessário]]
 > "...o trabalho só importa **na medida em que o tempo gasto** na produção do valor de uso [mercadorias] é **socialmente necessário**, o que implica diversos fatores. 
 > A força de trabalho tem de **funcionar sob condições normais**. (...) Contudo, o caráter normal dos fatores **objetivos** de trabalho não depende do trabalhador, **e sim do capitalista** [que é o fornecedor dos meios de produção empregados]. 
 > Uma outra condição é o caráter normal **da própria força de trabalho**. No ramo de produção em que é empregada, ela tem de **possuir o padrão *médio* de habilidade, eficiência e celeridade**. (...) Tal força tem de ser aplicada com a **quantidade média de esforço** e com o **grau de intensidade socialmente usual**, e o capitalista controla o trabalhador para que este **não desperdice nenhum segundo de trabalho**. Ele comprou a força de trabalho por um período determinado, e insiste em obter o que é seu. Não quer ser furtado.

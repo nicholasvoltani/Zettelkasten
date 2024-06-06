@@ -1,11 +1,11 @@
 ---
 date: 2022-10-06
 tags:
-  - transient
+  - to-be-elaborated
 ---
 # Desenvolvimento Sustentável
-> "*Humanity has the ability to make development sustainable to ensure that it meets the needs of the present without compromising the ability of future generations to meet their own needs.
-> The concept of sustainable development does imply limits ─ not absolute limits but limitations imposed by the **present state of technology and social organization on environmental resources** and by the ability of the biosphere to **absorb the effects of human technology**.*" (p. 16)
+> "Humanity has the ability to make development sustainable to ensure that it meets the needs of the present without compromising the ability of future generations to meet their own needs.
+> The concept of sustainable development does imply limits ─ not absolute limits but limitations imposed by the **present state of technology and social organization on environmental resources** and by the ability of the biosphere to **absorb the effects of human technology**." (p. 16)
 
 Conceito mencionado pela primeira vez no [[Relatório Brundtland]], é uma conciliação entre desenvolvimento econômico e preservação ambiental.
 

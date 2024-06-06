@@ -2,7 +2,7 @@
 date: 2021-06-02
 Source:
 tags:
-  - transient
+  - to-be-elaborated
   - marxism
 ---
 # O surgimento da consciência (e linguagem) como produto social, segundo Marx e Engels

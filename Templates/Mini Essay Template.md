@@ -1,5 +1,5 @@
 ---
-Date: "{{date:YYYY-MM-DD}}"
+date: "{{date:YYYY-MM-DD}}"
 tags:
   - mini-essay
 aliases:

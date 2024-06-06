@@ -1,9 +1,10 @@
 ---
 date: 2021-06-05
 tags:
-  - transient
+  - to-be-elaborated
+  - mini-essay
 ---
-N'O Livro de Sofia, temos que o autor diz que Kant acreditava que não podemos conhecer absolutamente a natureza *em si*, mas que podemos conhecê-la *através de nossa razão* (por meio de "modelos").
+N'O Mundo de Sofia, temos que o autor diz que Kant acreditava que não podemos conhecer absolutamente a natureza *em si*, mas que podemos conhecê-la *através de nossa razão* (por meio de "modelos").
 
 Ademais, diz que podemos **conhecer absolutamente a validade** destes modos de ver o mundo. Ou seja, podemos conhecer o mundo com mais e mais "nitidez", mas essa nitidez será sempre no tocante **aos nossos modelos mentais**. Portanto, [[A lógica é uma extensão de nossa visão de mundo]].
 
@@ -14,6 +15,6 @@ Há aqui também a possibilidade de que, através de "honestidade intelectual" (
 
 ---
 ### References
-- 
+- O Mundo de Sofia
 
 [^1]: Aqui pressuponho [[Materialismo Histórico-Dialético]]: a veracidade de nossos modelos de mundo são comprováveis mediante sua comparação com a realidade.

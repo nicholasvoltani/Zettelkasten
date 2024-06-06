@@ -2,7 +2,8 @@
 date: 2021-06-21
 tags:
   - marxism
-  - transient
+  - to-be-elaborated
+  - mini-essay
 ---
 # Como o capitalismo transforma seus obstáculos em material para sua própria formação
 > "Capital colonizes the very sites of **inhibition** [to itself], or creates new commodity circuits to **go around them**." (KOVEL, Joel. The enemy of nature.)
