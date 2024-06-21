@@ -2,6 +2,7 @@
 date: 2022-06-12
 tags:
   - transient
+  - to-be-elaborated 
 ---
 # 202206121808 - Sobre a criação de trabalho pela tecnologia
 > "Ainda que a tecnologia crie novos postos de trabalho, novas funções em novos elos dentro da cadeia de valor, a gente não pode esquecer que ou ela **cria trabalho altamente especializado** ─ com um número **menor** de postos ─ ou ela **cria trabalho altamente precarizado**" (Fabiana Scoleso)

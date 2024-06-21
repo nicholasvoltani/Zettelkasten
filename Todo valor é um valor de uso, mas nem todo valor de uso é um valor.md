@@ -12,14 +12,14 @@ Temos que é verdade que
 $$
 \text{Valor}\implies \text{Valor de Uso}
 $$
-Algo que é [[valor]] é algo que possui uma quantidade de trabalho abstrato; portanto, como é algo *material*, é oriundo de algum trabalho útil particular[^1]; possui, portanto, [[valor de uso]].
+Algo que é [[Valor]] é algo que possui uma quantidade de trabalho abstrato; portanto, como é algo *material*, é oriundo de algum trabalho útil particular[^1]; possui, portanto, [[Valor de Uso]].
 
 
 Equivalentemente, por contrapositiva, temos[^2]
 $$
 \lnot\text{Valor de Uso} \implies \lnot\text{Valor}
 $$
-Ou seja, aquilo que não é [[valor de uso]] não pode ser [[valor]]: por não ser valor de uso, não é composto de trabalho útil e, portanto, não pode ser composto de nenhum trabalho abstrato; portanto, não possui valor.
+Ou seja, aquilo que não é [[Valor de Uso]] não pode ser [[Valor]]: por não ser valor de uso, não é composto de trabalho útil e, portanto, não pode ser composto de nenhum trabalho abstrato; portanto, não possui valor.
 
 A linha lógica inteira dos argumentos acima é
 $$

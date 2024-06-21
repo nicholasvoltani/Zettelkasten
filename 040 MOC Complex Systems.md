@@ -14,6 +14,7 @@ Related MOCs:: [[024 MOC Information Theory]]
 # Graph Theory Measures
 ## Descriptive Measures
 - [[Adjacency Matrix]]
+	- [[Supra-Adjacency Matrix]]
 - [[Laplacian Matrix]]
 
 ## Centrality Measures

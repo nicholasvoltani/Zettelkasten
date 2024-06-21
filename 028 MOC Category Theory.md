@@ -5,6 +5,8 @@ tags:
 ---
 up:: [[020 MOC Mathematics]]
 
+Category Theory has been half-jokingly called "abstract nonsense" for quite a while now. It can be seen less harshly when talking about its role in **abstraction**, which is undoubtedly what Mathematics is all about, in the grand scheme of things. A great video that elucidates this is [The Mathematician's Weapon | Category Theory and Why We Care 1.0](https://www.youtube.com/watch?v=DrldYpmwN5s), from channel Eyesomorphic.
+
 # Topics
 - [[Category]]
 - [[Hom-Set]]

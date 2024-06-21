@@ -62,12 +62,50 @@
             }
           },
           {
+            "id": "a607bedfdc0e056a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "now.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "b9b988f7576816c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "011a MOC Capital I.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db1c243d30043ad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Valor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "138d352a0b30a364",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O valor de uma mercadoria é um fenômeno emergente.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -176,7 +214,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Valor Equivalente.md",
+                "file": "now.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Valor Equivalente.md",
+                "file": "now.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,17 +301,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f9f879f7c7661730",
+  "active": "a607bedfdc0e056a",
   "lastOpenFiles": [
-    "Valor Relativo.md",
-    "Valor Equivalente.md",
-    "011a MOC Capital I.md",
-    "O sujeito baconiano busca ser eficiente em nome da própria eficiência.md",
     "index.md",
+    "now.md",
+    "Valor Relativo.md",
+    "O valor de uma mercadoria é um fenômeno emergente.md",
+    "Valor.md",
+    "011a MOC Capital I.md",
+    "Unlinked Files.md",
+    "Valor Equivalente.md",
+    "Sobre a criação de trabalho pela tecnologia.md",
+    "Todo valor é um valor de uso, mas nem todo valor de uso é um valor.md",
+    "028 MOC Category Theory.md",
+    "Sobre minha saída do Ecoar Juventude Ecossocialista.md",
+    "040 MOC Complex Systems.md",
+    "O sujeito baconiano busca ser eficiente em nome da própria eficiência.md",
     "Design for Emergence.md",
     "202206191055 - 10 commandments of Type III Ecosystems.md",
     "A filosofia moderna submete a razão à fé na eficiência.md",
-    "Unlinked Files.md",
     "Attachments/diagram-20240605 1.svg",
     "Attachments/diagram-20240605.svg",
     "Valor de Uso.md",
@@ -282,17 +328,9 @@
     "O tempo do conhecimento não é o mesmo tempo da informação.md",
     "Descobrir valores de uso de algum objeto é um ato histórico.md",
     "Valor de Troca.md",
-    "Valor.md",
-    "Todo valor é um valor de uso, mas nem todo valor de uso é um valor.md",
     "Tempo de Trabalho Socialmente Necessário.md",
     "Mercadoria.md",
     "Templates/Template O Capital, Livro I.md",
-    "Templates/Marxism Note Template.md",
-    "Templates/Marxism Note Template Excalidraw.md",
-    "O Capital, I ─ Cap 4, Transformação do dinheiro em capital.md",
-    "Average Nearest Neighbors' Degree.md",
-    "Templates/Complexity Template.md",
-    "040 MOC Complex Systems.md",
     "Attachments/ed6c1580-9abd-4e84-933a-ee8e8831156d_2032x1594.webp",
     "Attachments/ee85e3a2-497b-4251-8bb3-609ae129897f_2032x1594.webp",
     "Attachments/Pasted image 20240527143845.png",
